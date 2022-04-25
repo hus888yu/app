@@ -1,0 +1,315 @@
+1 網路流行音樂電台,https://git.io/JgkA6
+2 西洋流行音樂電台,https://git.io/JgkAy
+3 猪哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+4 公視台語台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+5 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+6 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+7 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+8 台視,rtmp://59.124.75.138/sat/tv071
+9 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+10 中視,rtmp://59.124.75.138/sat/tv091
+11 霹靂台灣台,p5p://fccs.123178.top:9906/61494391000129760d48cc98263e39d1
+12 華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+13 公視
+14 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+18 國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
+19 Discovery頻道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
+20 TLC 旅遊生活頻道,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
+21 動物星球頻道,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+22 CN卡通頻道,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+23 尼克兒童頻道
+24 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+25 東森幼幼台,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
+26 緯來綜合台,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
+27 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
+28 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+29 三立台灣台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+30 三立都會台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+31 衛視中文台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
+32 東森綜合台,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
+33 東森超視,rtmp://219.80.97.35/sat/tv331
+34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+36 中天綜合台,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
+37 東風衛視台,http://61.221.81.93:8088/hls/68/810/ch31.m3u8
+38 年代MUCH台,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+39 中天娛樂台,http://60.250.91.85:8585/.m3u8
+40 東森戲劇台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+41 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+42 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+43 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+44 高點電視台
+45 JET 綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+46 東森購物3台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
+47 東森購物1台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+48 momo購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+49 壹電視新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+50 年代新聞,http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+51 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+52 華視新聞資訊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+53 民視新聞台,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
+54 三立新聞,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+56 TVBS,http://50.7.218.42:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+57 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+58 非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+59 viva美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+60 東森購物5台
+61 衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+62 東森電影台,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
+63 緯來電影台,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
+64 LS龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+65 HBO,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+66 東森洋片台
+67 AXN,http://61.221.81.93:8088/hls/71/813/ch43.m3u8
+68 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+69 STAR Movies Gold,http://61.221.81.93:8088/hls/62/804/ch08.m3u8
+70 CINEMAX,http://61.221.81.93:8088/hls/71/813/ch42.m3u8
+71 緯來育樂台,rtmp://219.80.97.35/sat/tv701
+72 緯來體育台,rtmp://59.124.75.138/sat/tv721
+73 ELEVEN SPORTS 1,rtmp://59.124.75.138/sat/tv731
+74 ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
+75 MOMO綜合台,rtmp://59.124.75.138/sat/tv761
+76 博斯運動一台
+77 緯來日本台,p5p://45.92.126.18:9906/6044a02c000bf3c30224916a373cdb2c.ts
+78 國興衛視,http://59.125.101.187:8775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+79 STAR World,http://61.221.81.93:8088/hls/61/803/ch02.m3u8
+80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+81 ANIMAX,http://61.221.81.93:8088/hls/70/812/ch39.m3u8
+82 信吉電視台
+83 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+86 Z頻道
+87 冠軍電視台	
+88 八大娛樂台
+89 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
+90 非凡商業台,http://220.134.196.147:8907/http/116.50.42.18:8081/hls/74/816/ch56.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+91 幸福空間居家台,https://git.io/JgYYF
+92 運通財經台
+93 全球財經台	
+94 誠心電視台
+95 中部人文台
+96 樂視台
+97 台灣綜合台
+98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+99 威達超舜生活台
+100 台灣藝術台
+101 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+102 華藏電視台
+103 十方法界電視台	
+104 世界電視台	
+105 佛衛慈悲台
+106 信大電視台
+107 全大電視台
+108 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+109 正德電視台,http://61.221.81.93:8088/hls/64/806/ch16.m3u8
+110 天良綜合台
+111 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+112 富立電視台
+113 華視教育體育文化台	
+114 冠軍夢想台
+115 新天地民俗台
+116 三聖電視台
+117 華藝台灣台
+118 天美麗電視台
+119 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+120 雙子衛視
+121 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
+122 NHK,http://61.221.81.93:8088/hls/62/804/ch06.m3u8
+123 國會頻道1台
+124 國會頻道2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
+125 viva美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+126 高點育樂台
+127 滾動力 rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+128 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+129 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+130 唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+131 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+132 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+133 Ci罪案偵緝,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+134 中視經典台,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+135 龍華戲劇台,http://50.7.218.42:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+136 龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+137 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150 時尚運動Ｘ,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+151 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+152 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+153 中視菁采台
+154 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+155 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+156 台視財經台
+157 台視綜合台
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168 狼谷育樂台
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200 公視3台
+201
+202 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
+203 CBeebies
+204 Boomerang卡通台,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+205 達文西頻道	
+206 Discovery Asia,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
+207 BBC Earth
+208 國家地理國際頻道,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+209 國家地理野生高畫質頻道
+210 Discovery科學頻道,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+211 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+212 DREAMWORKS
+213 星衛娛樂台
+214 緯來精采台
+215 韓國娛樂台KMTV	
+216 NickJr.
+217 Warner TV,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
+218 EVE
+219 Cmusic
+220 Food Network美食台頻道
+221 Travel Channel
+222 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+223 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+224 BBC Lifestyle
+225 亞洲美食頻道
+226 HGTV居家樂活頻道
+227 MTV Live
+228 TV5法式生活頻道
+229 古典音樂台,http://59.120.88.155:8000/live.mp3
+230 LOVE NATURE
+231 DMAX,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+232
+233 CATCHPLAY電影台
+234 amc最愛電影,http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=ME8E6516348865163488&ct=18392&tsum=4b378b3dce57d990375dc63fa830c9a4
+235 HBO HD頻道,http://125.227.210.37:16027/VideoInput/play.ts
+236 HBO強檔鉅獻Hits,http://50.7.218.42:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
+237 HBO原創鉅獻
+238 HBO溫馨家庭
+239 星衛HD電影台	
+240 Star Movies
+241 ROCK Entertainment	
+242 WWE,http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+243 歐洲體育台
+244 博斯高球台,http://50.7.218.42:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+245 博斯高球2台
+246 博斯無限二台
+247 博斯魅力台
+248 博斯網球台,http://50.7.218.42:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+249 博斯運動二台	
+250 博斯無限台
+251 ELTA體育1台,http://50.7.218.42:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+252
+253 ELTA體育3台,http://50.7.218.42:8278/eltasports3_twn/playlist.m3u8?tid=m92b67618b700&ct=18335&tsum=bdc6fd47d695d59eed8dd2bf22218b7f
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296		
+297 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+298 好消息2台
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310 彭博財經頻道
+311 CNBC Asia
+312 BBC世界新聞台
+313 Arirang TV,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
+314 德國之聲電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+315 法國TV5電視台,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
