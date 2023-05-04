@@ -1,0 +1,4690 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "CNN(農)",
+            "num": "00001",
+            "urllist": "mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视(農)",
+            "num": "00002",
+            "urllist": "mitv://generationnexxxt.com:19806/d0c5de227ca34210a2a3222c76e80fd4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人间卫视(農)",
+            "num": "00003",
+            "urllist": "mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台视(農)",
+            "num": "00004",
+            "urllist": "mitv://generationnexxxt.com:19806/f626fb605d794173a2ed2319abc23788"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大爱(農)",
+            "num": "00005",
+            "urllist": "mitv://generationnexxxt.com:19806/f7a978e8d6d843d7a9bdd457d5d6910c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视(農)",
+            "num": "00006",
+            "urllist": "mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "霹雳台湾台(農)",
+            "num": "00007",
+            "urllist": "mitv://generationnexxxt.com:19806/80c8f58fc21942e3ad01345739d3094f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "华视(農)",
+            "num": "00008",
+            "urllist": "mitv://generationnexxxt.com:19806/4ce3296b98794b2ca8e1f040657e327b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "公视(農)",
+            "num": "00009",
+            "urllist": "mitv://generationnexxxt.com:19806/882cb7ba11384ac2874452400d6d0020"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "好消息(農)",
+            "num": "00010",
+            "urllist": "mitv://generationnexxxt.com:19806/597bec9089c341b3a0ae964e7dc3d3a1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "原住民电视台(農)",
+            "num": "00011",
+            "urllist": "mitv://generationnexxxt.com:19806/9d6324a6b7b142f082270bb4c6cc4e6a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "客家电视台(農)",
+            "num": "00012",
+            "urllist": "mitv://generationnexxxt.com:19806/4e013b4f51924d289c248b45b4d74f58"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "国家地理频道(農)",
+            "num": "00013",
+            "urllist": "mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "探索频道(農)",
+            "num": "00014",
+            "urllist": "mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TLC旅游生活(農)",
+            "num": "00015",
+            "urllist": "mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f67"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "动物星球(農)",
+            "num": "00016",
+            "urllist": "mitv://generationnexxxt.com:19806/14fd9d119d4b4f0391652fa16930fbe2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CN卡通频道(農)",
+            "num": "00017",
+            "urllist": "mitv://generationnexxxt.com:19806/644d1cd900092e062f0d85a601dc3f82"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MOMO亲子台(農)",
+            "num": "00018",
+            "urllist": "mitv://generationnexxxt.com:19806/644d1f0f0001f7782f1626c159ce4396"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森幼幼台(農)",
+            "num": "00019",
+            "urllist": "mitv://generationnexxxt.com:19806/23305327c764422e9747ab09a6edee43"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来综合台(農)",
+            "num": "00020",
+            "urllist": "mitv://generationnexxxt.com:19806/981e6dbbc3e34265817d09731e3db241"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大第一台(農)",
+            "num": "00021",
+            "urllist": "mitv://generationnexxxt.com:19806/1217464bff6c46d180ff30cb4cff310f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大综合台(農)",
+            "num": "00022",
+            "urllist": "mitv://generationnexxxt.com:19806/7f8ed6b6d4234d93ac0b4b6b506ee360"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台湾台(農)",
+            "num": "00023",
+            "urllist": "mitv://generationnexxxt.com:19806/644a3b5f0005cbe923ccc03b21bd7a36"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立都会台(農)",
+            "num": "00024",
+            "urllist": "mitv://generationnexxxt.com:19806/f9f1b6bc8bd943f09b7a17bc481294da"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森综合台(農)",
+            "num": "00025",
+            "urllist": "mitv://generationnexxxt.com:19806/88fe82e39e1b409294c51f5b346de0e1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "超视(農)",
+            "num": "00026",
+            "urllist": "mitv://generationnexxxt.com:19806/a1a5f1b22da74d458bf6cfff8c190c6f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天综合台(農)",
+            "num": "00027",
+            "urllist": "mitv://generationnexxxt.com:19806/59eea32b3a2d49019c32b066bbbb92d0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天娱乐台(農)",
+            "num": "00028",
+            "urllist": "mitv://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森戏剧台(農)",
+            "num": "00029",
+            "urllist": "mitv://generationnexxxt.com:19806/d447dc4d5ddf4417941b271bf5da4263"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大戏剧台(農)",
+            "num": "00030",
+            "urllist": "mitv://generationnexxxt.com:19806/844bfa9150ac49c09bbae657b7545df9"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS欢乐台(農)",
+            "num": "00031",
+            "urllist": "mitv://generationnexxxt.com:19806/a821cda61eec4693bceec6cb79d88a34"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来戏剧台(農)",
+            "num": "00032",
+            "urllist": "mitv://generationnexxxt.com:19806/65109e8fc60e4ebab7a61706f46093b0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "高点综合台(農)",
+            "num": "00033",
+            "urllist": "mitv://generationnexxxt.com:19806/d05d3a06c9ec4c4fb9bdb0f9e09127bf"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "BBC World News(農)",
+            "num": "00034",
+            "urllist": "mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Al Jazeera English(農)",
+            "num": "00035",
+            "urllist": "mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CNBC(農)",
+            "num": "00036",
+            "urllist": "mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Bloomberg TV(農)",
+            "num": "00037",
+            "urllist": "mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HITS(農)",
+            "num": "00038",
+            "urllist": "mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "壹电视新闻台(農)",
+            "num": "00039",
+            "urllist": "mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "年代新闻(農)",
+            "num": "00040",
+            "urllist": "mitv://generationnexxxt.com:19806/c1ae01ebfb874789956a7d6753b14c4c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森新闻台(農)",
+            "num": "00041",
+            "urllist": "mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天新闻台(農)",
+            "num": "00042",
+            "urllist": "mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视新闻台(農)",
+            "num": "00043",
+            "urllist": "mitv://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立新闻台(農)",
+            "num": "00044",
+            "urllist": "mitv://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新闻台(農)",
+            "num": "00045",
+            "urllist": "mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS(農)",
+            "num": "00046",
+            "urllist": "mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森财经新闻台(農)",
+            "num": "00047",
+            "urllist": "mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "非凡新闻台(農)",
+            "num": "00048",
+            "urllist": "mitv://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "卫视电影台(農)",
+            "num": "00049",
+            "urllist": "mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森电影台(農)",
+            "num": "00050",
+            "urllist": "mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来电影台(農)",
+            "num": "00051",
+            "urllist": "mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙祥电影(農)",
+            "num": "00052",
+            "urllist": "mitv://generationnexxxt.com:19806/644b663d0002f2fe285c32b00e0f46ef"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HBO(農)",
+            "num": "00053",
+            "urllist": "mitv://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森洋片台(農)",
+            "num": "00054",
+            "urllist": "mitv://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "AXN(農)",
+            "num": "00055",
+            "urllist": "mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "好莱坞电影台(農)",
+            "num": "00056",
+            "urllist": "mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CINEMAX(農)",
+            "num": "00057",
+            "urllist": "mitv://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来育乐台(農)",
+            "num": "00058",
+            "urllist": "mitv://generationnexxxt.com:19806/dd458fff62614481a7e9d65da897af75"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来体育台(農)",
+            "num": "00059",
+            "urllist": "mitv://generationnexxxt.com:19806/801a9a12c10d4d04953332771aee0dba"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN体育1台(農)",
+            "num": "00060",
+            "urllist": "mitv://generationnexxxt.com:19806/61a3473768ec4860bf9c5cc9911f71d6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "JET综合台(農)",
+            "num": "00061",
+            "urllist": "mitv://generationnexxxt.com:19806/4b790bc46760452b8dd811bf9389ff73"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "国兴卫视(農)",
+            "num": "00062",
+            "urllist": "mitv://generationnexxxt.com:19806/0df4df3690d44f589ec56f0864e16a4d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "STAR World(農)",
+            "num": "00063",
+            "urllist": "mitv://generationnexxxt.com:19806/77334a5315e84cf2b964beae14b6cdbc"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Z频道(農)",
+            "num": "00064",
+            "urllist": "mitv://generationnexxxt.com:19806/2a5836bb5cae422b95e2a523e488bb24"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Animax(農)",
+            "num": "00065",
+            "urllist": "mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "尼克儿童频道(農)",
+            "num": "00066",
+            "urllist": "mitv://generationnexxxt.com:19806/73d77b0470724ad4a8dadc3854881cda"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MTV(農)",
+            "num": "00067",
+            "urllist": "mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大娱乐台(農)",
+            "num": "00068",
+            "urllist": "mitv://generationnexxxt.com:19806/58f45dfdc5c8449d94b4341a63fe9031"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立iNEWS(農)",
+            "num": "00069",
+            "urllist": "mitv://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙华偶像(農)",
+            "num": "00070",
+            "urllist": "mitv://generationnexxxt.com:19806/cbbe870376f9427790c695a7b4763ca4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Arirang(農)",
+            "num": "00071",
+            "urllist": "mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "tvN(農)",
+            "num": "00072",
+            "urllist": "mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "DW(農)",
+            "num": "00073",
+            "urllist": "mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "France24(農)",
+            "num": "00074",
+            "urllist": "mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "非凡商业台(農)",
+            "num": "00075",
+            "urllist": "mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "公视3台(農)",
+            "num": "00076",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b6000986562865dcfd18684edd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大爱2台(農)",
+            "num": "00077",
+            "urllist": "mitv://generationnexxxt.com:19806/9025759caff14553998dd713a0f66001"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTV生活英语台(農)",
+            "num": "00078",
+            "urllist": "mitv://generationnexxxt.com:19806/264eb6cb34c5497a99312ce73883a073"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖洋卡通Nice Bingo(農)",
+            "num": "00079",
+            "urllist": "mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天卡通台(農)",
+            "num": "00080",
+            "urllist": "mitv://generationnexxxt.com:19806/31373da9de144c1fbe1f505bcaa978aa"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "达文西频道(農)",
+            "num": "00081",
+            "urllist": "mitv://generationnexxxt.com:19806/beaf5c1a3d7b44e1b4a99bcc20cd8ed7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Nick Jr.(農)",
+            "num": "00082",
+            "urllist": "mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "国会频道1(農)",
+            "num": "00083",
+            "urllist": "mitv://generationnexxxt.com:19806/4cfc6c926b9549c7b886205726151a3c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "国会频道2(農)",
+            "num": "00084",
+            "urllist": "mitv://generationnexxxt.com:19806/3f4b0cb786764e0c942390995ed9ed44"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MTV Live(農)",
+            "num": "00085",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Mezzo Live(農)",
+            "num": "00086",
+            "urllist": "mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CLASSICA 古典乐(農)",
+            "num": "00087",
+            "urllist": "mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CMusic(農)",
+            "num": "00088",
+            "urllist": "mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "爱尔达体育1台(备)(農)",
+            "num": "00089",
+            "urllist": "mitv://generationnexxxt.com:19806/7ee39f66b9f448979335e4067812760f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "爱尔达体育2台(農)",
+            "num": "00090",
+            "urllist": "mitv://generationnexxxt.com:19806/d833228c98a04547a6005f206d71117d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TRACE Sport Stars(農)",
+            "num": "00091",
+            "urllist": "mitv://generationnexxxt.com:19806/e52cafc2a2864446ba65c2b1e787ef52"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯高球(農)",
+            "num": "00092",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b25000c685d34e2df612a7375dc"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯高球二台(農)",
+            "num": "00093",
+            "urllist": "mitv://generationnexxxt.com:19806/5469d36a29bd428bbd60342fe7db2471"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯网球台(農)",
+            "num": "00094",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b26000400c834e2e116485d6736"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯魅力网(農)",
+            "num": "00095",
+            "urllist": "mitv://generationnexxxt.com:19806/d2e51a0dea8e4698945f956bd8e13ad9"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯无限台(農)",
+            "num": "00096",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b25000559f634e2dd8c46c81a89"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯无限二台(農)",
+            "num": "00097",
+            "urllist": "mitv://generationnexxxt.com:19806/4e3ed72f4150435d90bf020a74ea1bc5"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯运动(農)",
+            "num": "00098",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b24000f31b634e2dc24008c5e76"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN体育2台(農)",
+            "num": "00099",
+            "urllist": "mitv://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "智林体育台(農)",
+            "num": "00100",
+            "urllist": "mitv://generationnexxxt.com:19806/e32d399935b14711ad1b193cd5841274"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯运动二台(農)",
+            "num": "00101",
+            "urllist": "mitv://generationnexxxt.com:19806/5faa98e5bbc442e4bd72b544651dd1be"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "OUTDOOR(農)",
+            "num": "00102",
+            "urllist": "mitv://generationnexxxt.com:19806/6057993e3b7d40ce81c274cb04e6db5a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HBO强档巨献(農)",
+            "num": "00103",
+            "urllist": "mitv://generationnexxxt.com:19806/f33628c42a3645dba83d317e70abf28c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HBO原创巨献(農)",
+            "num": "00104",
+            "urllist": "mitv://generationnexxxt.com:19806/8987f1bb3c9740e980bce7d787cfba0d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "国家地理高画质野生频道(農)",
+            "num": "00105",
+            "urllist": "mitv://generationnexxxt.com:19806/faccdb1e8d4a48c4a2eb75b6fb436c05"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "BBC Earth(農)",
+            "num": "00106",
+            "urllist": "mitv://generationnexxxt.com:19806/34f24f8ef6214f94a7e8d5981eb9cde2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Discovery Asia(農)",
+            "num": "00107",
+            "urllist": "mitv://generationnexxxt.com:19806/0cb2bcf330534b429a8e008ccdc8886c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Discovery科学频道(農)",
+            "num": "00108",
+            "urllist": "mitv://generationnexxxt.com:19806/862c9ba288c44277925b51c391df263b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "DMAX(農)",
+            "num": "00109",
+            "urllist": "mitv://generationnexxxt.com:19806/4e57d52ff07841a082749c96aa813f7b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "EVE(農)",
+            "num": "00110",
+            "urllist": "mitv://generationnexxxt.com:19806/2adb8e78858a455a84520253425057f3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "滚动力rollor(農)",
+            "num": "00111",
+            "urllist": "mitv://generationnexxxt.com:19806/136a99af59514db0994eccafd13c926f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "历史频道(農)",
+            "num": "00112",
+            "urllist": "mitv://generationnexxxt.com:19806/8641f6fb752d427db9a8df1625f88d22"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "罪案侦缉频道(農)",
+            "num": "00113",
+            "urllist": "mitv://generationnexxxt.com:19806/ac8e4a1c6d944d28a3d281d65f6892a2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "BBC Lifestyle(農)",
+            "num": "00114",
+            "urllist": "mitv://generationnexxxt.com:19806/99d72fa5a5e94df7a3d961690ee09785"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "LUXE TV(農)",
+            "num": "00115",
+            "urllist": "mitv://generationnexxxt.com:19806/c02d3bf53e8f4021947feb28aeb0c496"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Lifetime(農)",
+            "num": "00116",
+            "urllist": "mitv://generationnexxxt.com:19806/d0da12938b6545828917832ad283dfce"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "KLT-靖天国际台(農)",
+            "num": "00117",
+            "urllist": "mitv://generationnexxxt.com:19806/4c1e84b189e54aee8e1606a285eb57d9"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HGTV居家乐活频道(農)",
+            "num": "00118",
+            "urllist": "mitv://generationnexxxt.com:19806/d6ed657bb866458a91e28701a1b0bcf1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Love Nature(農)",
+            "num": "00119",
+            "urllist": "mitv://generationnexxxt.com:19806/0e5b3219870a4f79bec208ec1fbaad63"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "美食星球(農)",
+            "num": "00120",
+            "urllist": "mitv://generationnexxxt.com:19806/c8b8f19c8410441eb9e9039572c72137"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "亚洲美食频道(農)",
+            "num": "00121",
+            "urllist": "mitv://generationnexxxt.com:19806/5ae5dc61eb68407cb5dac94ce8dfca2e"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "亚洲旅游台(農)",
+            "num": "00122",
+            "urllist": "mitv://generationnexxxt.com:19806/8e7af36f23874793854226c5b64097d3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "EYE TV旅游台(農)",
+            "num": "00123",
+            "urllist": "mitv://generationnexxxt.com:19806/1f972fea45904a9caa1119860d4d4b70"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "时尚频道(農)",
+            "num": "00124",
+            "urllist": "mitv://generationnexxxt.com:19806/e87adc01be824ef19f005a76e4fce189"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "好消息2台(農)",
+            "num": "00125",
+            "urllist": "mitv://generationnexxxt.com:19806/cb76c9e88c7640338483654e54fa3feb"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立综合台(農)",
+            "num": "00126",
+            "urllist": "mitv://generationnexxxt.com:19806/88111b4d4a2b458cacbff40f21b31d7e"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天资讯台(農)",
+            "num": "00127",
+            "urllist": "mitv://generationnexxxt.com:19806/73055a21a1ca42d09f7ffd71999903bd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天综合台(農)",
+            "num": "00128",
+            "urllist": "mitv://generationnexxxt.com:19806/584a9cd055a345c0aeee443b3689a0b0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天育乐台(農)",
+            "num": "00129",
+            "urllist": "mitv://generationnexxxt.com:19806/7041763caa1a48e4bc840abd3747f33d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视经典台(農)",
+            "num": "00130",
+            "urllist": "mitv://generationnexxxt.com:19806/0a7a6c90f54b48e0878d0594d08916f6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视菁采台(農)",
+            "num": "00131",
+            "urllist": "mitv://generationnexxxt.com:19806/dc2d664758354920a5935d334a40e7e8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS精采台(農)",
+            "num": "00132",
+            "urllist": "mitv://generationnexxxt.com:19806/8f1da99629564b52ba7ebf7621218671"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "壹电视综合(農)",
+            "num": "00133",
+            "urllist": "mitv://generationnexxxt.com:19806/2b36e682b58e4ad391e9b92657353ece"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来精采(農)",
+            "num": "00134",
+            "urllist": "mitv://generationnexxxt.com:19806/494e120f435d4da6bbdd81e8e47d4d69"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ETtoday综合台(農)",
+            "num": "00135",
+            "urllist": "mitv://generationnexxxt.com:19806/87a1551a86004305b6cfd947fb0898ef"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视第一台(農)",
+            "num": "00136",
+            "urllist": "mitv://generationnexxxt.com:19806/b82e864a876e4a99adf62a0f7a797714"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视台湾台(農)",
+            "num": "00137",
+            "urllist": "mitv://generationnexxxt.com:19806/742c1ff14b4b47d49007cd12204c8483"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Nice TV靖天欢乐台(農)",
+            "num": "00138",
+            "urllist": "mitv://generationnexxxt.com:19806/98a98abaa4ef450aa710ba2f039a08e7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大优频道(農)",
+            "num": "00139",
+            "urllist": "mitv://generationnexxxt.com:19806/c856f18bc2c341c1a62efaecf715cb95"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立戏剧台(農)",
+            "num": "00140",
+            "urllist": "mitv://generationnexxxt.com:19806/3895ac8ec28947a3986879aaaffd940b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙华戏剧(農)",
+            "num": "00141",
+            "urllist": "mitv://generationnexxxt.com:19806/955e7726fd614ca882010eedce3fe41f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天戏剧台(農)",
+            "num": "00142",
+            "urllist": "mitv://generationnexxxt.com:19806/3baa9af2462a4ebaaacbff7f0fef72e8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖洋戏剧台(農)",
+            "num": "00143",
+            "urllist": "mitv://generationnexxxt.com:19806/1137318be4d5414bbd8dd81b8187154c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天日本台(農)",
+            "num": "00144",
+            "urllist": "mitv://generationnexxxt.com:19806/b44ffe1378b4424e975f518583c4915a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "i-Fun动漫台(農)",
+            "num": "00145",
+            "urllist": "mitv://generationnexxxt.com:19806/5b0acde9dcbf46fdb9022aa9c0e7ccec"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "韩国娱乐台(農)",
+            "num": "00146",
+            "urllist": "mitv://generationnexxxt.com:19806/9f533ff19cae4327a3e1a0ab41c8a7ec"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "星卫娱乐台(農)",
+            "num": "00147",
+            "urllist": "mitv://generationnexxxt.com:19806/c5ff16fd35be4dc08f011fee26c67f96"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ROCK Extreme(農)",
+            "num": "00148",
+            "urllist": "mitv://generationnexxxt.com:19806/83372f3612d641d5aa2ad1a2073317b8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视新闻台(農)",
+            "num": "00149",
+            "urllist": "mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新闻台(農)",
+            "num": "00150",
+            "urllist": "mitv://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "华视新闻(農)",
+            "num": "00151",
+            "urllist": "mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "NHK新闻资讯台(農)",
+            "num": "00152",
+            "urllist": "mitv://generationnexxxt.com:19806/2827343b83c648d08bf066785cf70ad0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "美亚电影台HD(農)",
+            "num": "00153",
+            "urllist": "mitv://generationnexxxt.com:19806/c4cf7dc18295472595398d0ad757ccf1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙华电影(農)",
+            "num": "00154",
+            "urllist": "mitv://generationnexxxt.com:19806/cede451738ef405fbb9fd50f010c6e69"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "星卫HD电影台(農)",
+            "num": "00155",
+            "urllist": "mitv://generationnexxxt.com:19806/e241d240f66a45adb8be67c8c5cb7edc"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天映画(農)",
+            "num": "00156",
+            "urllist": "mitv://generationnexxxt.com:19806/3ee9183e81d7426b9951e42251877c96"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "靖天电影台(農)",
+            "num": "00157",
+            "urllist": "mitv://generationnexxxt.com:19806/030b9d54cd424c6ba0d5e8acf16f9769"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "WARNER TV(農)",
+            "num": "00158",
+            "urllist": "mitv://generationnexxxt.com:19806/875d0108135e450485fe55ebca3e1a43"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Star Movies HD(農)",
+            "num": "00159",
+            "urllist": "mitv://generationnexxxt.com:19806/bcf382b353a74b509a5ca1354b689efe"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "AMC最爱电影(農)",
+            "num": "00160",
+            "urllist": "mitv://generationnexxxt.com:19806/42dc2f449f2c49859e103b0236c34ab1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HBO Family(農)",
+            "num": "00161",
+            "urllist": "mitv://generationnexxxt.com:19806/ac77e78ed9ea4ff384eaa0de73b75df0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CatchPlay电影台(農)",
+            "num": "00162",
+            "urllist": "mitv://generationnexxxt.com:19806/7e53298e858e453d8cd89a4f09de4f12"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CinemaWorld(農)",
+            "num": "00163",
+            "urllist": "mitv://generationnexxxt.com:19806/82a4e1f9268245ed93f38fcb17732c8f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "壹电视电影台(農)",
+            "num": "00164",
+            "urllist": "mitv://generationnexxxt.com:19806/c4d7d3c0d08941afa5b11dfa41a74576"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "采昌影剧台(農)",
+            "num": "00165",
+            "urllist": "mitv://generationnexxxt.com:19806/46320be49d0f44aea4691fe2cc087bab"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "佛卫慈悲台(農)",
+            "num": "00166",
+            "urllist": "mitv://generationnexxxt.com:19806/b1f5e04866ea476786f2d26f1d2f84f7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TV5Monde(農)",
+            "num": "00167",
+            "urllist": "mitv://generationnexxxt.com:19806/5206358477b44788b15c15f7ad658464"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Cbeebies(農)",
+            "num": "00168",
+            "urllist": "mitv://generationnexxxt.com:19806/cd8a6c94b8fe46cd97a508e0a93b6a71"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "EYE TV戏剧台(農)",
+            "num": "00169",
+            "urllist": "mitv://generationnexxxt.com:19806/75e45b2ae9bd4a5fa05906c00742d7a1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台视新闻台(農)",
+            "num": "00170",
+            "urllist": "mitv://generationnexxxt.com:19806/3a402f366afa4a42bd0b16b432ebbdff"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新闻台湾台(農)",
+            "num": "00171",
+            "urllist": "mitv://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台视财经台(農)",
+            "num": "00172",
+            "urllist": "mitv://generationnexxxt.com:19806/89ceac38febb4d29aaba883ff9484a9b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纬来日本(農)",
+            "num": "00173",
+            "urllist": "mitv://generationnexxxt.com:19806/83bd0d8db4124c15ad8f88828c6b344b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "爱尔达影剧台(農)",
+            "num": "00174",
+            "urllist": "mitv://generationnexxxt.com:19806/0ae6acbb2a164e17b1de9038dd928a11"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ROCK Entertainment(農)",
+            "num": "00175",
+            "urllist": "mitv://generationnexxxt.com:19806/ef256b49ee4c4b83ad97da453803dde6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民视(备)(農)",
+            "num": "00176",
+            "urllist": "mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台湾台(备)(農)",
+            "num": "00177",
+            "urllist": "mitv://generationnexxxt.com:19806/f2040a67eec34cb4a65705be966c7f01"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Dreamworks(農)",
+            "num": "00178",
+            "urllist": "mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TV5MONDE Style 生活时尚(農)",
+            "num": "00179",
+            "urllist": "mitv://generationnexxxt.com:19806/d7524c09437e4caf95c37c75d34f5550"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Travel Channel(農)",
+            "num": "00180",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b240008c0cb34e2da7f6b043e97"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "影迷数位电影台(農)",
+            "num": "00181",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b270003dc3234e2e4fe1d6f0c2b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "卫视中文台(農)",
+            "num": "00182",
+            "urllist": "mitv://generationnexxxt.com:19806/9d38f569252d4317834d6c9a9ae03a32"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "爱尔达体育1台(農)",
+            "num": "00183",
+            "urllist": "mitv://generationnexxxt.com:19806/694aae01164f482eae2be66c1255171c"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Star Movies Gold(農)",
+            "num": "00184",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b27000a398734e2e694611871b6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "爱尔达体育3台(農)",
+            "num": "00185",
+            "urllist": "mitv://generationnexxxt.com:19806/bed0a4b629d149bc90aee0522c633b43"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台视(备)(農)",
+            "num": "00186",
+            "urllist": "mitv://generationnexxxt.com:19806/f7826ceb93174d1f95c677cb053290d8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大爱(备)(農)",
+            "num": "00187",
+            "urllist": "mitv://generationnexxxt.com:19806/210ccc7869454699884184ab4c6c477d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中视(备)(農)",
+            "num": "00188",
+            "urllist": "mitv://generationnexxxt.com:19806/4c53fced68824bc1b4e35dbd375e532a"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "华视(备)(農)",
+            "num": "00189",
+            "urllist": "mitv://generationnexxxt.com:19806/8a4bfdfe9e844addb903a90141d2fad5"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "公视(备)(農)",
+            "num": "00190",
+            "urllist": "mitv://generationnexxxt.com:19806/04efa7fef50b40afa265050107d00bd8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森新闻台(备)(農)",
+            "num": "00191",
+            "urllist": "mitv://generationnexxxt.com:19806/d55a0683cbe84a1fb910d10c5e26db2b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "镜新闻(農)",
+            "num": "00192",
+            "urllist": "mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Taiwan+(農)",
+            "num": "00193",
+            "urllist": "mitv://generationnexxxt.com:19806/440274e63a1e4db099c42291fa80f43b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森购物2台(農)",
+            "num": "00194",
+            "urllist": "mitv://generationnexxxt.com:19806/44be4ceee59e4f5fb65ec5c2aa672e35"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东森购物1台(農)",
+            "num": "00195",
+            "urllist": "mitv://generationnexxxt.com:19806/cc3ef976a9114c769714c313df7f1faf"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV1(農)",
+            "num": "00196",
+            "urllist": "mitv://generationnexxxt.com:19806/fefa49169743472ba6c1757f91ed00e1"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV2(農)",
+            "num": "00197",
+            "urllist": "mitv://generationnexxxt.com:19806/b2bba5ad68384401a465683b3f02ae03"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV3(農)",
+            "num": "00198",
+            "urllist": "mitv://generationnexxxt.com:19806/3f9746250d4d4a10a2c8e45e2d8c23da"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV4(農)",
+            "num": "00199",
+            "urllist": "mitv://generationnexxxt.com:19806/d2a14b2b50104d21ae1e25fa12115617"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV5(農)",
+            "num": "00200",
+            "urllist": "mitv://generationnexxxt.com:19806/6448e461000a396f1e90f12464086a0b"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV5+(農)",
+            "num": "00201",
+            "urllist": "mitv://generationnexxxt.com:19806/1414c57883054522810cfc3905bd810d"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV6(農)",
+            "num": "00202",
+            "urllist": "mitv://generationnexxxt.com:19806/97af4cc06ea647dc9d5c9dd0c18bb9e5"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV7(農)",
+            "num": "00203",
+            "urllist": "mitv://generationnexxxt.com:19806/0062523e31ff412c89bc41596a86c269"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV8(農)",
+            "num": "00204",
+            "urllist": "mitv://generationnexxxt.com:19806/94db19b26ddc48139cdf6b270d646204"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV9(農)",
+            "num": "00205",
+            "urllist": "mitv://generationnexxxt.com:19806/6e8983ba8cf148e3bc9bc48e344ce20d"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV10(農)",
+            "num": "00206",
+            "urllist": "mitv://generationnexxxt.com:19806/015ff0a3854f4e9f91e00eba3c8d4ed7"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV11(農)",
+            "num": "00207",
+            "urllist": "mitv://generationnexxxt.com:19806/0bb33337787141b7819b10cc248ddd4d"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV12(農)",
+            "num": "00208",
+            "urllist": "mitv://generationnexxxt.com:19806/268e0faee21048c6850d43985f5e68f3"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV13(農)",
+            "num": "00209",
+            "urllist": "mitv://generationnexxxt.com:19806/8be28d1d5c214196a9af5386a8c181c2"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV14(農)",
+            "num": "00210",
+            "urllist": "mitv://generationnexxxt.com:19806/1e4082a6c2b54c768bafe1dd2fb8ea21"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV15(農)",
+            "num": "00211",
+            "urllist": "mitv://generationnexxxt.com:19806/fb346aae15dc49a2a07f00ce74c2f62c"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "北京卫视(農)",
+            "num": "00212",
+            "urllist": "mitv://generationnexxxt.com:19806/a2c5fbbebf104f0098c649300e005e02"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "天津卫视(農)",
+            "num": "00213",
+            "urllist": "mitv://generationnexxxt.com:19806/fee4c29ea7574403b4733358855b7d69"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "河北卫视(農)",
+            "num": "00214",
+            "urllist": "mitv://generationnexxxt.com:19806/c3782ab8d48e4efb9a0fcc991ddd80ee"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "黑龙江卫视(農)",
+            "num": "00215",
+            "urllist": "mitv://generationnexxxt.com:19806/93eceec163114660b66cd83e6e012ab9"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "辽宁卫视(農)",
+            "num": "00216",
+            "urllist": "mitv://generationnexxxt.com:19806/021e30664c62487a9bb38b45709b0609"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东方卫视(農)",
+            "num": "00217",
+            "urllist": "mitv://generationnexxxt.com:19806/4b92cadd0cc244be8ca71c5f6c247b79"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "江苏卫视(農)",
+            "num": "00218",
+            "urllist": "mitv://generationnexxxt.com:19806/f5c4f0af513045118c4a4025c62d121b"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江卫视(農)",
+            "num": "00219",
+            "urllist": "mitv://generationnexxxt.com:19806/78a9abefed8c46e39273e12d66ec1cdf"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "江西卫视(農)",
+            "num": "00220",
+            "urllist": "mitv://generationnexxxt.com:19806/efb91cc86da647af947d44e5c79c6189"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "山东卫视(農)",
+            "num": "00221",
+            "urllist": "mitv://generationnexxxt.com:19806/baf49c8a3bdb4f15b41fa524fe26d7e2"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "东南卫视(農)",
+            "num": "00222",
+            "urllist": "mitv://generationnexxxt.com:19806/c8b89cad3cd44596a5640c6fb5dc8612"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "湖北卫视(農)",
+            "num": "00223",
+            "urllist": "mitv://generationnexxxt.com:19806/94fbf6c86a4b4679ac86d25ddf9b23fa"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "湖南卫视(農)",
+            "num": "00224",
+            "urllist": "mitv://generationnexxxt.com:19806/bcaa6d1a1cdc491bbb209b776e9812b8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "深圳卫视(農)",
+            "num": "00225",
+            "urllist": "mitv://generationnexxxt.com:19806/35e4221191734cf2a145dc0210516bf3"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "广东卫视(農)",
+            "num": "00226",
+            "urllist": "mitv://generationnexxxt.com:19806/5647cabc9e354c60a6fd60f83c501d36"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "广西卫视(農)",
+            "num": "00227",
+            "urllist": "mitv://generationnexxxt.com:19806/e1156996ab8a4c6e84a61a26d0a7b370"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "重庆卫视(農)",
+            "num": "00228",
+            "urllist": "mitv://generationnexxxt.com:19806/46b4c00ab0964611b8500c298e686efc"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "云南卫视(農)",
+            "num": "00229",
+            "urllist": "mitv://generationnexxxt.com:19806/0b3551414b7a4675b69db76caafbcdcd"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "星空卫视(農)",
+            "num": "00230",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b4000740582865d4a1341e4837"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "广东南方卫视(農)",
+            "num": "00231",
+            "urllist": "mitv://generationnexxxt.com:19806/fc8c572ad54a42e9b235ec4daf1cb1da"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "珠江台(農)",
+            "num": "00232",
+            "urllist": "mitv://generationnexxxt.com:19806/6e2125db76bd4c81b59910fc65e5f037"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "动漫秀场(農)",
+            "num": "00233",
+            "urllist": "mitv://generationnexxxt.com:19806/185e827581d64584b2ae400ee9195d45"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "魅力足球(農)",
+            "num": "00234",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b4000dad672865d6476b257616"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "五星体育(農)",
+            "num": "00235",
+            "urllist": "mitv://generationnexxxt.com:19806/355c611b5c224d6083ae004c4804bbc8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "广东体育(農)",
+            "num": "00236",
+            "urllist": "mitv://generationnexxxt.com:19806/3a0bb6552f554bc29388130f4a2671c8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CHC动作电影(農)",
+            "num": "00237",
+            "urllist": "mitv://generationnexxxt.com:19806/9f3742571e2f49feb6e86a6cd22273b6"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CCTV16(農)",
+            "num": "00238",
+            "urllist": "mitv://generationnexxxt.com:19806/42bd763830fe456b982b5eb2eb5f5185"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "广东影视(農)",
+            "num": "00239",
+            "urllist": "mitv://generationnexxxt.com:19806/bb6656b16276439fbb130ac24703a9cd"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CHC高清电影(農)",
+            "num": "00240",
+            "urllist": "mitv://generationnexxxt.com:19806/6e7167f9e03e4d97985d3a34c64a40ea"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "CHC家庭影院(農)",
+            "num": "00241",
+            "urllist": "mitv://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc01798"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "港台電視31(農)",
+            "num": "00242",
+            "urllist": "mitv://generationnexxxt.com:19806/5c7ff8bb2e0349cdab492d5aea25ff3c"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "港台电视32(農)",
+            "num": "00243",
+            "urllist": "mitv://generationnexxxt.com:19806/afa315c3220e4a3898e3e2b3beca6ac7"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HOY TV(農)",
+            "num": "00244",
+            "urllist": "mitv://generationnexxxt.com:19806/e77cb31fe80747d298ef0d2d9c919f07"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "﻿翡翠台(备)(農)",
+            "num": "00245",
+            "urllist": "mitv://generationnexxxt.com:19806/6445f746000d42cc1322c07777266ac1"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "J2(農)",
+            "num": "00246",
+            "urllist": "mitv://generationnexxxt.com:19806/c4df08a1f2914a8da93691bfc04bb3ef"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "无线新闻台(备)(農)",
+            "num": "00247",
+            "urllist": "mitv://generationnexxxt.com:19806/31eb1cf3f36f4188a77f4260af2b50d9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "无线新闻台(農)",
+            "num": "00248",
+            "urllist": "mitv://generationnexxxt.com:19806/6444e1d5000f2f020ee6ff8c79467f63"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "无线财经·资讯台(農)",
+            "num": "00249",
+            "urllist": "mitv://generationnexxxt.com:19806/9d875aca4a794a2aab8f1c34de8fb34e"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "ViuTVsix(農)",
+            "num": "00250",
+            "urllist": "mitv://generationnexxxt.com:19806/f5edbdea0bb74f19af4e0ff83d466ab2"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "ViuTV(農)",
+            "num": "00251",
+            "urllist": "mitv://generationnexxxt.com:19806/28d586e84f3f4ec8ba30d9339238a43d"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "凤凰中文台(農)",
+            "num": "00252",
+            "urllist": "mitv://generationnexxxt.com:19806/5c81a6a5208a4beb877126a1da63e76c"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "凤凰资讯台(農)",
+            "num": "00253",
+            "urllist": "mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "凤凰香港台(農)",
+            "num": "00254",
+            "urllist": "mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVB星河(粤)(農)",
+            "num": "00255",
+            "urllist": "mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "阳光卫视(農)",
+            "num": "00256",
+            "urllist": "mitv://generationnexxxt.com:19806/2248ad425a574167b4c28e6378071e2e"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "澳门-MACAU(農)",
+            "num": "00257",
+            "urllist": "mitv://generationnexxxt.com:19806/c387d27336de4557b3dbe76999c5d9e5"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "澳门莲花(農)",
+            "num": "00258",
+            "urllist": "mitv://generationnexxxt.com:19806/bba45ad672ed40a9b433330c4839cfe2"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "now新闻台(農)",
+            "num": "00259",
+            "urllist": "mitv://generationnexxxt.com:19806/66cd85842cdd40e2b93d2b06afcc0fe6"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC电影台(農)",
+            "num": "00260",
+            "urllist": "mitv://generationnexxxt.com:19806/f64b49e3829e4fe2bf948a18b19c5a98"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "凤凰电影台(農)",
+            "num": "00261",
+            "urllist": "mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC新闻台(農)",
+            "num": "00262",
+            "urllist": "mitv://generationnexxxt.com:19806/6444e319000ca2d60eebf08159b06a25"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC财经资讯台(農)",
+            "num": "00263",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b40001aac12865d32a7c670091"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC 18(農)",
+            "num": "00264",
+            "urllist": "mitv://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC 603(農)",
+            "num": "00265",
+            "urllist": "mitv://generationnexxxt.com:19806/2141e79414314275a21c96d6b9a74933"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC體育台(農)",
+            "num": "00266",
+            "urllist": "mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC Sports Plus 1(農)",
+            "num": "00267",
+            "urllist": "mitv://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC综合娱乐台(農)",
+            "num": "00268",
+            "urllist": "mitv://generationnexxxt.com:19806/aedac82c51ca473aafe301199d9a07eb"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVB娱乐新闻台(農)",
+            "num": "00269",
+            "urllist": "mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "翡翠台(農)",
+            "num": "00270",
+            "urllist": "mitv://generationnexxxt.com:19806/6445461c000b6bd1106eb3ea1f1959bd"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVB经典台(農)",
+            "num": "00271",
+            "urllist": "mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Thrill(農)",
+            "num": "00272",
+            "urllist": "mitv://generationnexxxt.com:19806/14f535a7ec5a4939a67e7165f94ca38e"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "明珠台(農)",
+            "num": "00273",
+            "urllist": "mitv://generationnexxxt.com:19806/8c7997f50b844e5089ecec0cf54dd187"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "18台(農)",
+            "num": "00274",
+            "urllist": "mitv://generationnexxxt.com:19806/7126249632434a018e0f66aba32499c9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HKC Sports Plus 3(農)",
+            "num": "00275",
+            "urllist": "mitv://generationnexxxt.com:19806/a27709fdfa574a5f9ca52c490a37435b"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "功夫台(华语)(農)",
+            "num": "00276",
+            "urllist": "mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "美亚电影台(粤语)(農)",
+            "num": "00277",
+            "urllist": "mitv://generationnexxxt.com:19806/67e1956f4a0842a0a5352f0aabaa54b3"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Hands Up(農)",
+            "num": "00278",
+            "urllist": "mitv://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "粤语片台(農)",
+            "num": "00279",
+            "urllist": "mitv://generationnexxxt.com:19806/e68f429301a74580bb6a20a0cfdbfe58"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "亚洲剧台(農)",
+            "num": "00280",
+            "urllist": "mitv://generationnexxxt.com:19806/be6d34f555884ff8b513b3b3a10d82d0"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "功夫台(農)",
+            "num": "00281",
+            "urllist": "mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HOY资讯台(農)",
+            "num": "00282",
+            "urllist": "mitv://generationnexxxt.com:19806/a3a0249bb5254e00bd624176ea5d8059"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "CNN(農)",
+            "num": "00283",
+            "urllist": "mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TV1(農)",
+            "num": "00284",
+            "urllist": "mitv://generationnexxxt.com:19806/cd44bc00062943c8b7a277ee4a9de89a"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TV2(農)",
+            "num": "00285",
+            "urllist": "mitv://generationnexxxt.com:19806/ed82c864dc0944eea558e8b30c9062a4"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TV3(農)",
+            "num": "00286",
+            "urllist": "mitv://generationnexxxt.com:19806/5f4647b9a7424efb84bfc15ea580c9b5"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "NTV7(農)",
+            "num": "00287",
+            "urllist": "mitv://generationnexxxt.com:19806/a0c30ea620c3479186327e3834ce4ad7"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "八度空间(農)",
+            "num": "00288",
+            "urllist": "mitv://generationnexxxt.com:19806/4f9b4b927a7d48efb9bf6bf74ded5bb9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TV9(農)",
+            "num": "00289",
+            "urllist": "mitv://generationnexxxt.com:19806/baeb650a8f9e41979110976e67c9aaf2"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Oasis HD(農)",
+            "num": "00290",
+            "urllist": "mitv://generationnexxxt.com:19806/5e29ed4cfeda4303ac5bc3b9b5677b5e"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Warna HD(農)",
+            "num": "00291",
+            "urllist": "mitv://generationnexxxt.com:19806/b71dd3b2816345f2b3a27357851f64b3"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Citra HD(農)",
+            "num": "00292",
+            "urllist": "mitv://generationnexxxt.com:19806/23e85512bcb64c1a93d3af17bafe0853"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Al-Hijrah(農)",
+            "num": "00293",
+            "urllist": "mitv://generationnexxxt.com:19806/5274a05cbaf642c9a6fc6093126222f1"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "SUN TV(農)",
+            "num": "00294",
+            "urllist": "mitv://generationnexxxt.com:19806/cb0c4ac979704b34b1002932e8158924"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "爱奇艺(農)",
+            "num": "00295",
+            "urllist": "mitv://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro小太阳(農)",
+            "num": "00296",
+            "urllist": "mitv://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro AEC(备)(農)",
+            "num": "00297",
+            "urllist": "mitv://generationnexxxt.com:19806/c2d63292987547978c50a2bf2b2f9dc7"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro双星(農)",
+            "num": "00298",
+            "urllist": "mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "天映频道(農)",
+            "num": "00299",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "翡翠台(华丽台)(農)",
+            "num": "00300",
+            "urllist": "mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro AOD HD 311(農)",
+            "num": "00301",
+            "urllist": "mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "中天亚洲台(農)",
+            "num": "00302",
+            "urllist": "mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVB星河(粤)(農)",
+            "num": "00303",
+            "urllist": "mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "天映经典(農)",
+            "num": "00304",
+            "urllist": "mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro欢喜台(農)",
+            "num": "00305",
+            "urllist": "mitv://generationnexxxt.com:19806/2988f7d8c6d547118cab3b3495d38ced"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "KBS World(農)",
+            "num": "00306",
+            "urllist": "mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "ONE(農)",
+            "num": "00307",
+            "urllist": "mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Colors Hindi(農)",
+            "num": "00308",
+            "urllist": "mitv://generationnexxxt.com:19806/a5b9ed615fc84d85bde20022d8565941"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVS(農)",
+            "num": "00309",
+            "urllist": "mitv://generationnexxxt.com:19806/f1eb585cada34a7a82b614b6204ef095"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "tvN Movies HD(農)",
+            "num": "00310",
+            "urllist": "mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Awani(農)",
+            "num": "00311",
+            "urllist": "mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "CGTN(農)",
+            "num": "00312",
+            "urllist": "mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "BBC World News(農)",
+            "num": "00313",
+            "urllist": "mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Al Jazeera English(農)",
+            "num": "00314",
+            "urllist": "mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "CNBC(農)",
+            "num": "00315",
+            "urllist": "mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Bloomberg TV(農)",
+            "num": "00316",
+            "urllist": "mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Ceria(農)",
+            "num": "00317",
+            "urllist": "mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Cartoon Network(農)",
+            "num": "00318",
+            "urllist": "mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Nickelodeon(農)",
+            "num": "00319",
+            "urllist": "mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Nick Jr.(農)",
+            "num": "00320",
+            "urllist": "mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Boomerang(農)",
+            "num": "00321",
+            "urllist": "mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "AXN亚洲(農)",
+            "num": "00322",
+            "urllist": "mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "KIX(農)",
+            "num": "00323",
+            "urllist": "mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HITS(農)",
+            "num": "00324",
+            "urllist": "mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Arena(農)",
+            "num": "00325",
+            "urllist": "mitv://generationnexxxt.com:19806/8be35ecb77f54e479652bf42d737f3db"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro SuperSport(農)",
+            "num": "00326",
+            "urllist": "mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro SuperSport 2(農)",
+            "num": "00327",
+            "urllist": "mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro SuperSport 3(農)",
+            "num": "00328",
+            "urllist": "mitv://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro SuperSport 4(農)",
+            "num": "00329",
+            "urllist": "mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "beIN Sports 3(農)",
+            "num": "00330",
+            "urllist": "mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "WWE(農)",
+            "num": "00331",
+            "urllist": "mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Sky News(農)",
+            "num": "00332",
+            "urllist": "mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "八度空间(备)(農)",
+            "num": "00333",
+            "urllist": "mitv://generationnexxxt.com:19806/6fd86a03f1eb41419da63283c7701052"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Nat Geo Wild(農)",
+            "num": "00334",
+            "urllist": "mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "tvN(農)",
+            "num": "00335",
+            "urllist": "mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Drama Sangat(農)",
+            "num": "00336",
+            "urllist": "mitv://generationnexxxt.com:19806/315f560808404c4a993ec15d83aa451f"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Berita RTM(農)",
+            "num": "00337",
+            "urllist": "mitv://generationnexxxt.com:19806/0425a3d913b04d29a63d5b21dd07ae65"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "DW(農)",
+            "num": "00338",
+            "urllist": "mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "France24(農)",
+            "num": "00339",
+            "urllist": "mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "SPOTV(農)",
+            "num": "00340",
+            "urllist": "mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "beIN Sports(農)",
+            "num": "00341",
+            "urllist": "mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVB娱乐新闻台(農)",
+            "num": "00342",
+            "urllist": "mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro AEC(農)",
+            "num": "00343",
+            "urllist": "mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Awesome TV(農)",
+            "num": "00344",
+            "urllist": "mitv://generationnexxxt.com:19806/4850be330cac46cbb1d798196663012f"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Colors Tamil(農)",
+            "num": "00345",
+            "urllist": "mitv://generationnexxxt.com:19806/768423b6c4d341289fdf70e97d03f5e5"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "BOO(農)",
+            "num": "00346",
+            "urllist": "mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVB经典台(農)",
+            "num": "00347",
+            "urllist": "mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "ABC Australia(農)",
+            "num": "00348",
+            "urllist": "mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Eurosport HD(農)",
+            "num": "00349",
+            "urllist": "mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro SuperSport 5(農)",
+            "num": "00350",
+            "urllist": "mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Star Vijay(農)",
+            "num": "00351",
+            "urllist": "mitv://generationnexxxt.com:19806/6576b7f93a7d4ab4b40cdb1a6e8eedfd"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Zee Tamil(農)",
+            "num": "00352",
+            "urllist": "mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TVBS亚洲(農)",
+            "num": "00353",
+            "urllist": "mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro AOD 352(農)",
+            "num": "00354",
+            "urllist": "mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro AOD 354(農)",
+            "num": "00355",
+            "urllist": "mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Tutor TV SK(農)",
+            "num": "00356",
+            "urllist": "mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "Astro Tutor TV SPM(農)",
+            "num": "00357",
+            "urllist": "mitv://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "TA-DAA!(農)",
+            "num": "00358",
+            "urllist": "mitv://generationnexxxt.com:19806/3389d62b2e274f3386c6e0fafca66092"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "eGG Network(農)",
+            "num": "00359",
+            "urllist": "mitv://generationnexxxt.com:19806/afc9e147576d41eda59da886563a3d1c"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "HITS Movies(農)",
+            "num": "00360",
+            "urllist": "mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "SHOWCASE MOVIES(農)",
+            "num": "00361",
+            "urllist": "mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "beIN Sports 2(農)",
+            "num": "00362",
+            "urllist": "mitv://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Golf Channel(農)",
+            "num": "00363",
+            "urllist": "mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "天映频道(農)",
+            "num": "00364",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "中天亚洲台(農)",
+            "num": "00365",
+            "urllist": "mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "TVB星河(粤)(農)",
+            "num": "00366",
+            "urllist": "mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "天映经典(農)",
+            "num": "00367",
+            "urllist": "mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "KBS World(農)",
+            "num": "00368",
+            "urllist": "mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "ONE(農)",
+            "num": "00369",
+            "urllist": "mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Colors Hindi(農)",
+            "num": "00370",
+            "urllist": "mitv://generationnexxxt.com:19806/a5b9ed615fc84d85bde20022d8565941"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "CGTN(農)",
+            "num": "00371",
+            "urllist": "mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "BBC World News(農)",
+            "num": "00372",
+            "urllist": "mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "CNBC(農)",
+            "num": "00373",
+            "urllist": "mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Bloomberg TV(農)",
+            "num": "00374",
+            "urllist": "mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Cartoon Network(農)",
+            "num": "00375",
+            "urllist": "mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Nickelodeon(農)",
+            "num": "00376",
+            "urllist": "mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Nick Jr.(農)",
+            "num": "00377",
+            "urllist": "mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Boomerang(農)",
+            "num": "00378",
+            "urllist": "mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "AXN亚洲(農)",
+            "num": "00379",
+            "urllist": "mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "HITS(農)",
+            "num": "00380",
+            "urllist": "mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "beIN Sports 3(農)",
+            "num": "00381",
+            "urllist": "mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Mediacorp 5(農)",
+            "num": "00382",
+            "urllist": "mitv://generationnexxxt.com:19806/b0798f0bb62f440a92ee49d38967b6d1"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Mediacorp 8(農)",
+            "num": "00383",
+            "urllist": "mitv://generationnexxxt.com:19806/847cb3132dbe4d2897e276a271c04ec7"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Suria(農)",
+            "num": "00384",
+            "urllist": "mitv://generationnexxxt.com:19806/0f5728d5794a47dfba667f8c528c006e"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Vasantham(農)",
+            "num": "00385",
+            "urllist": "mitv://generationnexxxt.com:19806/2e41fd0e25664a4cb5e6debd59ea5d27"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "CNA(農)",
+            "num": "00386",
+            "urllist": "mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Mediacorp U(農)",
+            "num": "00387",
+            "urllist": "mitv://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Nat Geo Wild(農)",
+            "num": "00388",
+            "urllist": "mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Arirang(農)",
+            "num": "00389",
+            "urllist": "mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Euronews(農)",
+            "num": "00390",
+            "urllist": "mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Fight Sports(農)",
+            "num": "00391",
+            "urllist": "mitv://generationnexxxt.com:19806/78bd0cc13a8840fcb8af0440258a8357"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "GEM(農)",
+            "num": "00392",
+            "urllist": "mitv://generationnexxxt.com:19806/3f6fedbbb9a24f55bb349e7c75d109c4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Fox News(農)",
+            "num": "00393",
+            "urllist": "mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "beIN Sports(農)",
+            "num": "00394",
+            "urllist": "mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "HGTV居家乐活频道(農)",
+            "num": "00395",
+            "urllist": "mitv://generationnexxxt.com:19806/d6ed657bb866458a91e28701a1b0bcf1"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "TV5Monde(農)",
+            "num": "00396",
+            "urllist": "mitv://generationnexxxt.com:19806/5206358477b44788b15c15f7ad658464"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "东森亚洲卫视(農)",
+            "num": "00397",
+            "urllist": "mitv://generationnexxxt.com:19806/4314e2707d7141b78dd0fde4fbf5eae1"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Thrill(農)",
+            "num": "00398",
+            "urllist": "mitv://generationnexxxt.com:19806/14f535a7ec5a4939a67e7165f94ca38e"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Premier 1(農)",
+            "num": "00399",
+            "urllist": "mitv://generationnexxxt.com:19806/4b83405f738042d084055fee7295f311"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub都会台(農)",
+            "num": "00400",
+            "urllist": "mitv://generationnexxxt.com:19806/feb243790576418ea12aa65f7421bb12"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "TVBS亚洲(農)",
+            "num": "00401",
+            "urllist": "mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub娱家(農)",
+            "num": "00402",
+            "urllist": "mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "NBA(農)",
+            "num": "00403",
+            "urllist": "mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "beIN Sports 2(農)",
+            "num": "00404",
+            "urllist": "mitv://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Sports 1(農)",
+            "num": "00405",
+            "urllist": "mitv://generationnexxxt.com:19806/5b7034df7dcd4ccabcb0137f0991a274"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Sports 2(農)",
+            "num": "00406",
+            "urllist": "mitv://generationnexxxt.com:19806/2d881919b62242f4930fda32837eb7df"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Sports 3(農)",
+            "num": "00407",
+            "urllist": "mitv://generationnexxxt.com:19806/6101d0aff0654f73812cb15c57df9f59"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Sports 4(農)",
+            "num": "00408",
+            "urllist": "mitv://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438bbe6"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Sports 5(農)",
+            "num": "00409",
+            "urllist": "mitv://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Premier 2(農)",
+            "num": "00410",
+            "urllist": "mitv://generationnexxxt.com:19806/a52cc083e7324b2dbd8090feecc66033"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Premier 3(農)",
+            "num": "00411",
+            "urllist": "mitv://generationnexxxt.com:19806/758cc0162ca14f8fa7c343d94a60bbaa"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Premier 4(農)",
+            "num": "00412",
+            "urllist": "mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "Hub Premier 5(農)",
+            "num": "00413",
+            "urllist": "mitv://generationnexxxt.com:19806/8e3b8175500b492484df4112711ca978"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "NHK-G综合(農)",
+            "num": "00414",
+            "urllist": "mitv://generationnexxxt.com:19806/b5bda0c5078d430c942c13681802be15"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "NHK-E教育(農)",
+            "num": "00415",
+            "urllist": "mitv://generationnexxxt.com:19806/58fb2dd485204529b771b2d8acae096e"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "日本テレビ(農)",
+            "num": "00416",
+            "urllist": "mitv://generationnexxxt.com:19806/6ad6d0d970294894b751bb9be6714fb1"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "TBSテレビ(農)",
+            "num": "00417",
+            "urllist": "mitv://generationnexxxt.com:19806/209a9b54c5064c2fbbd0b9836a28ad6e"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "テレビ東京(農)",
+            "num": "00418",
+            "urllist": "mitv://generationnexxxt.com:19806/51bbd32c263f406d85a05cacd01f062f"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "フジテレビ(農)",
+            "num": "00419",
+            "urllist": "mitv://generationnexxxt.com:19806/17331df7df384a93840003f270f99b43"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "読売テレビ(農)",
+            "num": "00420",
+            "urllist": "mitv://generationnexxxt.com:19806/df1027136d3b4ccb8399435896f10c77"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "関西テレビ(農)",
+            "num": "00421",
+            "urllist": "mitv://generationnexxxt.com:19806/4e41469b0a4848bdbcc0a670412f0df2"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "KBS京都(農)",
+            "num": "00422",
+            "urllist": "mitv://generationnexxxt.com:19806/fb929986f9004ade9ae0d010eb7c0d46"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "毎日放送(農)",
+            "num": "00423",
+            "urllist": "mitv://generationnexxxt.com:19806/643479c21af04293ad48ccf48ea9eee1"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "朝日放送(農)",
+            "num": "00424",
+            "urllist": "mitv://generationnexxxt.com:19806/ef7250cb2aa5496d91d45ad06f2fb1d5"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "テレビ大阪(農)",
+            "num": "00425",
+            "urllist": "mitv://generationnexxxt.com:19806/a56ecb4b782d452286964d9a863b17e5"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "テレビ朝日(農)",
+            "num": "00426",
+            "urllist": "mitv://generationnexxxt.com:19806/4a60e75cead54877bc7d0e2f3afc1727"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS-1(農)",
+            "num": "00427",
+            "urllist": "mitv://generationnexxxt.com:19806/dc55be8e1f7649ac9ff0b762c56846aa"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS釣りビジョン(農)",
+            "num": "00428",
+            "urllist": "mitv://generationnexxxt.com:19806/65cc4b331feb43ec975cd6626743d2fc"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS日テレ(農)",
+            "num": "00429",
+            "urllist": "mitv://generationnexxxt.com:19806/ec48c7c85632469cae7b000167942622"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS朝日(農)",
+            "num": "00430",
+            "urllist": "mitv://generationnexxxt.com:19806/23b79683a7b74c6baf1f643bbb782123"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS-TBS(農)",
+            "num": "00431",
+            "urllist": "mitv://generationnexxxt.com:19806/19cee2f930cf46c88ee80eda11c9bb7b"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS11(農)",
+            "num": "00432",
+            "urllist": "mitv://generationnexxxt.com:19806/0f1b7b82d6574192a644f43e101c5e29"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BSフジ(農)",
+            "num": "00433",
+            "urllist": "mitv://generationnexxxt.com:19806/302d55abd58f4f8fb79146cf6d177c13"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "WOWOWプライム(農)",
+            "num": "00434",
+            "urllist": "mitv://generationnexxxt.com:19806/5c2d5bb35c284c6bbee94fb0568fd4ae"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "WOWOWライブ(農)",
+            "num": "00435",
+            "urllist": "mitv://generationnexxxt.com:19806/7cc73c16476a40e4b4b10e9172b9ff9f"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "WOWOWシネマ(農)",
+            "num": "00436",
+            "urllist": "mitv://generationnexxxt.com:19806/50a55d71db5b41ba8dfbf1e49fafd739"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "スター・チャンネル1(農)",
+            "num": "00437",
+            "urllist": "mitv://generationnexxxt.com:19806/31599351174a4ef9ab8309f567c38e38"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "スター・チャンネル2(農)",
+            "num": "00438",
+            "urllist": "mitv://generationnexxxt.com:19806/f3da7df8f3f14bbe96ba4b931f2b48aa"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "スター・チャンネル3(農)",
+            "num": "00439",
+            "urllist": "mitv://generationnexxxt.com:19806/3d8b400d2dd44c2a9ff39add631ba83d"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BSアニマックス(農)",
+            "num": "00440",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b26000b068834e2e2eb6d6b487d"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "J Sports 1(農)",
+            "num": "00441",
+            "urllist": "mitv://generationnexxxt.com:19806/ec9e8e130dc8450f9ab54033ec0838cb"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "J Sports 2(農)",
+            "num": "00442",
+            "urllist": "mitv://generationnexxxt.com:19806/61de10ba994a49ebaedf836962f9065a"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "J Sports 3(農)",
+            "num": "00443",
+            "urllist": "mitv://generationnexxxt.com:19806/00003bb75b5044739df061845fc5ddce"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "J Sports 4(農)",
+            "num": "00444",
+            "urllist": "mitv://generationnexxxt.com:19806/8b6d39de46c7464297947f368e623270"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BS12(農)",
+            "num": "00445",
+            "urllist": "mitv://generationnexxxt.com:19806/2b8209d5bdd44c2696d51bc158781e38"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "ゴルフネットワークHD(農)",
+            "num": "00446",
+            "urllist": "mitv://generationnexxxt.com:19806/6d430a8f344b4f2abad882e9350aac5a"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "時代劇専門チャンネル(農)",
+            "num": "00447",
+            "urllist": "mitv://generationnexxxt.com:19806/78ea3f42a8104730930a93ac5a5a869b"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Music Japan TV(農)",
+            "num": "00448",
+            "urllist": "mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "キッズステーションHD(農)",
+            "num": "00449",
+            "urllist": "mitv://generationnexxxt.com:19806/80628310ccbf423b8b4a7eb4e1af2a05"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "ディスカバリーチャンネル(農)",
+            "num": "00450",
+            "urllist": "mitv://generationnexxxt.com:19806/ab98b0888ba14ad68180456db43a48bd"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "ナショナルジオグラフィック(農)",
+            "num": "00451",
+            "urllist": "mitv://generationnexxxt.com:19806/0e1814dec67c48adbfe97a6f9a0df2d8"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "日テレNEWS 24(農)",
+            "num": "00452",
+            "urllist": "mitv://generationnexxxt.com:19806/01af57ffc3354d66a320ebb2edd87262"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "旅チャンネル(農)",
+            "num": "00453",
+            "urllist": "mitv://generationnexxxt.com:19806/9d587c6310714b42bad0eba86ca501c4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "チャンネル銀河(農)",
+            "num": "00454",
+            "urllist": "mitv://generationnexxxt.com:19806/708c0b0d85dd45acba478d21c0ace2f6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Arirang(農)",
+            "num": "00455",
+            "urllist": "mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "KBS1(農)",
+            "num": "00456",
+            "urllist": "mitv://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "KBS2(農)",
+            "num": "00457",
+            "urllist": "mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "KBS Drama(農)",
+            "num": "00458",
+            "urllist": "mitv://generationnexxxt.com:19806/b87ff391346d41adabdff2557eb1b468"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "KBS Joy(農)",
+            "num": "00459",
+            "urllist": "mitv://generationnexxxt.com:19806/61eb591517014f02b627a6fa4479b45d"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "SBS(農)",
+            "num": "00460",
+            "urllist": "mitv://generationnexxxt.com:19806/6751677afd4345bfac27cfff31713854"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "SBS Biz(農)",
+            "num": "00461",
+            "urllist": "mitv://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "JTBC(農)",
+            "num": "00462",
+            "urllist": "mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "EBS(農)",
+            "num": "00463",
+            "urllist": "mitv://generationnexxxt.com:19806/c74fd79cd39a4ce382c1fe22090ffb73"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "YTN(農)",
+            "num": "00464",
+            "urllist": "mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Mnet(農)",
+            "num": "00465",
+            "urllist": "mitv://generationnexxxt.com:19806/4d5973be862e438f909863fcfc0a7e62"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "tvN(農)",
+            "num": "00466",
+            "urllist": "mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "OCN(農)",
+            "num": "00467",
+            "urllist": "mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "OCN Movies(農)",
+            "num": "00468",
+            "urllist": "mitv://generationnexxxt.com:19806/bf871edfcc0f476caa7d98d1b9b01cae"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "TV Chosun(農)",
+            "num": "00469",
+            "urllist": "mitv://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "MBC(農)",
+            "num": "00470",
+            "urllist": "mitv://generationnexxxt.com:19806/bf799ab550fc4a24805351d49d5b61a2"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "MBN(農)",
+            "num": "00471",
+            "urllist": "mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Tooniverse(農)",
+            "num": "00472",
+            "urllist": "mitv://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a01016"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "SPOTV(農)",
+            "num": "00473",
+            "urllist": "mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "SPOTV 2(農)",
+            "num": "00474",
+            "urllist": "mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "JTBC GOLF(農)",
+            "num": "00475",
+            "urllist": "mitv://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Channel 5(農)",
+            "num": "00476",
+            "urllist": "mitv://generationnexxxt.com:19806/1045ae1287b44480b9d6f511acb6a7b1"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "NBT(農)",
+            "num": "00477",
+            "urllist": "mitv://generationnexxxt.com:19806/960f748e986045cea386b0c70e63b423"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "TNN 16(農)",
+            "num": "00478",
+            "urllist": "mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "JKN 18(農)",
+            "num": "00479",
+            "urllist": "mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Voice TV(農)",
+            "num": "00480",
+            "urllist": "mitv://generationnexxxt.com:19806/08721ce1643b41fba96c063b57a1f8f3"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Nation TV(農)",
+            "num": "00481",
+            "urllist": "mitv://generationnexxxt.com:19806/7d87284193a64a7f9f518849c02d7441"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Workpoint TV(農)",
+            "num": "00482",
+            "urllist": "mitv://generationnexxxt.com:19806/68f16fa3c8b34dc89e2134261293b583"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "true4U(農)",
+            "num": "00483",
+            "urllist": "mitv://generationnexxxt.com:19806/20a3f56a870340c49b40ce4a1bc5c5eb"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "GMM 25(農)",
+            "num": "00484",
+            "urllist": "mitv://generationnexxxt.com:19806/f4228beab2744d07a67571c5e28f084e"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Channel 8(農)",
+            "num": "00485",
+            "urllist": "mitv://generationnexxxt.com:19806/119678a4b6e54d1bac8b215c21d5ad13"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Mono 29(農)",
+            "num": "00486",
+            "urllist": "mitv://generationnexxxt.com:19806/01a45cae5b314975b90bb3cfba296f17"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "MCOT(農)",
+            "num": "00487",
+            "urllist": "mitv://generationnexxxt.com:19806/73b0a7b586af42f39db7fcdb646e89d8"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "ONE(農)",
+            "num": "00488",
+            "urllist": "mitv://generationnexxxt.com:19806/46709f19c5a2466f9ae889037f66615a"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Thairath TV(農)",
+            "num": "00489",
+            "urllist": "mitv://generationnexxxt.com:19806/fac4fd9a35664af5aab7d56c45d3233c"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Channel 3(農)",
+            "num": "00490",
+            "urllist": "mitv://generationnexxxt.com:19806/e8cd7262c3bb49c8bb75662c3163f597"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Amarin TV(農)",
+            "num": "00491",
+            "urllist": "mitv://generationnexxxt.com:19806/939a7081305144509ddc2f35b05d61e6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Channel 7(農)",
+            "num": "00492",
+            "urllist": "mitv://generationnexxxt.com:19806/4fd125eb5c9f4a95aa81eca2a8cec808"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "PPTV(農)",
+            "num": "00493",
+            "urllist": "mitv://generationnexxxt.com:19806/5a975bc858f84e7eb8cf78286c3461d9"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Boomerang(農)",
+            "num": "00494",
+            "urllist": "mitv://generationnexxxt.com:19806/9bca576c3c2e4b5cb3fbb69a462588e1"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Thai Parliament TV(農)",
+            "num": "00495",
+            "urllist": "mitv://generationnexxxt.com:19806/00d7be2109344cf3a3cabc8f345c4408"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Thai PBS(農)",
+            "num": "00496",
+            "urllist": "mitv://generationnexxxt.com:19806/69da05f9164b4d4a9b7027539578b5ec"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "News 1(農)",
+            "num": "00497",
+            "urllist": "mitv://generationnexxxt.com:19806/e78a0690ad344c95946fd8ad988de2e0"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Channel 4050(農)",
+            "num": "00498",
+            "urllist": "mitv://generationnexxxt.com:19806/33cd96332eef4ef0b781716e9ca4e2a6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "TVB Thai(農)",
+            "num": "00499",
+            "urllist": "mitv://generationnexxxt.com:19806/e9d8980dfdea4d059b62fe6dfd2de092"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Bluesky(農)",
+            "num": "00500",
+            "urllist": "mitv://generationnexxxt.com:19806/a4d121356b034c7f95ed7b55aee8b9bb"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Top News(農)",
+            "num": "00501",
+            "urllist": "mitv://generationnexxxt.com:19806/845fb3c3c97a44aeab8fb8d227636c7b"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CNN(農)",
+            "num": "00502",
+            "urllist": "mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CNBC(農)",
+            "num": "00503",
+            "urllist": "mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Bloomberg TV(農)",
+            "num": "00504",
+            "urllist": "mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "ESPN(農)",
+            "num": "00505",
+            "urllist": "mitv://generationnexxxt.com:19806/eb2c51ee510841a9b7845b6d13309e9c"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CBSN(農)",
+            "num": "00506",
+            "urllist": "mitv://generationnexxxt.com:19806/a90df52b92804807b6c08cdbbead4ce4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Fox News(農)",
+            "num": "00507",
+            "urllist": "mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Food Network(農)",
+            "num": "00508",
+            "urllist": "mitv://generationnexxxt.com:19806/4e5615643ab540cbbe0ec4a7b4e1ff95"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "NBA(農)",
+            "num": "00509",
+            "urllist": "mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "新时代1(西部)(農)",
+            "num": "00510",
+            "urllist": "mitv://generationnexxxt.com:19806/b1ccf61be69c4586bcef99336ff297c6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "新时代2(農)",
+            "num": "00511",
+            "urllist": "mitv://generationnexxxt.com:19806/d3875eccaa1d4b07a633402fac5cb999"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "新时代1(东部)(農)",
+            "num": "00512",
+            "urllist": "mitv://generationnexxxt.com:19806/90cf0a71709d458bb17695dd32d569df"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "城市电视(農)",
+            "num": "00513",
+            "urllist": "mitv://generationnexxxt.com:19806/4ed9cf9666d7430d94e6f4f8c26986f6"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Fox News(農)",
+            "num": "00514",
+            "urllist": "mitv://generationnexxxt.com:19806/0ca77bf69d4a4777a2e145f1158814a3"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BBC World News(農)",
+            "num": "00515",
+            "urllist": "mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CNN USA(農)",
+            "num": "00516",
+            "urllist": "mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CBC News(農)",
+            "num": "00517",
+            "urllist": "mitv://generationnexxxt.com:19806/f4f2d24eb46f42c693d83e97290457e8"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "MSNBC(農)",
+            "num": "00518",
+            "urllist": "mitv://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CTV News(農)",
+            "num": "00519",
+            "urllist": "mitv://generationnexxxt.com:19806/be706e24ed1f4245876b3e0ddc697571"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Business News Network(農)",
+            "num": "00520",
+            "urllist": "mitv://generationnexxxt.com:19806/40cf9cc6515c4770979837c8974c112c"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CP24(農)",
+            "num": "00521",
+            "urllist": "mitv://generationnexxxt.com:19806/5efde580fc9e4f699ccaba83c1a97085"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "The Weather Network(農)",
+            "num": "00522",
+            "urllist": "mitv://generationnexxxt.com:19806/feee91e7ee4541c3a24b385477b35378"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "The Weather Channel(農)",
+            "num": "00523",
+            "urllist": "mitv://generationnexxxt.com:19806/bd27010686a04dd9bcd17fcedce18344"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "KOMO 4 TV(農)",
+            "num": "00524",
+            "urllist": "mitv://generationnexxxt.com:19806/6412af0a00060f714ad0771640fa32d4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CNN(農)",
+            "num": "00525",
+            "urllist": "mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "无线新闻台(备)(農)",
+            "num": "00526",
+            "urllist": "mitv://generationnexxxt.com:19806/31eb1cf3f36f4188a77f4260af2b50d9"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "无线新闻台(農)",
+            "num": "00527",
+            "urllist": "mitv://generationnexxxt.com:19806/6444e1d5000f2f020ee6ff8c79467f63"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "无线财经·资讯台(農)",
+            "num": "00528",
+            "urllist": "mitv://generationnexxxt.com:19806/9d875aca4a794a2aab8f1c34de8fb34e"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "CGTN(農)",
+            "num": "00529",
+            "urllist": "mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "BBC World News(農)",
+            "num": "00530",
+            "urllist": "mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "Al Jazeera English(農)",
+            "num": "00531",
+            "urllist": "mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CNBC(農)",
+            "num": "00532",
+            "urllist": "mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Bloomberg TV(農)",
+            "num": "00533",
+            "urllist": "mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CNA(農)",
+            "num": "00534",
+            "urllist": "mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "壹电视新闻台(農)",
+            "num": "00535",
+            "urllist": "mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "年代新闻(農)",
+            "num": "00536",
+            "urllist": "mitv://generationnexxxt.com:19806/c1ae01ebfb874789956a7d6753b14c4c"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "now新闻台(農)",
+            "num": "00537",
+            "urllist": "mitv://generationnexxxt.com:19806/66cd85842cdd40e2b93d2b06afcc0fe6"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "东森新闻台(農)",
+            "num": "00538",
+            "urllist": "mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "中天新闻台(農)",
+            "num": "00539",
+            "urllist": "mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "民视新闻台(農)",
+            "num": "00540",
+            "urllist": "mitv://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "三立新闻台(農)",
+            "num": "00541",
+            "urllist": "mitv://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "TVBS新闻台(農)",
+            "num": "00542",
+            "urllist": "mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "东森财经新闻台(農)",
+            "num": "00543",
+            "urllist": "mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "非凡新闻台(農)",
+            "num": "00544",
+            "urllist": "mitv://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "TNN 16(農)",
+            "num": "00545",
+            "urllist": "mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "JKN 18(農)",
+            "num": "00546",
+            "urllist": "mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "三立iNEWS(農)",
+            "num": "00547",
+            "urllist": "mitv://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Sky News(農)",
+            "num": "00548",
+            "urllist": "mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "DW(農)",
+            "num": "00549",
+            "urllist": "mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Euronews(農)",
+            "num": "00550",
+            "urllist": "mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "France24(農)",
+            "num": "00551",
+            "urllist": "mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "HKC新闻台(農)",
+            "num": "00552",
+            "urllist": "mitv://generationnexxxt.com:19806/6444e319000ca2d60eebf08159b06a25"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "非凡商业台(農)",
+            "num": "00553",
+            "urllist": "mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "HKC财经资讯台(農)",
+            "num": "00554",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b40001aac12865d32a7c670091"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "国会频道1(農)",
+            "num": "00555",
+            "urllist": "mitv://generationnexxxt.com:19806/4cfc6c926b9549c7b886205726151a3c"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "国会频道2(農)",
+            "num": "00556",
+            "urllist": "mitv://generationnexxxt.com:19806/3f4b0cb786764e0c942390995ed9ed44"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CBSN(農)",
+            "num": "00557",
+            "urllist": "mitv://generationnexxxt.com:19806/a90df52b92804807b6c08cdbbead4ce4"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Fox News(農)",
+            "num": "00558",
+            "urllist": "mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "中视新闻台(農)",
+            "num": "00559",
+            "urllist": "mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "寰宇新闻台(農)",
+            "num": "00560",
+            "urllist": "mitv://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "华视新闻(農)",
+            "num": "00561",
+            "urllist": "mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "NHK新闻资讯台(農)",
+            "num": "00562",
+            "urllist": "mitv://generationnexxxt.com:19806/2827343b83c648d08bf066785cf70ad0"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "NDTV(農)",
+            "num": "00563",
+            "urllist": "mitv://generationnexxxt.com:19806/7b86d682dfcf4b51949751ec1cc0757a"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "ABC Australia(農)",
+            "num": "00564",
+            "urllist": "mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "台视新闻台(農)",
+            "num": "00565",
+            "urllist": "mitv://generationnexxxt.com:19806/3a402f366afa4a42bd0b16b432ebbdff"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "寰宇新闻台湾台(農)",
+            "num": "00566",
+            "urllist": "mitv://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "台视财经台(農)",
+            "num": "00567",
+            "urllist": "mitv://generationnexxxt.com:19806/89ceac38febb4d29aaba883ff9484a9b"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "东森新闻台(备)(農)",
+            "num": "00568",
+            "urllist": "mitv://generationnexxxt.com:19806/d55a0683cbe84a1fb910d10c5e26db2b"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "镜新闻(農)",
+            "num": "00569",
+            "urllist": "mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Fox News(農)",
+            "num": "00570",
+            "urllist": "mitv://generationnexxxt.com:19806/0ca77bf69d4a4777a2e145f1158814a3"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "BBC World News(農)",
+            "num": "00571",
+            "urllist": "mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CNN USA(農)",
+            "num": "00572",
+            "urllist": "mitv://generationnexxxt.com:19806/0bb7d854f1404400bfa64c6fd66403a5"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CBC News(農)",
+            "num": "00573",
+            "urllist": "mitv://generationnexxxt.com:19806/f4f2d24eb46f42c693d83e97290457e8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "MSNBC(農)",
+            "num": "00574",
+            "urllist": "mitv://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CTV News(農)",
+            "num": "00575",
+            "urllist": "mitv://generationnexxxt.com:19806/be706e24ed1f4245876b3e0ddc697571"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Business News Network(農)",
+            "num": "00576",
+            "urllist": "mitv://generationnexxxt.com:19806/40cf9cc6515c4770979837c8974c112c"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CP24(農)",
+            "num": "00577",
+            "urllist": "mitv://generationnexxxt.com:19806/5efde580fc9e4f699ccaba83c1a97085"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "The Weather Network(農)",
+            "num": "00578",
+            "urllist": "mitv://generationnexxxt.com:19806/feee91e7ee4541c3a24b385477b35378"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "The Weather Channel(農)",
+            "num": "00579",
+            "urllist": "mitv://generationnexxxt.com:19806/bd27010686a04dd9bcd17fcedce18344"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "MTV(農)",
+            "num": "00580",
+            "urllist": "mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Music Japan TV(農)",
+            "num": "00581",
+            "urllist": "mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "MTV Live(農)",
+            "num": "00582",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Mezzo Live(農)",
+            "num": "00583",
+            "urllist": "mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CLASSICA 古典乐(農)",
+            "num": "00584",
+            "urllist": "mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "CMusic(農)",
+            "num": "00585",
+            "urllist": "mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "CCTV5(農)",
+            "num": "00586",
+            "urllist": "mitv://generationnexxxt.com:19806/6448e461000a396f1e90f12464086a0b"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "CCTV5+(農)",
+            "num": "00587",
+            "urllist": "mitv://generationnexxxt.com:19806/1414c57883054522810cfc3905bd810d"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "魅力足球(農)",
+            "num": "00588",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b4000dad672865d6476b257616"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "五星体育(農)",
+            "num": "00589",
+            "urllist": "mitv://generationnexxxt.com:19806/355c611b5c224d6083ae004c4804bbc8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "广东体育(農)",
+            "num": "00590",
+            "urllist": "mitv://generationnexxxt.com:19806/3a0bb6552f554bc29388130f4a2671c8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports Golf(農)",
+            "num": "00591",
+            "urllist": "mitv://generationnexxxt.com:19806/f7979f7719e84f04b70cb3ea3151553c"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports Premier League(農)",
+            "num": "00592",
+            "urllist": "mitv://generationnexxxt.com:19806/4f70c7b9ee6340949293e813bdb4b7fc"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Astro Arena(農)",
+            "num": "00593",
+            "urllist": "mitv://generationnexxxt.com:19806/8be35ecb77f54e479652bf42d737f3db"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Astro SuperSport(農)",
+            "num": "00594",
+            "urllist": "mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Astro SuperSport 2(農)",
+            "num": "00595",
+            "urllist": "mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Astro SuperSport 3(農)",
+            "num": "00596",
+            "urllist": "mitv://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Astro SuperSport 4(農)",
+            "num": "00597",
+            "urllist": "mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "beIN Sports 3(農)",
+            "num": "00598",
+            "urllist": "mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "WWE(農)",
+            "num": "00599",
+            "urllist": "mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "纬来育乐台(農)",
+            "num": "00600",
+            "urllist": "mitv://generationnexxxt.com:19806/dd458fff62614481a7e9d65da897af75"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "纬来体育台(農)",
+            "num": "00601",
+            "urllist": "mitv://generationnexxxt.com:19806/801a9a12c10d4d04953332771aee0dba"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "ELEVEN体育1台(農)",
+            "num": "00602",
+            "urllist": "mitv://generationnexxxt.com:19806/61a3473768ec4860bf9c5cc9911f71d6"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Z频道(農)",
+            "num": "00603",
+            "urllist": "mitv://generationnexxxt.com:19806/2a5836bb5cae422b95e2a523e488bb24"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "J Sports 1(農)",
+            "num": "00604",
+            "urllist": "mitv://generationnexxxt.com:19806/ec9e8e130dc8450f9ab54033ec0838cb"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "J Sports 2(農)",
+            "num": "00605",
+            "urllist": "mitv://generationnexxxt.com:19806/61de10ba994a49ebaedf836962f9065a"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "J Sports 3(農)",
+            "num": "00606",
+            "urllist": "mitv://generationnexxxt.com:19806/00003bb75b5044739df061845fc5ddce"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "J Sports 4(農)",
+            "num": "00607",
+            "urllist": "mitv://generationnexxxt.com:19806/8b6d39de46c7464297947f368e623270"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Skynet Sports HD(農)",
+            "num": "00608",
+            "urllist": "mitv://generationnexxxt.com:19806/a058e07556204a1ab4287b441eb54e05"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Skynet Sports 2(農)",
+            "num": "00609",
+            "urllist": "mitv://generationnexxxt.com:19806/fb0b368a0dce4d7c8b9002a3180d8d2f"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Skynet Sports 5(農)",
+            "num": "00610",
+            "urllist": "mitv://generationnexxxt.com:19806/cfb47a7ba5d2491ebe8b354e58c1cc43"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Skynet Sports 6(農)",
+            "num": "00611",
+            "urllist": "mitv://generationnexxxt.com:19806/b5ee6b4f6bb543cd8a1f426faa16821a"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Fight Sports(農)",
+            "num": "00612",
+            "urllist": "mitv://generationnexxxt.com:19806/78bd0cc13a8840fcb8af0440258a8357"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "ESPN(農)",
+            "num": "00613",
+            "urllist": "mitv://generationnexxxt.com:19806/eb2c51ee510841a9b7845b6d13309e9c"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "HKC 18(農)",
+            "num": "00614",
+            "urllist": "mitv://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "HKC 603(農)",
+            "num": "00615",
+            "urllist": "mitv://generationnexxxt.com:19806/2141e79414314275a21c96d6b9a74933"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "HKC體育台(農)",
+            "num": "00616",
+            "urllist": "mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "HKC Sports Plus 1(農)",
+            "num": "00617",
+            "urllist": "mitv://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "爱尔达体育1台(备)(農)",
+            "num": "00618",
+            "urllist": "mitv://generationnexxxt.com:19806/7ee39f66b9f448979335e4067812760f"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "爱尔达体育2台(農)",
+            "num": "00619",
+            "urllist": "mitv://generationnexxxt.com:19806/d833228c98a04547a6005f206d71117d"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "TRACE Sport Stars(農)",
+            "num": "00620",
+            "urllist": "mitv://generationnexxxt.com:19806/e52cafc2a2864446ba65c2b1e787ef52"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯高球(農)",
+            "num": "00621",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b25000c685d34e2df612a7375dc"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯高球二台(農)",
+            "num": "00622",
+            "urllist": "mitv://generationnexxxt.com:19806/5469d36a29bd428bbd60342fe7db2471"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯网球台(農)",
+            "num": "00623",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b26000400c834e2e116485d6736"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯魅力网(農)",
+            "num": "00624",
+            "urllist": "mitv://generationnexxxt.com:19806/d2e51a0dea8e4698945f956bd8e13ad9"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯无限台(農)",
+            "num": "00625",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b25000559f634e2dd8c46c81a89"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯无限二台(農)",
+            "num": "00626",
+            "urllist": "mitv://generationnexxxt.com:19806/4e3ed72f4150435d90bf020a74ea1bc5"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "SPOTV(農)",
+            "num": "00627",
+            "urllist": "mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯运动(農)",
+            "num": "00628",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b24000f31b634e2dc24008c5e76"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "ELEVEN体育2台(農)",
+            "num": "00629",
+            "urllist": "mitv://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "智林体育台(農)",
+            "num": "00630",
+            "urllist": "mitv://generationnexxxt.com:19806/e32d399935b14711ad1b193cd5841274"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "博斯运动二台(農)",
+            "num": "00631",
+            "urllist": "mitv://generationnexxxt.com:19806/5faa98e5bbc442e4bd72b544651dd1be"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "beIN Sports(農)",
+            "num": "00632",
+            "urllist": "mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Eurosport HD(農)",
+            "num": "00633",
+            "urllist": "mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Premier 1(農)",
+            "num": "00634",
+            "urllist": "mitv://generationnexxxt.com:19806/4b83405f738042d084055fee7295f311"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Astro SuperSport 5(農)",
+            "num": "00635",
+            "urllist": "mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "HKC Sports Plus 3(農)",
+            "num": "00636",
+            "urllist": "mitv://generationnexxxt.com:19806/a27709fdfa574a5f9ca52c490a37435b"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "NBA(農)",
+            "num": "00637",
+            "urllist": "mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "eGG Network(農)",
+            "num": "00638",
+            "urllist": "mitv://generationnexxxt.com:19806/afc9e147576d41eda59da886563a3d1c"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "CCTV16(農)",
+            "num": "00639",
+            "urllist": "mitv://generationnexxxt.com:19806/42bd763830fe456b982b5eb2eb5f5185"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "beIN Sports 2(農)",
+            "num": "00640",
+            "urllist": "mitv://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "爱尔达体育1台(農)",
+            "num": "00641",
+            "urllist": "mitv://generationnexxxt.com:19806/694aae01164f482eae2be66c1255171c"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "爱尔达体育3台(農)",
+            "num": "00642",
+            "urllist": "mitv://generationnexxxt.com:19806/bed0a4b629d149bc90aee0522c633b43"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Sports 1(農)",
+            "num": "00643",
+            "urllist": "mitv://generationnexxxt.com:19806/5b7034df7dcd4ccabcb0137f0991a274"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Sports 2(農)",
+            "num": "00644",
+            "urllist": "mitv://generationnexxxt.com:19806/2d881919b62242f4930fda32837eb7df"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Sports 3(農)",
+            "num": "00645",
+            "urllist": "mitv://generationnexxxt.com:19806/6101d0aff0654f73812cb15c57df9f59"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Sports 4(農)",
+            "num": "00646",
+            "urllist": "mitv://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438bbe6"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Sports 5(農)",
+            "num": "00647",
+            "urllist": "mitv://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Premier 2(農)",
+            "num": "00648",
+            "urllist": "mitv://generationnexxxt.com:19806/a52cc083e7324b2dbd8090feecc66033"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Premier 3(農)",
+            "num": "00649",
+            "urllist": "mitv://generationnexxxt.com:19806/758cc0162ca14f8fa7c343d94a60bbaa"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Premier 4(農)",
+            "num": "00650",
+            "urllist": "mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Hub Premier 5(農)",
+            "num": "00651",
+            "urllist": "mitv://generationnexxxt.com:19806/8e3b8175500b492484df4112711ca978"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports F1(農)",
+            "num": "00652",
+            "urllist": "mitv://generationnexxxt.com:19806/8d0465b1adcc4d5aa8a9fd3c6573da3c"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports Arena(農)",
+            "num": "00653",
+            "urllist": "mitv://generationnexxxt.com:19806/8af1b56b67504c4fbf3151129ab9c4d8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports Main Event(農)",
+            "num": "00654",
+            "urllist": "mitv://generationnexxxt.com:19806/347b0cb9ec284f25883567a0e9fee211"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports Cricket(農)",
+            "num": "00655",
+            "urllist": "mitv://generationnexxxt.com:19806/4c8af69d907a45a5a2fc2977409bf3ef"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Sky Sports Action(農)",
+            "num": "00656",
+            "urllist": "mitv://generationnexxxt.com:19806/832cfec045fd458f9a490f07770bb879"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Golf Channel(農)",
+            "num": "00657",
+            "urllist": "mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "CCTV9(農)",
+            "num": "00658",
+            "urllist": "mitv://generationnexxxt.com:19806/6e8983ba8cf148e3bc9bc48e344ce20d"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "国家地理频道(農)",
+            "num": "00659",
+            "urllist": "mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "探索频道(農)",
+            "num": "00660",
+            "urllist": "mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "TLC旅游生活(農)",
+            "num": "00661",
+            "urllist": "mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f67"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "动物星球(農)",
+            "num": "00662",
+            "urllist": "mitv://generationnexxxt.com:19806/14fd9d119d4b4f0391652fa16930fbe2"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "Nat Geo Wild(農)",
+            "num": "00663",
+            "urllist": "mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "ELTV生活英语台(農)",
+            "num": "00664",
+            "urllist": "mitv://generationnexxxt.com:19806/264eb6cb34c5497a99312ce73883a073"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "达文西频道(農)",
+            "num": "00665",
+            "urllist": "mitv://generationnexxxt.com:19806/beaf5c1a3d7b44e1b4a99bcc20cd8ed7"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "国家地理高画质野生频道(農)",
+            "num": "00666",
+            "urllist": "mitv://generationnexxxt.com:19806/faccdb1e8d4a48c4a2eb75b6fb436c05"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "BBC Earth(農)",
+            "num": "00667",
+            "urllist": "mitv://generationnexxxt.com:19806/34f24f8ef6214f94a7e8d5981eb9cde2"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Discovery Asia(農)",
+            "num": "00668",
+            "urllist": "mitv://generationnexxxt.com:19806/0cb2bcf330534b429a8e008ccdc8886c"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Discovery科学频道(農)",
+            "num": "00669",
+            "urllist": "mitv://generationnexxxt.com:19806/862c9ba288c44277925b51c391df263b"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "DMAX(農)",
+            "num": "00670",
+            "urllist": "mitv://generationnexxxt.com:19806/4e57d52ff07841a082749c96aa813f7b"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "EVE(農)",
+            "num": "00671",
+            "urllist": "mitv://generationnexxxt.com:19806/2adb8e78858a455a84520253425057f3"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "滚动力rollor(農)",
+            "num": "00672",
+            "urllist": "mitv://generationnexxxt.com:19806/136a99af59514db0994eccafd13c926f"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "历史频道(農)",
+            "num": "00673",
+            "urllist": "mitv://generationnexxxt.com:19806/8641f6fb752d427db9a8df1625f88d22"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "罪案侦缉频道(農)",
+            "num": "00674",
+            "urllist": "mitv://generationnexxxt.com:19806/ac8e4a1c6d944d28a3d281d65f6892a2"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "BBC Lifestyle(農)",
+            "num": "00675",
+            "urllist": "mitv://generationnexxxt.com:19806/99d72fa5a5e94df7a3d961690ee09785"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "LUXE TV(農)",
+            "num": "00676",
+            "urllist": "mitv://generationnexxxt.com:19806/c02d3bf53e8f4021947feb28aeb0c496"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Lifetime(農)",
+            "num": "00677",
+            "urllist": "mitv://generationnexxxt.com:19806/d0da12938b6545828917832ad283dfce"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "KLT-靖天国际台(農)",
+            "num": "00678",
+            "urllist": "mitv://generationnexxxt.com:19806/4c1e84b189e54aee8e1606a285eb57d9"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "HGTV居家乐活频道(農)",
+            "num": "00679",
+            "urllist": "mitv://generationnexxxt.com:19806/d6ed657bb866458a91e28701a1b0bcf1"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Love Nature(農)",
+            "num": "00680",
+            "urllist": "mitv://generationnexxxt.com:19806/0e5b3219870a4f79bec208ec1fbaad63"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "美食星球(農)",
+            "num": "00681",
+            "urllist": "mitv://generationnexxxt.com:19806/c8b8f19c8410441eb9e9039572c72137"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "亚洲美食频道(農)",
+            "num": "00682",
+            "urllist": "mitv://generationnexxxt.com:19806/5ae5dc61eb68407cb5dac94ce8dfca2e"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Food Network(農)",
+            "num": "00683",
+            "urllist": "mitv://generationnexxxt.com:19806/4e5615643ab540cbbe0ec4a7b4e1ff95"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "亚洲旅游台(農)",
+            "num": "00684",
+            "urllist": "mitv://generationnexxxt.com:19806/8e7af36f23874793854226c5b64097d3"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "EYE TV旅游台(農)",
+            "num": "00685",
+            "urllist": "mitv://generationnexxxt.com:19806/1f972fea45904a9caa1119860d4d4b70"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "时尚频道(農)",
+            "num": "00686",
+            "urllist": "mitv://generationnexxxt.com:19806/e87adc01be824ef19f005a76e4fce189"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "TV5MONDE Style 生活时尚(農)",
+            "num": "00687",
+            "urllist": "mitv://generationnexxxt.com:19806/d7524c09437e4caf95c37c75d34f5550"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Travel Channel(農)",
+            "num": "00688",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b240008c0cb34e2da7f6b043e97"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "CCTV14(農)",
+            "num": "00689",
+            "urllist": "mitv://generationnexxxt.com:19806/1e4082a6c2b54c768bafe1dd2fb8ea21"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "CN卡通频道(農)",
+            "num": "00690",
+            "urllist": "mitv://generationnexxxt.com:19806/644d1cd900092e062f0d85a601dc3f82"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "星空卫视(農)",
+            "num": "00691",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b4000740582865d4a1341e4837"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "动漫秀场(農)",
+            "num": "00692",
+            "urllist": "mitv://generationnexxxt.com:19806/185e827581d64584b2ae400ee9195d45"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "MOMO亲子台(農)",
+            "num": "00693",
+            "urllist": "mitv://generationnexxxt.com:19806/644d1f0f0001f7782f1626c159ce4396"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Astro小太阳(農)",
+            "num": "00694",
+            "urllist": "mitv://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Astro Ceria(農)",
+            "num": "00695",
+            "urllist": "mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Cartoon Network(農)",
+            "num": "00696",
+            "urllist": "mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Nickelodeon(農)",
+            "num": "00697",
+            "urllist": "mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Nick Jr.(農)",
+            "num": "00698",
+            "urllist": "mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Boomerang(農)",
+            "num": "00699",
+            "urllist": "mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Animax(農)",
+            "num": "00700",
+            "urllist": "mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "尼克儿童频道(農)",
+            "num": "00701",
+            "urllist": "mitv://generationnexxxt.com:19806/73d77b0470724ad4a8dadc3854881cda"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "靖洋卡通Nice Bingo(農)",
+            "num": "00702",
+            "urllist": "mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "靖天卡通台(農)",
+            "num": "00703",
+            "urllist": "mitv://generationnexxxt.com:19806/31373da9de144c1fbe1f505bcaa978aa"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "达文西频道(農)",
+            "num": "00704",
+            "urllist": "mitv://generationnexxxt.com:19806/beaf5c1a3d7b44e1b4a99bcc20cd8ed7"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Nick Jr.(農)",
+            "num": "00705",
+            "urllist": "mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Cbeebies(農)",
+            "num": "00706",
+            "urllist": "mitv://generationnexxxt.com:19806/cd8a6c94b8fe46cd97a508e0a93b6a71"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Dreamworks(農)",
+            "num": "00707",
+            "urllist": "mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "Hands Up(農)",
+            "num": "00708",
+            "urllist": "mitv://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "CCTV6(農)",
+            "num": "00709",
+            "urllist": "mitv://generationnexxxt.com:19806/97af4cc06ea647dc9d5c9dd0c18bb9e5"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "天映频道(農)",
+            "num": "00710",
+            "urllist": "mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "天映经典(農)",
+            "num": "00711",
+            "urllist": "mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "tvN Movies HD(農)",
+            "num": "00712",
+            "urllist": "mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "HKC电影台(農)",
+            "num": "00713",
+            "urllist": "mitv://generationnexxxt.com:19806/f64b49e3829e4fe2bf948a18b19c5a98"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "凤凰电影台(農)",
+            "num": "00714",
+            "urllist": "mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "卫视电影台(農)",
+            "num": "00715",
+            "urllist": "mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "东森电影台(農)",
+            "num": "00716",
+            "urllist": "mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "纬来电影台(農)",
+            "num": "00717",
+            "urllist": "mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "龙祥电影(農)",
+            "num": "00718",
+            "urllist": "mitv://generationnexxxt.com:19806/644b663d0002f2fe285c32b00e0f46ef"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "HBO(農)",
+            "num": "00719",
+            "urllist": "mitv://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "东森洋片台(農)",
+            "num": "00720",
+            "urllist": "mitv://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "AXN(農)",
+            "num": "00721",
+            "urllist": "mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "好莱坞电影台(農)",
+            "num": "00722",
+            "urllist": "mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "CINEMAX(農)",
+            "num": "00723",
+            "urllist": "mitv://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "纬来育乐台(農)",
+            "num": "00724",
+            "urllist": "mitv://generationnexxxt.com:19806/dd458fff62614481a7e9d65da897af75"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "HBO强档巨献(農)",
+            "num": "00725",
+            "urllist": "mitv://generationnexxxt.com:19806/f33628c42a3645dba83d317e70abf28c"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "HBO原创巨献(農)",
+            "num": "00726",
+            "urllist": "mitv://generationnexxxt.com:19806/8987f1bb3c9740e980bce7d787cfba0d"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "美亚电影台HD(農)",
+            "num": "00727",
+            "urllist": "mitv://generationnexxxt.com:19806/c4cf7dc18295472595398d0ad757ccf1"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "龙华电影(農)",
+            "num": "00728",
+            "urllist": "mitv://generationnexxxt.com:19806/cede451738ef405fbb9fd50f010c6e69"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "星卫HD电影台(農)",
+            "num": "00729",
+            "urllist": "mitv://generationnexxxt.com:19806/e241d240f66a45adb8be67c8c5cb7edc"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "靖天映画(農)",
+            "num": "00730",
+            "urllist": "mitv://generationnexxxt.com:19806/3ee9183e81d7426b9951e42251877c96"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "靖天电影台(農)",
+            "num": "00731",
+            "urllist": "mitv://generationnexxxt.com:19806/030b9d54cd424c6ba0d5e8acf16f9769"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "WARNER TV(農)",
+            "num": "00732",
+            "urllist": "mitv://generationnexxxt.com:19806/875d0108135e450485fe55ebca3e1a43"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "Star Movies HD(農)",
+            "num": "00733",
+            "urllist": "mitv://generationnexxxt.com:19806/bcf382b353a74b509a5ca1354b689efe"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "AMC最爱电影(農)",
+            "num": "00734",
+            "urllist": "mitv://generationnexxxt.com:19806/42dc2f449f2c49859e103b0236c34ab1"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "HBO Family(農)",
+            "num": "00735",
+            "urllist": "mitv://generationnexxxt.com:19806/ac77e78ed9ea4ff384eaa0de73b75df0"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "CatchPlay电影台(農)",
+            "num": "00736",
+            "urllist": "mitv://generationnexxxt.com:19806/7e53298e858e453d8cd89a4f09de4f12"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "CinemaWorld(農)",
+            "num": "00737",
+            "urllist": "mitv://generationnexxxt.com:19806/82a4e1f9268245ed93f38fcb17732c8f"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "壹电视电影台(農)",
+            "num": "00738",
+            "urllist": "mitv://generationnexxxt.com:19806/c4d7d3c0d08941afa5b11dfa41a74576"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "采昌影剧台(農)",
+            "num": "00739",
+            "urllist": "mitv://generationnexxxt.com:19806/46320be49d0f44aea4691fe2cc087bab"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "BOO(農)",
+            "num": "00740",
+            "urllist": "mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "Thrill(農)",
+            "num": "00741",
+            "urllist": "mitv://generationnexxxt.com:19806/14f535a7ec5a4939a67e7165f94ca38e"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "功夫台(华语)(農)",
+            "num": "00742",
+            "urllist": "mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "HITS Movies(農)",
+            "num": "00743",
+            "urllist": "mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "SHOWCASE MOVIES(農)",
+            "num": "00744",
+            "urllist": "mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "影迷数位电影台(農)",
+            "num": "00745",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b270003dc3234e2e4fe1d6f0c2b"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "美亚电影台(粤语)(農)",
+            "num": "00746",
+            "urllist": "mitv://generationnexxxt.com:19806/67e1956f4a0842a0a5352f0aabaa54b3"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "CHC动作电影(農)",
+            "num": "00747",
+            "urllist": "mitv://generationnexxxt.com:19806/9f3742571e2f49feb6e86a6cd22273b6"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "Star Movies Gold(農)",
+            "num": "00748",
+            "urllist": "mitv://generationnexxxt.com:19806/644e9b27000a398734e2e694611871b6"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "CHC高清电影(農)",
+            "num": "00749",
+            "urllist": "mitv://generationnexxxt.com:19806/6e7167f9e03e4d97985d3a34c64a40ea"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "CHC家庭影院(農)",
+            "num": "00750",
+            "urllist": "mitv://generationnexxxt.com:19806/e2f952fba78a4b80b487e69f2cc01798"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "东森戏剧台(農)",
+            "num": "00751",
+            "urllist": "mitv://generationnexxxt.com:19806/d447dc4d5ddf4417941b271bf5da4263"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "八大戏剧台(農)",
+            "num": "00752",
+            "urllist": "mitv://generationnexxxt.com:19806/844bfa9150ac49c09bbae657b7545df9"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "纬来戏剧台(農)",
+            "num": "00753",
+            "urllist": "mitv://generationnexxxt.com:19806/65109e8fc60e4ebab7a61706f46093b0"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "三立戏剧台(農)",
+            "num": "00754",
+            "urllist": "mitv://generationnexxxt.com:19806/3895ac8ec28947a3986879aaaffd940b"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "龙华戏剧(農)",
+            "num": "00755",
+            "urllist": "mitv://generationnexxxt.com:19806/955e7726fd614ca882010eedce3fe41f"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "靖天戏剧台(農)",
+            "num": "00756",
+            "urllist": "mitv://generationnexxxt.com:19806/3baa9af2462a4ebaaacbff7f0fef72e8"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "靖洋戏剧台(農)",
+            "num": "00757",
+            "urllist": "mitv://generationnexxxt.com:19806/1137318be4d5414bbd8dd81b8187154c"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "EYE TV戏剧台(農)",
+            "num": "00758",
+            "urllist": "mitv://generationnexxxt.com:19806/75e45b2ae9bd4a5fa05906c00742d7a1"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "爱尔达影剧台(農)",
+            "num": "00759",
+            "urllist": "mitv://generationnexxxt.com:19806/0ae6acbb2a164e17b1de9038dd928a11"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "Hub娱家(農)",
+            "num": "00760",
+            "urllist": "mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527"
+        },
+        {
+            "itemid": "uid0008",
+            "name": "亚洲剧台(農)",
+            "num": "00761",
+            "urllist": "mitv://generationnexxxt.com:19806/be6d34f555884ff8b513b3b3a10d82d0"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "彩虹e台(農)",
+            "num": "00762",
+            "urllist": "mitv://generationnexxxt.com:19806/a4300561216446a19f5961ee3ef2a86b"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "彩虹电影台(農)",
+            "num": "00763",
+            "urllist": "mitv://generationnexxxt.com:19806/dcca7a3ec8544bc99a653ed5e197166f"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "LOOK TV(農)",
+            "num": "00764",
+            "urllist": "mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "潘朵啦玩美台(農)",
+            "num": "00765",
+            "urllist": "mitv://generationnexxxt.com:19806/b00cc08302d742cf90f8934c6aff4922"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "惊艳成人电影台(農)",
+            "num": "00766",
+            "urllist": "mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "松视1台(農)",
+            "num": "00767",
+            "urllist": "mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "松视2台(農)",
+            "num": "00768",
+            "urllist": "mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "PLAYBOY(農)",
+            "num": "00769",
+            "urllist": "mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "香蕉台(農)",
+            "num": "00770",
+            "urllist": "mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "松视3台(農)",
+            "num": "00771",
+            "urllist": "mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "JStar极限台(農)",
+            "num": "00772",
+            "urllist": "mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "HAPPY(農)",
+            "num": "00773",
+            "urllist": "mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e"
+        },
+        {
+            "itemid": "uid0009",
+            "name": "K(農)",
+            "num": "00774",
+            "urllist": "mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "台灣,#genre#"
+        },
+        {
+            "id": "uid0001",
+            "name": "大陸,#genre#"
+        },
+        {
+            "id": "uid0002",
+            "name": "港澳,#genre#"
+        },
+        {
+            "id": "uid0003",
+            "name": "其他,#genre#"
+        },
+        {
+            "id": "uid0004",
+            "name": "日本,#genre#"
+        },
+        {
+            "id": "uid0005",
+            "name": "新聞,#genre#"
+        },
+        {
+            "id": "uid0006",
+            "name": "運動,#genre#"
+        },
+        {
+            "id": "uid0007",
+            "name": "TG群:"
+        },
+        {
+            "id": "uid0008",
+            "name": "電影,#genre#"
+        },
+        {
+            "id": "uid0009",
+            "name": "成人,#genre#"
+        }
+    ]
+}
