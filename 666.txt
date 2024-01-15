@@ -7,7 +7,7 @@ ua=Mozilla/5.2
 三立新聞,https://www.youtube.com/live/oZdzzvxTfUY?si=pcOwQ814LyCE_Ldw
 player=2
 ua=Mozilla/5.2
-東森新聞,https://www.youtube.com/live/S5WOGu2HSes?si=GzLlsWCphBR4cCox
+東森新聞,https://www.youtube.com/watch?v=2dfAzcDf8Zg
 player=2
 ua=Mozilla/5.2
 環宇新聞台,https://www.youtube.com/live/6IquAgfvYmc?si=ASP8hTbRNo8x5piw
@@ -73,6 +73,42 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
 
 
+
+
+嗅探,#genre#
+parse=1
+台視,https://www.histar.tv/live/ttv
+台視新聞,https://www.histar.tv/live/ttv-news
+中視,https://www.histar.tv/live/ctv
+中視新聞,https://www.histar.tv/live/ctv-news
+華視,https://www.histar.tv/live/cts
+華視新聞,https://www.histar.tv/live/cts-news
+民視新聞,https://today.line.me/tw/v2/article/PNNoG5
+東森新聞,https://today.line.me/tw/v2/article/grrvVZ
+東森財經新聞,https://www.histar.tv/live/ebc-finance
+東森電影,https://www.histar.tv/live/ebc-movie
+東森綜合,https://www.histar.tv/live/ebc-ettv
+TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+TVBS,https://www.histar.tv/live/tvbs-hd
+TVBS歡樂台,https://www.histar.tv/live/tvbs-huanle
+中天新聞,https://www.histar.tv/live/cti-news
+鏡新聞,https://www.histar.tv/live/mnews
+壹新聞,https://www.histar.tv/live/nexttv
+寰宇新聞,https://www.histar.tv/live/global-news
+緯來日本,https://www.histar.tv/live/videoland-japan
+緯來電影,https://www.histar.tv/live/videoland-movie
+HBO,https://www.histar.tv/live/hbo-hd
+衛視電影,https://www.histar.tv/live/star-chinese-movies
+龍祥時代,https://www.histar.tv/live/lstime
+龍華電影,https://www.histar.tv/live/ltv-movies
+靖天國際台,https://www.histar.tv/live/jtgj
+靖天電影,https://www.histar.tv/live/jtdy
+靖天卡通,https://www.histar.tv/live/jtkt
+Disney,https://www.histar.tv/live/disney
+美亞電影,https://www.histar.tv/live/meiah-movies
+靖洋戲劇,https://www.histar.tv/live/jyxj
+動物星球,https://www.histar.tv/live/animal-planet
+ELEVEN 1,,https://www.histar.tv/live/eleven-sport1
 
 港台,#genre#
 
@@ -397,7 +433,7 @@ wowowプライム[1280x720][2.0mb],https://epg.pw/stream/691354dd4e6ebafc4810182
 wowowシネマ[1280x720][2.0mb],https://epg.pw/stream/be57cc2ee9483ce657ec77eb8bd158c8b1447e0d9c4520423790912f9541d74c.m3u8
 スカイa[1280x720][2.0mb],https://epg.pw/stream/a42b0ec95a385db9b1ce4bc8edd71d9a68b9db5c4628df1fe52b8de72b33941b.m3u8
 
-私人專用,#genre#
+手機網路專用,#genre#
 台视,http://888.iptv543.com/smt.php?id=ttv_taiwan
 华视,http://888.iptv543.com/smt.php?id=ctshd_twn
 中视 HD,http://888.iptv543.com/smt.php?id=zhongshihd_twn
@@ -751,46 +787,3 @@ PPTV Thailand1,http://888.iptv543.com/smt.php?id=pptv_pat
 New,http://888.iptv543.com/smt.php?id=new_pat
 BloombergNews,http://888.iptv543.com/smt.php?id=bloomberg_twn
 GmmOne,http://888.iptv543.com/smt.php?id=gmmone_pat
-
-嗅探,#genre#
-parse=1
-player=2
-ua=Mozilla/5.2
-台視,https://www.histar.tv/live/ttv
-台視新聞,https://www.histar.tv/live/ttv-news
-中視,https://www.histar.tv/live/ctv
-中視新聞,https://www.histar.tv/live/ctv-news
-華視,https://www.histar.tv/live/cts
-華視新聞,https://www.histar.tv/live/cts-news
-民視新聞,https://today.line.me/tw/v2/article/PNNoG5
-東森新聞,https://today.line.me/tw/v2/article/grrvVZ
-東森財經新聞,https://www.histar.tv/live/ebc-finance
-東森電影,https://www.histar.tv/live/ebc-movie
-東森綜合,https://www.histar.tv/live/ebc-ettv
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-TVBS,https://www.histar.tv/live/tvbs-hd
-TVBS歡樂台,https://www.histar.tv/live/tvbs-huanle
-中天新聞,https://www.histar.tv/live/cti-news
-鏡新聞,https://www.histar.tv/live/mnews
-壹新聞,https://www.histar.tv/live/nexttv
-寰宇新聞,https://www.histar.tv/live/global-news
-緯來日本,https://www.histar.tv/live/videoland-japan
-緯來電影,https://www.histar.tv/live/videoland-movie
-HBO,https://www.histar.tv/live/hbo-hd
-衛視電影,https://www.histar.tv/live/star-chinese-movies
-龍祥時代,https://www.histar.tv/live/lstime
-龍華電影,https://www.histar.tv/live/ltv-movies
-靖天國際台,https://www.histar.tv/live/jtgj
-靖天電影,https://www.histar.tv/live/jtdy
-靖天卡通,https://www.histar.tv/live/jtkt
-Disney,https://www.histar.tv/live/disney
-美亞電影,https://www.histar.tv/live/meiah-movies
-靖洋戲劇,https://www.histar.tv/live/jyxj
-動物星球,https://www.histar.tv/live/animal-planet
-ELEVEN 1,https://www.histar.tv/live/eleven-sport1
-ELEVEN 2,https://www.histar.tv/live/eleven-sport2
-緯來體育,https://www.histar.tv/live/videoland-sport
-ELTA体育1,https://www.histar.tv/live/elta-sport1
-ELTA体育2,https://www.histar.tv/live/elta-sport2
-ELTA体育3,https://www.histar.tv/live/elta-sport3
-博斯网球,https://www.histar.tv/live/sportcast-tennis
