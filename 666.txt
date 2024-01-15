@@ -433,7 +433,7 @@ wowowプライム[1280x720][2.0mb],https://epg.pw/stream/691354dd4e6ebafc4810182
 wowowシネマ[1280x720][2.0mb],https://epg.pw/stream/be57cc2ee9483ce657ec77eb8bd158c8b1447e0d9c4520423790912f9541d74c.m3u8
 スカイa[1280x720][2.0mb],https://epg.pw/stream/a42b0ec95a385db9b1ce4bc8edd71d9a68b9db5c4628df1fe52b8de72b33941b.m3u8
 
-手機網路專用,#genre#
+私人專用,#genre#
 台视,http://888.iptv543.com/smt.php?id=ttv_taiwan
 华视,http://888.iptv543.com/smt.php?id=ctshd_twn
 中视 HD,http://888.iptv543.com/smt.php?id=zhongshihd_twn
