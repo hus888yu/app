@@ -4,7 +4,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://888.iptv543.com/999.txt",
+      "url": "https://888.iptv543.com/54321.txt",
       "boot": false,
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
