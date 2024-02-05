@@ -1,16 +1,6 @@
 SP频道,#genre#
-彩虹E台,mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
-彩虹电影台,mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
-LOOK TV,mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
-惊艳成人电影台,mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
-松视1台,mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-松视2台,mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-松视3台,mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
-香蕉台,mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-JStar极限台,mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
-HAPPY,mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-彩虹K台,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
+
+
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
 🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
