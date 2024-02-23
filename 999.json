@@ -4,7 +4,8 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/54321txt",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/54321.txt
+",
       "timeout": 25,
       "pass": false,
       "boot": false,
@@ -39,6 +40,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
+    },
+    {
+      "key": "安博",
+      "name": "安博",
+      "type": 4,
+      "api": "https://ali.唐.hz.cz/site/ub1818",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "天天",
