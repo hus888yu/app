@@ -1,0 +1,981 @@
+
+大陸頻道,#genre#
+CCTV1综合高清,http://108.165.240.85/inc/cqyx.php?id=cctv1HD
+CCTV2财经高清,http://108.165.240.85/inc/cqyx.php?id=cctv2HD
+CCTV3综艺高清,http://108.165.240.85/inc/cqyx.php?id=cctv3HD
+CCTV4中文国际高清,http://108.165.240.85/inc/cqyx.php?id=cctv4HD
+CCTV5体育高清,http://108.165.240.85/inc/cqyx.php?id=cctv5HD
+CCTV5+体育赛事高清,http://108.165.240.85/inc/cqyx.php?id=cctv5SportHD
+CCTV6电影高清,http://108.165.240.85/inc/cqyx.php?id=cctv6HD
+CCTV7国防军事高清,http://108.165.240.85/inc/cqyx.php?id=cctv7HD
+CCTV8电视剧高清,http://108.165.240.85/inc/cqyx.php?id=cctv8HD
+CCTV9纪录高清,http://108.165.240.85/inc/cqyx.php?id=cctv9HD
+CCTV10科教高清,http://108.165.240.85/inc/cqyx.php?id=cctv10HD
+CCTV11戏曲高清,http://108.165.240.85/inc/cqyx.php?id=cctv11HD
+CCTV12社会与法高清,http://108.165.240.85/inc/cqyx.php?id=cctv12HD
+CCTV13新闻高清,http://108.165.240.85/inc/cqyx.php?id=CCTVNewsHD
+CCTV14少儿高清,http://108.165.240.85/inc/cqyx.php?id=cctvseHD
+CCTV15音乐高清,http://108.165.240.85/inc/cqyx.php?id=cctv15HD
+CCTV16奥林匹克高清,http://108.165.240.85/inc/cqyx.php?id=cctv16HD
+CCTV17农业农村高清,http://108.165.240.85/inc/cqyx.php?id=cctv17HD
+CCTV4K超高清,http://108.165.240.85/inc/cqyx.php?id=CCTV4K
+欢笑剧场4K超高清,http://108.165.240.85/inc/cqyx.php?id=hxjc_4K
+CCTV16奥林匹克4K超高清,http://108.165.240.85/inc/cqyx.php?id=CCTV16_4K
+
+
+
+CHC动作电影,http://108.165.240.85/inc/cqyx.php?id=chcdzdyHD
+CHC家庭电影,http://108.165.240.85/inc/cqyx.php?id=chcjtyyHD
+CHC高清电影,http://108.165.240.85/inc/cqyx.php?id=chcgqdyHD
+江苏卫视高清,http://108.165.240.85/inc/cqyx.php?id=jiangsuHD
+北京卫视高清,http://108.165.240.85/inc/cqyx.php?id=beijingHD
+浙江卫视高清,http://108.165.240.85/inc/cqyx.php?id=zhejiangHD
+上海卫视高清,http://108.165.240.85/inc/cqyx.php?id=shanghaiHD
+深圳卫视高清,http://108.165.240.85/inc/cqyx.php?id=shenzhenHD
+辽宁卫视高清,http://108.165.240.85/inc/cqyx.php?id=liaoningHD
+天津卫视高清,http://108.165.240.85/inc/cqyx.php?id=tianjinHD
+贵州卫视高清,http://108.165.240.85/inc/cqyx.php?id=guizhouHD
+四川卫视高清,http://108.165.240.85/inc/cqyx.php?id=sichuanHD
+云南卫视高清,http://108.165.240.85/inc/cqyx.php?id=yunnanSD
+东南卫视高清,http://108.165.240.85/inc/cqyx.php?id=dongnanHD
+黑龙江卫视高清,http://108.165.240.85/inc/cqyx.php?id=heilongjiangHD
+安徽卫视高清,http://108.165.240.85/inc/cqyx.php?id=anhuiSD
+河北卫视高清,http://108.165.240.85/inc/cqyx.php?id=hebeiSD
+江西卫视高清,http://108.165.240.85/inc/cqyx.php?id=jiangxiHD
+湖北卫视高清,http://108.165.240.85/inc/cqyx.php?id=hubeiSD
+海南卫视高清,http://108.165.240.85/inc/cqyx.php?id=hainanSD
+吉林卫视高清,http://108.165.240.85/inc/cqyx.php?id=jilinHD
+广西卫视高清,http://108.165.240.85/inc/cqyx.php?id=guangxiHD
+内蒙古卫视,http://108.165.240.85/inc/cqyx.php?id=neimengkuSD
+湖南卫视高清,http://108.165.240.85/inc/cqyx.php?id=hunanHD
+广东卫视高清,http://108.165.240.85/inc/cqyx.php?id=guangdongHD
+河南卫视高清,http://108.165.240.85/inc/cqyx.php?id=henanHD
+山西卫视,http://108.165.240.85/inc/cqyx.php?id=shanxiSD
+兵团卫视,http://108.165.240.85/inc/cqyx.php?id=bingtuanSD
+宁夏卫视,http://108.165.240.85/inc/cqyx.php?id=ningxia
+北京卡酷少儿,http://108.165.240.85/inc/cqyx.php?id=bjkakuSD
+金鹰卡通高清,http://108.165.240.85/inc/cqyx.php?id=jinyingSD
+三沙卫视,http://108.165.240.85/inc/cqyx.php?id=sanshaSD
+青海卫视,http://108.165.240.85/inc/cqyx.php?id=qinghaiSD
+中国天气,http://108.165.240.85/inc/cqyx.php?id=tianqiSD
+北京纪实科教高清,http://108.165.240.85/inc/cqyx.php?id=bjayjsSD
+山东教育卫视,http://108.165.240.85/inc/cqyx.php?id=sdjiaoyuSD
+新疆卫视,http://108.165.240.85/inc/cqyx.php?id=xinjiangSD
+西藏卫视,http://108.165.240.85/inc/cqyx.php?id=xizangSD
+CGTN,http://108.165.240.85/inc/cqyx.php?id=cgtnSD
+CETV-1,http://108.165.240.85/inc/cqyx.php?id=cetv-1SD
+CETV-4,http://108.165.240.85/inc/cqyx.php?id=cetv-4SD
+生活时尚,http://108.165.240.85/inc/cqyx.php?id=shenghuo
+百姓健康,http://108.165.240.85/inc/cqyx.php?id=jiankangSD
+快乐垂钓高清,http://108.165.240.85/inc/cqyx.php?id=klcdHD
+第一剧场高清,http://108.165.240.85/inc/cqyx.php?id=diyijuchangHD
+都市剧场高清,http://108.165.240.85/inc/cqyx.php?id=dsjcHD
+动漫秀场高清,http://108.165.240.85/inc/cqyx.php?id=dmxcHD
+魅力足球高清,http://108.165.240.85/inc/cqyx.php?id=mlzqHD
+风云剧场高清,http://108.165.240.85/inc/cqyx.php?id=fyjcHD
+求索纪录高清,http://108.165.240.85/inc/cqyx.php?id=qsjlHD
+兵器科技高清,http://108.165.240.85/inc/cqyx.php?id=bqkjHD
+游戏风云高清,http://108.165.240.85/inc/cqyx.php?id=yxfyHD
+怀旧剧场高清,http://108.165.240.85/inc/cqyx.php?id=hjjcHD
+风云音乐高清,http://108.165.240.85/inc/cqyx.php?id=fyyyHD
+央视台球高清,http://108.165.240.85/inc/cqyx.php?id=ystqHD
+风云足球高清,http://108.165.240.85/inc/cqyx.php?id=fyzqHD
+央视文化精品高清,http://108.165.240.85/inc/cqyx.php?id=yswhHD
+高尔夫网球高清,http://108.165.240.85/inc/cqyx.php?id=golfHD
+早期教育高清,http://108.165.240.85/inc/cqyx.php?id=zaojiaoHD
+东方财经高清,http://108.165.240.85/inc/cqyx.php?id=dfcj
+重庆卫视高清,http://108.165.240.85/inc/cqyx.php?id=chongqingHD
+重庆新闻高清,http://108.165.240.85/inc/cqyx.php?id=CQTVNewsHD
+重庆影视高清,http://108.165.240.85/inc/cqyx.php?id=cqyingshiHD
+重庆社会与法高清,http://108.165.240.85/inc/cqyx.php?id=CQTVTrendyHD
+重庆时尚生活高清,http://108.165.240.85/inc/cqyx.php?id=cqssgwHD
+重庆文体娱乐高清,http://108.165.240.85/inc/cqyx.php?id=cqwtylHD
+重庆新农村高清,http://108.165.240.85/inc/cqyx.php?id=cqggncHD
+重庆少儿高清,http://108.165.240.85/inc/cqyx.php?id=cqseHD
+重庆科教高清,http://108.165.240.85/inc/cqyx.php?id=CQTVkejiaoHD
+爱看导视高清,http://108.165.240.85/inc/cqyx.php?id=aikanHD
+重庆汽摩高清,http://108.165.240.85/inc/cqyx.php?id=cqcarSD
+重庆移动高清,http://108.165.240.85/inc/cqyx.php?id=mryyHD
+重广融媒,http://108.165.240.85/inc/cqyx.php?id=cqrongmei
+优购物,http://108.165.240.85/inc/cqyx.php?id=yougouwu
+家家购物,http://108.165.240.85/inc/cqyx.php?id=jjgw
+风尚购物,http://108.165.240.85/inc/cqyx.php?id=fsgw
+聚鲨环球精选,http://108.165.240.85/inc/cqyx.php?id=jusha
+中视购物,http://108.165.240.85/inc/cqyx.php?id=ysgw
+家有购物,http://108.165.240.85/inc/cqyx.php?id=jygw
+央广购物,http://108.165.240.85/inc/cqyx.php?id=yggw
+证券服务,http://108.165.240.85/inc/cqyx.php?id=jiazheng
+书画,http://108.165.240.85/inc/cqyx.php?id=shuhua
+新动漫,http://108.165.240.85/inc/cqyx.php?id=dongman
+国学频道,http://108.165.240.85/inc/cqyx.php?id=guoxue
+优优宝贝,http://108.165.240.85/inc/cqyx.php?id=youxi
+中华特产,http://108.165.240.85/inc/cqyx.php?id=techan
+环球奇观,http://108.165.240.85/inc/cqyx.php?id=car
+生态环境,http://108.165.240.85/inc/cqyx.php?id=shengtai
+四海钓鱼,http://108.165.240.85/inc/cqyx.php?id=diaoyu
+发现之旅,http://108.165.240.85/inc/cqyx.php?id=faxian
+车迷,http://108.165.240.85/inc/cqyx.php?id=doxtv
+法治天地,http://108.165.240.85/inc/cqyx.php?id=fazhi
+金色学堂,http://108.165.240.85/inc/cqyx.php?id=jinse
+收藏天下,http://108.165.240.85/inc/cqyx.php?id=soucang
+财富天下,http://108.165.240.85/inc/cqyx.php?id=caifu
+女性时尚,http://108.165.240.85/inc/cqyx.php?id=nvxing
+中学生,http://108.165.240.85/inc/cqyx.php?id=qicai
+天元围棋,http://108.165.240.85/inc/cqyx.php?id=weiqi
+先锋乒羽,http://108.165.240.85/inc/cqyx.php?id=xianfeng
+环球旅游,http://108.165.240.85/inc/cqyx.php?id=huanqiulvyou
+老故事,http://108.165.240.85/inc/cqyx.php?id=gushi
+摄影频道,http://108.165.240.85/inc/cqyx.php?id=sheying
+
+
+香港主線,#genre#
+
+公众号,http://108.165.240.85/inc/xgzx.php?id=182
+吾爱评测,http://108.165.240.85/inc/xgzx.php?id=183
+凤凰中文台,http://108.165.240.85/inc/xgzx.php?id=182
+凤凰资讯台,http://108.165.240.85/inc/xgzx.php?id=183
+凤凰香港台,http://108.165.240.85/inc/xgzx.php?id=184
+TVB翡翠台,http://108.165.240.85/inc/xgzx.php?id=2
+TVB明珠台,http://108.165.240.85/inc/xgzx.php?id=3
+TVB J2,http://108.165.240.85/inc/xgzx.php?id=5
+TVB星河台,http://108.165.240.85/inc/xgzx.php?id=4
+TVB粤语片,http://108.165.240.85/inc/xgzx.php?id=6
+TVB经典剧,http://108.165.240.85/inc/xgzx.php?id=7
+TVB亚洲剧,http://108.165.240.85/inc/xgzx.php?id=8
+TVB华剧台,http://108.165.240.85/inc/xgzx.php?id=24
+港版美亚电影,http://108.165.240.85/inc/xgzx.php?id=9
+TVB娱乐新闻,http://108.165.240.85/inc/xgzx.php?id=10
+TVB黄金翡翠,http://108.165.240.85/inc/xgzx.php?id=201
+TVB千禧经典,http://108.165.240.85/inc/xgzx.php?id=198
+TVB Magic,http://108.165.240.85/inc/xgzx.php?id=202
+TVB功夫台,http://108.165.240.85/inc/xgzx.php?id=12
+TVB黄金华剧台,http://108.165.240.85/inc/xgzx.php?id=28
+TVB无线新闻台,http://108.165.240.85/inc/xgzx.php?id=13
+TVB无线财经台,http://108.165.240.85/inc/xgzx.php?id=14
+HOY TV,http://108.165.240.85/inc/xgzx.php?id=1
+HOY资讯台,http://108.165.240.85/inc/xgzx.php?id=15
+国际财经台,http://108.165.240.85/inc/xgzx.php?id=16
+澳门莲花台,http://108.165.240.85/inc/xgzx.php?id=17
+18 跑马台,http://108.165.240.85/inc/xgzx.php?id=18
+VIU TV,http://108.165.240.85/inc/xgzx.php?id=19
+VIU6TV,http://108.165.240.85/inc/xgzx.php?id=20
+Now新闻台,http://108.165.240.85/inc/xgzx.php?id=21
+Now财经台,http://108.165.240.85/inc/xgzx.php?id=23
+Now英超台,http://108.165.240.85/inc/xgzx.php?id=22
+NowSPORTS7,http://108.165.240.85/inc/xgzx.php?id=197
+Hands UP,http://108.165.240.85/inc/xgzx.php?id=25
+
+
+
+香港二線,#genre#
+TVB翡翠台,p3p://108.181.20.159:59125/653e4c02000ea0440c8c63fd3e5d709d
+TVB翡翠台 H.265,p3p://108.181.20.159:59125/653e4c6d000965ef0c8e049f4be34103
+TVB J2,p3p://108.181.20.159:59125/653e4cda0007743f0c8fade86d132b26
+TVB J2 H.265,p3p://108.181.20.159:59125/653e4d3e000b344f0c91357e73163f82
+TVB无线新闻,p3p://108.181.20.159:59125/653e4703000daead0c78dfb07723484e
+TVB无线新闻 H.265,p3p://108.181.20.159:59125/653e4818000b73240c7d19181340415e
+TVB财体资讯,p3p://108.181.20.159:59125/5ffbee4900066c0ddf0b8b84423c06f3
+TVB财体资讯 H.265,p3p://108.181.20.159:59125/611d989d0005244a4a7f24d111282ffb
+TVB明珠,p3p://108.181.20.159:59125/611d99f3000116024a845bb9627404c9
+TVB明珠 H.265,p3p://108.181.20.159:59125/602f1ba9000814efa6f2970333d309d9
+Viu TV,p3p://108.181.20.159:59125/611d99820007a67c4a82a3fe3cc749de
+VIU TV H.265,p3p://108.181.20.159:59125/5fed3234000c7a49a57dbd6e14af358f
+VIU 6,p3p://108.181.20.159:59125/5fed31e7000736e2a57c8f4c14d55d36
+有线直播新闻,p3p://108.181.20.159:59125/64ff4f0e000d7954168179ff031e6108
+香港国际财经,p3p://108.181.20.159:59125/64838620000cd8ed32fb0d6a414411f7
+公众号,http://108.165.240.85/inc/xgzx.php?id=182
+吾爱评测,http://108.165.240.85/inc/xgzx.php?id=183
+HOY资讯,p3p://108.181.20.159:59125/648378c5000994f732c6e11c048379ef
+HOY TV,p3p://108.181.20.159:59125/62184bc3000cd48f11e47b06202b7e18
+TVB娱乐新闻,p3p://108.181.20.159:59125/5fe7f68d000e73d9910d2a86341258f7
+黄金翡翠台,p3p://108.181.20.159:59125/653e49c20006c60f0c8397f7771b1b7b
+TVB千禧经典,p3p://108.181.20.159:59125/645f6a3a0006360ca5eec1c509a8654f
+TVB经典,p3p://108.181.20.159:59125/5fdee1a2000b5fba6d93e51308cb7ddf
+TVB功夫台,p3p://108.181.20.159:59125/653e4a3f000b1abb0c85815c35fa0803
+TVB华语剧,p3p://108.181.20.159:59125/653e4acf0006e0e80c87b2c8194d5791
+TVB粤语片,p3p://108.181.20.159:59125/653e4b8d00001a450c8a973c06325101
+TVB亚洲剧,p3p://108.181.20.159:59125/6284685e00039b52b82eeeca7a785fda
+TVB 18赛马,p3p://108.181.20.159:59125/630aae2a0009c386c4a94bfb4c686b60
+TVB星河(粤),p3p://108.181.20.159:59125/5fdee23d000b670a6d96428e4c334643
+TVB星河(国),p3p://108.181.20.159:59125/654aa426000823873cc48521786400fb
+TVB亚洲综艺,p3p://108.181.20.159:59125/63108c86000a543bdb95705579fa26ad
+TVB戏曲,p3p://108.181.20.159:59125/63108bd0000e4a9cdb92aa6820e833d5
+Cinemax HK,p3p://108.181.20.159:59125/6519bda7000d8e137dc0fc4756be5188
+Now新闻,p3p://108.181.20.159:59125/653e4f3d0003bdbf0c98ffaf583a6e3a
+Now财经,p3p://108.181.20.159:59125/6256e47a0007a6bb0665fa1971252f50
+黄金华剧台,p3p://108.181.20.159:59125/652970de00011277bb14dcd76e301cc0
+美亚电影(粤),p3p://108.181.20.159:59125/64be58dd0007fb8d18c11148736701af
+凤凰资讯,p3p://108.181.20.159:59125/5fffbf860003807cedf4e1016c3c3ed2
+凤凰资讯,p3p://108.181.20.159:59125/640dad8e0004032e66a7116c70d14d30
+凤凰卫视,p3p://108.181.20.159:59125/5ff7074800001bcccbe59f3d4ff00590
+凤凰卫视,p3p://108.181.20.159:59125/602c73500002f4d29c90fa1270f21160
+凤凰香港,p3p://108.181.20.159:59125/5fe0b82c000cac9774c17f262e43314d
+Thrill,p3p://108.181.20.159:59125/630c2b9400044df5ca7abd7159677c41
+Hi-YAH,p3p://108.181.20.159:59125/64c4d523000ac6a9321683700b626a46
+Mytv Super18,p3p://108.181.20.159:59125/6506d591000d6d7733e6bdfb4725689e
+Now Sports Prime,p3p://108.181.20.159:59125/644edbcc0004d5a765428da71f967a86
+Hands Up,p3p://108.181.20.159:59125/6484c7b80001882237e3197529891bda
+香港文旅,p3p://108.181.20.159:59125/64d26915000887bf671ffe127ecd0115
+GEM HK,p3p://108.181.20.159:59125/6506c5e500027c7f33a9834b5d937568
+HBO Signature,p3p://108.181.20.159:59125/6318b7730000b372fb7ca7e170c66e54
+HBO Hits,p3p://108.181.20.159:59125/63109c310002f740dbd2a26e2dc405af
+HBO Family,p3p://108.181.20.159:59125/63109c71000a3661dbd39e495cfb24f8
+天映频道(国语),p3p://108.181.20.159:59125/6471b0bb00011e09ed51d397629e4f55
+美亚电影(国),p3p://108.181.20.159:59125/64c3653f0007f6812c7970122ff43531
+龙祥电影(粤),p3p://108.181.20.159:59125/63375cce0008451773313a26199f3191
+OneTV综合,p3p://108.181.20.159:59125/64d5c5550007c4d9744057ea09db782a
+KIX HD,p3p://108.181.20.159:59125/6444e9940006c03f3e688dba67767ffd
+NowSports 4K 1,p3p://108.181.20.159:59125/64ff0dd300027c501582a8b75bd6680f
+NowSports 4K 2,p3p://108.181.20.159:59125/64ff0ec10007a19315864bb952b44a7f
+天映频道(粤语),p3p://108.181.20.159:59125/6533b684000931d9e334c45b064e2833
+有线赛马18,p3p://108.181.20.159:59125/64db58eb000d759e8a08afbc7bd65062
+香港31台,p3p://108.181.20.159:59125/6109ec88000eed44fda7d8ff6e487ce1
+香港32台,p3p://108.181.20.159:59125/6109eca300044552fda83fbc4a2f6a1b
+RTHK33,p3p://108.181.20.159:59125/64ff519d0003b071168b76195e14734a
+RTHK34,p3p://108.181.20.159:59125/64ff527b00075217168eda38347e36b1
+RTHK35,p3p://108.181.20.159:59125/64ff52f5000b7c8e1690b7d96b26354e
+Axn HK,p3p://108.181.20.159:59125/6506d42b0000055133e1441b1d831414
+Super Kids,p3p://108.181.20.159:59125/6506d285000b06bd33dad67a652e2bfd
+TVN HK,p3p://108.181.20.159:59125/6506c6930009ab3233ac2cd3018a6125
+Fight Sports,p3p://108.181.20.159:59125/644c26370001b4eb5aad692f22d9728d
+创世电视,p3p://108.181.20.159:59125/64b5088100037eb4f45f54135b7b6177
+面包台,p3p://108.181.20.159:59125/64c26e6d0003155c28b54a8561850853
+澳亚卫视,p3p://108.181.20.159:59125/64c262e100006db428882ef8137c12c4
+澳门Macau,p3p://108.181.20.159:59125/64c2611000018873288116d70e04175d
+澳门奥视,p3p://108.181.20.159:59125/644ed5a00003da2f652a717f77c821b8
+澳门资讯,p3p://108.181.20.159:59125/644ed21e000dd9a7651cc03a565575f7
+澳门莲花,p3p://108.181.20.159:59125/60b977ed000ba538c36458471a9d6772
+澳视葡语,p3p://108.181.20.159:59125/644ece91000b801a650ee0e442bd0b87
+星空卫视,p3p://108.181.20.159:59125/64ee40d1000cfcc5d3e2330305817be2
+CN卡通(粤),p3p://108.181.20.159:59125/648353bb0006d4d93236315a766b692a
+Animax HK,p3p://108.181.20.159:59125/6506d1a00000a99a33d7555a4b747caa
+台灣主線,#genre#
+台視HD,http://108.165.240.85/inc/twzx.php?id=live1047
+中視HD,http://108.165.240.85/inc/twzx.php?id=live1048
+華視HD,http://108.165.240.85/inc/twzx.php?id=live1049
+公視HD,http://108.165.240.85/inc/twzx.php?id=live1201
+三立台湾台,http://108.165.240.85/inc/twzx.php?id=live1021
+三立都會台,http://108.165.240.85/inc/twzx.php?id=live1020
+八大綜合台,http://108.165.240.85/inc/twzx.php?id=live1019
+八大第一台,http://108.165.240.85/inc/twzx.php?id=live1043
+八大戲劇台,http://108.165.240.85/inc/twzx.php?id=live1057
+中天綜合台,http://108.165.240.85/inc/twzx.php?id=live1022
+中天娛樂台,http://108.165.240.85/inc/twzx.php?id=live1023
+緯來綜合台,http://108.165.240.85/inc/twzx.php?id=live1044
+緯來育樂台,http://108.165.240.85/inc/twzx.php?id=live1045
+緯來戲劇台,http://108.165.240.85/inc/twzx.php?id=live1186
+緯來體育台,http://108.165.240.85/inc/twzx.php?id=live1011
+東森綜合台,http://108.165.240.85/inc/twzx.php?id=live1041
+東森戲劇台,http://108.165.240.85/inc/twzx.php?id=live1042
+東森超視台,http://108.165.240.85/inc/twzx.php?id=live1180
+東森幼幼台,http://108.165.240.85/inc/twzx.php?id=live1008
+緯來日本台,http://108.165.240.85/inc/twzx.php?id=live1026
+亞洲旅遊台,http://108.165.240.85/inc/twzx.php?id=live1219
+年代MUCH,http://108.165.240.85/inc/twzx.php?id=live1189
+FOX (台湾),http://108.165.240.85/inc/twzx.php?id=live1040
+鳯凰資訊台,http://108.165.240.85/inc/twzx.php?id=live1210
+鳯凰中文台,http://108.165.240.85/inc/twzx.php?id=live1213
+TVBS  HD,http://108.165.240.85/inc/twzx.php?id=live1251
+TVBS新聞台,http://108.165.240.85/inc/twzx.php?id=live1051
+TVBS歡樂台,http://108.165.240.85/inc/twzx.php?id=live1018
+寰宇新闻台,http://108.165.240.85/inc/twzx.php?id=live1222
+中天新闻台,http://108.165.240.85/inc/twzx.php?id=live1015
+東森新闻台,http://108.165.240.85/inc/twzx.php?id=live1014
+東森財經台,http://108.165.240.85/inc/twzx.php?id=live1017
+非凡商業台,http://108.165.240.85/inc/twzx.php?id=live1012
+非凡新聞台,http://108.165.240.85/inc/twzx.php?id=live1013
+三立新闻台,http://108.165.240.85/inc/twzx.php?id=live1016
+壹視新聞台,http://108.165.240.85/inc/twzx.php?id=live1242
+年代新聞台,http://108.165.240.85/inc/twzx.php?id=live1192
+華視資訊台,http://108.165.240.85/inc/twzx.php?id=live1238
+民視新聞台,http://108.165.240.85/inc/twzx.php?id=live1204
+Bloomberg,http://108.165.240.85/inc/twzx.php?id=live1066
+CNBC國際台,http://108.165.240.85/inc/twzx.php?id=live1063
+好萊塢電影,http://108.165.240.85/inc/twzx.php?id=live1025
+緯來電影台,http://108.165.240.85/inc/twzx.php?id=live1183
+衛視電影台,http://108.165.240.85/inc/twzx.php?id=live1031
+龍華電影台,http://108.165.240.85/inc/twzx.php?id=live1245
+龍華戲劇台,http://108.165.240.85/inc/twzx.php?id=live1009
+龍華偶像台,http://108.165.240.85/inc/twzx.php?id=live1235
+龍華日韓台,http://108.165.240.85/inc/twzx.php?id=live1010
+HBO电影台,http://108.165.240.85/inc/twzx.php?id=live1029
+MAX电影台,http://108.165.240.85/inc/twzx.php?id=live1030
+AXN电影台,http://108.165.240.85/inc/twzx.php?id=live1054
+衛視洋片台,http://108.165.240.85/inc/twzx.php?id=live1032
+衛視中文台,http://108.165.240.85/inc/twzx.php?id=live1024
+東風衛視台,http://108.165.240.85/inc/twzx.php?id=live1195
+大愛電視台,http://108.165.240.85/inc/twzx.php?id=live1216
+人間衛視台,http://108.165.240.85/inc/twzx.php?id=live1198
+好消息台台,http://108.165.240.85/inc/twzx.php?id=live1231
+國家地理台,http://108.165.240.85/inc/twzx.php?id=live1003
+國家探索台,http://108.165.240.85/inc/twzx.php?id=live1002
+動物星球台,http://108.165.240.85/inc/twzx.php?id=live1004
+旅游生活台,http://108.165.240.85/inc/twzx.php?id=live1005
+迪士尼频道,http://108.165.240.85/inc/twzx.php?id=live1007
+ANIMAX卡通,http://108.165.240.85/inc/twzx.php?id=live1066
+龍華卡通台,http://108.165.240.85/inc/twzx.php?id=custom29
+博斯運動台,http://108.165.240.85/inc/twzx.php?id=live1225
+MOMO綜合,http://108.165.240.85/inc/twzx.php?id=live1248
+ELEVEN體育1,http://108.165.240.85/inc/twzx.php?id=live1069
+ELEVEN體育2,http://108.165.240.85/inc/twzx.php?id=live1072
+海峽衛視台,http://108.165.240.85/inc/twzx.php?id=live1035
+浙江衛視台,http://108.165.240.85/inc/twzx.php?id=live1036
+台灣二線,#genre#
+民視影劇台,http://108.165.240.85/inc/tw2x.php?id=litv-ftv09
+民視綜藝台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv004
+民視旅遊台,http://108.165.240.85/inc/tw2x.php?id=litv-ftv07
+民視第一台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv003
+民視台灣台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv001
+台視HD,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv066
+中視HD,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv040
+華視HD,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv041
+公視戲劇台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv042
+中視菁采台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv064
+豬哥亮歌廳秀,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv006
+亞洲旅遊台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn17
+中天亞洲台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv109
+八大精彩台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv034
+采昌影劇台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv049
+靖天戲劇台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv058
+靖天日本台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv047
+靖天育樂台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv062
+靖天國際台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv063
+靖洋戲劇台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv045
+靖天綜合台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv046
+靖天歡樂台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv054
+靖天資訊台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv065
+靖洋卡通台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv057
+靖天卡通台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv044
+Smart知識台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn19
+i-Fun動漫台,http://108.165.240.85/inc/tw2x.php?id=litv-ftv15
+台灣戲劇台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn22
+TVBS  HD,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv073
+TVBS歡樂台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv068
+TVBS精采台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv067
+東森財經台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv153
+華視新聞台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv052
+寰宇新聞台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn14
+非凡新聞台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv010
+台視新聞台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv051
+台視財經台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv056
+中視新聞台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv074
+寰宇台灣台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn15
+非凡商業台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv048
+第一商業台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv104
+國會頻道1台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv084
+半島國際新聞台,http://108.165.240.85/inc/tw2x.php?id=litv-ftv10
+VOA美國之音,http://108.165.240.85/inc/tw2x.php?id=litv-ftv03
+GINX Esports TV,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv053
+龍華電影台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn03
+龍華戲劇台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn18
+龍華偶像台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn12
+龍華經典台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn21
+龍華日韓台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn11
+靖天電影台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv061
+靖天映畫台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv055
+影迷數位電影台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv011
+CATCHPLAY電影台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv076
+視納華仁紀實頻道,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv013
+客家電視台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv043
+好消息 TV,http://108.165.240.85/inc/tw2x.php?id=litv-ftv16
+Medici Arts,http://108.165.240.85/inc/tw2x.php?id=litv-longturn16
+TRACE Urban,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv082
+阿里郎頻道,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv079
+達文西頻道,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv018
+生活英語台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn20
+博斯高球台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn05
+博斯高球二台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn06
+博斯運動一台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn07
+博斯無限台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn10
+博斯網球台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn09
+博斯運動二台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn08
+博斯魅力台,http://108.165.240.85/inc/tw2x.php?id=litv-longturn04
+東森購物1台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv102
+東森購物2台,http://108.165.240.85/inc/tw2x.php?id=4gtv-4gtv103
+台灣三線,#genre#
+壹综合,p3p://108.181.20.159:59125/64e36a09000d3453a98b615460a544cd
+东森新闻,p3p://108.181.20.159:59125/61468afa0005b339ea7014d376a616f3
+中视新闻,p3p://108.181.20.159:59125/61ff2b9d0004cfe6bb9a99f71e1c4c92
+寰宇新闻,p3p://108.181.20.159:59125/653cd4a900049a4206d258a92e941b10
+寰宇新闻,p3p://108.181.20.159:59125/653cd33a0001a69d06ccbe4e26413d90
+三立新闻,p3p://108.181.20.159:59125/6014c896000c7101401f67cc5477681b
+民视新闻,p3p://108.181.20.159:59125/602f1f4a000aa86fa700c49817387f81
+台视新闻,p3p://108.181.20.159:59125/62caf1dc000525b3cbb4de6e3c0e2af8
+年代新闻,p3p://108.181.20.159:59125/5fe09fec000ac0127462c4ac6b1f16a3
+镜新闻,p3p://108.181.20.159:59125/63ebd33c0003c437e26ae87279d061f1
+非凡新闻,p3p://108.181.20.159:59125/6146918a000a6ec0ea89b8904d520fbf
+壹新闻,p3p://108.181.20.159:59125/621dbb640001cb2b272027f74da62753
+华视新闻,p3p://108.181.20.159:59125/632c706b0009d57248864b64705a59a0
+寰宇新闻台湾,p3p://108.181.20.159:59125/612d7c11000c9faf888ebf9f3276784e
+三立inews,p3p://108.181.20.159:59125/644f81c10003ba2367cad2610d3a2ab5
+三立inews,p3p://108.181.20.159:59125/643a6b71000a47fb156c2a403510409b
+东森财经,p3p://108.181.20.159:59125/61468bd70005123dea7373f226636dba
+非凡商业,p3p://108.181.20.159:59125/621dbc3b00051ea5272370aa6e685347
+博斯运动1,p3p://108.181.20.159:59125/61f02576000b2c0a80eb0552388d145e
+博斯运动2,p3p://108.181.20.159:59125/62639c49000784a03813882a6f5c7e5d
+智林体育,p3p://108.181.20.159:59125/62148d7e000079c103453a521daa6e9f
+民视,p3p://108.181.20.159:59125/654f8c14000916f44fee7f0d7a14165e
+民视,p3p://108.181.20.159:59125/6001ba8400051d89f5b151a63fa96419
+台视,p3p://108.181.20.159:59125/612ee2240008f3db8e0578dc59406f9e
+华视,p3p://108.181.20.159:59125/61eff95c000bcf35803ebfe7426e2914
+中视,p3p://108.181.20.159:59125/621dab720008820a26e1e06b75653395
+美亚电影,p3p://108.181.20.159:59125/62883c4f000a4ca3c722d5ec04fb74e7
+星卫电影,p3p://108.181.20.159:59125/64beb7d8000b87011a3416ad1cd138f9
+卫视电影,p3p://108.181.20.159:59125/61f88baf000e09b3a1b9e2a3622612e9
+龙祥时代,p3p://108.181.20.159:59125/60115453000a238d32a1418142be77f7
+东森电影,p3p://108.181.20.159:59125/654f8e9d000f29684ff867c629af413e
+东森电影,p3p://108.181.20.159:59125/62c103a5000b5a66a4eacca77822079a
+东森洋片,p3p://108.181.20.159:59125/654f8da4000861524ff499617a97049f
+东森洋片,p3p://108.181.20.159:59125/64c62c06000d1cf03751bf246ed813e7
+好莱坞电影,p3p://108.181.20.159:59125/62cee8b3000ea6aedb30a55616047866
+龙华电影,p3p://108.181.20.159:59125/621471310004d28d02d6aeb471c265ec
+AXN台湾,p3p://108.181.20.159:59125/6258ddc5000ee8a40e1bc8f50dec545c
+EYE戏剧,p3p://108.181.20.159:59125/64c62f0c000d47c0375d8ea3081775da
+EYE旅游,p3p://108.181.20.159:59125/64c105a500023b4e2333fd1453e42393
+罪案追缉CI,p3p://108.181.20.159:59125/623baf7a0004e5d79c2047cd46107be2
+彩昌影剧,p3p://108.181.20.159:59125/621de2ed000a255d27ba994346c66a7c
+尼克JR,p3p://108.181.20.159:59125/6233e05300064fcf7d9f8a39563b6c75
+达芬奇,p3p://108.181.20.159:59125/62011f820008c9f3c33ae0231cf86a05
+EL生活英语,p3p://108.181.20.159:59125/624888bb000b784ace507da37b7906ea
+靖天卡通,p3p://108.181.20.159:59125/625b6d3800022fe9181c1ee5362c159d
+Z频道,p3p://108.181.20.159:59125/64c7ce3f000afa423db36d3f378c386d
+Star World,p3p://108.181.20.159:59125/621dc4640002052a2743501031f65ed4
+Animax,p3p://108.181.20.159:59125/61e0f9f0000ec6db45a9e87848424184
+地理野生,p3p://108.181.20.159:59125/64fb557b000ba24206fabee910ec690d
+HITS,p3p://108.181.20.159:59125/6233e648000735057db6cf734adf440d
+国家地理,p3p://108.181.20.159:59125/621485d20002ab4803274308662d5e97
+探索亚洲,p3p://108.181.20.159:59125/623bc4f4000da3919c742e942bdb3571
+BBC Lifestyle,p3p://108.181.20.159:59125/64026f590000e9663abc652f25176282
+BBC earth,p3p://108.181.20.159:59125/6444eb2e000921503e6ecfe873cd10b1
+尼克儿童,p3p://108.181.20.159:59125/6233e0ca0000ca8f7da159a76b755519
+CN卡通,p3p://108.181.20.159:59125/61ded38e000d52023d43f93e0ee00012
+中旺电视,p3p://108.181.20.159:59125/5fe09c570001addf7454c44e021f76be
+中视箐采,p3p://108.181.20.159:59125/621db1fb0006fbf526fb672712522a46
+动物星球,p3p://108.181.20.159:59125/6214894b0007e3120334d50a59d03689
+卫视中文,p3p://108.181.20.159:59125/61e0f08a0009de79458530bd5bfa2605
+亚洲美食,p3p://108.181.20.159:59125/62c9a44500000cd3c69dc74b77c62c82
+龙华卡通,p3p://108.181.20.159:59125/6264b6e0000669483c6365b319d43878
+靖洋卡通,p3p://108.181.20.159:59125/626104fd000e0f742df488f03ab9480b
+TLC台湾,p3p://108.181.20.159:59125/5fe16de700083ba97787607e74d90cb5
+爱尔达影剧,p3p://108.181.20.159:59125/644f91780000980d6808346f494d7ec1
+亚洲旅游,p3p://108.181.20.159:59125/61e4f963000c710c55474e4e1e2273d9
+台视综合,p3p://108.181.20.159:59125/61244c7000063b4e64ad23641aa067e7
+公视,p3p://108.181.20.159:59125/63ebf0b7000e7d27e2de13a9113e7096
+壹电影,p3p://108.181.20.159:59125/651c3a7e00035f9e8778a18d0aeb27f1
+纬来日本,p3p://108.181.20.159:59125/5fe1add80007bbbd788125c43bf36060
+靖天日本,p3p://108.181.20.159:59125/612db74f000c333c897629ac70920bef
+靖天国际,p3p://108.181.20.159:59125/612db8220006940e897960753ab534e9
+龙华日韩,p3p://108.181.20.159:59125/621e1d0e00085766289da9bb1d7120af
+靖天戏剧,p3p://108.181.20.159:59125/612db70e000298f98975294e4645098b
+影迷数位电影,p3p://108.181.20.159:59125/6223ae1b0007136f3e5c44280e3300fa
+Eleven 1,p3p://108.181.20.159:59125/6027f40400042e0d8b002a1b0af27e77
+Eleven 2,p3p://108.181.20.159:59125/6025f1d0000440c783278efb13a4147e
+Momo亲子,p3p://108.181.20.159:59125/61e0ffbf000c4e3545c098666cb76c2d
+FTV影剧,p3p://108.181.20.159:59125/63ebf3c5000246e9e2e9ff2f72d22633
+FTV综艺,p3p://108.181.20.159:59125/63ebf41d000b6335e2eb595050b6303b
+FTV旅游,p3p://108.181.20.159:59125/63ebf4b70008a733e2edb2296e997eb6
+龙华偶像,p3p://108.181.20.159:59125/609bb1b0000732744f174daa791d3b43
+龙华戏剧,p3p://108.181.20.159:59125/6214c295000a5fa204149eb30d3c30b4
+龙华经典,p3p://108.181.20.159:59125/6223b9d8000ef67e3e8a2073190e36d5
+星卫娱乐,p3p://108.181.20.159:59125/6233db960002ce6c7d8d07056a151e9d
+民视台湾,p3p://108.181.20.159:59125/6388b888000de54e5f4c698049f16f53
+LoveNature,p3p://108.181.20.159:59125/6233fcfa000be8f27e0f78035e656379
+TVBS,p3p://108.181.20.159:59125/612ee5ef000f06f58e144b6727ec3efb
+TVBS精彩,p3p://108.181.20.159:59125/61efd0a100047e1a7f9fa38d29f5746d
+TVBS欢乐,p3p://108.181.20.159:59125/61e831a60008c7d761db13151abe16ae
+东森综合,p3p://108.181.20.159:59125/5fe8c5570001412994347b4506da6ebb
+东森戏剧,p3p://108.181.20.159:59125/60c02afe00055e7edd8f5fb06ca977d5
+靖天综合,p3p://108.181.20.159:59125/6223bd68000c7a903e980a5524d66f67
+东森幼幼,p3p://108.181.20.159:59125/62c9a6bb000ac34dc6a767036c5f3878
+中天娱乐,p3p://108.181.20.159:59125/5ffae39100029825dafa1d03520571ac
+中天综合,p3p://108.181.20.159:59125/5fe293ee000b7cbd7c03ecad72ba76ec
+东森超视,p3p://108.181.20.159:59125/6388b74e000e69875f479f207662566b
+三立国际,p3p://108.181.20.159:59125/5fe95e150003dbe09689221a68d3215e
+三立台湾,p3p://108.181.20.159:59125/5fe2947f000c58a57c0623474ae64e07
+三立都会,p3p://108.181.20.159:59125/5fe29458000eb9287c058b8b2e5806e8
+三立戏剧,p3p://108.181.20.159:59125/623524310003dee68290a4c42edc7cf5
+WarnerTV,p3p://108.181.20.159:59125/623a7c43000859b0977039e0175b0470
+纬来综合,p3p://108.181.20.159:59125/5fe16e690002b73877895ae33a8a2a16
+纬来电影,p3p://108.181.20.159:59125/62c860e50008ea96c1ae9a96599c6947
+纬来戏剧,p3p://108.181.20.159:59125/5fe29426000330687c04c55011370c91
+纬来精彩,p3p://108.181.20.159:59125/623a875d0001a53e979b95b628874e82
+八大第一,p3p://108.181.20.159:59125/5fea93070007b1939b3ff46f17b905c7
+八大戏剧,p3p://108.181.20.159:59125/6224f676000aef1a435e76c619855b4e
+八大娱乐,p3p://108.181.20.159:59125/5fe293b60007594a7c0310e05b6a27ac
+八大综合,p3p://108.181.20.159:59125/61a57c52000cc2015d49e9e91be106b6
+靖天映画,p3p://108.181.20.159:59125/6258eae500040fd80e4f0b2311754279
+博斯网球,p3p://108.181.20.159:59125/6275f21d000aeb447fb1e83c30d60273
+美食星球,p3p://108.181.20.159:59125/62c9a5620009f165c6a22320701370b6
+探索台湾,p3p://108.181.20.159:59125/62c759f2000bc06bbdab761176c927da
+DMAX台湾,p3p://108.181.20.159:59125/62636a890008309f3751324a7688052d
+History台湾,p3p://108.181.20.159:59125/6233e1a30007e08d7da4ab21717b3e79
+IFUN爱放,p3p://108.181.20.159:59125/63ed9c5c0008711fe9648ea407167ba7
+JET综合,p3p://108.181.20.159:59125/621e14f2000381b7287dfb1557135ff8
+靖天欢乐,p3p://108.181.20.159:59125/6258f7e400070ac10e81d00831393e97
+靖天育乐,p3p://108.181.20.159:59125/6223be04000a57323e9a6b2919b21d76
+博斯魅力,p3p://108.181.20.159:59125/612ee43d000c84ea8e0dab707a8b2e0d
+Momo综合,p3p://108.181.20.159:59125/621e17750005eaa02887cb6e61ea2a58
+龙华洋片,p3p://108.181.20.159:59125/64c0e1af000875f522a785c0570b06ae
+中视经典,p3p://108.181.20.159:59125/621db24e000d4a9726fcacfd58c400a2
+影迷纪实,p3p://108.181.20.159:59125/62c9a2fe00025fc4c698ca952e9711cb
+Amc最爱电影,p3p://108.181.20.159:59125/625bbd49000d7c0d1954e42d45bc3182
+靖洋戏剧,p3p://108.181.20.159:59125/626104d8000627c22df3f662158708fa
+靖天电影,p3p://108.181.20.159:59125/61ed0469000059af74b25aa267531e5a
+民视第一,p3p://108.181.20.159:59125/5fe0a665000c49bf747c0dbd57ec09a3
+MTV台湾,p3p://108.181.20.159:59125/621e1827000d7a3a288a84ae70c44b0d
+Life Time,p3p://108.181.20.159:59125/623a91f0000d3ab297c4e6e2101d46b4
+GOOD TV,p3p://108.181.20.159:59125/63ed9f4900046160e96ffb5b44333476
+民视旅游,p3p://108.181.20.159:59125/61769f2d000d84d7a63c4df74f4f24c4
+爱尔达体育1,p3p://108.181.20.159:59125/623a8d50000c965397b2d5b26c7b25bd
+爱尔达体育2,p3p://108.181.20.159:59125/623a8d8d0001570d97b3c11a65640b68
+爱尔达体育3,p3p://108.181.20.159:59125/622e99e60004026169046fd918be6ed7
+爱尔达体育4,p3p://108.181.20.159:59125/652ba3c60001423dc3ab8c2653167dc9
+历史频道,p3p://108.181.20.159:59125/6233e1a30007e08d7da4ab21717b3e79
+历史频道2,p3p://108.181.20.159:59125/6233e2240002d3af7da6a1bf693a1ed5
+探索频道,p3p://108.181.20.159:59125/62c759f2000bc06bbdab761176c927da
+Trace Sport,p3p://108.181.20.159:59125/644faccf000c7b6368730354764b17ed
+天映经典,p3p://108.181.20.159:59125/5fded422000d0eb46d5f29815c1d4155
+韩国娱乐台,p3p://108.181.20.159:59125/621e16b0000ec4772884cc295a1614a8
+爱尔达娱乐,p3p://108.181.20.159:59125/654f2d84000107fc4e7d1a7a77631ac2
+台视财经,p3p://108.181.20.159:59125/6223b571000a13023e78ece5030b5b05
+Cinemax,p3p://108.181.20.159:59125/64ce039d0009f00b55f3e422778f3af3
+Catchplay,p3p://108.181.20.159:59125/6258e5c9000dd0d00e3b184c1b9c4f4c
+Catchplay Beyond,p3p://108.181.20.159:59125/624886bd0005941ace48b3ef71407d9e
+Cinema World,p3p://108.181.20.159:59125/6233e8f1000112b17dc1320c7d1c4049
+MyCinemaEurope,p3p://108.181.20.159:59125/6233fc79000a0ea07e0d7fa1125015d0
+三立综合,p3p://108.181.20.159:59125/6233dc940004f17a7d90e7c364b93c82
+八大综艺,p3p://108.181.20.159:59125/621e16570009521a28836f1b4c052719
+民视综艺,p3p://108.181.20.159:59125/60226655000c42b2754eb8925f3a52d9
+八大精彩,p3p://108.181.20.159:59125/6223beb7000542db3e9d251558fb45b1
+纬来育乐,p3p://108.181.20.159:59125/6214bdc7000061300401d77e20cc43d8
+纬来体育,p3p://108.181.20.159:59125/5fe16e4c000e45c17788ec964e9c5564
+Life Time 台湾,p3p://108.181.20.159:59125/623a91f0000d3ab297c4e6e2101d46b4
+Life Time 台湾,p3p://108.181.20.159:59125/6233e3870008739f7dac0de912e2311a
+Boomerang,p3p://108.181.20.159:59125/621e313f0005594c28ec88582a49029c
+爱尔达综合,p3p://108.181.20.159:59125/644f9341000c1001680f3089032174aa
+卫视西片,p3p://108.181.20.159:59125/60c79e440000ec5bfaa9367854ba796d
+原住民电视,p3p://108.181.20.159:59125/64450b180002b23d3eeb784a0aa62e20
+公视戏剧,p3p://108.181.20.159:59125/64450cdd000b67ea3ef2640f773a7ec7
+EVE HD,p3p://108.181.20.159:59125/6445172e000920783f1aafee754f43e4
+HGTV,p3p://108.181.20.159:59125/644518fd0002d5953f21bedc56b6465f
+TVBS亚洲,p3p://108.181.20.159:59125/6484e089000a5e7a38440c1e1ace3b27
+TVN HD,p3p://108.181.20.159:59125/644f9623000a4051681a72d66bfc0191
+Classica古典音乐,p3p://108.181.20.159:59125/6452b4f1000c38e8744ac80744c33d67
+Mezzo Live,p3p://108.181.20.159:59125/6452bcb000039d52746907f4476f5e7b
+猪哥亮歌厅秀,p3p://108.181.20.159:59125/6452bbf2000d02457466242b0e5c5ea2
+UniverseTV,p3p://108.181.20.159:59125/644fbb7c0004a5e968ac550c11f72df5
+Global Trekker,p3p://108.181.20.159:59125/644fb34f000f396e688c67ff6b147338
+高点综合,p3p://108.181.20.159:59125/64c7cf1b000247a33db6c6660f1427b6
+高点综合,p3p://108.181.20.159:59125/6483819d000e97b032e96e1f26b40f0b
+人间卫视,p3p://108.181.20.159:59125/64bbd61c0005f2d80ef27a2574246048
+霹雳台湾,p3p://108.181.20.159:59125/644507280004aa433edc17562e211a38
+Baby TV,p3p://108.181.20.159:59125/64bea3f00002bdf919e6522520650b26
+华艺综合,p3p://108.181.20.159:59125/64c62137000746f437278510051625d8
+ELtoday综合,p3p://108.181.20.159:59125/64c7d0cb0005131a3dbd5e9f3e8523f2
+国会频道 1,p3p://108.181.20.159:59125/64ce0646000722d755fe479603e64ba8
+国会频道 2,p3p://108.181.20.159:59125/64ce06980008b4f755ff884d646a56da
+SMART,p3p://108.181.20.159:59125/64e367a800053465a982145d191f168f
+CMUSIC,p3p://108.181.20.159:59125/64e368dc000e5b23a986c9d62f9604df
+寰宇财经,p3p://108.181.20.159:59125/64e36edf00052681a99e432a601547f5
+Rock Action,p3p://108.181.20.159:59125/64c61f34000b815b371faa6b51f85140
+Rock Entertainmen,p3p://108.181.20.159:59125/64c61fa0000234d837214dea59b57166
+Rock Expreme,p3p://108.181.20.159:59125/64c6200b000b7fb53722f24464fa73dc
+视纳华仁纪实,p3p://108.181.20.159:59125/62c9a3be00088219c69bba2111fd091e
+大立电视,p3p://108.181.20.159:59125/64c4d2ba00051d1d320d17d218503f93
+番薯台,p3p://108.181.20.159:59125/64c27b030001a1b728e6741548c32c95
+时尚运动,p3p://108.181.20.159:59125/644fc33200017f2468ca733749451091
+大爱1,p3p://108.181.20.159:59125/63ed9fff00076875e972c31c79f4152e
+大爱2,p3p://108.181.20.159:59125/63eda04a0001f6fae973e6a334696980
+国兴卫视,p3p://108.181.20.159:59125/64bbca22000912200ec3b2631bca27c7
+電影戲劇,#genre#
+纬来电影台,http://108.165.240.85/inc/xgzx.php?id=103
+东森电影台,http://108.165.240.85/inc/xgzx.php?id=104
+东森洋片台,http://108.165.240.85/inc/xgzx.php?id=105
+东森戏剧台,http://108.165.240.85/inc/xgzx.php?id=106
+好莱坞电影,http://108.165.240.85/inc/xgzx.php?id=100
+龙华洋片台,http://108.165.240.85/inc/xgzx.php?id=107
+龙祥电影台,http://108.165.240.85/inc/xgzx.php?id=108
+卫视中文台,http://108.165.240.85/inc/xgzx.php?id=109
+天映频道,http://108.165.240.85/inc/xgzx.php?id=110
+天映经典,http://108.165.240.85/inc/xgzx.php?id=111
+星卫电影台,http://108.165.240.85/inc/xgzx.php?id=112
+美亚电影台,http://108.165.240.85/inc/xgzx.php?id=113
+卫视电影台,http://108.165.240.85/inc/xgzx.php?id=114
+HBO HD,http://108.165.240.85/inc/xgzx.php?id=96
+HBO lgnature,http://108.165.240.85/inc/xgzx.php?id=97
+HBO HiTS,http://108.165.240.85/inc/xgzx.php?id=98
+HBO famlly,http://108.165.240.85/inc/xgzx.php?id=99
+CINEMAX,http://108.165.240.85/inc/xgzx.php?id=101
+AXN,http://108.165.240.85/inc/xgzx.php?id=102
+NOWMovieHD,http://108.165.240.85/inc/xgzx.php?id=115
+BOO,http://108.165.240.85/inc/xgzx.php?id=117
+KIX,http://108.165.240.85/inc/xgzx.php?id=118
+华纳电影,http://108.165.240.85/inc/xgzx.php?id=119
+One,http://108.165.240.85/inc/xgzx.php?id=120
+Thrill,http://108.165.240.85/inc/xgzx.php?id=121
+Hits Movie,http://108.165.240.85/inc/xgzx.php?id=122
+tvN Movie,http://108.165.240.85/inc/xgzx.php?id=123
+新聞頻道,#genre#
+TVBS HD,http://108.165.240.85/inc/xgzx.php?id=140
+TVBS新闻台,http://108.165.240.85/inc/xgzx.php?id=139
+中天新闻台,http://108.165.240.85/inc/xgzx.php?id=141
+中天新闻 2,http://108.165.240.85/inc/xgzx.php?id=142
+中视新闻台,http://108.165.240.85/inc/xgzx.php?id=143
+民视新闻台,http://108.165.240.85/inc/xgzx.php?id=144
+东森新闻台,http://108.165.240.85/inc/xgzx.php?id=145
+东森财经台,http://108.165.240.85/inc/xgzx.php?id=146
+环宇新闻台,http://108.165.240.85/inc/xgzx.php?id=147
+台视新闻台,http://108.165.240.85/inc/xgzx.php?id=148
+壹新闻电视,http://108.165.240.85/inc/xgzx.php?id=149
+亚洲国际台,http://108.165.240.85/inc/xgzx.php?id=150
+三立LIVE台,http://108.165.240.85/inc/xgzx.php?id=151
+镜视新闻台,http://108.165.240.85/inc/xgzx.php?id=152
+华视新闻台,http://108.165.240.85/inc/xgzx.php?id=153
+非凡新闻台,http://108.165.240.85/inc/xgzx.php?id=154
+年代新闻台,http://108.165.240.85/inc/xgzx.php?id=155
+CBS新闻台,http://108.165.240.85/inc/xgzx.php?id=156
+ABC新闻台,http://108.165.240.85/inc/xgzx.php?id=157
+环宇台湾台,http://108.165.240.85/inc/xgzx.php?id=158
+SBC新闻台,http://108.165.240.85/inc/xgzx.php?id=159
+DW,http://108.165.240.85/inc/xgzx.php?id=160
+CNN新闻台,http://108.165.240.85/inc/xgzx.php?id=161
+CNBC新闻,http://108.165.240.85/inc/xgzx.php?id=162
+BBC新闻台,http://108.165.240.85/inc/xgzx.php?id=163
+LIVE新闻台,http://108.165.240.85/inc/xgzx.php?id=164
+CGTN新闻,http://108.165.240.85/inc/xgzx.php?id=165
+體育頻道,#genre#
+golf,http://108.165.240.85/inc/xgzx.php?id=173
+ELTA体育 1,http://108.165.240.85/inc/xgzx.php?id=188
+ELTA体育 2,http://108.165.240.85/inc/xgzx.php?id=189
+ELTA体育 3,http://108.165.240.85/inc/xgzx.php?id=190
+ELEVEN体育1,http://108.165.240.85/inc/xgzx.php?id=59
+ELEVEN体育2,http://108.165.240.85/inc/xgzx.php?id=60
+博斯运动2,http://108.165.240.85/inc/xgzx.php?id=62
+博斯高球1,http://108.165.240.85/inc/xgzx.php?id=63
+博斯高球2,http://108.165.240.85/inc/xgzx.php?id=64
+博斯网球,http://108.165.240.85/inc/xgzx.php?id=65
+Sony Ten 1,http://108.165.240.85/inc/xgzx.php?id=66
+Sony Ten 2,http://108.165.240.85/inc/xgzx.php?id=67
+Sony Ten 3,http://108.165.240.85/inc/xgzx.php?id=68
+Sony Ten 4,http://108.165.240.85/inc/xgzx.php?id=77
+Eurosports1,http://108.165.240.85/inc/xgzx.php?id=70
+Eurosports2,http://108.165.240.85/inc/xgzx.php?id=71
+Eurosports3,http://108.165.240.85/inc/xgzx.php?id=72
+Eurosports4,http://108.165.240.85/inc/xgzx.php?id=73
+Eurosports5,http://108.165.240.85/inc/xgzx.php?id=84
+GOLF,http://108.165.240.85/inc/xgzx.php?id=78
+BT Sports 1,http://108.165.240.85/inc/xgzx.php?id=80
+BT Sports 2,http://108.165.240.85/inc/xgzx.php?id=81
+BT Sports 3,http://108.165.240.85/inc/xgzx.php?id=82
+BT Sports 4,http://108.165.240.85/inc/xgzx.php?id=85
+BT Sports 5,http://108.165.240.85/inc/xgzx.php?id=87
+ESPR2,http://108.165.240.85/inc/xgzx.php?id=90
+ESPR3,http://108.165.240.85/inc/xgzx.php?id=91
+SPORTSNET,http://108.165.240.85/inc/xgzx.php?id=92
+ESPR4,http://108.165.240.85/inc/xgzx.php?id=93
+ESPR5,http://108.165.240.85/inc/xgzx.php?id=94
+ESPR6,http://108.165.240.85/inc/xgzx.php?id=95
+紀實頻道,#genre#
+国家地理,http://108.165.240.85/inc/xgzx.php?id=124
+国家地理野生,http://108.165.240.85/inc/xgzx.php?id=125
+动物星球,http://108.165.240.85/inc/xgzx.php?id=127
+探索频道,http://108.165.240.85/inc/xgzx.php?id=130
+亚洲旅游台,http://108.165.240.85/inc/xgzx.php?id=131
+TLC,http://108.165.240.85/inc/xgzx.php?id=133
+BBC Earth Lifestyle,http://108.165.240.85/inc/xgzx.php?id=135
+History,http://108.165.240.85/inc/xgzx.php?id=136
+lifestyle,http://108.165.240.85/inc/xgzx.php?id=137
+日本頻道,#genre#
+東京NHK総合,p3p://108.181.20.159:59125/6417572e000d95e38c65829c13ce2f37
+東京NHK教育,p3p://108.181.20.159:59125/64168d0200096671894fc5a31b4604df
+東京日本テレビ,p3p://108.181.20.159:59125/6417585e000932568c6a2502167354af
+東京TBSテレビ,p3p://108.181.20.159:59125/64168c6700067cd5894d676e483855cc
+東京フジテレビ,p3p://108.181.20.159:59125/64168e37000baf2389547d4e6ff91d37
+東京テレビ朝日,p3p://108.181.20.159:59125/6416e77d000be29a8ab136c476bb20a1
+テレビ東京,p3p://108.181.20.159:59125/6416e7db000494df8ab2a4174b8e0360
+Tokyo MX,p3p://108.181.20.159:59125/6416e84d00040a468ab4613e2005555b
+MBS毎日放送,p3p://108.181.20.159:59125/6416e88e000d487e8ab5618c74a9370e
+KBS京都,p3p://108.181.20.159:59125/6416e9e50009b0fb8aba9c794e355f15
+京都NHK総合,p3p://108.181.20.159:59125/6416ea35000899f78abbd4a834130b0e
+大阪NHK Eテレ,p3p://108.181.20.159:59125/6416e61b00003cff8aabccfa265e7440
+ABCテレビ,p3p://108.181.20.159:59125/6416ea8c000b9b728abd294d326f268d
+テレビ大阪,p3p://108.181.20.159:59125/6416ead7000658d88abe4ce343ef5eb6
+関西テレビ,p3p://108.181.20.159:59125/6416ec33000333bd8ac39b803de264bb
+読売テレビ,p3p://108.181.20.159:59125/6416ec7a000c30e48ac4b3257c741bc8
+Tokyo MX 2,p3p://108.181.20.159:59125/6416ecbf0008e4e28ac5bfd1312b2713
+NHK BS1,p3p://108.181.20.159:59125/6416ed7f000e53848ac8af2f213c5f69
+NHK BSプレミアム,p3p://108.181.20.159:59125/6416edc7000274be8ac9c56d09f4297d
+BS日テレ,p3p://108.181.20.159:59125/6416ee12000bb91a8acaecbb36e0002c
+BS朝日,p3p://108.181.20.159:59125/6416ee7200026c128acc615d4cb138e3
+BS-TBS,p3p://108.181.20.159:59125/6416eebb000b6d938acd80cf0d305819
+BSテレ東京,p3p://108.181.20.159:59125/6416ef0e000473548acec34b24f732d4
+BSフジ,p3p://108.181.20.159:59125/6416ef57000756578acfe127297f2898
+WOWOWプライム,p3p://108.181.20.159:59125/6416ef9c000c20c38ad0efe660801f6f
+WOWOWライブ,p3p://108.181.20.159:59125/6416f9950006aa568af7e32a61f43085
+WOWOWシネマ,p3p://108.181.20.159:59125/6416f9f900013a898af968702b5b4ae8
+スターチャンネル1,p3p://108.181.20.159:59125/6416fb2e000530f28afe207823d2738f
+スターチャンネル2,p3p://108.181.20.159:59125/6416fb7100056ae38aff2642122115cf
+スターチャンネル3,p3p://108.181.20.159:59125/6416fbd80006b6838b00b8f03781239a
+BS11,p3p://108.181.20.159:59125/64170dda000959128b47116c6fb9798e
+BS12,p3p://108.181.20.159:59125/64170e210003ee828b48255a655e4529
+グリーンチャンネル,p3p://108.181.20.159:59125/63a9b135000cf2036a706ff27c96538a
+アニマックス,p3p://108.181.20.159:59125/63a9b2a2000e9bf56a760223617d6e7c
+スカパー!,p3p://108.181.20.159:59125/63a9b2f2000a87f96a7739974a954e2a
+J SPORTS 1,p3p://108.181.20.159:59125/63a9b33d00046ec46a785cfe26592290
+J SPORTS 2,p3p://108.181.20.159:59125/63a9b38400018aa16a79719729577668
+J SPORTS 3,p3p://108.181.20.159:59125/63a9b486000367666a7d61ee25047e5f
+J SPORTS 4,p3p://108.181.20.159:59125/63a9b4d3000559966a7e8f35771237a8
+釣りビジョン,p3p://108.181.20.159:59125/63a9b520000302e56a7fbb63229d594b
+シネフィルWOWOW,p3p://108.181.20.159:59125/63a9b6da000c965f6a867c61037755f4
+日本映画専門,p3p://108.181.20.159:59125/63a9b72100037df26a878f6451982100
+ディズニーチャンネル,p3p://108.181.20.159:59125/63a9b76600024cf36a889c9d37be746a
+東映チャンネル,p3p://108.181.20.159:59125/63a9b7c50002deea6a8a0fd90aae6312
+衛星劇場,p3p://108.181.20.159:59125/63a9b8150006e2cf6a8b49600f3f4ce5
+映画NECO,p3p://108.181.20.159:59125/63a9b86700096c986a8c8a557cd37007
+ザ・シネマ,p3p://108.181.20.159:59125/63a9b8b80006c3e66a8dc60d509842d2
+ムービープラス,p3p://108.181.20.159:59125/63a9b901000baa4f6a8ee4760d495ccb
+Gaora Sports,p3p://108.181.20.159:59125/63a9b996000665546a9129231b0a37f4
+ゴルフネット,p3p://108.181.20.159:59125/63a9ba4800030d846a93dfa632b41784
+宝塚歌劇専門チャンネル,p3p://108.181.20.159:59125/63a9ba9a00018f446a951f9208cf3252
+時代劇専門,p3p://108.181.20.159:59125/63a9bae30000454c6a963c656fb107cd
+ファミリー劇場,p3p://108.181.20.159:59125/63a9bb2c000344356a975a51355738ed
+MONDO TV トップ,p3p://108.181.20.159:59125/63a9bbc50008636b6a99b14607501571
+TBSチャンネル1,p3p://108.181.20.159:59125/63a9bc06000e6f856a9ab0ba58cd69cb
+TBSチャンネル2,p3p://108.181.20.159:59125/63a9c10e0002a0546aae54f46b793822
+テレ朝チャンネル1,p3p://108.181.20.159:59125/63a9c1570002c7e46aaf72251ed92dfa
+テレ朝チャンネル2,p3p://108.181.20.159:59125/63a9c19d00092ea86ab0853814de7691
+日テレプラス,p3p://108.181.20.159:59125/63a9c1ed000cb8ad6ab1be9f071340f3
+チャンネル銀河,p3p://108.181.20.159:59125/63a9c236000132646ab2d8d312471333
+フジテレビOne,p3p://108.181.20.159:59125/63a9c2790000c4b16ab3de6e5ee41282
+フジテレビTwo,p3p://108.181.20.159:59125/63a9c2ba0009322c6ab4de7e098a6114
+フジテレビNext,p3p://108.181.20.159:59125/63a9c2fe000bda546ab5e8ca79b54584
+スーパー！ドラマ,p3p://108.181.20.159:59125/63a9c3460008ec0a6ab7014a2ae25f6c
+FOX  JP,p3p://108.181.20.159:59125/63a9c394000ad7fc6ab832775f4b35c7
+女性チャンネル,p3p://108.181.20.159:59125/63a9c9df00067bb26ad0c65d13392398
+100％ヒッツ！スペースシャワーTV プラス,p3p://108.181.20.159:59125/63a9ca2d0004d5936ad1f6a028c115e3
+スペースシャワーTV,p3p://108.181.20.159:59125/63a9ca7f000c62f46ad338dd68000d7a
+MTV  JP,p3p://108.181.20.159:59125/63a9cb1f00006bfc6ad5a6cc1145695f
+ミュージック・エア,p3p://108.181.20.159:59125/63a9cb78000d473a6ad705bd07344c0c
+MUSIC ON! TV,p3p://108.181.20.159:59125/63a9cbc0000edec16ad81f6575cb253f
+歌謡ポップスチャンネル,p3p://108.181.20.159:59125/63a9cc05000a58a16ad92bc44249269e
+キッズステーション,p3p://108.181.20.159:59125/63a9cc4b000776d46ada3c765bf5516f
+AT−X,p3p://108.181.20.159:59125/63a9cc9f000296f76adb83552e7c41be
+ディズニージュニア,p3p://108.181.20.159:59125/63a9cce2000b71d66adc8b5130b42718
+ディスカバリーチャンネル,p3p://108.181.20.159:59125/63a9cd280009c0b96add9c5141580160
+アニマルプラネット,p3p://108.181.20.159:59125/63a9cd6a0000c7846ade9bd45d155473
+ヒストリーチャンネル,p3p://108.181.20.159:59125/63a9cdae00060a146adfa6cc1e116c16
+ナショナル ジオグラフィック,p3p://108.181.20.159:59125/63a9cdec000005186ae097810f670f0a
+日テレNEWS24,p3p://108.181.20.159:59125/63a9ce33000d4cce6ae1b03e4dce5436
+TBSニュースバード,p3p://108.181.20.159:59125/63a9ce7c000374fd6ae2cae06cc0033f
+BBCワールドニュース,p3p://108.181.20.159:59125/63a9cedc000345fe6ae441d300442735
+囲碁 将棋チャンネル,p3p://108.181.20.159:59125/63a9cf7b000433ce6ae6af262e402b08
+旅チャンネル,p3p://108.181.20.159:59125/63a9cfdc0001da206ae82973579549ff
+鉄道チャンネル,p3p://108.181.20.159:59125/63a9d026000b07136ae94cdb66ee3bdc
+FIGHTING TV サムライ,p3p://108.181.20.159:59125/63a9d074000b85646aea7daa15b2085b
+ミュージック・ジャパンTV,p3p://108.181.20.159:59125/63a9d0bb000b3ba96aeb92ef7cc57647
+ホームドラマチャンネル,p3p://108.181.20.159:59125/63a9d10b00072b956aecca6357d160b4
+AXN海外ドラマ,p3p://108.181.20.159:59125/63a9d157000018626aedf1730ebb4203
+AXNミステリー,p3p://108.181.20.159:59125/63a9d19f000e8a8a6aef0e65057f71e5
+CNNj,p3p://108.181.20.159:59125/63a9d1e30006b5886af0160323f16af9
+スポーツライブ＋,p3p://108.181.20.159:59125/63a9d2390003ed9f6af1653b4ab56965
+TV Japan(Canada),p3p://108.181.20.159:59125/63a9d27f000b48236af2788c42ac1a93
+日本J音乐,p3p://108.181.20.159:59125/632c202d00069cf2474cd8616abf08ba
+关西电视,p3p://108.181.20.159:59125/632406730008b8e327a8ce1e69e75a6d
+GEM,p3p://108.181.20.159:59125/63f24d04000dec4ffbb67673277f0917
+日本二線,#genre#
+NHK総合東京NHKG,http://108.165.240.85/inc/riben.php?id=1
+日本テレビNTV,http://108.165.240.85/inc/riben.php?id=2
+テレビ東京TV Tokyo,http://108.165.240.85/inc/riben.php?id=3
+テレビ朝日Asahi,http://108.165.240.85/inc/riben.php?id=4
+フジテレビ富士Fuji,http://108.165.240.85/inc/riben.php?id=5
+NHK World,http://108.165.240.85/inc/riben.php?id=6
+BS-富士FUJI,http://108.165.240.85/inc/riben.php?id=7
+BS-TBS 161,http://108.165.240.85/inc/riben.php?id=8
+BS朝日 151 Asahi,http://108.165.240.85/inc/riben.php?id=9
+BS NHK Premium 103,http://108.165.240.85/inc/riben.php?id=10
+ＢＳテレ東,http://108.165.240.85/inc/riben.php?id=11
+スター?チャンネル Star Channel 1,http://108.165.240.85/inc/riben.php?id=12
+NHK BS 1,http://108.165.240.85/inc/riben.php?id=13
+BS日テレ 141 NTV,http://108.165.240.85/inc/riben.php?id=14
+JSPORTS 1 BS242,http://108.165.240.85/inc/riben.php?id=15
+JSPORTS 2 BS243,http://108.165.240.85/inc/riben.php?id=16
+JSPORTS 3 BS244,http://108.165.240.85/inc/riben.php?id=17
+JSPORTS 4 BS245,http://108.165.240.85/inc/riben.php?id=18
+関西テレビ,http://108.165.240.85/inc/riben.php?id=19
+日本NHK E テレ,http://108.165.240.85/inc/riben.php?id=20
+TOKYO MX 1,http://108.165.240.85/inc/riben.php?id=21
+TOKYO MX 2,http://108.165.240.85/inc/riben.php?id=22
+MBS毎日放送,http://108.165.240.85/inc/riben.php?id=23
+KBS京都,http://108.165.240.85/inc/riben.php?id=24
+ABCテレビ Asahi BC,http://108.165.240.85/inc/riben.php?id=25
+テレビ大阪 TV Osaka,http://108.165.240.85/inc/riben.php?id=26
+よみうりテレビ YTV,http://108.165.240.85/inc/riben.php?id=27
+NHK BSプレミアム Premium,http://108.165.240.85/inc/riben.php?id=28
+BSアニマックス Animax,http://108.165.240.85/inc/riben.php?id=29
+BS釣りビジョン Tsuri Vision,http://108.165.240.85/inc/riben.php?id=30
+BSフジ Fuji,http://108.165.240.85/inc/riben.php?id=31
+WOWOWプライム Prime,http://108.165.240.85/inc/riben.php?id=32
+WOWOWライブ Live,http://108.165.240.85/inc/riben.php?id=33
+WOWOWシネマ Cinema,http://108.165.240.85/inc/riben.php?id=34
+スター?チャンネル Star Channel 2,http://108.165.240.85/inc/riben.php?id=35
+スター?チャンネル Star Channel 3,http://108.165.240.85/inc/riben.php?id=36
+BS 11,http://108.165.240.85/inc/riben.php?id=37
+BS 12 トゥエルビ,http://108.165.240.85/inc/riben.php?id=38
+グリーンチャンネル Green Channel,http://108.165.240.85/inc/riben.php?id=39
+WOWOWプラス 映画 Cinefil,http://108.165.240.85/inc/riben.php?id=40
+BS日本映画専門チャンネル NES,http://108.165.240.85/inc/riben.php?id=41
+ディズニー?チャンネル Disney,http://108.165.240.85/inc/riben.php?id=42
+CS218東映チャンネル TOEI,http://108.165.240.85/inc/riben.php?id=43
+衛星劇場 Eisei Gekijo,http://108.165.240.85/inc/riben.php?id=44
+チャンネル銀河 Ginga,http://108.165.240.85/inc/riben.php?id=45
+ザ?シネマ The Cinema,http://108.165.240.85/inc/riben.php?id=46
+新馬頻道,#genre#
+TVB 翡翠台(国),http://108.165.240.85/inc/xmh.php?id=1
+TVB 翡翠台(粤),http://108.165.240.85/inc/xmh.php?id=2
+TVB 星河(粤),http://108.165.240.85/inc/xmh.php?id=3
+TVBMagic,http://108.165.240.85/inc/xmh.php?id=4
+Astro AEC HD,http://108.165.240.85/inc/xmh.php?id=5
+Astro 欢喜台 HD,http://108.165.240.85/inc/xmh.php?id=6
+Astro 全佳 HD,http://108.165.240.85/inc/xmh.php?id=7
+Astro 爱奇艺 HD,http://108.165.240.85/inc/xmh.php?id=8
+Astro Arena 2HD,http://108.165.240.85/inc/xmh.php?id=9
+Astro Arena Bola 1HD,http://108.165.240.85/inc/xmh.php?id=10
+Astro Arena Bola 2HD,http://108.165.240.85/inc/xmh.php?id=11
+Hub 都会,http://108.165.240.85/inc/xmh.php?id=20
+Hub 娱家,http://108.165.240.85/inc/xmh.php?id=21
+Channel 5,http://108.165.240.85/inc/xmh.php?id=12
+Channel 8,http://108.165.240.85/inc/xmh.php?id=13
+Channel U,http://108.165.240.85/inc/xmh.php?id=14
+Hub Sports 1HD,http://108.165.240.85/inc/xmh.php?id=15
+Hub Sports 2HD,http://108.165.240.85/inc/xmh.php?id=16
+Hub Sports 3HD,http://108.165.240.85/inc/xmh.php?id=17
+Hub Sports 4HD,http://108.165.240.85/inc/xmh.php?id=18
+Hub Sports 5HD,http://108.165.240.85/inc/xmh.php?id=19
+Premier1,http://108.165.240.85/inc/xmh.php?id=22
+Premier2,http://108.165.240.85/inc/xmh.php?id=23
+Premier3,http://108.165.240.85/inc/xmh.php?id=24
+Premier4,http://108.165.240.85/inc/xmh.php?id=25
+Premier5,http://108.165.240.85/inc/xmh.php?id=26
+韓國頻道,#genre#
+KBS 1,http://108.165.240.85/inc/xmh.php?id=27
+KBS 2,http://108.165.240.85/inc/xmh.php?id=28
+Ment,http://108.165.240.85/inc/xmh.php?id=29
+MBC,http://108.165.240.85/inc/xmh.php?id=30
+MBN,http://108.165.240.85/inc/xmh.php?id=31
+YTN,http://108.165.240.85/inc/xmh.php?id=32
+Channel A,http://108.165.240.85/inc/xmh.php?id=33
+Yonhapnews TV,http://108.165.240.85/inc/xmh.php?id=34
+JTBC,http://108.165.240.85/inc/xmh.php?id=35
+tvN,http://108.165.240.85/inc/xmh.php?id=36
+推流頻道,#genre#
+TVB 翡翠台 HD,http://108.165.240.85/inc/gtzh.php?id=1&token=e7e51f823537e45c2dc403d7d52cb393
+TVB J2 HD,http://108.165.240.85/inc/gtzh.php?id=2&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 无线新闻台 HD,http://108.165.240.85/inc/gtzh.php?id=3&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 明珠台 HD,http://108.165.240.85/inc/gtzh.php?id=4&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 无线财经体育台 HD,http://108.165.240.85/inc/gtzh.php?id=5&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 翡翠台MY(粤),http://108.165.240.85/inc/gtzh.php?id=6&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 翡翠台MY(国),http://108.165.240.85/inc/gtzh.php?id=7&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 无线财经体育HD(海外),http://108.165.240.85/inc/gtzh.php?id=8&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 无线新闻台HD(海外),http://108.165.240.85/inc/gtzh.php?id=9&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 功夫台 Asia Action(粤),http://108.165.240.85/inc/gtzh.php?id=10&token=e7e51f823537e45c2dc403d7d52cb393
+天映频道 Celestial Movies MY(国),http://108.165.240.85/inc/gtzh.php?id=11&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 星河(粤),http://108.165.240.85/inc/gtzh.php?id=12&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 星河(国),http://108.165.240.85/inc/gtzh.php?id=13&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 戏曲台(HK),http://108.165.240.85/inc/gtzh.php?id=14&token=e7e51f823537e45c2dc403d7d52cb393
+TVB 粤语片(HK),http://108.165.240.85/inc/gtzh.php?id=15&token=e7e51f823537e45c2dc403d7d52cb393
+TVB SUPER-FREE(HK),http://108.165.240.85/inc/gtzh.php?id=16&token=e7e51f823537e45c2dc403d7d52cb393
+天映经典台 CCMovies HK(粤),http://108.165.240.85/inc/gtzh.php?id=17&token=e7e51f823537e45c2dc403d7d52cb393
+天映经典台 CCMovies HK(国),http://108.165.240.85/inc/gtzh.php?id=18&token=e7e51f823537e45c2dc403d7d52cb393
+HOY 资讯台 HD,http://108.165.240.85/inc/gtzh.php?id=19&token=e7e51f823537e45c2dc403d7d52cb393
+HOYTV HD(开电视),http://108.165.240.85/inc/gtzh.php?id=20&token=e7e51f823537e45c2dc403d7d52cb393
+Now 直播台HD,http://108.165.240.85/inc/gtzh.php?id=21&token=e7e51f823537e45c2dc403d7d52cb393
+Now 财经台HD,http://108.165.240.85/inc/gtzh.php?id=22&token=e7e51f823537e45c2dc403d7d52cb393
+Now 新闻台HD,http://108.165.240.85/inc/gtzh.php?id=23&token=e7e51f823537e45c2dc403d7d52cb393
+Now Sports 精選HD CH630(HK),http://108.165.240.85/inc/gtzh.php?id=24&token=e7e51f823537e45c2dc403d7d52cb393
+龙祥电影(粤),http://108.165.240.85/inc/gtzh.php?id=25&token=e7e51f823537e45c2dc403d7d52cb393
+Fashionone,http://108.165.240.85/inc/gtzh.php?id=26&token=e7e51f823537e45c2dc403d7d52cb393
+Cartoon Network 卡通频道 HK(粤),http://108.165.240.85/inc/gtzh.php?id=27&token=e7e51f823537e45c2dc403d7d52cb393
+BBC CBeebies HK(粤),http://108.165.240.85/inc/gtzh.php?id=28&token=e7e51f823537e45c2dc403d7d52cb393
+KIX HD(HK),http://108.165.240.85/inc/gtzh.php?id=29&token=e7e51f823537e45c2dc403d7d52cb393
+Thrill HD(HK),http://108.165.240.85/inc/gtzh.php?id=30&token=e7e51f823537e45c2dc403d7d52cb393
+tvN HD(HK),http://108.165.240.85/inc/gtzh.php?id=31&token=e7e51f823537e45c2dc403d7d52cb393
+GEM HD(HK),http://108.165.240.85/inc/gtzh.php?id=32&token=e7e51f823537e45c2dc403d7d52cb393
+ROCK 超极娱乐,http://108.165.240.85/inc/gtzh.php?id=33&token=e7e51f823537e45c2dc403d7d52cb393
+ROCK 综艺娱乐,http://108.165.240.85/inc/gtzh.php?id=34&token=e7e51f823537e45c2dc403d7d52cb393
+莲花卫视,http://108.165.240.85/inc/gtzh.php?id=35&token=e7e51f823537e45c2dc403d7d52cb393
+History 历史频道,http://108.165.240.85/inc/gtzh.php?id=36&token=e7e51f823537e45c2dc403d7d52cb393
+民視新闻台,http://108.165.240.85/inc/gtzh.php?id=37&token=e7e51f823537e45c2dc403d7d52cb393
+寰宇新闻台,http://108.165.240.85/inc/gtzh.php?id=38&token=e7e51f823537e45c2dc403d7d52cb393
+寰宇台湾新闻,http://108.165.240.85/inc/gtzh.php?id=39&token=e7e51f823537e45c2dc403d7d52cb393
+年代新闻,http://108.165.240.85/inc/gtzh.php?id=40&token=e7e51f823537e45c2dc403d7d52cb393
+东森财经新闻,http://108.165.240.85/inc/gtzh.php?id=41&token=e7e51f823537e45c2dc403d7d52cb393
+中天新闻台,http://108.165.240.85/inc/gtzh.php?id=42&token=e7e51f823537e45c2dc403d7d52cb393
+TVBS 新闻台,http://108.165.240.85/inc/gtzh.php?id=43&token=e7e51f823537e45c2dc403d7d52cb393
+华视新闻资讯台,http://108.165.240.85/inc/gtzh.php?id=44&token=e7e51f823537e45c2dc403d7d52cb393
+中视新闻台,http://108.165.240.85/inc/gtzh.php?id=45&token=e7e51f823537e45c2dc403d7d52cb393
+镜电视新闻台,http://108.165.240.85/inc/gtzh.php?id=46&token=e7e51f823537e45c2dc403d7d52cb393
+TVBS HD,http://108.165.240.85/inc/gtzh.php?id=47&token=e7e51f823537e45c2dc403d7d52cb393
+TVBS 精采台,http://108.165.240.85/inc/gtzh.php?id=48&token=e7e51f823537e45c2dc403d7d52cb393
+民视,http://108.165.240.85/inc/gtzh.php?id=49&token=e7e51f823537e45c2dc403d7d52cb393
+中视,http://108.165.240.85/inc/gtzh.php?id=50&token=e7e51f823537e45c2dc403d7d52cb393
+华视,http://108.165.240.85/inc/gtzh.php?id=51&token=e7e51f823537e45c2dc403d7d52cb393
+中视菁采,http://108.165.240.85/inc/gtzh.php?id=52&token=e7e51f823537e45c2dc403d7d52cb393
+中视经典,http://108.165.240.85/inc/gtzh.php?id=53&token=e7e51f823537e45c2dc403d7d52cb393
+东森洋片,http://108.165.240.85/inc/gtzh.php?id=54&token=e7e51f823537e45c2dc403d7d52cb393
+东森幼幼,http://108.165.240.85/inc/gtzh.php?id=55&token=e7e51f823537e45c2dc403d7d52cb393
+东森超视,http://108.165.240.85/inc/gtzh.php?id=56&token=e7e51f823537e45c2dc403d7d52cb393
+卫视电影,http://108.165.240.85/inc/gtzh.php?id=57&token=e7e51f823537e45c2dc403d7d52cb393
+龙祥时代,http://108.165.240.85/inc/gtzh.php?id=58&token=e7e51f823537e45c2dc403d7d52cb393
+美亚电影,http://108.165.240.85/inc/gtzh.php?id=59&token=e7e51f823537e45c2dc403d7d52cb393
+星卫电影,http://108.165.240.85/inc/gtzh.php?id=60&token=e7e51f823537e45c2dc403d7d52cb393
+星卫娱乐台,http://108.165.240.85/inc/gtzh.php?id=61&token=e7e51f823537e45c2dc403d7d52cb393
+纬来电影,http://108.165.240.85/inc/gtzh.php?id=62&token=e7e51f823537e45c2dc403d7d52cb393
+纬来日本,http://108.165.240.85/inc/gtzh.php?id=63&token=e7e51f823537e45c2dc403d7d52cb393
+纬来综合,http://108.165.240.85/inc/gtzh.php?id=64&token=e7e51f823537e45c2dc403d7d52cb393
+纬来戏剧,http://108.165.240.85/inc/gtzh.php?id=65&token=e7e51f823537e45c2dc403d7d52cb393
+纬来育乐,http://108.165.240.85/inc/gtzh.php?id=66&token=e7e51f823537e45c2dc403d7d52cb393
+纬来体育,http://108.165.240.85/inc/gtzh.php?id=67&token=e7e51f823537e45c2dc403d7d52cb393
+八大精彩,http://108.165.240.85/inc/gtzh.php?id=68&token=e7e51f823537e45c2dc403d7d52cb393
+八大综艺,http://108.165.240.85/inc/gtzh.php?id=69&token=e7e51f823537e45c2dc403d7d52cb393
+靖天卡通,http://108.165.240.85/inc/gtzh.php?id=74&token=e7e51f823537e45c2dc403d7d52cb393
+靖洋戏剧,http://108.165.240.85/inc/gtzh.php?id=75&token=e7e51f823537e45c2dc403d7d52cb393
+靖天综合,http://108.165.240.85/inc/gtzh.php?id=76&token=e7e51f823537e45c2dc403d7d52cb393
+靖天日本,http://108.165.240.85/inc/gtzh.php?id=77&token=e7e51f823537e45c2dc403d7d52cb393
+靖天欢乐,http://108.165.240.85/inc/gtzh.php?id=78&token=e7e51f823537e45c2dc403d7d52cb393
+靖天映画,http://108.165.240.85/inc/gtzh.php?id=79&token=e7e51f823537e45c2dc403d7d52cb393
+靖洋卡通,http://108.165.240.85/inc/gtzh.php?id=80&token=e7e51f823537e45c2dc403d7d52cb393
+靖天戏剧,http://108.165.240.85/inc/gtzh.php?id=81&token=e7e51f823537e45c2dc403d7d52cb393
+靖天电影,http://108.165.240.85/inc/gtzh.php?id=82&token=e7e51f823537e45c2dc403d7d52cb393
+靖天育乐,http://108.165.240.85/inc/gtzh.php?id=83&token=e7e51f823537e45c2dc403d7d52cb393
+靖天国际,http://108.165.240.85/inc/gtzh.php?id=84&token=e7e51f823537e45c2dc403d7d52cb393
+靖天信息,http://108.165.240.85/inc/gtzh.php?id=85&token=e7e51f823537e45c2dc403d7d52cb393
+龙华电影,http://108.165.240.85/inc/gtzh.php?id=86&token=e7e51f823537e45c2dc403d7d52cb393
+龙华日韩,http://108.165.240.85/inc/gtzh.php?id=87&token=e7e51f823537e45c2dc403d7d52cb393
+龙华戏剧,http://108.165.240.85/inc/gtzh.php?id=88&token=e7e51f823537e45c2dc403d7d52cb393
+龙华经典,http://108.165.240.85/inc/gtzh.php?id=89&token=e7e51f823537e45c2dc403d7d52cb393
+龙华偶像,http://108.165.240.85/inc/gtzh.php?id=90&token=e7e51f823537e45c2dc403d7d52cb393
+龙华卡通,http://108.165.240.85/inc/gtzh.php?id=91&token=e7e51f823537e45c2dc403d7d52cb393
+博斯运动一,http://108.165.240.85/inc/gtzh.php?id=92&token=e7e51f823537e45c2dc403d7d52cb393
+博斯运动二,http://108.165.240.85/inc/gtzh.php?id=93&token=e7e51f823537e45c2dc403d7d52cb393
+博斯魅力,http://108.165.240.85/inc/gtzh.php?id=94&token=e7e51f823537e45c2dc403d7d52cb393
+博斯高球,http://108.165.240.85/inc/gtzh.php?id=95&token=e7e51f823537e45c2dc403d7d52cb393
+博斯高球2,http://108.165.240.85/inc/gtzh.php?id=96&token=e7e51f823537e45c2dc403d7d52cb393
+博斯无限一,http://108.165.240.85/inc/gtzh.php?id=97&token=e7e51f823537e45c2dc403d7d52cb393
+博斯无限二,http://108.165.240.85/inc/gtzh.php?id=98&token=e7e51f823537e45c2dc403d7d52cb393
+博斯网球,http://108.165.240.85/inc/gtzh.php?id=99&token=e7e51f823537e45c2dc403d7d52cb393
+影迷数字电影,http://108.165.240.85/inc/gtzh.php?id=100&token=e7e51f823537e45c2dc403d7d52cb393
+视纳华仁纪实,http://108.165.240.85/inc/gtzh.php?id=101&token=e7e51f823537e45c2dc403d7d52cb393
+CATCHPLAY电影,http://108.165.240.85/inc/gtzh.php?id=102&token=e7e51f823537e45c2dc403d7d52cb393
+AMC最爱电影,http://108.165.240.85/inc/gtzh.php?id=103&token=e7e51f823537e45c2dc403d7d52cb393
+AXN HD(TW),http://108.165.240.85/inc/gtzh.php?id=104&token=e7e51f823537e45c2dc403d7d52cb393
+采昌影剧台,http://108.165.240.85/inc/gtzh.php?id=105&token=e7e51f823537e45c2dc403d7d52cb393
+CI罪案侦查频道,http://108.165.240.85/inc/gtzh.php?id=106&token=e7e51f823537e45c2dc403d7d52cb393
+MTV Live 音乐频道,http://108.165.240.85/inc/gtzh.php?id=107&token=e7e51f823537e45c2dc403d7d52cb393
+Asia Travel 亞洲旅遊台,http://108.165.240.85/inc/gtzh.php?id=108&token=e7e51f823537e45c2dc403d7d52cb393
+DaVinCi 达文西频道,http://108.165.240.85/inc/gtzh.php?id=109&token=e7e51f823537e45c2dc403d7d52cb393
+韩国娱乐台 KMTV,http://108.165.240.85/inc/gtzh.php?id=110&token=e7e51f823537e45c2dc403d7d52cb393
+ELTV生活英语台,http://108.165.240.85/inc/gtzh.php?id=111&token=e7e51f823537e45c2dc403d7d52cb393
+HITS频道,http://108.165.240.85/inc/gtzh.php?id=112&token=e7e51f823537e45c2dc403d7d52cb393
+MOMO 亲子台,http://108.165.240.85/inc/gtzh.php?id=113&token=e7e51f823537e45c2dc403d7d52cb393
+ELEVEN 1,http://108.165.240.85/inc/gtzh.php?id=114&token=e7e51f823537e45c2dc403d7d52cb393
+ELEVEN 2,http://108.165.240.85/inc/gtzh.php?id=115&token=e7e51f823537e45c2dc403d7d52cb393
