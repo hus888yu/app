@@ -136,7 +136,7 @@ HBO Family,http://8.210.207.87/tbs.php?id=4OdVylBZOe
 
 
 
-嗅探_543,#genre#
+嗅探,#genre#
 parse=1
 台視,https://www.histar.tv/live/ttv
 台視新聞,https://www.histar.tv/live/ttv-news
