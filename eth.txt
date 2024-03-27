@@ -126,13 +126,10 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 星空衛視,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
 鳳凰電影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-
-
+18+频道,#genre#
 🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
 🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
 🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
-
-18+频道,#genre#
 🌲️松視1臺,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 🌲️松視1臺,https://epg.pw/stream/970e2a9a5df85f84f3e351bfb69f67869cd6143f8ea64981149858f604c7f803.m3u8
 🌲️松視1臺,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
