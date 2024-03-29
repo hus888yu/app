@@ -4,7 +4,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "file://download/fongmi.m3u",
+      "url": "file://download/fongmi.txt",
       "timeout": 25,
       "pass": false,
       "boot": false,
