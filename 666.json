@@ -4,7 +4,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "file://download/fongmi.txt",
+      "url": "file://download/taiwan.txt",
       "timeout": 25,
       "pass": false,
       "boot": false,
