@@ -4,7 +4,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "file://download/taiwan.txt",
+      "url": "file://tv/54321.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
