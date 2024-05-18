@@ -1,4 +1,5 @@
 歐飛嗅探,#genre#
+parse=1
 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
