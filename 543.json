@@ -1,10 +1,10 @@
 {
-  "spider": "https://chou1966.serv00.net/543.jar;md5;6a77140c25470026f08522e50103cf8d",
+  "spider": https://raw.githubusercontent.com/hus888yu/app/main/543.jar;md5;6a77140c25470026f08522e50103cf8d",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "name": "live",
-      "url": "https://chou1966.serv00.net/54321.txt",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/54321.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
