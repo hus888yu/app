@@ -1,8 +1,4 @@
 
-
-
-
-
 LITV代理,#genre#
 
 民视台湾台,http://iptv543.com/litv.php?id=4gtv-4gtv001
@@ -95,8 +91,6 @@ Smart知识台,http://iptv543.com/litv.php?id=litv-longturn19
 生活英语台,http://iptv543.com/litv.php?id=litv-longturn20
 龙华经典,http://iptv543.com/litv.php?id=litv-longturn21
 台湾戏剧台,http://iptv543.com/litv.php?id=litv-longturn22
-
-
 
 4GTV代理,#genre#
 民視,http://106.107.242.158:5000/4gtv/3
@@ -681,10 +675,7 @@ club mtv europe[720x576][5.0mb],https://epg.pw/stream/586fb99713a4cc47e6ed8cbbcc
 mtv hits europe[720x576][4.0mb],https://epg.pw/stream/6862d4bce7b38a3a92f579851e48dd6cdfc48d2a76d60118aa04dd19e7310d58.ctv
 mtv 90s[720x576][2.0mb],https://epg.pw/stream/364c7944b3f5e3f2194b3c013d8dfa60f367e6cb05191f926807c27eba5e5ab3.ctv
 
-
 ubtv,#genre#
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 臺視HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
@@ -812,4 +803,3 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 星空衛視,https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
 鳳凰電影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
-
