@@ -12,13 +12,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw?si=ZMv0IDQFz0BoS71r
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://220.134.196.147:8517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8 
-
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-
-
-
-
-
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -31,11 +25,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-
-
-
-
-
 
 LITV代理,#genre#
 
@@ -129,8 +118,6 @@ Smart知识台,http://iptv543.com/litv.php?id=litv-longturn19
 生活英语台,http://iptv543.com/litv.php?id=litv-longturn20
 龙华经典,http://iptv543.com/litv.php?id=litv-longturn21
 台湾戏剧台,http://iptv543.com/litv.php?id=litv-longturn22
-
-
 
 4GTV代理,#genre#
 民視,http://106.107.242.158:5000/4gtv/3
@@ -715,10 +702,7 @@ club mtv europe[720x576][5.0mb],https://epg.pw/stream/586fb99713a4cc47e6ed8cbbcc
 mtv hits europe[720x576][4.0mb],https://epg.pw/stream/6862d4bce7b38a3a92f579851e48dd6cdfc48d2a76d60118aa04dd19e7310d58.ctv
 mtv 90s[720x576][2.0mb],https://epg.pw/stream/364c7944b3f5e3f2194b3c013d8dfa60f367e6cb05191f926807c27eba5e5ab3.ctv
 
-
 ubtv,#genre#
-
-
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 民視HD,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 臺視HD,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
