@@ -1,287 +1,722 @@
-流畅台湾频道
-民视,https://histar.zapi.us.kg/?id=ftv
-民视台湾台,https://histar.zapi.us.kg/?id=ftv-tw
-民视第一台,https://histar.zapi.us.kg/?id=ftv-one
-纬来日本,https://histar.zapi.us.kg/?id=videoland-japan
-纬来综合,https://histar.zapi.us.kg/?id=videoland
-八大综合,https://histar.zapi.us.kg/?id=gtv28
-八大第一,https://histar.zapi.us.kg/?id=gtv27
-TVBS 精采台,https://histar.zapi.us.kg/?id=tvbs-jc
-TVBS 欢乐台,https://histar.zapi.us.kg/?id=tvbs-huanle
-TVBS Asia,https://histar.zapi.us.kg/?id=tvbs-asia
-三立台湾台,https://histar.zapi.us.kg/?id=settv-taiwan
-三立综合台,https://histar.zapi.us.kg/?id=settv-zonghe
-台视,https://histar.zapi.us.kg/?id=ttv
-东森超视,https://histar.zapi.us.kg/?id=ebc-super
-东森综合台,https://histar.zapi.us.kg/?id=ebc-ettv
-中视,https://histar.zapi.us.kg/?id=ctv
-中视菁采台,https://histar.zapi.us.kg/?id=bravo
-中天亚洲,https://histar.zapi.us.kg/?id=cti-asia
-中天综合,https://histar.zapi.us.kg/?id=ctitv36
-华视,https://histar.zapi.us.kg/?id=cts
-LiveABC 互动英语频道,https://histar.zapi.us.kg/?id=liveabc
-好消息,https://histar.zapi.us.kg/?id=goodtv
-KLT-靖天国际台,https://histar.zapi.us.kg/?id=jtgj
-ELTA综合台,https://histar.zapi.us.kg/?id=elta-zonghe
-公视,https://histar.zapi.us.kg/?id=pts
-公视3台,https://histar.zapi.us.kg/?id=pts-3
-公视台语台,https://histar.zapi.us.kg/?id=pts-ty
-靖天综合台,https://histar.zapi.us.kg/?id=jtzh
-靖天日本台,https://histar.zapi.us.kg/?id=jtrb
-客家电视台,https://histar.zapi.us.kg/?id=hakkatv
-大爱一台,https://histar.zapi.us.kg/?id=daai1
-大爱二台,https://histar.zapi.us.kg/?id=daai2
-ARIRANG 阿里郎频道,https://histar.zapi.us.kg/?id=arirang
-中天新闻,https://histar.zapi.us.kg/?id=cti-news
-TVBS 新闻台,https://histar.zapi.us.kg/?id=tvbs-news
-TVBS HD,https://histar.zapi.us.kg/?id=tvbs-hd
-东森新闻,https://histar.zapi.us.kg/?id=ebc-news
-东森财经新闻,https://histar.zapi.us.kg/?id=ebc-finance
-寰宇新闻台,https://histar.zapi.us.kg/?id=global-news
-寰宇财经台,https://histar.zapi.us.kg/?id=global-finance
-寰宇新闻台湾台,https://histar.zapi.us.kg/?id=global-news-tw
-壹新闻 HD,https://histar.zapi.us.kg/?id=nexttv
-三立新闻,https://histar.zapi.us.kg/?id=settv-news
-三立iNews,https://histar.zapi.us.kg/?id=settv-inews
-中视新闻,https://histar.zapi.us.kg/?id=ctv-news
-非凡新闻,https://histar.zapi.us.kg/?id=unique-business-news
-年代新闻,https://histar.zapi.us.kg/?id=era-news
-民视新闻台,https://histar.zapi.us.kg/?id=ftv-news
-台视新闻,https://histar.zapi.us.kg/?id=ttv-news
-镜电视新闻台,https://histar.zapi.us.kg/?id=mnews
-华视新闻,https://histar.zapi.us.kg/?id=cts-news
-半岛国际新闻台,https://histar.zapi.us.kg/?id=aljazeera
-SBN 全球财经台,https://histar.zapi.us.kg/?id=sbn
-靖天资讯台,https://histar.zapi.us.kg/?id=jtzx
-台湾影音娱乐,#genre#
-纬来电影台,https://histar.zapi.us.kg/?id=videoland-movie
-纬来戏剧,https://histar.zapi.us.kg/?id=videoland-drama
-TVBS综艺台,https://histar.zapi.us.kg/?id=tvbs-zongyi
-TVBS台剧台,https://histar.zapi.us.kg/?id=tvbs-taiju
-龙祥电影台,https://histar.zapi.us.kg/?id=lstime
-龙华电影台,https://histar.zapi.us.kg/?id=ltv-movies
-龙华戏剧台,https://histar.zapi.us.kg/?id=ltv-xiju
-龙华日韩台,https://histar.zapi.us.kg/?id=ltv-rihan
-东森电影,https://histar.zapi.us.kg/?id=ebc-movie
-东森戏剧,https://histar.zapi.us.kg/?id=ebc-drama
-东森洋片,https://histar.zapi.us.kg/?id=ebc-emovie
-八大精彩台,https://histar.zapi.us.kg/?id=gtv-jct
-八大戏剧,https://histar.zapi.us.kg/?id=gtv-41
-八大娱乐,https://histar.zapi.us.kg/?id=gtv-86
-八大综艺,https://histar.zapi.us.kg/?id=grt
-采昌影剧台,https://histar.zapi.us.kg/?id=caichang
-美亚电影台,https://histar.zapi.us.kg/?id=meiah-movies
-猪哥亮歌厅秀,https://histar.zapi.us.kg/?id=zglgtx
-民视综艺,https://histar.zapi.us.kg/?id=ftv-reality
-民视影剧,https://histar.zapi.us.kg/?id=ftv-drama
-三立都会台,https://histar.zapi.us.kg/?id=settv-city
-三立戏剧台,https://histar.zapi.us.kg/?id=settv-drama
-中视经典台,https://histar.zapi.us.kg/?id=ctv-classic
-中天娱乐,https://histar.zapi.us.kg/?id=cti-yule
-靖洋戏剧台,https://histar.zapi.us.kg/?id=jyxj
-靖天映画,https://histar.zapi.us.kg/?id=jtyh
-靖天电影台,https://histar.zapi.us.kg/?id=jtdy
-靖天戏剧台,https://histar.zapi.us.kg/?id=jtxjt
-韩国娱乐台 KMTV,https://histar.zapi.us.kg/?id=kmtv
-公视戏剧,https://histar.zapi.us.kg/?id=gsxj
-影迷数位纪实台,https://histar.zapi.us.kg/?id=ymswjst
-影迷数字电影台,https://histar.zapi.us.kg/?id=fans-cinema
-视纳华仁纪实频道,https://histar.zapi.us.kg/?id=cnex
-MTV Live HD 频道,https://histar.zapi.us.kg/?id=mtv
-ELTA 娱乐台,https://histar.zapi.us.kg/?id=elta-ylt
-beIN Sports 2,https://histar.zapi.us.kg/?id=beinsports2
-beIN Sports 3,https://histar.zapi.us.kg/?id=beinsports3
-ELTA 体育-1,https://histar.zapi.us.kg/?id=elta-sport1
-ELTA 体育-2,https://histar.zapi.us.kg/?id=elta-sport2
-ELTA 体育-3,https://histar.zapi.us.kg/?id=elta-sport3
-ELTA体育4台,https://histar.zapi.us.kg/?id=elta-sport4
-博斯网球,https://histar.zapi.us.kg/?id=sportcast-tennis
-博斯运动-1,https://histar.zapi.us.kg/?id=sportcast1
-博斯运动-2,https://histar.zapi.us.kg/?id=sportcast2
-博斯无限,https://histar.zapi.us.kg/?id=sportcast-wx
-博斯高球-1,https://histar.zapi.us.kg/?id=sportcast-golf1
-博斯高球-2,https://histar.zapi.us.kg/?id=sportcast-golf2
-博斯魅力,https://histar.zapi.us.kg/?id=sportcast-meili
-ESPN,https://histar.zapi.us.kg/?id=espn
-ESPN 2,https://histar.zapi.us.kg/?id=espn2
-ESPN 3,https://histar.zapi.us.kg/?id=espn3
-ESPN 4,https://histar.zapi.us.kg/?id=espn4
-myTV SUPER直播足球1台,https://histar.zapi.us.kg/?id=mytv-super-soccer1
-myTV SUPER直播足球2台,https://histar.zapi.us.kg/?id=mytv-super-soccer2
-myTV SUPER直播足球3台,https://histar.zapi.us.kg/?id=mytv-super-soccer3
-myTV SUPER直播足球4台,https://histar.zapi.us.kg/?id=mytv-super-soccer4
-myTV SUPER 18,https://histar.zapi.us.kg/?id=mytvsuper-18
-纬来体育,https://histar.zapi.us.kg/?id=videoland-sport
-TVBS新闻,http://194.87.101.118/live.m3u8?c=5
-中视新闻,http://194.87.101.118/live.m3u8?c=6
-凤凰资讯,http://194.87.101.118/live.m3u8?c=2
-旅游台,http://194.87.101.118/live.m3u8?c=3
-台视新闻,http://194.87.101.118/live.m3u8?c=4
-中天新闻,http://194.87.101.118/live.m3u8?c=7
-公视台语,http://194.87.101.118/live.m3u8?c=8
-镜新闻,http://194.87.101.118/live.m3u8?c=10
-民视新闻,http://194.87.101.118/live.m3u8?c=11
-三立新闻,http://194.87.101.118/live.m3u8?c=12
-华视新闻,http://194.87.101.118/live.m3u8?c=13
-东森财经,http://194.87.101.118/live.m3u8?c=14
-中天新闻,https://histar.zapi.us.kg/?id=cti-news
-凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,https://histar.zapi.us.kg/?id=phtv-cn
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰资讯,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰资讯,https://histar.zapi.us.kg/?id=phtv-info
-凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
-东森电影,https://histar.zapi.us.kg/?id=ebc-movie
-TVBS新闻,http://194.87.101.118/live.m3u8?c=5
-中视新闻,http://194.87.101.118/live.m3u8?c=6
-凤凰资讯,http://194.87.101.118/live.m3u8?c=2
-旅游台,http://194.87.101.118/live.m3u8?c=3
-台视新闻,http://194.87.101.118/live.m3u8?c=4
-中天新闻,http://194.87.101.118/live.m3u8?c=7
-公视台语,http://194.87.101.118/live.m3u8?c=8
-镜新闻,http://194.87.101.118/live.m3u8?c=10
-民视新闻,http://194.87.101.118/live.m3u8?c=11
-三立新闻,http://194.87.101.118/live.m3u8?c=12
-华视新闻,http://194.87.101.118/live.m3u8?c=13
-东森财经,http://194.87.101.118/live.m3u8?c=14
-中天新闻,https://histar.zapi.us.kg/?id=cti-news
-凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,https://histar.zapi.us.kg/?id=phtv-cn
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰资讯,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰资讯,https://histar.zapi.us.kg/?id=phtv-info
-凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
-纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
-靖天映画,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv055
-靖天戏剧,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv058
-台视财经,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv056
-靖天映画,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv055
-靖天欢乐台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv054
-ginx,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv053
-台视新闻,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv051
-采昌台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv049
-非凡商业台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv048
-靖天日本台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv047
-靖天综合台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv046
-靖洋戏剧台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv045
-靖天卡通台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv044
-KATV,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv043
-公视戏剧,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv042
-华视,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv041
-中视,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv040
-娱乐,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv039
-八大精彩台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv034
-davinci,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv018
-amc电影台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv017
-全球旅游台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv016
-时尚运动,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv014
-cnex,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv013
-FGM,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv011
-非凡新闻台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv010
-中天新闻台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv009
-娱乐二台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv006
-FTV台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv004
-民视第一台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv003
-民视,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv002
-民视台湾台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv001
-古典音乐台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv059
-靖天电影台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv061
-靖天娱乐台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv062
-旅游台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv063
-中视精彩台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv064
-靖天咨询台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv065
-台视,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv066
-TVBS精采台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv067
-TVBS欢乐台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv068
-ELTA娱乐台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv070
-TVBS新闻台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv072
-镜新闻,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv075
-CATCHPLAY,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv076
-SPORT STARS,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv077
-阿里郎,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv079
-中视经典,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv080
-URBAN,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv082
-MEZZ,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv083
-国会频道一,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv084
-国会频道二,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv085
-智林体育台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv101
-财经台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv104
-中天亚洲台,http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv109
-纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
-纬来戏剧,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
-纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
-龙华电影,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
-韩国娱乐台,http://extraott.com:80/live/7921751389/6097373662/5487.m3u8
-中视经典,http://extraott.com:80/live/7921751389/6097373662/5486.m3u8
-中视,http://extraott.com:80/live/7921751389/6097373662/5485.m3u8
-中视新闻,http://extraott.com:80/live/7921751389/6097373662/5484.m3u8
-金奥运,http://extraott.com:80/live/7921751389/6097373662/5483.m3u8
-纬来电影,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
-纬来育乐,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
-纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
-TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
-TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-台视综合,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
-台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
-台视,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
-三立综合台,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
-三立戏剧台,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
-三立台湾台,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
-三立都会台,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
-年代MUCH,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
-年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
-卡通频道,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
-美亚电影台,http://extraott.com:80/live/7921751389/6097373662/5511.m3u8
-东风37,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
-龙翔时代,http://extraott.com:80/live/7921751389/6097373662/5513.m3u8
-龙华戏剧,http://extraott.com:80/live/7921751389/6097373662/5514.m3u8
-龙华洋片,http://extraott.com:80/live/7921751389/6097373662/5515.m3u8
-龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
-戏剧,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
-环宇新闻台,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
-台视财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
-好莱坞,http://extraott.com:80/live/7921751389/6097373662/5526.m3u8
-GOOD2,http://extraott.com:80/live/7921751389/6097373662/5527.m3u8
-民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
-民视新闻台,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
-民视,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
-EYETV戏剧台,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
-EYETV旅游台,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
-中天亚洲台,http://extraott.com:80/live/7921751389/6097373662/5540.m3u8
-ELTA影剧台,http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
-ELTA影剧台,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
-DAAI2,http://extraott.com:80/live/7921751389/6097373662/5547.m3u8
-DAAI2,http://extraott.com:80/live/7921751389/6097373662/5548.m3u8
-公视,http://extraott.com:80/live/7921751389/6097373662/5549.m3u8
-公视台语台,http://extraott.com:80/live/7921751389/6097373662/5550.m3u8
-中天综合,http://extraott.com:80/live/7921751389/6097373662/5552.m3u8
-中天新闻,http://extraott.com:80/live/7921751389/6097373662/5552.m3u8
-旅游台,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
-博斯网球,http://extraott.com:80/live/7921751389/6097373662/5556.m3u8
-博斯运动二,http://extraott.com:80/live/7921751389/6097373662/5557.m3u8
-博斯魅力,http://extraott.com:80/live/7921751389/6097373662/5558.m3u8
-博斯高球二,http://extraott.com:80/live/7921751389/6097373662/5559.m3u8
-博斯高球一,http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
-八大第一台,http://extraott.com:80/live/7921751389/6097373662/5561.m3u8
-八大第一台,http://extraott.com:80/live/7921751389/6097373662/5562.m3u8
-八大戏剧台,http://extraott.com:80/live/7921751389/6097373662/5564.m3u8
-阿里郎,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
-运动一,http://extraott.com:80/live/7921751389/6097373662/5567.m3u8
-运动二,http://extraott.com:80/live/7921751389/6097373662/5568.m3u8
-运动三,http://extraott.com:80/live/7921751389/6097373662/5569.m3u8
-运动四,http://extraott.com:80/live/7921751389/6097373662/5570.m3u8
-运动五,http://extraott.com:80/live/7921751389/6097373662/5571.m3u8
-运动六,http://extraott.com:80/live/7921751389/6097373662/5572.m3u8
-运动七,http://extraott.com:80/live/7921751389/6097373662/5573.m3u8
-运动八,http://extraott.com:80/live/7921751389/6097373662/5574.m3u8
-运动九,http://extraott.com:80/live/7921751389/6097373662/5575.m3u8
-运动十,http://extraott.com:80/live/7921751389/6097373662/5576.m3u8
-运动十一,http://extraott.com:80/live/7921751389/6097373662/5577.m3u8
-运动十二,http://extraott.com:80/live/7921751389/6097373662/5578.m3u8
-运动十三,http://extraott.com:80/live/7921751389/6097373662/5579.m3u8
-运动十四,http://extraott.com:80/live/7921751389/6097373662/5580.m3u8
-运动十五,http://extraott.com:80/live/7921751389/6097373662/5581.m3u8
-运动十六,http://extraott.com:80/live/7921751389/6097373662/5582.m3u8
-运动十七,http://extraott.com:80/live/7921751389/6097373662/5583.m3u8
+【新聞&綜合】,#genre#
+台視新聞,https://m.youtube.com/@TTV_NEWS/streams/1
+中視新聞,https://m.youtube.com/@twctvnews/streams/1
+華視新聞,https://m.youtube.com/@CtsTw/streams/1
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8&data=normal
+台視(台灣節點),https://m.youtube.com/watch?v=uDqQo8a7Xmk
+大愛一臺-臺灣直播(台灣節點),https://m.youtube.com/watch?v=oV_i3Hsl_zg
+大愛二臺-臺灣直播(台灣節點),https://m.youtube.com/watch?v=OKvWtVoDR8I
+大愛一臺-全球直播,https://m.youtube.com/watch?v=MIqUplvSRWA
+大愛二臺-全球直播,https://m.youtube.com/watch?v=DTNkEm6jaqQ
+公視(台灣節點),https://m.youtube.com/@ptslivestream/streams/1
+公視新聞,https://m.youtube.com/@PNNPTS/streams/1
+公視台語台(台灣節點),https://m.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/streams/1
+好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8&data=normal$decoder=2
+好消息,https://live.streamingfast.net/osmflivech1.m3u8&data=normal$decoder=2
+(美)國家地理頻道,https://m.youtube.com/@NatGeo/streams/1
+(美)國家地理頻道2,https://m.youtube.com/@NatGeo/streams/2
+(美)國家地理頻道野生,https://m.youtube.com/@NatGeoWild/streams/1
+(美)國家地理頻道野生2,https://m.youtube.com/@NatGeoWild/streams/2
+(美)國家地理頻道兒童,https://m.youtube.com/@natgeokids/streams/1
+(美)Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8&data=normal
+(美)BBC Earth,https://d206rrc0yoxllg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/BBC_Earth_US.m3u8&data=normal
+中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
+東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
+東森LIVE(台灣用)(代理),https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
+東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
+中天新聞,https://m.youtube.com/@中天電視CtiTv/streams/1
+中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
+民視新聞台,https://m.youtube.com/@FTV_News/streams/1
+三立iNews,https://m.youtube.com/@setinews/streams/1
+三立Live,https://m.youtube.com/@setnews/live
+TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞台(台灣用)(代理),https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
+TVBS新聞台(台灣用)(代理),https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
+TVBS新聞台,https://m.youtube.com/watch?v=2mCSYvcfhtc
+TVBS HD(台灣用)(代理),https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
+TVBS HD(台灣用)(代理),https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
+TVBS HD,https://m.youtube.com/watch?v=YvdcZ_jpLXE
+東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
+東森財經股市,https://m.youtube.com/@57ETFN/streams/1
+非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
+寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
+寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
+寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/2
+寰宇財經台,https://m.youtube.com/@globlemoney/streams/1
+鏡新聞,https://m.youtube.com/@mnews-tw/streams/1
+倪珍(ai)24小時播新聞,https://m.youtube.com/@NOWnews-sp2di/streams/1
+(美)倪珍(ai)24小時播新聞,https://m.youtube.com/@NOWnews-sp2di/streams/2
+全球財經台,https://m.youtube.com/@user-ro8bu3to2t/streams/1
+EF運通,https://m.youtube.com/@EFTV01/streams/1
+佛衛慈悲台,https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8&data=normal
+正德電視台,https://m.youtube.com/@chengteTV/streams/1
+華藏衛視,https://m.youtube.com/@hztv2212/streams/1
+生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080&data=normal
+淨空老法師直播台,https://m.youtube.com/@amtbhz/streams/1
+淨空老法師直播台,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8&data=normal
+香港佛陀教育協會,https://i.cibei.org/live/hd/playlist.m3u8&data=normal
+香港佛陀教育協會,https://live.jingzong.org/live/hd/playlist.m3u8&data=normal
+世界電視台,https://m.youtube.com/@520wtv/streams/1
+CBTV十方法界弘法電視台,https://m.youtube.com/watch?v=77SHFx1c8Lk
+唯心電視台,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8&data=normal
+清海無上師,https://m.youtube.com/@SupremeMasterTVlive/live
+好消息2,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8&data=normal$decoder=2
+希望電視台,https://videodelivery.net/f9fac529ef8cc8f8dc702ac06116ad1b/manifest/video.m3u8&data=normal
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8&data=normal
+國會頻道1,https://m.youtube.com/@parliamentarytv/streams/1
+國會頻道2,https://m.youtube.com/@parliamentarytv/live
+新唐人亞太電視台,https://m.youtube.com/@NTDAPTV/streams/1
+鳳凰衛視資訊台HK,https://m.youtube.com/@phoenixtvhk/streams/1
+鳳凰衛視資訊台,https://m.youtube.com/@phoenixtvnews7060/streams/1
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8&data=normal
+港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8&data=normal
+港台電視35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8&data=normal
+CCTV国际,https://m.youtube.com/@LiveNow24H/streams/1
+8視界(新加坡)(8world),https://m.youtube.com/@8worldSG/live
+(美)Taiwan Plus(推廣台灣),https://m.youtube.com/@TaiwanPlusLive/streams/1
+(美)阿里郎國際(推廣韓國)(Arirang TV),https://m.youtube.com/@KOREAarirangTV/streams/1
+(美)NASA1,https://m.youtube.com/@NASA/streams/1
+(美)NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8&data=normal
+(美)NASA2,https://m.youtube.com/@NASA/streams/2
+(美)NASA3,https://m.youtube.com/@NASA/streams/3
+(美)NASA4,https://m.youtube.com/@NASA/streams/4
+台灣地震監視,https://m.youtube.com/@eqm/streams/1
+
+
+【外語新聞】,#genre#
+ABC美國廣播公司新聞(美國偏自由派)(ABC News Us),https://m.youtube.com/@ABCNews/streams/1
+NBC國家廣播公司新聞(美國偏自由派)(NBCNews),https://m.youtube.com/@NBCNews/streams/1
+CBS哥倫比亞廣播系統新聞(美國偏自由派)(CBS),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8&data=normal
+CBS哥倫比亞廣播系統新聞(美國偏自由派)(CBS),https://m.youtube.com/@CBSNews/streams/1
+CNN有線電視新聞網(美國偏自由派)(CNN),https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8&data=normal
+CNN有線電視新聞網(美國偏自由派)(CNN),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8&data=normal
+CNN有線電視新聞網(美國偏自由派)(CNN),https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8&data=normal
+福斯直播(美國偏保守派)(LiveNOW from FOX),https://m.youtube.com/@livenowfox/streams/1
+福斯直播(美國偏保守派)(LiveNOW from FOX),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8&data=normal
+極限新聞(美國偏保守派)(Newsmax),https://m.youtube.com/@NewsmaxTV/streams/1
+今日美國(美國)(USA TODAY),https://m.youtube.com/@USATODAY/streams/1
+彭博財經速記(美國財經)(Bloomberg Quicktake),https://m.youtube.com/@BloombergQuicktake/streams/1
+彭博財經速記(美國財經)(Bloomberg Quicktake),https://m.youtube.com/@markets/streams/1
+彭博財經電視(美國財經)(Bloomberg Television),https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8&data=normal
+彭博財經電視(美國財經)(Bloomberg Television),http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8&data=normal
+CNBC消費者新聞與商業頻道(美國財經)(CNBC),https://m.youtube.com/@CNBC/streams/1
+RT俄羅斯今日電視台(俄羅斯)(RT News),https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8&data=normal
+中國環球電視歐洲分台(CGTN Europe),https://m.youtube.com/@CGTNEurope/streams/1
+歐洲新聞台(euronews),https://m.youtube.com/@euronews/streams/1
+BBC英國廣播公司新聞(英國)(BBC News),https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8&data=normal
+BBC英國廣播公司新聞(英國)(BBC News),https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8&data=normal
+天空新聞台(英國)(Sky News),https://m.youtube.com/@SkyNews/streams/1
+GB英國廣播公司新聞(英國偏右)(GBNews),https://m.youtube.com/@GBNewsOnline/streams/1
+DW德國之聲(德國)(DW News),https://m.youtube.com/@dwnews/streams/1
+法蘭西24(法國)(FRANCE 24 English),https://m.youtube.com/@France24_en/streams/1
+半島電視台(中東)(Al Jazeera English),https://m.youtube.com/@aljazeeraenglish/streams/1
+半島電視台(中東)(Al Jazeera English),http://live-hls-web-aje.getaj.net/AJE/01.m3u8&data=normal
+亞洲新聞台(新加坡)(CNA),https://m.youtube.com/@channelnewsasia/streams/1
+亞洲新聞台(新加坡)(CNA),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8&data=normal
+ABC新聞澳洲(澳洲)(ABC News Australia),https://m.youtube.com/@abcnewsaustralia/streams/1
+土耳其廣播電視(土耳其)(TRT World),https://m.youtube.com/@trtworld/streams/1
+日本廣播協會(日本)(NHK World)(各地字幕),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zt/playlist-back.m3u8&data=normal
+日本廣播協會(日本)(NHK World)(英字),https://m.youtube.com/@NHKWORLDJAPAN/streams/1
+非洲新聞台(剛果)(africanews),https://m.youtube.com/@africanews/streams/1
+CBN基督教廣播網絡新聞(美國)(CBN News),https://m.youtube.com/@CBNnewsonline/streams/1
+(日)全日本新聞網(日本)(ANNnewsCH),https://m.youtube.com/@ANNnewsCH/streams/1
+(韓)伊頓新聞台(韓國)(YTN News),https://m.youtube.com/@ytnnews24/streams/1
+(韓)韓國放送公社新聞(韓國)(KBS News),https://m.youtube.com/@newskbs/streams/1
+(阿)半島電視台(中東)(AlJazeera Arabic),https://m.youtube.com/@aljazeera/live
+(阿)半島電視台(中東)(AlJazeera Arabic),http://live-hls-web-aja.getaj.net/AJA/02.m3u8&data=normal
+(多)馬新社電視台(馬來西亞)(BERNAMA TV),https://m.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+(印)印尼電視網新聞台(印尼)(tvOneNews),https://m.youtube.com/@tvOneNews/streams/1
+(烏)新聞服務電視台(烏克蘭)(ТСН),https://m.youtube.com/@tsn/streams/1
+(日)TBS電視台(日本地方)(TBS NEWS),https://m.youtube.com/@tbsnewsdig/streams/1
+(日)北海道電視台(日本地方)(HTB),https://m.youtube.com/@htbnews/streams/1
+(日)名古屋電視台(日本地方)(名古屋テレビ),https://m.youtube.com/@NagoyaTVnewsCH/streams/1
+沃特曼廣播電台(美國地方)(ABC7 SWFL),https://m.youtube.com/@abc7swfl798/streams/1
+
+
+【動畫&卡通&兒童】,#genre#
+木棉花闔家歡1-【我們這一家】(台灣節點),https://m.youtube.com/@Muse_Family/streams/1
+木棉花闔家歡2-【中華一番】(台灣節點),https://m.youtube.com/@Muse_Family/streams/2
+木棉花闔家歡3-【蠟筆小新】(台灣節點),https://m.youtube.com/@Muse_Family/streams/3
+木棉花TW1(台灣節點),https://m.youtube.com/@MuseTW/streams/1
+木棉花TW2(台灣節點),https://m.youtube.com/@MuseTW/streams/2
+Muse木棉花-HK1(台灣or香港節點),https://m.youtube.com/@MuseHK/streams/1
+Muse木棉花-HK2(台灣or香港節點),https://m.youtube.com/@MuseHK/streams/2
+小猪佩奇,https://m.youtube.com/@PeppaPigChineseOfficial/streams/1
+momo親子台1-歡樂谷,https://m.youtube.com/@momokidsYT/streams/1
+momo親子台2-這一家,https://m.youtube.com/@momokidsYT/streams/2
+momo親子台3-學成語,https://m.youtube.com/@momokidsYT/streams/3
+YOYOTV,https://m.youtube.com/@yoyotvebc/streams/1
+碰碰狐 鯊魚寶寶,https://m.youtube.com/@Pinkfong_TW/live
+朱妮托尼1,https://m.youtube.com/@JunyTonyCN/streams/1
+朱妮托尼2,https://m.youtube.com/@JunyTonyCN/streams/2
+朱妮托尼3,https://m.youtube.com/@JunyTonyCN/streams/3
+(美)可可瓜瓜(CoComelon),https://m.youtube.com/@CoComelon/streams/1
+(美)奇寶萌兵(Oddbods),https://www.youtube.com/@Oddbods/streams/1
+(美)十億驚喜玩具(BillionSurpriseToys),https://m.youtube.com/@BillionSurpriseToys/streams/1
+(美)芝麻街(SesameStreet),https://m.youtube.com/@SesameStreet/streams/1
+(美)幼兒動物園(ToddlerZoo),https://m.youtube.com/@ToddlerZoo/streams/1
+(美)https://m.youtube.com/@OldMacDonaldsFarm_MoonbugKids/streams/1
+(美)朱妮托尼,https://m.youtube.com/@JunyTonyEN/streams/1
+(美)123 GO1,https://m.youtube.com/@123GO_/streams/1
+(美)123 GO2,https://m.youtube.com/@123GO_/streams/2
+(美)汪汪隊立大功(PAW Patrol),https://m.youtube.com/@PAWPatrolOfficial/streams/1
+(美)小巴士TAYO,https://m.youtube.com/@Tayo/streams/1
+(美)碰碰狐1(Pinkfong),https://m.youtube.com/@Pinkfong/streams/1
+(美)碰碰狐2(Pinkfong),https://m.youtube.com/@Pinkfong/streams/2
+(美)陽光小兔兔(Sunny Bunnies),https://m.youtube.com/@SunnyBunnies/streams/1
+(美)科多卡通(KedooToonsTV),https://m.youtube.com/@KedooToonsTV/streams/1
+(美)阿甘妙世界(The Amazing World of Gumball),https://m.youtube.com/@TheAmazingWorldofGumball/streams/1
+(美)老麥勞農場,https://m.youtube.com/@OldMacDonaldsFarm_MoonbugKids/streams/2
+(美)笑笑羊(Shaun the Sheep Official),https://m.youtube.com/@ShauntheSheepOfficial/streams/1
+(美)會說話的朋友(Talking Friends),https://m.youtube.com/@TalkingFriends/streams/1
+(美)神臍小捲毛(Steven Universe),https://m.youtube.com/@stevenuniverse4066/streams/1
+(美)迪士尼幼兒1(2-7歲),https://m.youtube.com/@disneyjunior/streams/1
+(美)迪士尼幼兒2(2-7歲),https://m.youtube.com/@disneyjunior/streams/2
+(美)迪士尼幼兒3(2-7歲),https://m.youtube.com/@disneyjunior/streams/3
+(美)迪士尼幼兒4(2-7歲),https://m.youtube.com/@disneyjunior/streams/4
+(美)迪士尼幼兒5(2-7歲),https://m.youtube.com/@disneyjunior/streams/5
+(美)迪士尼幼兒6(2-7歲),https://m.youtube.com/@disneyjunior/streams/6
+(美)迪士尼XD(6-14歲)(台灣節點),https://m.youtube.com/@disneyxd/streams/1
+(美)AI彼得(ai-peter)(ai生成),https://m.youtube.com/@ai-peter/streams/1
+麥兜噹噹伴我心,https://m.youtube.com/watch?v=whvCzWu-2bQ
+
+
+【戲劇&電影】,#genre#
+GPTV電影台(台灣節點),https://m.youtube.com/@GaragePlay/streams/1
+愛爾達影劇1-【去有風的地方】(台灣節點),https://m.youtube.com/@eltadrama/streams/1
+愛爾達影劇2-【我和我們在一起】(台灣節點),https://m.youtube.com/@eltadrama/streams/2
+愛爾達影劇3-【謝謝你醫生】(台灣節點),https://m.youtube.com/@eltadrama/streams/3
+愛爾達綜合1-【風中奇緣】(台灣節點),https://m.youtube.com/@ELTAWORLD/streams/1
+愛爾達綜合2-【長歌行】(台灣節點),https://m.youtube.com/@ELTAWORLD/streams/2
+愛爾達綜合3-【仙俠神劇 馭鮫記 與君初相識+恰似故人歸】(台灣節點),https://m.youtube.com/@ELTAWORLD/streams/3
+愛爾達綜合4-【光芒】(台灣節點),https://m.youtube.com/@ELTAWORLD/streams/4
+愛爾達綜合5-【金庸經典-神鵰俠侶】(台灣節點),https://m.youtube.com/@ELTAWORLD/streams/5
+龍華電視1(台灣節點),https://m.youtube.com/@ltv_tw/streams/1
+三立華劇1,https://m.youtube.com/@SETdrama/streams/1
+三立華劇2,https://m.youtube.com/@SETdrama/streams/2
+八大劇樂部1,https://m.youtube.com/@gtv-drama/streams/1
+八大劇樂部2,https://m.youtube.com/@gtv-drama/streams/2
+八大劇樂部3,https://m.youtube.com/@gtv-drama/streams/3
+八大劇樂部4,https://m.youtube.com/@gtv-drama/streams/4
+終極系列,https://m.youtube.com/channel/UCe_H_eo5G_79D11bQs-HJMQ/live
+CCTV電視劇1,https://m.youtube.com/@CCTVDrama/streams/1
+CCTV電視劇2,https://m.youtube.com/@CCTVDrama/streams/2
+樂視視頻,https://www.youtube.com/@letvdramas/live
+台視時光機1,https://m.youtube.com/@TTVClassic/streams/1
+台視時光機2,https://m.youtube.com/@TTVClassic/streams/2
+台視時光機3,https://m.youtube.com/@TTVClassic/streams/3
+台視時光機4,https://m.youtube.com/@TTVClassic/streams/4
+台視時光機5,https://m.youtube.com/@TTVClassic/streams/5
+中視經典戲劇1,https://m.youtube.com/@ctvdrama_classic/streams/1
+中視經典戲劇2,https://m.youtube.com/@ctvdrama_classic/streams/2
+華視戲劇1,https://m.youtube.com/@cts_drama/streams/1
+民視戲劇館1-【藍色水玲瓏】,https://m.youtube.com/@FTVDRAMA/streams/1
+民視戲劇館2-【新玫瑰瞳鈴眼】,https://m.youtube.com/@FTVDRAMA/streams/2
+民視戲劇館3-【新兵日記】,https://m.youtube.com/@FTVDRAMA/streams/3
+民視戲劇館4-【廉政英雄】,https://m.youtube.com/@FTVDRAMA/streams/4
+(韓)JTBC Drama,https://m.youtube.com/@JTBCdrama/streams/1
+
+
+【休閒綜藝】,#genre#
+
+【綜藝大熱門】,https://m.youtube.com/@HotDoorNight/streams/1
+【非凡大探索】台北美食篇,https://m.youtube.com/@ustvfoody/streams/1
+【非凡大探索】台中美食篇,https://m.youtube.com/@ustvfoody/streams/2
+【非凡大探索】高雄美食篇,https://m.youtube.com/@ustvfoody/streams/3
+【飢餓遊戲】,https://m.youtube.com/@HungerGames123/streams/1
+【MIT台灣誌】,https://m.youtube.com/@ctvmit/streams/1
+【大陸尋奇】,https://m.youtube.com/@ctvchinatv/streams/1
+中視經典綜藝1-【萬秀豬王】,https://m.youtube.com/@ctvent_classic/streams/1
+華視綜藝頻道1-【現代嘉慶君】,https://m.youtube.com/@CTSSHOW/streams/1
+華視綜藝頻道2-【天才衝衝衝】,https://m.youtube.com/@CTSSHOW/streams/2
+【豬哥會社】,https://m.youtube.com/@FTV_ZhuGeClub/streams/1
+【我愛冰冰Show】,https://m.youtube.com/@ilovebingbingshow/streams/1
+(韓)奔跑吧兄弟(韓國)(SBSRunningMan),https://m.youtube.com/@SBSRunningMan/streams/1
+(韓)All The K-POP(韓國),https://m.youtube.com/@ALLTHEKPOP/streams/1
+(韓)The K-POP(韓國),https://m.youtube.com/@thekpop/streams/1
+
+
+【英文聽力練習】,#genre#
+ABC Learning English 1,https://m.youtube.com/@ABCLearningEnglish/streams/1
+ABC Learning English 2,https://m.youtube.com/@ABCLearningEnglish/streams/2
+ABC Learning English 3,https://m.youtube.com/@ABCLearningEnglish/streams/3
+ABC Learning English 4,https://m.youtube.com/@ABCLearningEnglish/streams/4
+ABC Learning English 5,https://m.youtube.com/@ABCLearningEnglish/streams/5
+ABC Learning English 6,https://m.youtube.com/@ABCLearningEnglish/streams/6
+Learn English,https://m.youtube.com/@EnglishClass101/streams/1
+English Speeches 1,https://m.youtube.com/@EnglishSpeeches/streams/1
+English Speeches 2,https://m.youtube.com/@EnglishSpeeches/streams/2
+English Speeches 3,https://m.youtube.com/@EnglishSpeeches/streams/3
+English Speeches 4,https://m.youtube.com/@EnglishSpeeches/streams/4
+
+
+【音樂&白噪音】,#genre#
+
+【吉卜力鋼琴音樂】,https://m.youtube.com/@Ghibli-Relaxing9490/streams/1
+【Starbucks Bossa Coffee】,https://m.youtube.com/@starbucksbossacoffee6122/streams/1
+【滾石現場-經典神曲】,https://m.youtube.com/@rocklivelive/streams/2
+【熱歌 Playlist】,https://m.youtube.com/@chinesesong2023/streams/1
+【KKBOX排行榜歌曲】,https://m.youtube.com/@KKBOX2023/streams/1
+【滾石現場-重回演唱會現場】,https://m.youtube.com/@rocklivelive/streams/1
+【avex J-POP】,https://m.youtube.com/@avexofficial/streams/1
+【LofiGirl】,https://m.youtube.com/@LofiGirl/streams/1
+【Jazz】,https://m.youtube.com/@cozyapartment6988/streams/1
+【Classical Mastermind】,https://m.youtube.com/@ClassicalMastermind/streams/1
+【Live Music Radio】,https://m.youtube.com/@LiveMusicRadio/streams/1
+【Diamond Music】,https://m.youtube.com/@DiamondMBlack/streams/1
+【ts_bThe Good Life radio】,https://m.youtube.com/@TheGoodLiferadio/streams/1
+Ambient Renders 1,https://m.youtube.com/@AmbientRenders/streams/1
+Ambient Renders 2,https://m.youtube.com/@AmbientRenders/streams/2
+Ambient Renders 3,https://m.youtube.com/@AmbientRenders/streams/3
+Ambient Renders 4,https://m.youtube.com/@AmbientRenders/streams/4
+Ambient Renders 5,https://m.youtube.com/@AmbientRenders/streams/5
+Ambient Renders 6,https://m.youtube.com/@AmbientRenders/streams/6
+Ambient Renders 7,https://m.youtube.com/@AmbientRenders/streams/7
+Ambient Renders 8,https://m.youtube.com/@AmbientRenders/streams/8
+Ambient Renders 9,https://m.youtube.com/@AmbientRenders/streams/9
+Ambient Renders 10,https://m.youtube.com/@AmbientRenders/streams/10
+Ambient Renders 11,https://m.youtube.com/@AmbientRenders/streams/11
+Ambient Renders 12,https://m.youtube.com/@AmbientRenders/streams/12
+Ambient Renders 13,https://m.youtube.com/@AmbientRenders/streams/13
+Ambient Renders 14,https://m.youtube.com/@AmbientRenders/streams/14
+Ambient Renders 15,https://m.youtube.com/@AmbientRenders/streams/15
+Ambient Renders 16,https://m.youtube.com/@AmbientRenders/streams/16
+【孫燕姿歌曲精選50首】,https://m.youtube.com/watch?v=02OlEOSV0Ho
+【孫燕姿必聽經典20首】,https://m.youtube.com/watch?v=UivKIVafdd4
+【孫燕姿 我怀念的】,https://m.youtube.com/watch?v=4r0DXXEq5Fs
+
+
+【運動】,#genre#
+NBA(台灣用)(代理),https://clonglii.serv00.net/youtube_d.php?live=m.youtube.com/@NBA/live&data=normal
+NBA,https://m.youtube.com/@NBA/live
+FIBA,https://m.youtube.com/@FIBA/live
+Japan vs Chinese Taipei | Preliminary Round | 2024 IHF Women's Junior (U20) World Championship,https://m.youtube.com/watch?v=6muIFvarfJk
+24/7 FIBA LIVE: Yuta Watanabe & Team Japan 🇯🇵 Non-Stop Action! 🏀,https://m.youtube.com/watch?v=CLqMTp4VWHI
+LIVE - Manawatū Jets v Nelson Giants | @SalsNBL 2024,https://m.youtube.com/watch?v=GCcuZeuh9uc
+Day 2 - Tv Table - Mezz Bucharest Open,https://m.youtube.com/watch?v=g7BjktVI0mo
+Ferrari Challenge Europe - Jerez, Qualifying 1,https://m.youtube.com/watch?v=Jz5yVRkHofk
+WPT Live!,https://m.youtube.com/watch?v=qiGtEIoHlBc
+[국내메이저] 2024 KGA 코오롱 제66회 한국오픈 3R | LIVE 중계,https://m.youtube.com/watch?v=qjPWIYCbtkQ
+Switzerland vs Egypt | Preliminary Round | 2024 IHF Women's Junior (U20) World Championship,https://m.youtube.com/watch?v=FLcLzEbWv_A
+LIVE🔴| FIBA 3x3 Orléans Challenger 2024 | Qualifier for Lausanne Masters | Qualifying Draw,https://m.youtube.com/watch?v=fy2wJHdvxo0
+UEFA Euro 2024 Live,https://m.youtube.com/watch?v=J2CqvJCYn24
+[KLPGA 2024] BC Card · Hankyung Ladies Cup 2024 / Round 3 (ENG Commentary),https://m.youtube.com/watch?v=YErzKzyBj-U
+ฟังมวยหูสด ศึกมวยไทยเกียรติเพชร SKS | เวทีอ้อมน้อย | 22 มิ.ย. 67,https://m.youtube.com/watch?v=qhJe4Jf8s6A
+
+
+
+【購物台】,#genre#
+東森購物1台CH47,https://m.youtube.com/@HotsaleTV/streams/4
+東森購物2台CH34,https://m.youtube.com/@HotsaleTV/streams/2
+東森購物3台CH46,https://m.youtube.com/@HotsaleTV/streams/3
+東森購物5台CH60,https://m.youtube.com/@HotsaleTV/streams/1
+momo購物1台CH48,https://m.youtube.com/@momoch4812/streams/1
+momo購物2台CH35,https://m.youtube.com/@momoch3571/streams/1
+ViVa美好購物1台,https://m.youtube.com/@ViVaTVtw/streams/1
+ViVa美好購物2,https://m.youtube.com/@ViVaTVtw/streams/2
+
+
+【其他】,#genre#
+海豚綜合台,https://m.youtube.com/@24811001/streams/1
+信大電視台,https://m.youtube.com/@user-mj5bl5ze5o/streams/1
+誠心電視台,https://m.youtube.com/@chengsintv2/live
+叫您第一名電視台,https://m.youtube.com/@bdtvbest/streams/1
+大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8&data=normal
+番薯電視台,http://61.216.67.119:1935/TWHG/E1/index.m3u8&data=normal
+桐瑛虎尾電視台,https://m.youtube.com/@user-de3rj3ee4y/streams/1
+三大一台,https://m.youtube.com/@SDTV55ch/streams/1
+
+
+【藝術欣賞】,#genre#
+Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8&data=normal
+SPLASH1,https://m.youtube.com/@SPLASHme/streams/1
+SPLASH2,https://m.youtube.com/@SPLASHme/streams/2
+Swimwear & Underwear1,https://m.youtube.com/@SwimwearUnderwear/streams/1
+305miamivisuals1,https://m.youtube.com/@305miamivisuals/streams/1
+305miamivisuals2,https://m.youtube.com/@305miamivisuals/streams/2
+shiftswim,https://m.youtube.com/@shiftswim/streams/1
+
+【台灣-大馬路上來的好朋友】,#genre#
+
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8&data=normal
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8&data=normal
+民视,rtmp://f13h.mine.nu/sat/tv051&data=normal
+台视,rtmp://f13h.mine.nu/sat/tv071&data=normal
+中视,rtmp://f13h.mine.nu/sat/tv091&data=normal
+华视,rtmp://f13h.mine.nu/sat/tv111&data=normal
+东森超视,rtmp://f13h.mine.nu/sat/tv331&data=normal
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701&data=normal
+纬来体育,rtmp://f13h.mine.nu/sat/tv721&data=normal
+纬来体育1080,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130&data=normal
+DAZN 1,rtmp://f13h.mine.nu/sat/tv731&data=normal
+DAZN 2,rtmp://f13h.mine.nu/sat/tv741&data=normal
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761&data=normal
+纬来日本,rtmp://f13h.mine.nu/sat/tv771&data=normal
+
+
+【港澳-大馬路上來的好朋友】,#genre#
+
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct&data=normal
+TVB华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali&data=normal
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp&data=normal
+TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe&data=normal
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt&data=normal
+TVB无线新闻台,https://tvb.livednow.com/I-NEWS&data=normal$decoder=2
+TVB Plus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6&data=normal$decoder=2
+TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600&data=normal
+TVB星河频道,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8&data=normal
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8&data=normal
+TVB亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8&data=normal
+TVB泰,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8&data=normal
+TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8&data=normal
+VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv&data=normal
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw&data=normal
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx&data=normal
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk&data=normal
+港台電視31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31&data=normal
+港台電視32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32&data=normal
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8&data=normal
+港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8&data=normal
+港台電視35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8&data=normal
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8&data=normal
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8&data=normal
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8&data=normal
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8&data=normal
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8&data=normal
+澳门莲花,https://tv.iill.top/mo/lhws&data=normal
+澳门莲花,http://php.jdshipin.com:8880/amlh.php&data=normal
+澳门葡语,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8&data=normal
+澳门Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8&data=normal
+澳门体育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8&data=normal
+澳门信息,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8&data=normal
+澳门综艺,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8&data=normal
+经典功夫台,https://www.goodiptv.club/yy/1355002394&data=normal
+星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv&data=normal
+邵氏影院,https://www.goodiptv.club/douyu/4246519&data=normal
+
+
+【大陸-大馬路上來的好朋友】,#genre#
+Aspect=4
+CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8&data=normal
+CCTV-2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8&data=normal
+CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8&data=normal
+CCTV-5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8&data=normal
+CCTV-6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8&data=normal
+CCTV-8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8&data=normal
+CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8&data=normal
+CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8&data=normal
+CCTV-16奧林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8&data=normal
+东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD/hls.m3u8&data=normal
+广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8&data=normal
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8&data=normal
+江苏卫视,https://node1.olelive.com:6443/live/JIANGSUHD/hls.m3u8&data=normal
+辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8&data=normal
+浙江卫视,https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8&data=normal
+
+
+
+
+【其他-大馬路上來的好朋友】,#genre#
+
+
+(外)(历史)史密森尼频道,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&data=normal
+(外)(历史)历史365(History365),https://da8eq3kpws4wh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/playlist.m3u8&data=normal
+Deluxe Lounge HD,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a54049ad-66da-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D&data=normal
+FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8&data=normal
+Loupe Art,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8&data=normal
+Vevo Pop,https://d39h650n18zv79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulfbldzmyh257/playlist.m3u8&data=normal
+Ebony TV,https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8&data=normal
+
+
+【電影-大馬路上來的好朋友】,#genre#
+
+(综)豆瓣高分,https://www.goodiptv.club/douyu/8770422&data=normal
+(综)贝爷MAX厅(高画.科幻.动作),https://www.goodiptv.club/douyu/4332&data=normal
+(外)贝爷影厅(科幻.动作.经典),https://www.goodiptv.club/douyu/252802&data=normal
+(外)贝爷二厅(小众电影),https://www.goodiptv.club/douyu/36337&data=normal
+(外)哈利波特,https://www.goodiptv.club/douyu/8814650&data=normal
+(外)漫威,https://www.goodiptv.club/douyu/6140589&data=normal
+(外)变种人,https://www.goodiptv.club/douyu/9651304&data=normal
+(外)玩命关头,https://www.goodiptv.club/yy/1382749892&data=normal
+(外)奶虫厅(恐怖.丧尸.鬼片.灾难科幻),https://www.goodiptv.club/douyu/263824&data=normal
+(外)神乐厅(科幻.动作.经典喜剧),https://www.goodiptv.club/douyu/20415&data=normal
+(外)花卷厅(豆瓣高评分),https://www.goodiptv.club/douyu/52787&data=normal
+(综)小宇60帧厅(科幻.灾难.喜剧),https://www.goodiptv.club/douyu/323876&data=normal
+(外)007厅,https://www.goodiptv.club/douyu/9292499&data=normal
+八点档电影,https://www.goodiptv.club/huya/880261&data=normal
+功夫电影,https://www.goodiptv.club/huya/11352941&data=normal
+动作电影,https://www.goodiptv.club/huya/11602077&data=normal
+动作电影2,https://www.goodiptv.club/huya/11602041&data=normal
+悬疑电影,https://www.goodiptv.club/huya/11342395&data=normal
+特辑电影,https://www.goodiptv.club/douyu/3637778&data=normal
+粤语电影,https://www.goodiptv.club/douyu/1226741&data=normal
+蓝翔厅(华语经典.周星驰.喜剧),https://www.goodiptv.club/douyu/276200&data=normal
+小鬼点播厅(动作.喜剧.经典),https://www.goodiptv.club/douyu/3928&data=normal
+吃米滴虫厅(喜剧.黑帮.动作.武侠.经典),https://www.goodiptv.club/douyu/315457&data=normal
+神乐厅(经典.沈腾.周杰伦),https://www.goodiptv.club/douyu/85894&data=normal
+表妹厅(青春.动作.喜剧),https://www.goodiptv.club/douyu/5423&data=normal
+米娜厅,https://www.goodiptv.club/yy/1382690078&data=normal
+邵氏影院(经典武侠.动作),https://www.goodiptv.club/douyu/4246519&data=normal
+周星驰,https://www.goodiptv.club/huya/11342412&data=normal
+周星驰2,https://www.goodiptv.club/douyu/122402&data=normal
+王晶电影,https://www.goodiptv.club/huya/11602058&data=normal
+刘德华,https://www.goodiptv.club/douyu/2516864&data=normal
+刘德华2,https://www.goodiptv.club/huya/11342424&data=normal
+李连杰,https://www.goodiptv.club/huya/11342390&data=normal
+沈腾,https://www.goodiptv.club/huya/11601968&data=normal
+恐怖电影,https://www.goodiptv.club/douyu/218859&data=normal
+恐怖电影2,https://www.goodiptv.club/douyu/310926&data=normal
+恐怖鬼怪,https://www.goodiptv.club/douyu/1165374&data=normal
+童年阴影,https://www.goodiptv.club/douyu/2935323&data=normal
+惊悚电影,https://www.goodiptv.club/douyu/96577&data=normal
+鬼吹灯全集,https://www.goodiptv.club/huya/29768105&data=normal
+(说电影)宇哥解说,https://www.goodiptv.club/douyu/8651489&data=normal
+(说电影)科幻Fans布玛,https://www.goodiptv.club/douyu/3508304&data=normal
+(说电影)长片短解,https://www.goodiptv.club/douyu/9410946&data=normal
+(说电影)夜魔人老王,https://www.goodiptv.club/douyu/610972&data=normal
+(说电影)老邪说电影,https://www.goodiptv.club/douyu/9222870&data=normal
+(说电影)星君说电影,https://www.goodiptv.club/douyu/8014467&data=normal
+(说电影)刘哔讲电影,https://www.goodiptv.club/douyu/2632223&data=normal
+(说电影)老王说电影,https://www.goodiptv.club/douyu/9687733&data=normal
+(说电影)牛叔说电影,https://www.goodiptv.club/douyu/2758565&data=normal
+(说电影)侃片大师兄,https://www.goodiptv.club/douyu/9338839&data=normal
+(说电影)电影迷小雅,https://www.goodiptv.club/douyu/9639225&data=normal
+(说电影)刘老师说电影,https://www.goodiptv.club/douyu/8317926&data=normal
+(说电影)来呀官人解说,https://www.goodiptv.club/douyu/9986305&data=normal
+(说电影)小片片说大片,https://www.goodiptv.club/douyu/4258555&data=normal
+(说电影)火龙果说电影,https://www.goodiptv.club/douyu/9559158&data=normal
+(说电影)3说电影,https://www.goodiptv.club/douyu/9643264&data=normal
+
+
+【電視劇-大馬路上來的好朋友】,#genre#
+(外)(2023)幽游白书(7.1),https://www.goodiptv.club/huya/11602034&data=normal
+(外)(2011~)冰与火之歌(9.5~),https://www.goodiptv.club/douyu/8945323&data=normal
+(2023)繁花(8.7),https://www.goodiptv.club/huya/21059580&data=normal
+(2023)问心(8.5),https://www.goodiptv.club/huya/11352890&data=normal
+(2023)長相思(7.8),https://www.goodiptv.club/huya/11336593&data=normal
+(2022)梦华录(7.9),https://www.goodiptv.club/huya/11336590&data=normal
+(2021)雪中悍刀行(5.9),https://www.goodiptv.club/huya/11336592&data=normal
+(2020)大秦赋(5.4),https://www.goodiptv.club/huya/21059634&data=normal
+(2019)庆余年(7.9),https://www.goodiptv.club/huya/11352960&data=normal
+(2019)庆余年(7.9)-源2,https://www.goodiptv.club/douyu/7489563&data=normal
+(2016)欢乐颂(7.5),https://www.goodiptv.club/douyu/3756989&data=normal
+(2016)好先生(7.2),https://www.goodiptv.club/douyu/9650792&data=normal
+(2015)羋月传(6.1),https://www.goodiptv.club/huya/11352975&data=normal$decoder=2
+(2013)龙门镖局(7.8),https://www.goodiptv.club/douyu/9650860&data=normal
+(2013)隋唐演义(7.5),https://www.goodiptv.club/douyu/7552568&data=normal
+(2012)爱情公寓3(7.8),https://www.goodiptv.club/douyu/6566658&data=normal
+(2011)水浒传(8.1),https://www.goodiptv.club/douyu/3758762&data=normal
+(2010)三国(7.9),https://www.goodiptv.club/douyu/5908256&data=normal
+(2010)三国(7.9)-源2,https://www.goodiptv.club/huya/11352944&data=normal
+(2010)三国(7.9)-源3,https://www.goodiptv.club/douyu/2838296&data=normal
+(2009)爱情公寓(8.2),https://www.goodiptv.club/douyu/6863367&data=normal
+(2008)神探狄仁杰3(8.5),https://www.goodiptv.club/huya/11342425&data=normal
+(2004)神探狄仁杰(9.1),https://www.goodiptv.club/huya/11352958&data=normal
+(2003)神医喜来乐(8.1),https://www.goodiptv.club/yy/1382714119&data=normal
+(2001)康熙帝国(9.2),https://www.goodiptv.club/huya/11352940&data=normal
+(2001)李卫当官(7.7),https://www.goodiptv.club/douyu/7473576&data=normal
+(1999)雍正王朝(9.4),https://www.goodiptv.club/huya/11342439&data=normal
+(1999)雍正王朝(9.4)-源2,https://www.goodiptv.club/douyu/9650836&data=normal
+(1997~)康熙微服私访记(7.7~),https://www.goodiptv.club/douyu/7550220&data=normal
+(1996)宰相刘罗锅(8.3),https://www.goodiptv.club/yy/1382745191&data=normal
+(1996)宰相刘罗锅(8.3),https://www.goodiptv.club/douyu/7473576&data=normal
+(1994)三国演义(9.6),https://www.goodiptv.club/huya/11602081&data=normal
+(1993)朱元璋(8.5),https://www.goodiptv.club/douyu/308752&data=normal
+(1986)西游记(9.7)&(2000)西游记续集(9.1),https://www.goodiptv.club/douyu/3113309&data=normal
+(1986)西游记(9.7)&(2000)西游记续集(9.1)-源2,https://www.goodiptv.club/douyu/8953746&data=normal
+(综合)橙記港剧,https://www.goodiptv.club/douyu/4549169&data=normal
+(综合)古装神剧,https://www.goodiptv.club/douyu/338759&data=normal
+(说电视剧)史君说剧,https://www.goodiptv.club/douyu/9419771&data=normal
+(说电视剧)史剧说剧2,https://www.goodiptv.club/douyu/297689&data=normal
+(说电视剧)老秦说剧,https://www.goodiptv.club/douyu/9650131&data=normal
+(说电视剧)老蔡解说,https://www.goodiptv.club/douyu/8869614&data=normal
+(说电视剧)百晓生说剧,https://www.goodiptv.club/douyu/9649681&data=normal
+(说电视剧)百晓生说剧2,https://www.goodiptv.club/douyu/9653063&data=normal
+(说电视剧)小司马说剧,https://www.goodiptv.club/douyu/4808115&data=normal
+(说电视剧)小司马说剧2,https://www.goodiptv.club/douyu/9660127&data=normal
+(说电视剧)虫哥说电影,https://www.goodiptv.club/douyu/8915074&data=normal
+(说电视剧)1900影剧室,https://www.goodiptv.club/douyu/7796193&data=normal
+
+
+【電視劇-埋堆堆-大馬路上來的好朋友】,#genre#
+
+看孙悟空唐三藏取西经,https://www.goodiptv.club/huya/23735126&data=normal
+【封神榜】割肉还母剔骨还父,https://www.goodiptv.club/huya/23749096&data=normal
+张卫健版西游记-当蜘蛛精看上了齐天大圣,https://www.goodiptv.club/huya/23728660&data=normal
+楚汉骄雄-我恨做皇后但我做刘邦的皇后,https://www.goodiptv.club/huya/23740156&data=normal
+【鹿鼎记】小春版韦小宝是你心中最经典的版本吗？,https://www.goodiptv.club/huya/23865080&data=normal
+【天龙八部】最佳版本天龙·97版黄日华超神作,https://www.goodiptv.club/huya/23903123&data=normal
+【刑事侦缉档案】最棒的警匪片系列,https://www.goodiptv.club/huya/23734169&data=normal
+【寻秦记】穿越剧鼻祖·百看不厌的古天乐宣萱CP,https://www.goodiptv.club/huya/23864973&data=normal
+【笑傲江湖】吕颂贤就是哪个令狐冲！最被认可的笑傲江湖！,https://www.goodiptv.club/huya/23865142&data=normal
+【法证先锋】侦查片天花板超经典,https://www.goodiptv.club/huya/23863804&data=normal
+【倚天屠龙记】最爱的赵敏永远是黎姿,https://www.goodiptv.club/huya/23734246&data=normal
+【陀枪师姐】永远的陈小生无法超越的经典,https://www.goodiptv.club/huya/23860039&data=normal
+【洗冤录】节奏贼快·经典TVB剧情·瘦子欧阳震华出演,https://www.goodiptv.club/huya/23903130&data=normal
+【神雕侠侣】不能超越的杨过和姑姑·古天乐最强出演,https://www.goodiptv.club/huya/23865171&data=normal
+【鉴证实录】天网恢恢，疏而不漏,https://www.goodiptv.club/huya/23903183&data=normal
+扫黄先锋·欧阳震华在不能不看,https://www.goodiptv.club/huya/23903196&data=normal
+【使徒行者】正邪相斗情义两难,https://www.goodiptv.club/huya/23734256&data=normal
+【创世纪】神预言，剧里的金融地产现在都成真了！,https://www.goodiptv.club/huya/23749083&data=normal
+【大唐双龙传】爱你恨你，一生一世,https://www.goodiptv.club/huya/23728674&data=normal
+金枝欲孽-宫斗剧才一开山既已是巅峰！,https://www.goodiptv.club/huya/23865036&data=normal
+【大时代】史上主角疯子最多的片·荡气回肠大时代！,https://www.goodiptv.club/huya/23865161&data=normal
+野蛮亲家血腥对线！,https://www.goodiptv.club/huya/23863796&data=normal
+【笑看风云】再无包文龙，再无林贞烈,https://www.goodiptv.club/huya/23865058&data=normal
+【妙手仁心】最出色的都市剧之一,https://www.goodiptv.club/huya/23829543&data=normal
+【梁朝伟版鹿鼎记】梁朝伟和刘德华还能拒绝吗,https://www.goodiptv.club/huya/23734183&data=normal
+射雕之九阴真经-姜大卫张智霖,https://www.goodiptv.club/huya/23824164&data=normal
+
+
+
+【動畫-大馬路上來的好朋友】,#genre#
+
+(日)(动画)全职猎人,https://www.goodiptv.club/douyu/6610883&data=normal
+(日)(动画)灌篮高手,https://www.goodiptv.club/yy/1382735626&data=normal
+(动画)中華小當家,https://www.goodiptv.club/huya/11342413&data=normal
+(动画)中華小當家2,https://www.goodiptv.club/huya/24257300&data=normal
+(动画)柯南,https://www.goodiptv.club/douyu/1783144&data=normal
+(日)(动画)柯南,https://www.goodiptv.club/douyu/7050342&data=normal
+(日)(动画)动画,https://www.goodiptv.club/douyu/997925&data=normal
+(动画)海绵宝宝,https://www.goodiptv.club/douyu/3949681&data=normal
+(动画)动漫推荐,https://www.goodiptv.club/douyu/5187099&data=normal
+(说动漫)大鱼爱路飞,https://www.goodiptv.club/huya/25818873&data=normal
+(说动漫)杰克动漫,https://www.goodiptv.club/huya/19757963&data=normal
+(说动漫)余小二哦,https://www.goodiptv.club/huya/10279885&data=normal
+(说动漫)皮皮看动漫,https://www.goodiptv.club/douyu/9837291&data=normal
+(说动漫)洗碗君解说,https://www.goodiptv.club/douyu/9446706&data=normal
+(说动漫)经典动漫,https://www.goodiptv.club/douyu/9455567&data=normal
+(说动漫)鲁过一世,https://www.goodiptv.club/douyu/9716515&data=normal
+
+
+【綜藝&運動-大馬路上來的好朋友】,#genre#
+
+(脱口秀)脱口秀来了,https://www.goodiptv.club/huya/11352875&data=normal
+(脱口秀)吐槽大会,https://www.goodiptv.club/huya/21059555&data=normal
+(脱口秀)今晚80后脱口秀,https://www.goodiptv.club/huya/11352961&data=normal
+(幽默短剧)经典小品相声,https://www.goodiptv.club/douyu/9273031&data=normal
+(幽默短剧)陈翔六点半,https://www.goodiptv.club/huya/11274154&data=normal$decoder=2
+(幽默短剧)万合天宜,https://www.goodiptv.club/douyu/9220456&data=normal
+(幽默短剧)开心麻花,https://www.goodiptv.club/douyu/10153463&data=normal
+(幽默短剧)趙本山经典,https://www.goodiptv.club/douyu/9817716&data=normal
+(幽默短剧)贾玲经典,https://www.goodiptv.club/douyu/10419541&data=normal
+(幽默短剧)宋小宝经典,https://www.goodiptv.club/douyu/9817729&data=normal
+(幽默短剧)许君聪经典,https://www.goodiptv.club/douyu/10419558&data=normal
+(幽默短剧)葱花,https://www.goodiptv.club/huya/11352938&data=normal
+(外)(美食)厨房噩梦(Kitchen Nightmares),https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8&data=normal
+(美食)寻味&舌尖之的中国,https://www.goodiptv.club/huya/11352955&data=normal
+(美食)风味人间,https://www.goodiptv.club/douyu/9650849&data=normal
+(美食)日食记,https://www.goodiptv.club/douyu/2206405&data=normal
+(美食)厨师长教你做菜,https://www.goodiptv.club/douyu/8144937&data=normal
+(外)(美食)咸鱼放映,https://www.goodiptv.club/douyu/442280&data=normal
+(外)(美食)品味頻道(Tastemade),https://d1v4n56wkd1tai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqyqwipqmi0u0/playlist.m3u8&data=normal
+(外)祝你好胃口(Bon Appétit),https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4wdain833nzhm/playlist.m3u8&data=normal
+(住宅)买不起看得起的豪宅,https://www.goodiptv.club/douyu/9314668&data=normal
+(外)(住宅)住宅设计网(The Design Network),https://d2ot4615xhuuuh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zj5yk7f3ydbqu/playlist.m3u8&data=normal
+(萌宠)花花与三貓,https://www.goodiptv.club/douyu/7348194&data=normal
+(萌宠)萌宠搞笑,https://www.goodiptv.club/douyu/8653533&data=normal
+(实境旅游)美国小哥郭杰瑞,https://www.goodiptv.club/douyu/7357786&data=normal
+(实境旅游)敬汉卿,https://www.goodiptv.club/douyu/2912165&data=normal
+(外)(实境综艺)跑男,https://www.goodiptv.club/huya/11336725&data=normal
+(外)(实境综艺)欢乐综艺,https://www.goodiptv.club/douyu/131977&data=normal
+(外)(野外)荒野求生,https://www.goodiptv.club/douyu/454867&data=normal
+(综艺)篮球人物,https://www.goodiptv.club/douyu/8434598&data=normal
+(综艺)介绍日韓(纳豆奶奶),https://www.goodiptv.club/douyu/8745628&data=normal
+
+
+【運動&體育-大馬路上來的好朋友】,#genre#
+
+(运动)子子廋身,https://www.goodiptv.club/huya/23966590&data=normal
+(外)(运动)女子格斗,https://www.goodiptv.club/yy/1354946995&data=normal
+(外)(运动)红牛(美),https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8&data=normal
+(外)(运动)红牛(澳),https://d2wh218z89956x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w2lcn2ju6b68e/playlist.m3u8&data=normal
+(体育)纬来育乐,rtmp://f13h.mine.nu/sat/tv701&data=normal
+(体育)纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130&data=normal
+(体育)纬来体育,rtmp://f13h.mine.nu/sat/tv721&data=normal
+(体育)DAZN 1,rtmp://f13h.mine.nu/sat/tv731&data=normal
+(体育)DAZN 2,rtmp://f13h.mine.nu/sat/tv741&data=normal
+(体育)MoMo综合,rtmp://f13h.mine.nu/sat/tv761&data=normal
+(体育)CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8&data=normal
+(体育)CCTV-5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8&data=normal
+(体育)CCTV-16奧林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8&data=normal
+
+【比賽直播-大馬路上來的好朋友】,#genre#
+
+(18:30)足协杯:江西庐山 vs浙江(06/22 18:30),https://ddkanqiu.net/zhibo/1704902.html&data=normal
+(直播中)J联赛:町田泽维亚vs福冈黄蜂(06/22 14:00),https://ddkanqiu.net/zhibo/1704889.html&data=normal
+(直播中)新西兰联: 马纳瓦喷射机vs 尼尔逊巨人(06/22 15:30),https://ddkanqiu.net/zhibo/1704890.html&data=normal
+(17:00)J联赛:东京绿茵vs名古屋鲸八(06/22 17:00),https://ddkanqiu.net/zhibo/1704893.html&data=normal
+(17:00)K联赛:大邱FCvs全北现代(06/22 17:00),https://ddkanqiu.net/zhibo/1704891.html&data=normal
+(17:00)J联赛:新泻天鹅vs川崎前锋(06/22 17:00),https://ddkanqiu.net/zhibo/1704892.html&data=normal
+(17:30)J联赛:大阪钢巴vs神户胜利船(06/22 17:30),https://ddkanqiu.net/zhibo/1704895.html&data=normal
+(17:30)J联赛:磐田喜悦vs大阪樱花(06/22 17:30),https://ddkanqiu.net/zhibo/1704894.html&data=normal
+(18:00)J联赛:湘南海洋vs东京FC(06/22 18:00),https://ddkanqiu.net/zhibo/1704900.html&data=normal
+(18:00)J联赛:柏太阳神vs广岛三箭(06/22 18:00),https://ddkanqiu.net/zhibo/1704898.html&data=normal
+(18:00)K联赛:大田市民vs光州FC(06/22 18:00),https://ddkanqiu.net/zhibo/1704896.html&data=normal
+(18:00)J联赛:浦和红钻vs 鹿岛鹿角(06/22 18:00),https://ddkanqiu.net/zhibo/1704901.html&data=normal
+
+
+【科學&自然-大馬路上來的好朋友】,#genre#
+
+(科学)世界未解之谜,https://www.goodiptv.club/douyu/9369468&data=normal
+(科学)科学黑历史,https://www.goodiptv.club/douyu/9317739&data=normal
+(科学)领略宇宙星海,https://www.goodiptv.club/douyu/9412981&data=normal
+(外)(自然)BBC地球(BBC Earth),https://d206rrc0yoxllg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/BBC_Earth_US.m3u8&data=normal
+(外)(自然)爱自然(Love Nature 4K),https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8&data=normal
+(外)(自然)爱自然(Love Nature 4K),https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8&data=normal
+(外)(自然)野生动物(Wild Life),https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8&data=normal
+(外)(自然)国家地理频道,https://m.youtube.com/@NatGeo/streams/1
+(外)(自然)国家地理频道2,https://m.youtube.com/@NatGeo/streams/2
+(外)(自然)国家地理频道野生,https://m.youtube.com/@NatGeoWild/streams/1
+(外)(自然)国家地理频道野生2,https://m.youtube.com/@NatGeoWild/streams/2
+(外)(自然)国家地理频道兒童,https://m.youtube.com/@natgeokids/streams/1
+
+
+【老胡音樂區-大馬路上來的好朋友】,#genre#
+
+Cadena Elite,https://cloudvideo.servers10.com:8081/8004/index.m3u8&data=normal
+Company TV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8&data=normal
+Cantina TVnormal,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8&data=normal
+AlbKanale Music TV,https://albportal.net/albkanalemusic.m3u8&data=normal
+Global TV,https://stmv.video.gmpro.top/global/global/playlist.m3u8&data=normal
+Kronehit,https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8&data=normal
+Radio Contact,https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8&data=normal
+Radio Javan TV,http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8&data=normal
+RU.TV,https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8&data=normal
+Tu Música HD,https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8&data=normal
+V2Beat,http://de1se01.v2beat.live:80/chunks.m3u8&data=normal
+Radiom20,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8&data=normal
+1Первый Музыкальный Канал HD,http://hz1.teleport.cc/HLS/HD.m3u8&data=normal
+Первый Музыкальный Канал Россия,http://rtmp.one.by:2200&data=normal$decoder=2
+Afrobeats,https://stream.ecable.tv/afrobeats/index.m3u8&data=normal
+Clubbing TV,https://clubbingtv-rakuten.amagi.tv/playlist.m3u8&data=normal
+CMC,https://cmc-ono.amagi.tv/playlist.m3u8&data=normal
+DeepHouse District,https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8&data=normal
+Deluxe Lounge HD,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&data=normal
+Deluxe Music,https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8&data=normal
+Euro Indie Music Chart TV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8&data=normal
+Farra Play,http://159.203.148.226/live/farra.m3u8&data=normal
+High Vision,https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8&data=normal
+Impact TV Manele,https://online.tvimpact.live/hls/impact_tv.m3u8&data=normal
+Klape i Tambure TV,https://stream.cmctv.hr:49998/kit/live.m3u8&data=normal
+Love TV,https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8&data=normal
+Magic TV,https://itv.streams.ovh/magictv/magictv/playlist.m3u8&data=normal
+Más FM 95.9normal,https://vivo.solumedia.com:19360/masfm/masfm.m3u8&data=normal
+MNTV Music,https://mntv.livebox.co.in/musichls/live.m3u8&data=normal
+Music Box Russia,https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8&data=normal
+Navahang TV,https://hls.navahang.live/hls/stream.m3u8&data=normal
+Panik TV,https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8&data=normal
+Play TV,http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8&data=normal
+PMC,https://hls.pmchd.live/hls/stream.m3u8&data=normal
+Power Dance,https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8&data=normal
+Power Love,https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8&data=normal
+Power Türk Slow,https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8&data=normal
+Radio 21 TV,https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8&data=normal
+Radio JND,https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8&data=normal
+Radio Piter Pan TV,https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8&data=normal
+Sky Folk TV,https://eu.live.skyfolk.mk/live.m3u8&data=normal
+STZ Telebista,https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8&data=normal
+Super TV,http://iptv.supertv.ro:8000/play/a001/index.m3u8&data=normal
+TMA,http://hls.tmacaraibes.com/live/index.m3u8&data=normal
+Trace Urban,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8&data=normal
+Volksmusik TV,https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8&data=normal
