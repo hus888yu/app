@@ -74,7 +74,10 @@
     {
       "name": "sp",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt"
-    },
+      ]
+    }
+],
+   "直播": [
     {
       "name": "sp1",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp1.txt"
