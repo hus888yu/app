@@ -1,7 +1,7 @@
  {
   "urls": [
     {
-      "name": "彥",
+      "name": "🐸彥",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/1.json"
     },
     {
@@ -9,7 +9,12 @@
       "url": "https://4tvbox.ggff.net/config.json"
     },
     {
-      "name": "彥2",
+      "name": "盒子之家",
+      "url": "https://888.iptv543.com/1.json"
+    },
+
+    {
+      "name": "🐸彥2",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/888.json"
     },  
     {
