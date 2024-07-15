@@ -4044,7 +4044,9 @@
   "lives": [
     {
       "name": "live",
-      "url": "http://888.iptv543.com/1.txt"
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp1.txt"
+      "name": "live",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt"
     }
   ]
 }
