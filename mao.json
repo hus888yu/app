@@ -1,7 +1,19 @@
 {
   "spider": "http://888.iptv543.com/18.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "lives": [
+    {
+      "name": "live",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
+  
     {
       "key": "Jable",
       "name": "Jable",
@@ -4034,13 +4046,9 @@
       "hosts": [
         "douyin.com"
       ],
-    "lives": [
-    {
-      "name": "sp",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt"
-    }
       "regex": [
         "is_play_url="
       ]
+    }
   ]
 }
