@@ -1,7 +1,9 @@
 {
-  "spider": "https://raw.githubusercontent.com/hus888yu/app/main/18.jar",
+  "spider": "http://888.iptv543.com/18.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  ],
   "sites": [
+  
     {
       "key": "Jable",
       "name": "Jable",
@@ -4037,6 +4039,14 @@
       "regex": [
         "is_play_url="
       ]
+    }
+  ],
+
+  "lives": [
+    {
+      "name": "live",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
+      
     }
   ]
 }
