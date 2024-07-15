@@ -3,6 +3,14 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "实验",
+      "name": "实验黑木耳",
+      "type": 4,
+      "api": "http://zhangqun66.serv00.net/225.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
