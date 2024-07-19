@@ -7,37 +7,71 @@ http://106.107.177.205:5000/youtube/HFib76ySpbU
 logo="https://i.ytimg.com/vi/wM0g8EoUZ_E/hqdefault_live.jpg" group-title="YouTube", 華視新聞 CH52
 http://106.107.177.205:5000/youtube/wM0g8EoUZ_E
 #EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault_live.jpg" group-title="YouTube", TVBS NEWShttp://106.107.177.205:5000/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-id="三立LIVE新聞" tvg-name="三立LIVE新聞" tvg-logo="https://i.ytimg.com/vi/oZdzzvxTfUY/hqdefault_live.jpg" group-title="YouTube", 三立LIVE新聞http://106.107.177.205:5000/youtube/oZdzzvxTfUY
-#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg" group-title="YouTube", 鏡新聞http://106.107.177.205:5000/youtube/5n0y6b0Q25o
-#EXTINF:-1 tvg-id="台視新聞 TTV NEWS" tvg-name="台視新聞 TTV NEWS" tvg-logo="https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault_live.jpg" group-title="YouTube", 台視新聞 TTV NEWShttp://106.107.177.205:5000/youtube/xL0ch83RAK8
-#EXTINF:-1 tvg-id="中視新聞 HD直播頻道｜Taiwan CTV news HD Live" tvg-name="中視新聞 HD直播頻道｜Taiwan CTV news HD Live" tvg-logo="https://i.ytimg.com/vi/TCnaIE_SAtM/hqdefault_live.jpg" group-title="YouTube", 中視新聞 HD直播頻道｜Taiwan CTV news HD Livehttp://106.107.177.205:5000/youtube/TCnaIE_SAtM
-#EXTINF:-1 tvg-id="中天電視" tvg-name="中天電視" tvg-logo="https://i.ytimg.com/vi/oIgbl7t0S_w/hqdefault_live.jpg" group-title="YouTube", 中天電視http://106.107.177.205:5000/youtube/oIgbl7t0S_w
-#EXTINF:-1 tvg-id="CTI+ | 中天2台" tvg-name="CTI+ | 中天2台" tvg-logo="https://i.ytimg.com/vi/WPfPjbOLNfE/hqdefault_live.jpg" group-title="YouTube", CTI+ | 中天2台http://106.107.177.205:5000/youtube/WPfPjbOLNfE
-#EXTINF:-1 tvg-id="公視 網路直播頻道" tvg-name="公視 網路直播頻道" tvg-logo="https://i.ytimg.com/vi/C6gYqSHLRw4/hqdefault_live.jpg" group-title="YouTube", 公視 網路直播頻道http://106.107.177.205:5000/youtube/C6gYqSHLRw4
-#EXTINF:-1 tvg-id="公視新聞網" tvg-name="公視新聞網" tvg-logo="https://i.ytimg.com/vi/quwqlazU-c8/hqdefault_live.jpg" group-title="YouTube", 公視新聞網http://106.107.177.205:5000/youtube/quwqlazU-c8
-#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="https://i.ytimg.com/vi/6KlRR_DGhmI/hqdefault_live.jpg" group-title="YouTube", 公視台語台http://106.107.177.205:5000/youtube/6KlRR_DGhmI
-#EXTINF:-1 tvg-id="57東森財經新聞" tvg-name="57東森財經新聞" tvg-logo="https://i.ytimg.com/vi/WHEPzbFA3hw/hqdefault_live.jpg" group-title="YouTube", 57東森財經新聞http://106.107.177.205:5000/youtube/WHEPzbFA3hw
-#EXTINF:-1 tvg-id="TTV LIVE 台視直播" tvg-name="TTV LIVE 台視直播" tvg-logo="https://i.ytimg.com/vi/uDqQo8a7Xmk/hqdefault_live.jpg" group-title="YouTube", TTV LIVE 台視直播http://106.107.177.205:5000/youtube/uDqQo8a7Xmk
-#EXTINF:-1 tvg-id="寰宇新聞 頻道" tvg-name="寰宇新聞 頻道" tvg-logo="https://i.ytimg.com/vi/6IquAgfvYmc/hqdefault_live.jpg" group-title="YouTube", 寰宇新聞 頻道http://106.107.177.205:5000/youtube/6IquAgfvYmc
-#EXTINF:-1 tvg-id="民視新聞網 Formosa TV News network" tvg-name="民視新聞網 Formosa TV News network" tvg-logo="https://i.ytimg.com/vi/ylYJSBUgaMA/hqdefault_live.jpg" group-title="YouTube", 民視新聞網 Formosa TV News networkhttp://106.107.177.205:5000/youtube/ylYJSBUgaMA
-#EXTINF:-1 tvg-id="中視經典綜藝" tvg-name="中視經典綜藝" tvg-logo="https://i.ytimg.com/vi/ADDSmXoPDY8/hqdefault_live.jpg" group-title="YouTube", 中視經典綜藝http://106.107.177.205:5000/youtube/ADDSmXoPDY8
-#EXTINF:-1 tvg-id="TBS NEWS DIG Powered by JNN" tvg-name="TBS NEWS DIG Powered by JNN" tvg-logo="https://i.ytimg.com/vi/ohI356mwBp8/hqdefault_live.jpg" group-title="YouTube", TBS NEWS DIG Powered by JNNhttp://106.107.177.205:5000/youtube/ohI356mwBp8
-#EXTINF:-1 tvg-id="ANNnewsCH" tvg-name="ANNnewsCH" tvg-logo="https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg" group-title="YouTube", ANNnewsCHhttp://106.107.177.205:5000/youtube/coYw-eVU0Ks
-#EXTINF:-1 tvg-id="LIVE NOW" tvg-name="LIVE NOW" tvg-logo="https://i.ytimg.com/vi/twhG7_jvA8g/hqdefault_live.jpg" group-title="YouTube", LIVE NOWhttp://106.107.177.205:5000/youtube/twhG7_jvA8g#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="綜合", 民視http://106.107.177.205:5000/litv/4gtv-4gtv155
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="綜合", 民視第一台http://106.107.177.205:5000/litv/4gtv-4gtv003
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="新聞財經", 民視新聞台http://106.107.177.205:5000/litv/litv-ftv13
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="綜合", 民視台灣台http://106.107.177.205:5000/litv/4gtv-4gtv001
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="電影戲劇", 民視影劇台http://106.107.177.205:5000/litv/litv-ftv09
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="生活旅遊", 民視旅遊台http://106.107.177.205:5000/litv/litv-ftv07
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="音樂綜藝", 民視綜藝台http://106.107.177.205:5000/litv/4gtv-4gtv004
+#EXTINF:-1 tvg-id="三立LIVE新聞" tvg-name="三立LIVE新聞" tvg-
+logo="https://i.ytimg.com/vi/oZdzzvxTfUY/hqdefault_live.jpg" group-title="YouTube", 三立LIVE新聞
+http://106.107.177.205:5000/youtube/oZdzzvxTfUY
+#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-
+logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg" group-title="YouTube", 鏡新聞
+http://106.107.177.205:5000/youtube/5n0y6b0Q25o
+#EXTINF:-1 tvg-id="台視新聞 TTV NEWS" tvg-name="台視新聞 TTV NEWS" tvg-
+logo="https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault_live.jpg" group-title="YouTube", 台視新聞 TTV NEWS
+http://106.107.177.205:5000/youtube/xL0ch83RAK8
+#EXTINF:-1 tvg-id="中視新聞 HD直播頻道｜Taiwan CTV news HD Live" tvg-name="中視新聞 HD直播頻道｜Taiwan CTV news HD Live" tvg-
+logo="https://i.ytimg.com/vi/TCnaIE_SAtM/hqdefault_live.jpg" group-title="YouTube", 中視新聞 HD直播頻道｜Taiwan CTV news HD Live
+http://106.107.177.205:5000/youtube/TCnaIE_SAtM
+#EXTINF:-1 tvg-id="中天電視" tvg-name="中天電視" tvg-
+logo="https://i.ytimg.com/vi/oIgbl7t0S_w/hqdefault_live.jpg" group-title="YouTube", 中天電視http://106.107.177.205:5000/youtube/oIgbl7t0S_w
+#EXTINF:-1 tvg-id="CTI+ | 中天2台" tvg-name="CTI+ | 中天2台" tvg-
+logo="https://i.ytimg.com/vi/WPfPjbOLNfE/hqdefault_live.jpg" group-title="YouTube", CTI+ | 中天2台http://106.107.177.205:5000/youtube/WPfPjbOLNfE
+#EXTINF:-1 tvg-id="公視 網路直播頻道" tvg-name="公視 網路直播頻道" tvg-
+logo="https://i.ytimg.com/vi/C6gYqSHLRw4/hqdefault_live.jpg" group-title="YouTube", 公視 網路直播頻道http://106.107.177.205:5000/youtube/C6gYqSHLRw4
+#EXTINF:-1 tvg-id="公視新聞網" tvg-name="公視新聞網" tvg-
+logo="https://i.ytimg.com/vi/quwqlazU-c8/hqdefault_live.jpg" group-title="YouTube", 公視新聞網http://106.107.177.205:5000/youtube/quwqlazU-c8
+#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-
+logo="https://i.ytimg.com/vi/6KlRR_DGhmI/hqdefault_live.jpg" group-title="YouTube", 公視台語台http://106.107.177.205:5000/youtube/6KlRR_DGhmI
+#EXTINF:-1 tvg-id="57東森財經新聞" tvg-name="57東森財經新聞" tvg-
+logo="https://i.ytimg.com/vi/WHEPzbFA3hw/hqdefault_live.jpg" group-title="YouTube", 57東森財經新聞http://106.107.177.205:5000/youtube/WHEPzbFA3hw
+#EXTINF:-1 tvg-id="TTV LIVE 台視直播" tvg-name="TTV LIVE 台視直播" tvg-
+logo="https://i.ytimg.com/vi/uDqQo8a7Xmk/hqdefault_live.jpg" group-title="YouTube", TTV LIVE 台視直播http://106.107.177.205:5000/youtube/uDqQo8a7Xmk
+#EXTINF:-1 tvg-id="寰宇新聞 頻道" tvg-name="寰宇新聞 頻道" tvg-
+logo="https://i.ytimg.com/vi/6IquAgfvYmc/hqdefault_live.jpg" group-title="YouTube", 寰宇新聞 頻道http://106.107.177.205:5000/youtube/6IquAgfvYmc
+#EXTINF:-1 tvg-id="民視新聞網 Formosa TV News network" tvg-name="民視新聞網 Formosa TV News network" tvg-
+logo="https://i.ytimg.com/vi/ylYJSBUgaMA/hqdefault_live.jpg" group-title="YouTube", 民視新聞網 Formosa TV News networkhttp://106.107.177.205:5000/youtube/ylYJSBUgaMA
+#EXTINF:-1 tvg-id="中視經典綜藝" tvg-name="中視經典綜藝" tvg-
+logo="https://i.ytimg.com/vi/ADDSmXoPDY8/hqdefault_live.jpg" group-title="YouTube", 中視經典綜藝http://106.107.177.205:5000/youtube/ADDSmXoPDY8
+#EXTINF:-1 tvg-id="TBS NEWS DIG Powered by JNN" tvg-name="TBS NEWS DIG Powered by JNN" tvg-
+logo="https://i.ytimg.com/vi/ohI356mwBp8/hqdefault_live.jpg" group-title="YouTube", TBS NEWS DIG Powered by JNNhttp://106.107.177.205:5000/youtube/ohI356mwBp8
+#EXTINF:-1 tvg-id="ANNnewsCH" tvg-name="ANNnewsCH" tvg-
+logo="https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg" group-title="YouTube", ANNnewsCHhttp://106.107.177.205:5000/youtube/coYw-eVU0Ks
+#EXTINF:-1 tvg-id="LIVE NOW" tvg-name="LIVE NOW" tvg-
+logo="https://i.ytimg.com/vi/twhG7_jvA8g/hqdefault_live.jpg" group-title="YouTube", LIVE NOWhttp://106.107.177.205:5000/youtube/twhG7_jvA8g#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-
+logo="https://assets.livednow.com/logo/民視.png" group-title="綜合", 民視http://106.107.177.205:5000/litv/4gtv-4gtv155
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-
+logo="https://assets.livednow.com/logo/民視第一台.png" group-title="綜合", 民視第一台http://106.107.177.205:5000/litv/4gtv-4gtv003
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-
+logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="新聞財經", 民視新聞台http://106.107.177.205:5000/litv/litv-ftv13
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-
+logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="綜合", 民視台灣台http://106.107.177.205:5000/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-
+logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="電影戲劇", 民視影劇台http://106.107.177.205:5000/litv/litv-ftv09
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-
+logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="生活旅遊", 民視旅遊台http://106.107.177.205:5000/litv/litv-ftv07
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-
+logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="音樂綜藝", 民視綜藝台http://106.107.177.205:5000/litv/4gtv-4gtv004
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="綜合", 中視http://106.107.177.205:5000/litv/4gtv-4gtv040
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="新聞財經", 中視新聞台http://106.107.177.205:5000/litv/4gtv-4gtv074
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="電影戲劇", 中視經典台http://106.107.177.205:5000/litv/4gtv-4gtv080
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="綜合", 中視菁采台http://106.107.177.205:5000/litv/4gtv-4gtv064
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="新聞財經", 中天新聞台http://106.107.177.205:5000/litv/4gtv-4gtv009
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="綜合", 中天亞洲台http://106.107.177.205:5000/litv/4gtv-4gtv109
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="綜合", 華視http://106.107.177.205:5000/litv/4gtv-4gtv041#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="新聞財經", 華視新聞http://106.107.177.205:5000/litv/4gtv-4gtv052
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-
+logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="新聞財經", 中視新聞台http://106.107.177.205:5000/litv/4gtv-4gtv074
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-
+logo="https://assets.livednow.com/logo/中視經典台.png" group-title="電影戲劇", 中視經典台http://106.107.177.205:5000/litv/4gtv-4gtv080
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-
+logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="綜合", 中視菁采台http://106.107.177.205:5000/litv/4gtv-4gtv064
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-
+logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="新聞財經", 中天新聞台http://106.107.177.205:5000/litv/4gtv-4gtv009
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-
+logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="綜合", 中天亞洲台http://106.107.177.205:5000/litv/4gtv-4gtv109
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-
+logo="https://assets.livednow.com/logo/華視.png" group-title="綜合", 華視http://106.107.177.205:5000/litv/4gtv-4gtv041#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="新聞財經", 華視新聞http://106.107.177.205:5000/litv/4gtv-4gtv052
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="綜合", 靖天綜合台http://106.107.177.205:5000/litv/4gtv-4gtv046
 #EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="綜合", 靖天國際台http://106.107.177.205:5000/litv/4gtv-4gtv063
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="電影戲劇", 靖天戲劇台http://106.107.177.205:5000/litv/4gtv-4gtv058
