@@ -1,4 +1,165 @@
+台灣綜合,#genre#
+鳳凰衛視PhoenixTV,http://106.107.177.205:5000/youtube/HFib76ySpbU
+華視新聞 CH52,http://106.107.177.205:5000/youtube/wM0g8EoUZ_E
+TVBS NEWS,http://106.107.177.205:5000/youtube/m_dhMSvUCIc
+三立LIVE新聞,http://106.107.177.205:5000/youtube/oZdzzvxTfUY
+鏡新聞,http://106.107.177.205:5000/youtube/5n0y6b0Q25o
+台視新聞 TTV NEWS,http://106.107.177.205:5000/youtube/xL0ch83RAK8
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,http://106.107.177.205:5000/youtube/TCnaIE_SAtM
+中天電視,http://106.107.177.205:5000/youtube/oIgbl7t0S_w
+CTI+ | 中天2台,http://106.107.177.205:5000/youtube/WPfPjbOLNfE
+公視 網路直播頻道,http://106.107.177.205:5000/youtube/C6gYqSHLRw4
+公視新聞網,http://106.107.177.205:5000/youtube/quwqlazU-c8
+公視台語台,http://106.107.177.205:5000/youtube/6KlRR_DGhmI
+57東森財經新聞,http://106.107.177.205:5000/youtube/WHEPzbFA3hw
+TTV LIVE 台視直播,http://106.107.177.205:5000/youtube/uDqQo8a7Xmk
+寰宇新聞 頻道,http://106.107.177.205:5000/youtube/6IquAgfvYmc
+民視新聞網 Formosa TV News network,http://106.107.177.205:5000/youtube/ylYJSBUgaMA
+TBS NEWS DIG Powered by JNN,http://106.107.177.205:5000/youtube/ohI356mwBp8
+ANNnewsCH,http://106.107.177.205:5000/youtube/coYw-eVU0Ks
+民視,http://106.107.177.205:5000/litv/4gtv-4gtv155
+民視第一台,http://106.107.177.205:5000/litv/4gtv-4gtv003
+民視新聞台,http://106.107.177.205:5000/litv/litv-ftv13
+民視台灣台,http://106.107.177.205:5000/litv/4gtv-4gtv001
+民視影劇台,http://106.107.177.205:5000/litv/litv-ftv09
+民視旅遊台,http://106.107.177.205:5000/litv/litv-ftv07
+民視綜藝台,http://106.107.177.205:5000/litv/4gtv-4gtv004
+中視,http://106.107.177.205:5000/litv/4gtv-4gtv040
+中視新聞台,http://106.107.177.205:5000/litv/4gtv-4gtv074
+中視經典台,http://106.107.177.205:5000/litv/4gtv-4gtv080
+中視菁采台,http://106.107.177.205:5000/litv/4gtv-4gtv064
+中天新聞台,http://106.107.177.205:5000/litv/4gtv-4gtv009
+中天亞洲台,http://106.107.177.205:5000/litv/4gtv-4gtv109
+華視,http://106.107.177.205:5000/litv/4gtv-4gtv041
+華視新聞,http://106.107.177.205:5000/litv/4gtv-4gtv052
+靖天綜合台,http://106.107.177.205:5000/litv/4gtv-4gtv046
+靖天國際台,http://106.107.177.205:5000/litv/4gtv-4gtv063
+靖天戲劇台,http://106.107.177.205:5000/litv/4gtv-4gtv058
+靖天日本台,http://106.107.177.205:5000/litv/4gtv-4gtv047
+靖天映畫台,http://106.107.177.205:5000/litv/4gtv-4gtv055
+靖天卡通台,http://106.107.177.205:5000/litv/4gtv-4gtv044
+靖天育樂台,http://106.107.177.205:5000/litv/4gtv-4gtv062
+靖天資訊台,http://106.107.177.205:5000/litv/4gtv-4gtv065
+靖天電影台,http://106.107.177.205:5000/litv/4gtv-4gtv061
+靖天歡樂台,http://106.107.177.205:5000/litv/4gtv-4gtv054
+龍華偶像台,http://106.107.177.205:5000/litv/litv-longturn12
+龍華卡通台,http://106.107.177.205:5000/litv/litv-longturn01
+龍華戲劇台,http://106.107.177.205:5000/litv/litv-longturn18
+龍華日韓台,http://106.107.177.205:5000/litv/litv-longturn11
+龍華經典台,http://106.107.177.205:5000/litv/litv-longturn21
+龍華電影台,http://106.107.177.205:5000/litv/litv-longturn03
+靖洋戲劇台,http://106.107.177.205:5000/litv/4gtv-4gtv045
+靖洋卡通 Nice Bingo,http://106.107.177.205:5000/litv/4gtv-4gtv057
+寰宇新聞台,http://106.107.177.205:5000/litv/litv-longturn14
+寰宇新聞台灣台,http://106.107.177.205:5000/litv/litv-longturn15
+寰宇財經台,http://106.107.177.205:5000/litv/litv-longturn23
+TVBS,http://106.107.177.205:5000/litv/4gtv-4gtv073
+TVBS 新聞台,http://106.107.177.205:5000/litv/4gtv-4gtv072
+TVBS 綜藝台,http://106.107.177.205:5000/4gtv/284
+TVBS 歡樂台,http://106.107.177.205:5000/litv/4gtv-4gtv068
+TVBS 精采台,http://106.107.177.205:5000/litv/4gtv-4gtv067
+TVBS 台劇台,http://106.107.177.205:5000/4gtv/285
+八大精彩台,http://106.107.177.205:5000/litv/4gtv-4gtv034
+八大綜藝台,http://106.107.177.205:5000/litv/4gtv-4gtv039
+三立新聞,http://106.107.177.205:5000/4gtv/229
+三立綜合台,http://106.107.177.205:5000/4gtv/169
+台視,http://106.107.177.205:5000/litv/4gtv-4gtv066
+台視新聞台,http://106.107.177.205:5000/litv/4gtv-4gtv051
+台視財經台,http://106.107.177.205:5000/litv/4gtv-4gtv056
+博斯運動一台,http://106.107.177.205:5000/litv/litv-longturn07
+博斯運動二台,http://106.107.177.205:5000/litv/litv-longturn08
+博斯無限台,http://106.107.177.205:5000/litv/litv-longturn10
+博斯無限二台,http://106.107.177.205:5000/litv/litv-longturn13
+博斯網球台,http://106.107.177.205:5000/litv/litv-longturn09
+博斯高球台,http://106.107.177.205:5000/litv/litv-longturn05
+博斯高球二台,http://106.107.177.205:5000/litv/litv-longturn06
+博斯魅力台,http://106.107.177.205:5000/litv/litv-longturn04
+ELTA 娛樂台,http://106.107.177.205:5000/litv/4gtv-4gtv070
+ELTA 生活旅遊,http://106.107.177.205:5000/4gtv/237
+ELTA生活英語,http://106.107.177.205:5000/litv/litv-longturn20
+東森新聞,http://106.107.177.205:5000/litv/4gtv-4gtv152
+東森財經新聞,http://106.107.177.205:5000/litv/4gtv-4gtv153
+非凡新聞台,http://106.107.177.205:5000/litv/4gtv-4gtv010
+非凡商業台,http://106.107.177.205:5000/litv/4gtv-4gtv048
+鏡電視新聞台,http://106.107.177.205:5000/litv/4gtv-4gtv075
+CNBC Asia 財經台,http://106.107.177.205:5000/4gtv/235
+亞洲旅遊台,http://106.107.177.205:5000/litv/litv-longturn17
+GINX Esports TV,http://106.107.177.205:5000/litv/4gtv-4gtv053
+TechStorm,http://106.107.177.205:5000/4gtv/181
+時尚運動X,http://106.107.177.205:5000/4gtv/277
+智林體育台,http://106.107.177.205:5000/litv/4gtv-4gtv101
+TraceSports,http://106.107.177.205:5000/litv/4gtv-4gtv077
+影迷數位紀實台,http://106.107.177.205:5000/4gtv/212
+影迷數位電影台,http://106.107.177.205:5000/litv/4gtv-4gtv011
+AMC 最愛電影,http://106.107.177.205:5000/litv/4gtv-4gtv017
+CatchPlay 電影台,http://106.107.177.205:5000/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影,http://106.107.177.205:5000/4gtv/176
+公視戲劇台,http://106.107.177.205:5000/litv/4gtv-4gtv042
+采昌影劇台,http://106.107.177.205:5000/litv/4gtv-4gtv049
+台灣戲劇台,http://106.107.177.205:5000/litv/litv-longturn22
+戲劇免費看 1台,http://106.107.177.205:5000/4gtv/270
+戲劇免費看 2台,http://106.107.177.205:5000/4gtv/244
+經典電影台,http://106.107.177.205:5000/4gtv/201
+電影免費看 2台,http://106.107.177.205:5000/4gtv/245
+電影原聲台 CMusic,http://106.107.177.205:5000/4gtv/218
+花系列 經典劇場,http://106.107.177.205:5000/4gtv/279
+CinemaWorld,http://106.107.177.205:5000/4gtv/225
+HITS 頻道,http://106.107.177.205:5000/4gtv/186
+Rock Action,http://106.107.177.205:5000/4gtv/180
+Rock Entertainment,http://106.107.177.205:5000/4gtv/275
+金光布袋戲,http://106.107.177.205:5000/4gtv/236
+霹靂布袋戲,http://106.107.177.205:5000/4gtv/301
+DreamWorks 夢工廠動畫,http://106.107.177.205:5000/4gtv/282
+Nickelodeon,http://106.107.177.205:5000/4gtv/185
+Nick Jr. 兒童頻道,http://106.107.177.205:5000/4gtv/219
+i-Fun 動漫台,http://106.107.177.205:5000/litv/litv-ftv15
+兒童卡通台,http://106.107.177.205:5000/4gtv/269
+精選動漫台,http://106.107.177.205:5000/4gtv/204
+經典卡通台,http://106.107.177.205:5000/4gtv/202
+達文西頻道,http://106.107.177.205:5000/litv/4gtv-4gtv018
+超人力霸王整套看,http://106.107.177.205:5000/4gtv/278
+MOMO 親子台,http://106.107.177.205:5000/4gtv/231
+LiveABC 互動英語台,http://106.107.177.205:5000/4gtv/188
+Classica 古典樂,http://106.107.177.205:5000/litv/4gtv-4gtv059
+Lifetime 娛樂頻道,http://106.107.177.205:5000/4gtv/217
+MTV Live HD 音樂頻道,http://106.107.177.205:5000/4gtv/213
+Mezzo Live,http://106.107.177.205:5000/litv/4gtv-4gtv083
+豬哥亮歌廳秀,http://106.107.177.205:5000/litv/4gtv-4gtv006
+Trace Urban,http://106.107.177.205:5000/litv/4gtv-4gtv082
+Global Trekker,http://106.107.177.205:5000/4gtv/252
+LUXE TV,http://106.107.177.205:5000/4gtv/175
+Pet Club TV,http://106.107.177.205:5000/4gtv/182
+TV5MONDE Style,http://106.107.177.205:5000/4gtv/178
+車迷 TV,http://106.107.177.205:5000/4gtv/160
+Love Nature,http://106.107.177.205:5000/4gtv/139
+Fun 探索娛樂台,http://106.107.177.205:5000/4gtv/274
+幸福空間居家台,http://106.107.177.205:5000/4gtv/168
+Arirang TV,http://106.107.177.205:5000/litv/4gtv-4gtv079
+Bloomberg TV,http://106.107.177.205:5000/4gtv/283
+VOA 美國之音,http://106.107.177.205:5000/litv/litv-ftv03
+DW德國之聲,http://106.107.177.205:5000/4gtv/226
+SBN 全球財經台,http://106.107.177.205:5000/4gtv/224
+半島國際新聞台,http://106.107.177.205:5000/litv/litv-ftv10
+第1商業台,http://106.107.177.205:5000/litv/4gtv-4gtv104
+History 歷史頻道,http://106.107.177.205:5000/4gtv/214
+CI 罪案偵查頻道,http://106.107.177.205:5000/4gtv/215
+Smart 知識台,http://106.107.177.205:5000/litv/litv-longturn19
+視納華仁紀實頻道,http://106.107.177.205:5000/litv/4gtv-4gtv013
+原住民族電視台,http://106.107.177.205:5000/4gtv/273
+客家電視台,http://106.107.177.205:5000/litv/4gtv-4gtv043
+滾動力 Rollor,http://106.107.177.205:5000/4gtv/249
+好消息,http://106.107.177.205:5000/litv/litv-ftv16
+好消息2台,http://106.107.177.205:5000/litv/litv-ftv17
+大愛電視,http://106.107.177.205:5000/4gtv/209
+大愛電視2,http://106.107.177.205:5000/4gtv/230
+人間衛視,http://106.107.177.205:5000/4gtv/210
+國會頻道1,http://106.107.177.205:5000/litv/4gtv-4gtv084
+國會頻道2,http://106.107.177.205:5000/litv/4gtv-4gtv085
+東森購物一台,http://106.107.177.205:5000/4gtv/173
+東森購物二台,http://106.107.177.205:5000/4gtv/174
+東森購物三台,http://106.107.177.205:5000/4gtv/287
 台灣頻道,#genre#
+
 民視,https://fm1077.serv00.net/anbo/index.php?id=336
 民視,https://fm1077.serv00.net/anbo/index.php?id=2805
 台視,https://fm1077.serv00.net/anbo/index.php?id=27
@@ -15,22 +176,22 @@
 緯來綜合,https://fm1077.serv00.net/anbo/index.php?id=2726
 八大第一,https://fm1077.serv00.net/anbo/index.php?id=318
 八大綜合,https://fm1077.serv00.net/anbo/index.php?id=2286
-三立臺灣,https://fm1077.serv00.net/anbo/index.php?id=35
 三立臺灣,https://fm1077.serv00.net/anbo/index.php?id=21
 三立臺灣,https://fm1077.serv00.net/anbo/index.php?id=2436
-三立都會,https://fm1077.serv00.net/anbo/index.php?id=2435
+三立臺灣,https://fm1077.serv00.net/anbo/index.php?id=35
 三立都會,https://fm1077.serv00.net/anbo/index.php?id=1001
+三立都會,https://fm1077.serv00.net/anbo/index.php?id=2435
 三立都會,https://fm1077.serv00.net/anbo/index.php?id=38
 東森綜合,https://fm1077.serv00.net/anbo/index.php?id=372
 東森超視,https://fm1077.serv00.net/anbo/index.php?id=80
 東森購物2,https://fm1077.serv00.net/anbo/index.php?id=1156
-中天綜合,https://fm1077.serv00.net/anbo/index.php?id=54
 中天綜合,https://fm1077.serv00.net/anbo/index.php?id=3072
+中天綜合,https://fm1077.serv00.net/anbo/index.php?id=54
 中天娛樂,https://fm1077.serv00.net/anbo/index.php?id=324
 TVBS歡樂,https://fm1077.serv00.net/anbo/index.php?id=40
 八大精彩,https://fm1077.serv00.net/anbo/index.php?id=1024
 JET綜合,https://fm1077.serv00.net/anbo/index.php?id=41
-東森購物1,https://fm1077.serv00.net/anbo/index.php?id=1155
+東森購物,1 https://fm1077.serv00.net/anbo/index.php?id=1155
 TVBS,https://fm1077.serv00.net/anbo/index.php?id=2273
 TVBS,https://fm1077.serv00.net/anbo/index.php?id=16
 緯來育樂,https://fm1077.serv00.net/anbo/index.php?id=338
@@ -45,6 +206,7 @@ TVBS,https://fm1077.serv00.net/anbo/index.php?id=16
 高點綜合,https://fm1077.serv00.net/anbo/index.php?id=99
 中天亞洲,https://fm1077.serv00.net/anbo/index.php?id=2277
 中天亞洲,https://fm1077.serv00.net/anbo/index.php?id=322
+民視第一台,https://fm1077.serv00.net/anbo/index.php?id=34
 民視台灣,https://fm1077.serv00.net/anbo/index.php?id=36
 龍華日韓,https://fm1077.serv00.net/anbo/index.php?id=382
 豬哥亮歌廳秀,https://fm1077.serv00.net/anbo/index.php?id=75
@@ -74,9 +236,10 @@ MOMO購物2,https://fm1077.serv00.net/anbo/index.php?id=1586
 國會頻道１,https://fm1077.serv00.net/anbo/index.php?id=2614
 國會頻道2,https://fm1077.serv00.net/anbo/index.php?id=420
 海豚綜合,https://fm1077.serv00.net/anbo/index.php?id=262
-台灣地震監視,https://fm1077.serv00.net/anbo/index.php?id=2637
+台灣地震監視,ttps://fm1077.serv00.net/anbo/index.php?id=2637
 中視經典綜藝,https://fm1077.serv00.net/anbo/index.php?id=2773
 第一名電視,https://fm1077.serv00.net/anbo/index.php?id=216
+誠心電視,https://fm1077.serv00.net/anbo/index.php?id=495
 萬秀豬王,https://fm1077.serv00.net/anbo/index.php?id=2978
 三立新聞,https://fm1077.serv00.net/anbo/index.php?id=43
 三立新聞,https://fm1077.serv00.net/anbo/index.php?id=2794
@@ -123,6 +286,7 @@ CBN News,https://fm1077.serv00.net/anbo/index.php?id=499
 東森電影,https://fm1077.serv00.net/anbo/index.php?id=350
 東森電影,https://fm1077.serv00.net/anbo/index.php?id=2720
 緯來電影,https://fm1077.serv00.net/anbo/index.php?id=2728
+緯來電影,https://fm1077.serv00.net/anbo/index.php?id=3252
 HBO HD,https://fm1077.serv00.net/anbo/index.php?id=332
 HBO HD,https://fm1077.serv00.net/anbo/index.php?id=2823
 東森洋片,https://fm1077.serv00.net/anbo/index.php?id=1128
@@ -219,6 +383,7 @@ TVB_POPC,https://fm1077.serv00.net/anbo/index.php?id=2818
 TVB直播,https://fm1077.serv00.net/anbo/index.php?id=2743
 TVB J2,https://fm1077.serv00.net/anbo/index.php?id=392
 TVB J2,https://fm1077.serv00.net/anbo/index.php?id=2834
+NOWTV,https://fm1077.serv00.net/anbo/index.php?id=1246
 鳳凰香港,https://fm1077.serv00.net/anbo/index.php?id=2810
 鳳凰衛視,https://fm1077.serv00.net/anbo/index.php?id=2291
 鳳凰衛視,https://fm1077.serv00.net/anbo/index.php?id=2812
@@ -227,9 +392,8 @@ TVB J2,https://fm1077.serv00.net/anbo/index.php?id=2834
 星空衛視,https://fm1077.serv00.net/anbo/index.php?id=56
 HKIBC,https://fm1077.serv00.net/anbo/index.php?id=354
 HOY,https://fm1077.serv00.net/anbo/index.php?id=401
-18台,https://fm1077.serv00.net/anbo/index.php?id=2813
 廣東珠江,https://fm1077.serv00.net/anbo/index.php?id=1034
-18台,https://fm1077.serv00.net/anbo/index.php?id=44
+18台,https://fm1077.serv00.net/anbo/index.php?id=2813
 澳門蓮花,https://fm1077.serv00.net/anbo/index.php?id=70
 鳳凰電影,https://fm1077.serv00.net/anbo/index.php?id=2814
 Viutv 6,https://fm1077.serv00.net/anbo/index.php?id=176
@@ -244,7 +408,7 @@ TVB DRAMA,https://fm1077.serv00.net/anbo/index.php?id=1243
 TVBJ1,https://fm1077.serv00.net/anbo/index.php?id=1244
 TVBE,https://fm1077.serv00.net/anbo/index.php?id=1245
 新時代東部,https://fm1077.serv00.net/anbo/index.php?id=1286
-（時移）新時代東,https://fm1077.serv00.net/anbo/index.php?id=1287
+（時移）,新時代東 https://fm1077.serv00.net/anbo/index.php?id=1287
 新時代2,https://fm1077.serv00.net/anbo/index.php?id=1288
 城市電視,https://fm1077.serv00.net/anbo/index.php?id=1289
 TVB星河,https://fm1077.serv00.net/anbo/index.php?id=1079
@@ -261,7 +425,6 @@ HKIBC,https://fm1077.serv00.net/anbo/index.php?id=354
 東森新聞,https://fm1077.serv00.net/anbo/index.php?id=1358
 東森新聞,https://fm1077.serv00.net/anbo/index.php?id=2393
 東森亞洲,https://fm1077.serv00.net/anbo/index.php?id=3
-中天新聞,https://fm1077.serv00.net/anbo/index.php?id=2394
 中天新聞2台,https://fm1077.serv00.net/anbo/index.php?id=152
 中天新聞,https://fm1077.serv00.net/anbo/index.php?id=2420
 民視新聞,https://fm1077.serv00.net/anbo/index.php?id=2395
@@ -288,8 +451,8 @@ TVBS新聞,https://fm1077.serv00.net/anbo/index.php?id=2396
 年代新聞,https://fm1077.serv00.net/anbo/index.php?id=1099
 壹新聞,https://fm1077.serv00.net/anbo/index.php?id=2777
 壹新聞,https://fm1077.serv00.net/anbo/index.php?id=494
-非凡新聞,https://fm1077.serv00.net/anbo/index.php?id=2795
 非凡新聞（備）,https://fm1077.serv00.net/anbo/index.php?id=3236
+非凡新聞,https://fm1077.serv00.net/anbo/index.php?id=2795
 非凡新聞,https://fm1077.serv00.net/anbo/index.php?id=314
 台視財經,https://fm1077.serv00.net/anbo/index.php?id=300
 運通財經,https://fm1077.serv00.net/anbo/index.php?id=79
@@ -318,7 +481,6 @@ Channels,https://fm1077.serv00.net/anbo/index.php?id=1495
 ABC News Australia,https://fm1077.serv00.net/anbo/index.php?id=2769
 GB News,https://fm1077.serv00.net/anbo/index.php?id=77
 FRANCE 24,https://fm1077.serv00.net/anbo/index.php?id=1042
-CNN Indonesia,https://fm1077.serv00.net/anbo/index.php?id=1145
 影視頻道,#genre#
 八大精彩,https://fm1077.serv00.net/anbo/index.php?id=1024
 龍華日韓,https://fm1077.serv00.net/anbo/index.php?id=382
@@ -330,6 +492,7 @@ CNN Indonesia,https://fm1077.serv00.net/anbo/index.php?id=1145
 東森電影,https://fm1077.serv00.net/anbo/index.php?id=350
 東森電影,https://fm1077.serv00.net/anbo/index.php?id=2720
 緯來電影,https://fm1077.serv00.net/anbo/index.php?id=2728
+緯來電影,https://fm1077.serv00.net/anbo/index.php?id=3252
 HBO HD,https://fm1077.serv00.net/anbo/index.php?id=332
 HBO HD,https://fm1077.serv00.net/anbo/index.php?id=2823
 東森洋片,https://fm1077.serv00.net/anbo/index.php?id=1128
@@ -362,7 +525,8 @@ HBO Hits,https://fm1077.serv00.net/anbo/index.php?id=330
 AXN臺灣,https://fm1077.serv00.net/anbo/index.php?id=2816
 天映經典,https://fm1077.serv00.net/anbo/index.php?id=2289
 公視戲劇,https://fm1077.serv00.net/anbo/index.php?id=69
-AXN亞洲,https://fm1077.serv00.net/anbo/index.php?id=1066
+公視戲劇,EXTINF:-1 group-title=\"影視頻道\",AXN亞洲
+公視戲劇,https://fm1077.serv00.net/anbo/index.php?id=1066
 Trill恐怖電影,https://fm1077.serv00.net/anbo/index.php?id=18
 龍華電影,https://fm1077.serv00.net/anbo/index.php?id=311
 華納電影,https://fm1077.serv00.net/anbo/index.php?id=83
@@ -395,7 +559,6 @@ ELTA體育2,https://fm1077.serv00.net/anbo/index.php?id=193
 ELTA體育2,https://fm1077.serv00.net/anbo/index.php?id=2730
 ELTA體育3,https://fm1077.serv00.net/anbo/index.php?id=194
 ELTA體育3,https://fm1077.serv00.net/anbo/index.php?id=2731
-ELTA體育3台,https://fm1077.serv00.net/anbo/index.php?id=2722
 ELTA體育4,https://fm1077.serv00.net/anbo/index.php?id=2820
 Z頻道,https://fm1077.serv00.net/anbo/index.php?id=1130
 博斯無限,https://fm1077.serv00.net/anbo/index.php?id=381
@@ -414,6 +577,7 @@ TRACE Sport Stars,https://fm1077.serv00.net/anbo/index.php?id=1037
 BeIN Sport News,https://fm1077.serv00.net/anbo/index.php?id=2402
 BeIN Sport 1,https://fm1077.serv00.net/anbo/index.php?id=2403
 BeIN Sport 2,https://fm1077.serv00.net/anbo/index.php?id=2404
+BeIN Sport 3,https://fm1077.serv00.net/anbo/index.php?id=2405
 BeIN Sport 4,https://fm1077.serv00.net/anbo/index.php?id=2406
 BeIN Sport 5,https://fm1077.serv00.net/anbo/index.php?id=2407
 BeIN Sport 6,https://fm1077.serv00.net/anbo/index.php?id=2408
@@ -423,7 +587,9 @@ BeIN Sport 9,https://fm1077.serv00.net/anbo/index.php?id=2411
 BeIN Sport 10,https://fm1077.serv00.net/anbo/index.php?id=2412
 BeIN Sport 11,https://fm1077.serv00.net/anbo/index.php?id=2413
 BeIN Sport 12,https://fm1077.serv00.net/anbo/index.php?id=2414
+Bein Sport 13,https://fm1077.serv00.net/anbo/index.php?id=2415
 Bein Sport 15,https://fm1077.serv00.net/anbo/index.php?id=2416
+Bein sports,https://fm1077.serv00.net/anbo/index.php?id=2417
 Bein Sport 14,https://fm1077.serv00.net/anbo/index.php?id=2418
 J SPORTS 1,https://fm1077.serv00.net/anbo/index.php?id=129
 J SPORTS 2,https://fm1077.serv00.net/anbo/index.php?id=130
@@ -433,11 +599,16 @@ KBSN Sports,https://fm1077.serv00.net/anbo/index.php?id=2353
 Spotv,https://fm1077.serv00.net/anbo/index.php?id=266
 Spotv2,https://fm1077.serv00.net/anbo/index.php?id=267
 SBS Sports,https://fm1077.serv00.net/anbo/index.php?id=487
+mlb  network,https://fm1077.serv00.net/anbo/index.php?id=3250
+mlb  network,https://fm1077.serv00.net/anbo/index.php?id=3251
+bt espn hd,https://fm1077.serv00.net/anbo/index.php?id=2790
 ESPN 1,https://fm1077.serv00.net/anbo/index.php?id=1182
+ESPN 1,https://fm1077.serv00.net/anbo/index.php?id=2788
 ESPN 2,https://fm1077.serv00.net/anbo/index.php?id=1183
 ESPN 2,https://fm1077.serv00.net/anbo/index.php?id=2789
 NBA,https://fm1077.serv00.net/anbo/index.php?id=2792
 NBA TV US,https://fm1077.serv00.net/anbo/index.php?id=1185
+Fox Sport 1,https://fm1077.serv00.net/anbo/index.php?id=1186
 Fox Sport 2,https://fm1077.serv00.net/anbo/index.php?id=1187
 TSN 1,https://fm1077.serv00.net/anbo/index.php?id=1273
 TSN 2,https://fm1077.serv00.net/anbo/index.php?id=1274
@@ -500,8 +671,6 @@ Astro Sp2,https://fm1077.serv00.net/anbo/index.php?id=445
 ASSP2_HD,https://fm1077.serv00.net/anbo/index.php?id=1071
 Astro Sp3,https://fm1077.serv00.net/anbo/index.php?id=446
 Astro Sp4,https://fm1077.serv00.net/anbo/index.php?id=3234
-Astro Sp4,https://fm1077.serv00.net/anbo/index.php?id=447
-Astro Sp5,https://fm1077.serv00.net/anbo/index.php?id=2432
 SPOTV 1,https://fm1077.serv00.net/anbo/index.php?id=3037
 SPOTV 2,https://fm1077.serv00.net/anbo/index.php?id=3038
 Sport TV 1,https://fm1077.serv00.net/anbo/index.php?id=1779
@@ -528,7 +697,6 @@ BBC Lifestyle,https://fm1077.serv00.net/anbo/index.php?id=424
 美食星球,https://fm1077.serv00.net/anbo/index.php?id=3073
 美食星球,https://fm1077.serv00.net/anbo/index.php?id=1360
 EYE旅遊,https://fm1077.serv00.net/anbo/index.php?id=1494
-Travel Channel,https://fm1077.serv00.net/anbo/index.php?id=63
 BBC EARTH,https://fm1077.serv00.net/anbo/index.php?id=97
 探索動力DMAX,https://fm1077.serv00.net/anbo/index.php?id=335
 Pet Club,https://fm1077.serv00.net/anbo/index.php?id=368
@@ -540,6 +708,7 @@ TV5MONDE STYLE,https://fm1077.serv00.net/anbo/index.php?id=389
 法國時裝,https://fm1077.serv00.net/anbo/index.php?id=2287
 台灣啟示錄,https://fm1077.serv00.net/anbo/index.php?id=2765
 TLC,https://fm1077.serv00.net/anbo/index.php?id=1533
+National Geographic,https://fm1077.serv00.net/anbo/index.php?id=294
 TLC Canada,https://fm1077.serv00.net/anbo/index.php?id=1262
 Food Network Canada,https://fm1077.serv00.net/anbo/index.php?id=1265
 History,https://fm1077.serv00.net/anbo/index.php?id=1413
@@ -550,10 +719,8 @@ Leigha Marina,https://fm1077.serv00.net/anbo/index.php?id=313
 MOMO親子,https://fm1077.serv00.net/anbo/index.php?id=2767
 MOMO親子,https://fm1077.serv00.net/anbo/index.php?id=1126
 東森幼幼（備）,https://fm1077.serv00.net/anbo/index.php?id=2771
-東森幼幼,https://fm1077.serv00.net/anbo/index.php?id=371
 東森亞洲呦呦,https://fm1077.serv00.net/anbo/index.php?id=293
 PBS KIDS,https://fm1077.serv00.net/anbo/index.php?id=355
-CN Asia,https://fm1077.serv00.net/anbo/index.php?id=2768
 Nick Jr.,https://fm1077.serv00.net/anbo/index.php?id=50
 PAW Patrol,https://fm1077.serv00.net/anbo/index.php?id=2226
 Spidey,https://fm1077.serv00.net/anbo/index.php?id=2270
@@ -563,12 +730,14 @@ Curious George,https://fm1077.serv00.net/anbo/index.php?id=173
 Gabby Dollhouse,https://fm1077.serv00.net/anbo/index.php?id=1344
 Animax,https://fm1077.serv00.net/anbo/index.php?id=59
 Bluey,https://fm1077.serv00.net/anbo/index.php?id=143
+Cocomelon,https://fm1077.serv00.net/anbo/index.php?id=1602
 靖洋卡通,https://fm1077.serv00.net/anbo/index.php?id=348
 YOYO TV,https://fm1077.serv00.net/anbo/index.php?id=340
 靖天卡通,https://fm1077.serv00.net/anbo/index.php?id=344
 i-Fun動漫,https://fm1077.serv00.net/anbo/index.php?id=1127
 i-Fun動漫,https://fm1077.serv00.net/anbo/index.php?id=2802
 達文西,https://fm1077.serv00.net/anbo/index.php?id=68
+Baby TV,https://fm1077.serv00.net/anbo/index.php?id=1129
 Treehouse,https://fm1077.serv00.net/anbo/index.php?id=55
 Nickj,https://fm1077.serv00.net/anbo/index.php?id=53
 Disney,https://fm1077.serv00.net/anbo/index.php?id=5
@@ -577,7 +746,6 @@ Disneyj,https://fm1077.serv00.net/anbo/index.php?id=47
 Boomerang,https://fm1077.serv00.net/anbo/index.php?id=57
 Disney Junior,https://fm1077.serv00.net/anbo/index.php?id=460
 Hogi,https://fm1077.serv00.net/anbo/index.php?id=2346
-Baby Shark,https://fm1077.serv00.net/anbo/index.php?id=1399
 Phineas and Ferb,https://fm1077.serv00.net/anbo/index.php?id=1098
 Talking Tom,https://fm1077.serv00.net/anbo/index.php?id=2696
 Robocar POLI,https://fm1077.serv00.net/anbo/index.php?id=298
@@ -626,14 +794,242 @@ SupremeMasterTV,https://fm1077.serv00.net/anbo/index.php?id=323
 鳥鳴音樂,https://fm1077.serv00.net/anbo/index.php?id=1407
 GRASS COTTON,https://fm1077.serv00.net/anbo/index.php?id=3221
 Heavenly Harp Music,https://fm1077.serv00.net/anbo/index.php?id=2540
-大陸頻道,#genre#
+私密頻道_543,#genre#
+松視1,https://fm1077.serv00.net/anbo/index.php?id=402
+松視2,https://fm1077.serv00.net/anbo/index.php?id=403
+松視3,https://fm1077.serv00.net/anbo/index.php?id=404
+潘朵拉完美,https://fm1077.serv00.net/anbo/index.php?id=410
+HAPPY,https://fm1077.serv00.net/anbo/index.php?id=2908
+JStar,https://fm1077.serv00.net/anbo/index.php?id=2909
+彩虹E,https://fm1077.serv00.net/anbo/index.php?id=406
+彩虹K,https://fm1077.serv00.net/anbo/index.php?id=415
+Amazing,https://fm1077.serv00.net/anbo/index.php?id=2931
+Brazzers TV,https://fm1077.serv00.net/anbo/index.php?id=3076
+Vivid Touch,https://fm1077.serv00.net/anbo/index.php?id=3078
+Erox,https://fm1077.serv00.net/anbo/index.php?id=3079
+RED LIPS,https://fm1077.serv00.net/anbo/index.php?id=3083
+EXXOTICA,https://fm1077.serv00.net/anbo/index.php?id=3086
+Hustler XXX TV,https://fm1077.serv00.net/anbo/index.php?id=3087
+BABES,https://fm1077.serv00.net/anbo/index.php?id=3088
+BABES UNLEASHED,https://fm1077.serv00.net/anbo/index.php?id=3089
+BAEB Perv City,https://fm1077.serv00.net/anbo/index.php?id=3090
+BRATTY SIS,https://fm1077.serv00.net/anbo/index.php?id=3091
+BRAZZERS EN ESPANOL,https://fm1077.serv00.net/anbo/index.php?id=3092
+BUSTY LOVER,https://fm1077.serv00.net/anbo/index.php?id=3093
+CUM 4K,https://fm1077.serv00.net/anbo/index.php?id=3094
+Blue Hustler,https://fm1077.serv00.net/anbo/index.php?id=3077
+Banana香蕉,https://fm1077.serv00.net/anbo/index.php?id=2930
+Redlight HD,https://fm1077.serv00.net/anbo/index.php?id=452
+SEX ATION HD,https://fm1077.serv00.net/anbo/index.php?id=459
+極限電影,https://fm1077.serv00.net/anbo/index.php?id=405
+PLAYBOY HD,https://fm1077.serv00.net/anbo/index.php?id=411
+奥视频道2,https://fm1077.serv00.net/anbo/index.php?id=2916
+EXXXTRA SMALL,https://fm1077.serv00.net/anbo/index.php?id=3099
+DAUGHTER SWAP,https://fm1077.serv00.net/anbo/index.php?id=3095
+DEEPER,https://fm1077.serv00.net/anbo/index.php?id=3096
+DIGITAL PLAYGROUND,https://fm1077.serv00.net/anbo/index.php?id=3097
+EROTIC SPICE,https://fm1077.serv00.net/anbo/index.php?id=3098
+FAKE AGENT,https://fm1077.serv00.net/anbo/index.php?id=3100
+FAKE AGENT UK,https://fm1077.serv00.net/anbo/index.php?id=3101
+FAKE COP,https://fm1077.serv00.net/anbo/index.php?id=3102
+苍井空,https://fm1077.serv00.net/anbo/index.php?id=3154
+金丝雀,https://fm1077.serv00.net/anbo/index.php?id=3155
+波多野结衣,https://fm1077.serv00.net/anbo/index.php?id=3158
+上原亜衣,https://fm1077.serv00.net/anbo/index.php?id=3162
+中國,#genre#
+CCTV 1,http://106.107.177.205:5000/sxg/CCTV-1H265
+CCTV 2,http://106.107.177.205:5000/sxg/CCTV-2H265
+CCTV 3,http://106.107.177.205:5000/sxg/CCTV-3H265
+CCTV 4,http://106.107.177.205:5000/sxg/CCTV-4H265
+CCTV 5,http://106.107.177.205:5000/sxg/CCTV-5H265
+CCTV 5+,http://106.107.177.205:5000/sxg/CCTV-5plusH265
+CCTV 6,http://106.107.177.205:5000/sxg/CCTV-6H265
+CCTV 7,http://106.107.177.205:5000/sxg/CCTV-7H265
+CCTV 8,http://106.107.177.205:5000/sxg/CCTV-8H265
+CCTV 9,http://106.107.177.205:5000/sxg/CCTV-9H265
+CCTV 10,http://106.107.177.205:5000/sxg/CCTV-10H265
+CCTV 11,http://106.107.177.205:5000/sxg/CCTV-11-H265
+CCTV 12,http://106.107.177.205:5000/sxg/CCTV-12H265
+CCTV 13,http://106.107.177.205:5000/sxg/CCTV-xw
+CCTV 14,http://106.107.177.205:5000/sxg/CCTV-14H265
+CCTV 15,http://106.107.177.205:5000/sxg/CCTV-15-yyH265
+CCTV 16,http://106.107.177.205:5000/sxg/CCTV-16
+CCTV 16 4K,http://106.107.177.205:5000/sxg/CCTV-16-4K
+CCTV 17,http://106.107.177.205:5000/sxg/CCTV-17
+CCTV 4K,http://106.107.177.205:5000/sxg/ys4Kcq
+CETV-1,http://106.107.177.205:5000/sxg/CETV-1H264
+安徽卫视,http://106.107.177.205:5000/sxg/ahwsH265
+北京卫视,http://106.107.177.205:5000/sxg/bjwsH265
+重庆卫视,http://106.107.177.205:5000/sxg/cqwsH265
+东方卫视,http://106.107.177.205:5000/sxg/dfwsH265
+东南卫视,http://106.107.177.205:5000/sxg/dnwsfjwsH265
+甘肃卫视,http://106.107.177.205:5000/sxg/gsws
+广东卫视,http://106.107.177.205:5000/sxg/gdwsH265
+贵州卫视,http://106.107.177.205:5000/sxg/gzwsH265
+河南卫视,http://106.107.177.205:5000/sxg/hnws35
+黑龙江卫视,http://106.107.177.205:5000/sxg/hljwsH265
+湖北卫视,http://106.107.177.205:5000/sxg/hbwsH265
+湖南卫视,http://106.107.177.205:5000/sxg/hnwsH265
+吉林卫视,http://106.107.177.205:5000/sxg/jlwsH265
+江苏卫视,http://106.107.177.205:5000/sxg/jswsH265
+江西卫视,http://106.107.177.205:5000/sxg/jxwsH265
+辽宁卫视,http://106.107.177.205:5000/sxg/lnwsHDH264
+山东卫视,http://106.107.177.205:5000/sxg/sdwsH265
+陕西卫视,http://106.107.177.205:5000/sxg/sxws
+深圳卫视,http://106.107.177.205:5000/sxg/szwsH265
+四川卫视,http://106.107.177.205:5000/sxg/scwsH265
+天津卫视,http://106.107.177.205:5000/sxg/tjwsH265
+云南卫视,http://106.107.177.205:5000/sxg/ynws
+浙江卫视,http://106.107.177.205:5000/sxg/zjwsH265
+湖南金鹰纪实,http://106.107.177.205:5000/sxg/jyjsHDH265
+湖南金鹰卡通,http://106.107.177.205:5000/sxg/jykt
+湖南快乐垂钓,http://106.107.177.205:5000/sxg/fyzqklcdHDH265
+CHC 动作电影,http://106.107.177.205:5000/sxg/wqCHCdzdyH265
+CHC 高清电影,http://106.107.177.205:5000/sxg/lnwsCHC-HDH265
+CHC 家庭影院,http://106.107.177.205:5000/sxg/jbtygqCHCjtyyH265
+SiTV 欢笑剧场 4K,http://106.107.177.205:5000/sxg/hxjc-4k
+SiTV 劲爆体育,http://106.107.177.205:5000/sxg/lqhxjcHDH265
+SiTV 动漫秀场,http://106.107.177.205:5000/sxg/yybb-dmxc-H265
+SiTV 都市剧场,http://106.107.177.205:5000/sxg/yxfydsjcHDH265
+SiTV 法治天地,http://106.107.177.205:5000/sxg/fztx
+SiTV 乐游,http://106.107.177.205:5000/sxg/qjs-HDH265
+SiTV 魅力足球,http://106.107.177.205:5000/sxg/mlyy
+SiTV 生活时尚,http://106.107.177.205:5000/sxg/shssH265
+SiTV 新视觉,http://106.107.177.205:5000/sxg/ycxsjH265
+重温经典,http://106.107.177.205:5000/sxg/CWJD_4000
+梨园频道,http://106.107.177.205:5000/sxg/ly
+武术世界,http://106.107.177.205:5000/sxg/wssj
+天元围棋,http://106.107.177.205:5000/sxg/tywq
+川网导视,http://106.107.177.205:5000/sxg/cwdsHDH264
+精品导视,http://106.107.177.205:5000/sxg/jpdsH265
+四川经济频道,http://106.107.177.205:5000/sxg/SCTV-2-H265
+四川文化旅游频道,http://106.107.177.205:5000/sxg/SCTV-3-H265
+四川新闻频道,http://106.107.177.205:5000/sxg/SCTV-4H265
+四川影视文艺频道,http://106.107.177.205:5000/sxg/SCTV-5-scysH265
+四川妇女儿童频道,http://106.107.177.205:5000/sxg/SCTV-7-
+四川科教频道,http://106.107.177.205:5000/sxg/SCTV-ggSCTV-8
+四川乡村频道,http://106.107.177.205:5000/sxg/SCTV-kjSCTV-9-
+四川峨眉电影,http://106.107.177.205:5000/sxg/emdygqH265
+四川峨眉电影 4K,http://106.107.177.205:5000/sxg/emdy4k
+成都新闻综合,http://106.107.177.205:5000/sxg/CDTV-1
+成都公共频道,http://106.107.177.205:5000/sxg/CDTV-5
+成都高新电视台,http://106.107.177.205:5000/sxg/cdgxdstgq
+沙湾融媒,http://106.107.177.205:5000/sxg/swxwzh
+阿坝州 TV,http://106.107.177.205:5000/sxg/abxwzhpdgq
+阿坝州 TV 藏语,http://106.107.177.205:5000/sxg/wypdgqH265
+安岳综合频道,http://106.107.177.205:5000/sxg/ayxwzh
+安州综合频道,http://106.107.177.205:5000/sxg/azgq
+巴中综合,http://106.107.177.205:5000/sxg/bzytH265
+巴中文旅生活,http://106.107.177.205:5000/sxg/bzetH264
+巴州电视,http://106.107.177.205:5000/sxg/bzxw
+宝兴综合,http://106.107.177.205:5000/sxg/bxdst
+北川综合,http://106.107.177.205:5000/sxg/bcxwHD
+苍溪综合,http://106.107.177.205:5000/sxg/cxxwgqH265
+长宁综合,http://106.107.177.205:5000/sxg/znzh
+朝天综合,http://106.107.177.205:5000/sxg/ctxwzh
+崇州综合,http://106.107.177.205:5000/sxg/czyt
+达川新闻综合,http://106.107.177.205:5000/sxg/dcxwzh
+达州新闻综合,http://106.107.177.205:5000/sxg/dzxwzh
+达州文化生活,http://106.107.177.205:5000/sxg/dzgg
+达州导视,http://106.107.177.205:5000/sxg/dzds
+大邑电视台,http://106.107.177.205:5000/sxg/dyytH265
+大英新闻综合,http://106.107.177.205:5000/sxg/dyxwzhH265
+德阳新闻综合,http://106.107.177.205:5000/sxg/dyxwgq-HD-
+德阳文旅科教,http://106.107.177.205:5000/sxg/dygggq-HD-
+峨边电视台,http://106.107.177.205:5000/sxg/ebdst
+峨眉综合,http://106.107.177.205:5000/sxg/emsxw
+恩阳新闻,http://106.107.177.205:5000/sxg/eyxw
+古蔺新闻综合,http://106.107.177.205:5000/sxg/glxwzhgq
+高县-1,http://106.107.177.205:5000/sxg/gxt
+珙县新闻,http://106.107.177.205:5000/sxg/gxzh
+广元综合,http://106.107.177.205:5000/sxg/gyzhH265
+广元文化生活,http://106.107.177.205:5000/sxg/gyggH265
+甘孜综合,http://106.107.177.205:5000/sxg/gzxwzh
+洪雅综合,http://106.107.177.205:5000/sxg/hyzh
+夹江新闻综合,http://106.107.177.205:5000/sxg/jjxw
+剑阁综合,http://106.107.177.205:5000/sxg/jgxwzhH265
+金口河综合,http://106.107.177.205:5000/sxg/jkhdst
+金堂电视台,http://106.107.177.205:5000/sxg/jtzhpd
+旌阳综合,http://106.107.177.205:5000/sxg/jyxwgq-HD-
+开江新闻综合,http://106.107.177.205:5000/sxg/kjxwzh
+泸定综合频道,http://106.107.177.205:5000/sxg/ldxw
+乐山新闻综合,http://106.107.177.205:5000/sxg/lsxwzh
+乐山文旅生活,http://106.107.177.205:5000/sxg/lsggpd
+乐至综合,http://106.107.177.205:5000/sxg/lezhixwzh
+利州综合,http://106.107.177.205:5000/sxg/lzxwzh
+凉山新闻综合,http://106.107.177.205:5000/sxg/lsxwHDH265
+凉山彝语综合,http://106.107.177.205:5000/sxg/yyzh
+阆中综合,http://106.107.177.205:5000/sxg/lzxw
+隆昌综合,http://106.107.177.205:5000/sxg/lcxw
+芦山综合频道,http://106.107.177.205:5000/sxg/lszh
+马边综合,http://106.107.177.205:5000/sxg/mbxwzh
+沐川综合,http://106.107.177.205:5000/sxg/mcxw
+眉山综合,http://106.107.177.205:5000/sxg/msxwzhgq
+米易综合,http://106.107.177.205:5000/sxg/myxwzh
+绵阳新闻综合,http://106.107.177.205:5000/sxg/myytH265
+绵阳科教生活,http://106.107.177.205:5000/sxg/myetH265
+名山电视台,http://106.107.177.205:5000/sxg/msdstH265
+木里,http://106.107.177.205:5000/sxg/mltHD
+南充综合,http://106.107.177.205:5000/sxg/ncxwzh
+南江电视台,http://106.107.177.205:5000/sxg/njxw
+南溪综合,http://106.107.177.205:5000/sxg/nxt
+攀钢新闻综合,http://106.107.177.205:5000/sxg/pgxwzh
+攀枝花新闻综合,http://106.107.177.205:5000/sxg/pzhytH265
+彭山综合,http://106.107.177.205:5000/sxg/pszh
+彭州综合,http://106.107.177.205:5000/sxg/pzxwzh
+蓬溪新闻综合,http://106.107.177.205:5000/sxg/pxxw
+平昌综合,http://106.107.177.205:5000/sxg/pcxw
+平武综合,http://106.107.177.205:5000/sxg/pwgq
+屏山综合,http://106.107.177.205:5000/sxg/psxwzh
+蒲江综合,http://106.107.177.205:5000/sxg/pjxw
+郫县新闻综合,http://106.107.177.205:5000/sxg/pxds1
+青白江综合,http://106.107.177.205:5000/sxg/qbjxwzh
+青神综合,http://106.107.177.205:5000/sxg/qszh
+渠县新闻综合,http://106.107.177.205:5000/sxg/qxxwzh
+仁和新闻,http://106.107.177.205:5000/sxg/rhxwH264
+荣县综合,http://106.107.177.205:5000/sxg/rxzh
+三台TV,http://106.107.177.205:5000/sxg/stxwHD
+松潘新闻综合,http://106.107.177.205:5000/sxg/spxwzhpdH264
+遂宁综合,http://106.107.177.205:5000/sxg/snxwzhHDH265
+天全新闻,http://106.107.177.205:5000/sxg/tqzh
+通川区新闻综合,http://106.107.177.205:5000/sxg/xcxwzhH264
+通江综合,http://106.107.177.205:5000/sxg/tjxwH265
+万源新闻综合,http://106.107.177.205:5000/sxg/wyxwzh
+旺苍新闻综合,http://106.107.177.205:5000/sxg/wcxwzhH265
+温江综合频道,http://106.107.177.205:5000/sxg/wjytH264
+五通桥,http://106.107.177.205:5000/sxg/wtqxwzh
+西昌,http://106.107.177.205:5000/sxg/xctHD
+西充综合,http://106.107.177.205:5000/sxg/xczh
+新都综合,http://106.107.177.205:5000/sxg/xdzhpd
+荥经电视台,http://106.107.177.205:5000/sxg/xjdst
+新津,http://106.107.177.205:5000/sxg/xjzh
+兴文电视台,http://106.107.177.205:5000/sxg/xwt
+叙州新闻综合,http://106.107.177.205:5000/sxg/ybx
+宣汉综合,http://106.107.177.205:5000/sxg/xhxwzh
+雅安新闻综合,http://106.107.177.205:5000/sxg/yazh
+雅安公共,http://106.107.177.205:5000/sxg/yagg
+盐边电视台,http://106.107.177.205:5000/sxg/ybtgq
+雁江,http://106.107.177.205:5000/sxg/yjxw
+仪陇新闻综合,http://106.107.177.205:5000/sxg/ylxw
+宜宾新闻综合,http://106.107.177.205:5000/sxg/ybytH264
+宜宾公共,http://106.107.177.205:5000/sxg/ybetH264
+筠连,http://106.107.177.205:5000/sxg/ylyt
+营山,http://106.107.177.205:5000/sxg/ysxw
+越西综合,http://106.107.177.205:5000/sxg/yxt
+岳池,http://106.107.177.205:5000/sxg/ycxw
+自贡综合,http://106.107.177.205:5000/sxg/zgxw
+自贡文化生活,http://106.107.177.205:5000/sxg/zggg
+昭化综合,http://106.107.177.205:5000/sxg/zhxwzh
+梓潼综合,http://106.107.177.205:5000/sxg/ztgq
+资阳新闻综合,http://106.107.177.205:5000/sxg/zyxwzh
+资中综合,http://106.107.177.205:5000/sxg/zzzh
 CGTN English,https://fm1077.serv00.net/anbo/index.php?id=2362
 CGTN Documentary,https://fm1077.serv00.net/anbo/index.php?id=2363
 CGTN Français,https://fm1077.serv00.net/anbo/index.php?id=2364
 CGTN Español,https://fm1077.serv00.net/anbo/index.php?id=317
 CGTN العربية,https://fm1077.serv00.net/anbo/index.php?id=1004
-CCTV1,https://fm1077.serv00.net/anbo/index.php?id=200
 CCTV1,https://fm1077.serv00.net/anbo/index.php?id=2305
+CCTV1,https://fm1077.serv00.net/anbo/index.php?id=200
 CCTV2,https://fm1077.serv00.net/anbo/index.php?id=201
 CCTV2,https://fm1077.serv00.net/anbo/index.php?id=2763
 CCTV3,https://fm1077.serv00.net/anbo/index.php?id=202
@@ -681,13 +1077,14 @@ CCTV16,https://fm1077.serv00.net/anbo/index.php?id=2821
 东南卫视,https://fm1077.serv00.net/anbo/index.php?id=228
 辽宁卫视,https://fm1077.serv00.net/anbo/index.php?id=229
 深圳卫视,https://fm1077.serv00.net/anbo/index.php?id=3230
+安徽卫视,https://fm1077.serv00.net/anbo/index.php?id=232
 安徽卫视,https://fm1077.serv00.net/anbo/index.php?id=2830
 四川卫视,https://fm1077.serv00.net/anbo/index.php?id=233
 山东卫视,https://fm1077.serv00.net/anbo/index.php?id=234
 青田電視台,https://fm1077.serv00.net/anbo/index.php?id=2295
 天津衛視,https://fm1077.serv00.net/anbo/index.php?id=1093
 江西衛視,https://fm1077.serv00.net/anbo/index.php?id=1097
-にっぽん,#genre#
+日韓,#genre#
 JapaNews24,https://fm1077.serv00.net/anbo/index.php?id=425
 スカイA,https://fm1077.serv00.net/anbo/index.php?id=2433
 日テレニュース24,https://fm1077.serv00.net/anbo/index.php?id=292
@@ -732,8 +1129,6 @@ WOWOWプライム,https://fm1077.serv00.net/anbo/index.php?id=133
 WOWOWライブ,https://fm1077.serv00.net/anbo/index.php?id=134
 WOWOWシネマ,https://fm1077.serv00.net/anbo/index.php?id=135
 スターチャンネル1,https://fm1077.serv00.net/anbo/index.php?id=136
-スターチャンネル2,https://fm1077.serv00.net/anbo/index.php?id=137
-スターチャンネル3,https://fm1077.serv00.net/anbo/index.php?id=138
 日本テレビ,https://fm1077.serv00.net/anbo/index.php?id=119
 毎日放送,https://fm1077.serv00.net/anbo/index.php?id=199
 ゴルフネットワーク,https://fm1077.serv00.net/anbo/index.php?id=249
@@ -747,7 +1142,6 @@ TBS,https://fm1077.serv00.net/anbo/index.php?id=2201
 キッズステーション,https://fm1077.serv00.net/anbo/index.php?id=289
 静岡ニュース,https://fm1077.serv00.net/anbo/index.php?id=297
 MUSIC ON! TV,https://fm1077.serv00.net/anbo/index.php?id=288
-新潟ニュース,https://fm1077.serv00.net/anbo/index.php?id=2218
 BS日本映画専門Ch,https://fm1077.serv00.net/anbo/index.php?id=2219
 Disney チャンネル,https://fm1077.serv00.net/anbo/index.php?id=290
 衛星劇場,https://fm1077.serv00.net/anbo/index.php?id=2345
@@ -755,7 +1149,18 @@ Disney チャンネル,https://fm1077.serv00.net/anbo/index.php?id=290
 兵庫県の最新,https://fm1077.serv00.net/anbo/index.php?id=1142
 鹿児島ニュース24,https://fm1077.serv00.net/anbo/index.php?id=1562
 KBC NEWS,https://fm1077.serv00.net/anbo/index.php?id=3219
-한국,#genre#
+TBS,https://fm1077.serv00.net/anbo/index.php?id=2917
+NHK World,https://fm1077.serv00.net/anbo/index.php?id=2918
+BS-富士,https://fm1077.serv00.net/anbo/index.php?id=2919
+フジテレビ富士,https://fm1077.serv00.net/anbo/index.php?id=2920
+テレビ朝日,https://fm1077.serv00.net/anbo/index.php?id=2921
+テレビ東京,https://fm1077.serv00.net/anbo/index.php?id=2922
+日本テレビ,https://fm1077.serv00.net/anbo/index.php?id=2923
+スター・チャンネル,https://fm1077.serv00.net/anbo/index.php?id=3210
+BSジャパン,https://fm1077.serv00.net/anbo/index.php?id=3211
+NHK Premium,https://fm1077.serv00.net/anbo/index.php?id=3212
+BS朝日,https://fm1077.serv00.net/anbo/index.php?id=3213
+BS-TBS,https://fm1077.serv00.net/anbo/index.php?id=3214
 런닝맨,https://fm1077.serv00.net/anbo/index.php?id=2347
 KBS드라마1,https://fm1077.serv00.net/anbo/index.php?id=2348
 MBC드라마넷,https://fm1077.serv00.net/anbo/index.php?id=2349
@@ -763,7 +1168,6 @@ I.NET,https://fm1077.serv00.net/anbo/index.php?id=2351
 SkySports,https://fm1077.serv00.net/anbo/index.php?id=2352
 KBSN Sports,https://fm1077.serv00.net/anbo/index.php?id=2353
 SBS Sports,https://fm1077.serv00.net/anbo/index.php?id=2354
-FTV,https://fm1077.serv00.net/anbo/index.php?id=2355
 바둑TV,https://fm1077.serv00.net/anbo/index.php?id=2356
 OCN Thrills,https://fm1077.serv00.net/anbo/index.php?id=2357
 OBS,https://fm1077.serv00.net/anbo/index.php?id=2358
@@ -803,15 +1207,18 @@ Tconvers,https://fm1077.serv00.net/anbo/index.php?id=1134
 채널A,https://fm1077.serv00.net/anbo/index.php?id=1092
 KBC,https://fm1077.serv00.net/anbo/index.php?id=1307
 MTN,https://fm1077.serv00.net/anbo/index.php?id=1504
+토마토TV,https://fm1077.serv00.net/anbo/index.php?id=1544
 이데일리TV,https://fm1077.serv00.net/anbo/index.php?id=1554
+美國頻道,#genre#
 EBS1,https://fm1077.serv00.net/anbo/index.php?id=2439
 EBS2,https://fm1077.serv00.net/anbo/index.php?id=3006
 EBS KIDS,https://fm1077.serv00.net/anbo/index.php?id=3007
 EBS PLUS1,https://fm1077.serv00.net/anbo/index.php?id=3008
 EBS PLUS2,https://fm1077.serv00.net/anbo/index.php?id=3009
 EBSe,https://fm1077.serv00.net/anbo/index.php?id=3010
-美國頻道,#genre#
 Sinovision,https://fm1077.serv00.net/anbo/index.php?id=1101
+mlb  network,https://fm1077.serv00.net/anbo/index.php?id=3250
+mlb  network,https://fm1077.serv00.net/anbo/index.php?id=3251
 TLC,https://fm1077.serv00.net/anbo/index.php?id=1206
 FOX,https://fm1077.serv00.net/anbo/index.php?id=1218
 FOX NOW,https://fm1077.serv00.net/anbo/index.php?id=1506
@@ -843,6 +1250,7 @@ Tennis chan,https://fm1077.serv00.net/anbo/index.php?id=1519
 Tennis chan（備）,https://fm1077.serv00.net/anbo/index.php?id=3235
 law and crime,https://fm1077.serv00.net/anbo/index.php?id=1540
 Goltv,https://fm1077.serv00.net/anbo/index.php?id=1542
+TBS,https://fm1077.serv00.net/anbo/index.php?id=1545
 MTV,https://fm1077.serv00.net/anbo/index.php?id=1546
 FX,https://fm1077.serv00.net/anbo/index.php?id=1551
 CNBC,https://fm1077.serv00.net/anbo/index.php?id=1555
@@ -885,14 +1293,16 @@ Hallmark Movie,https://fm1077.serv00.net/anbo/index.php?id=1179
 TCM,https://fm1077.serv00.net/anbo/index.php?id=1180
 Starz in Black,https://fm1077.serv00.net/anbo/index.php?id=1181
 ESPN 1,https://fm1077.serv00.net/anbo/index.php?id=1182
+ESPN 1,https://fm1077.serv00.net/anbo/index.php?id=2788
 ESPN 2,https://fm1077.serv00.net/anbo/index.php?id=1183
 ESPN 2,https://fm1077.serv00.net/anbo/index.php?id=2789
 NBA,https://fm1077.serv00.net/anbo/index.php?id=2792
 NBA TV US,https://fm1077.serv00.net/anbo/index.php?id=1185
+Fox Sport 1,https://fm1077.serv00.net/anbo/index.php?id=1186
 Fight network,https://fm1077.serv00.net/anbo/index.php?id=1527
 Fox Sport 2,https://fm1077.serv00.net/anbo/index.php?id=1187
 NFL Network,https://fm1077.serv00.net/anbo/index.php?id=1189
-Food network 美,https://fm1077.serv00.net/anbo/index.php?id=1526
+Foodnetwork 美,https://fm1077.serv00.net/anbo/index.php?id=1526
 Cartoon Network US,https://fm1077.serv00.net/anbo/index.php?id=1211
 USA Network,https://fm1077.serv00.net/anbo/index.php?id=1230
 Diy network,https://fm1077.serv00.net/anbo/index.php?id=1528
@@ -918,6 +1328,7 @@ WE TV,https://fm1077.serv00.net/anbo/index.php?id=1229
 VH-1,https://fm1077.serv00.net/anbo/index.php?id=1233
 OWN US,https://fm1077.serv00.net/anbo/index.php?id=1235
 GSN,https://fm1077.serv00.net/anbo/index.php?id=1236
+TVG,https://fm1077.serv00.net/anbo/index.php?id=1543
 Cooking Channel,https://fm1077.serv00.net/anbo/index.php?id=1238
 FYI,https://fm1077.serv00.net/anbo/index.php?id=1240
 BabyTV,https://fm1077.serv00.net/anbo/index.php?id=1241
@@ -956,6 +1367,7 @@ woai,https://fm1077.serv00.net/anbo/index.php?id=2430
 TLC,https://fm1077.serv00.net/anbo/index.php?id=1533
 TNT,https://fm1077.serv00.net/anbo/index.php?id=1524
 ksat12,https://fm1077.serv00.net/anbo/index.php?id=2428
+National Geographic,https://fm1077.serv00.net/anbo/index.php?id=294
 Syfy,https://fm1077.serv00.net/anbo/index.php?id=1537
 加拿大,#genre#
 The Weather Network,https://fm1077.serv00.net/anbo/index.php?id=1251
@@ -1003,6 +1415,7 @@ CTV News,https://fm1077.serv00.net/anbo/index.php?id=1249
 CBC News,https://fm1077.serv00.net/anbo/index.php?id=1248
 Crave 4,https://fm1077.serv00.net/anbo/index.php?id=1272
 英國頻道,#genre#
+bt espn hd,https://fm1077.serv00.net/anbo/index.php?id=2790
 GB News,https://fm1077.serv00.net/anbo/index.php?id=77
 TalkTV,https://fm1077.serv00.net/anbo/index.php?id=309
 BBC one,https://fm1077.serv00.net/anbo/index.php?id=1382
@@ -1099,6 +1512,7 @@ CANAL Sport,https://fm1077.serv00.net/anbo/index.php?id=2234
 FR Eurosport 1,https://fm1077.serv00.net/anbo/index.php?id=2327
 FR Eurosport 2,https://fm1077.serv00.net/anbo/index.php?id=3225
 德國頻道,#genre#
+Euronews,https://fm1077.serv00.net/anbo/index.php?id=1560
 Das Erste,https://fm1077.serv00.net/anbo/index.php?id=1523
 BR Fernsehen,https://fm1077.serv00.net/anbo/index.php?id=3032
 Tagesschau24,https://fm1077.serv00.net/anbo/index.php?id=1690
@@ -1110,14 +1524,19 @@ Regio TV Schwaben,https://fm1077.serv00.net/anbo/index.php?id=416
 LTV,https://fm1077.serv00.net/anbo/index.php?id=407
 Baden TV,https://fm1077.serv00.net/anbo/index.php?id=412
 Yol TV,https://fm1077.serv00.net/anbo/index.php?id=409
-意大利,#genre#
+義大利頻道,#genre#
+Euronews,https://fm1077.serv00.net/anbo/index.php?id=186
+LA7,https://fm1077.serv00.net/anbo/index.php?id=3028
 Sky Calcio,https://fm1077.serv00.net/anbo/index.php?id=2737
 SKY SPORT ARENA,https://fm1077.serv00.net/anbo/index.php?id=2739
 SKY F1,https://fm1077.serv00.net/anbo/index.php?id=2740
 Sky sport uno,https://fm1077.serv00.net/anbo/index.php?id=1597
 Inter TV,https://fm1077.serv00.net/anbo/index.php?id=1599
+Deejay TV,https://fm1077.serv00.net/anbo/index.php?id=1601
 Rai Sport,https://fm1077.serv00.net/anbo/index.php?id=1613
 Italia 1,https://fm1077.serv00.net/anbo/index.php?id=1616
+Kiss Kiss,https://fm1077.serv00.net/anbo/index.php?id=3216
+LA7D,https://fm1077.serv00.net/anbo/index.php?id=3218
 新馬頻道,#genre#
 CNA 24,https://fm1077.serv00.net/anbo/index.php?id=15
 AEC,https://fm1077.serv00.net/anbo/index.php?id=433
@@ -1126,22 +1545,17 @@ TV2,https://fm1077.serv00.net/anbo/index.php?id=436
 TV3,https://fm1077.serv00.net/anbo/index.php?id=437
 TV8,https://fm1077.serv00.net/anbo/index.php?id=442
 Arena,https://fm1077.serv00.net/anbo/index.php?id=1172
-小太陽,https://fm1077.serv00.net/anbo/index.php?id=443
 Channel8,https://fm1077.serv00.net/anbo/index.php?id=142
 天映頻道,https://fm1077.serv00.net/anbo/index.php?id=441
-KIX,https://fm1077.serv00.net/anbo/index.php?id=430
 全佳,https://fm1077.serv00.net/anbo/index.php?id=427
 歡喜,https://fm1077.serv00.net/anbo/index.php?id=432
 TVN,https://fm1077.serv00.net/anbo/index.php?id=1170
 CRICKET,https://fm1077.serv00.net/anbo/index.php?id=1173
-華麗,https://fm1077.serv00.net/anbo/index.php?id=429
-Astro AWANI,https://fm1077.serv00.net/anbo/index.php?id=2741
 Astro Awani,https://fm1077.serv00.net/anbo/index.php?id=440
 Suria,https://fm1077.serv00.net/anbo/index.php?id=434
 TV9,https://fm1077.serv00.net/anbo/index.php?id=438
 NTV7,https://fm1077.serv00.net/anbo/index.php?id=439
 AOD,https://fm1077.serv00.net/anbo/index.php?id=428
-TV1,https://fm1077.serv00.net/anbo/index.php?id=435
 Astro Sp1,https://fm1077.serv00.net/anbo/index.php?id=444
 ASSP1_HD,https://fm1077.serv00.net/anbo/index.php?id=1070
 Astro Sp2,https://fm1077.serv00.net/anbo/index.php?id=445
@@ -1149,8 +1563,6 @@ ASSP2_HD,https://fm1077.serv00.net/anbo/index.php?id=1071
 Astro Sp3,https://fm1077.serv00.net/anbo/index.php?id=446
 ASSP3_HD,https://fm1077.serv00.net/anbo/index.php?id=1072
 Astro Sp4,https://fm1077.serv00.net/anbo/index.php?id=3234
-Astro Sp4,https://fm1077.serv00.net/anbo/index.php?id=447
-Astro Sp5,https://fm1077.serv00.net/anbo/index.php?id=2432
 Berita RTM,https://fm1077.serv00.net/anbo/index.php?id=361
 BOO,https://fm1077.serv00.net/anbo/index.php?id=1437
 CCM,https://fm1077.serv00.net/anbo/index.php?id=1438
@@ -1174,7 +1586,6 @@ DZRH TV,https://fm1077.serv00.net/anbo/index.php?id=1425
 UNTV,https://fm1077.serv00.net/anbo/index.php?id=1501
 CinemaOne,https://fm1077.serv00.net/anbo/index.php?id=1333
 泰國頻道,#genre#
-Channel 3,https://fm1077.serv00.net/anbo/index.php?id=2315
 Channel 5,https://fm1077.serv00.net/anbo/index.php?id=2316
 Channel 7,https://fm1077.serv00.net/anbo/index.php?id=2317
 MCOT HD,https://fm1077.serv00.net/anbo/index.php?id=2318
@@ -1196,12 +1607,12 @@ M Channel,https://fm1077.serv00.net/anbo/index.php?id=2246
 JKN,https://fm1077.serv00.net/anbo/index.php?id=2247
 Thai PBS,https://fm1077.serv00.net/anbo/index.php?id=1047
 NEWS1,https://fm1077.serv00.net/anbo/index.php?id=1608
+Channel 3,https://fm1077.serv00.net/anbo/index.php?id=2315
 Thailand ch3,https://fm1077.serv00.net/anbo/index.php?id=1839
 印尼頻道,#genre#
 CNN Indonesia,https://fm1077.serv00.net/anbo/index.php?id=1145
 Metro TV,https://fm1077.serv00.net/anbo/index.php?id=2577
 tvOne,https://fm1077.serv00.net/anbo/index.php?id=2734
-SCTV,https://fm1077.serv00.net/anbo/index.php?id=2553
 Rajawali TV,https://fm1077.serv00.net/anbo/index.php?id=2942
 NET TV,https://fm1077.serv00.net/anbo/index.php?id=2943
 JTV,https://fm1077.serv00.net/anbo/index.php?id=2944
@@ -1334,7 +1745,6 @@ TVone,https://fm1077.serv00.net/anbo/index.php?id=1487
 BeritaSatu,https://fm1077.serv00.net/anbo/index.php?id=1488
 TVMU,https://fm1077.serv00.net/anbo/index.php?id=1490
 DAAI TV,https://fm1077.serv00.net/anbo/index.php?id=2936
-越南頻道,#genre#
 HTV7 HD,https://fm1077.serv00.net/anbo/index.php?id=2251
 HTV9 HD,https://fm1077.serv00.net/anbo/index.php?id=2253
 HTV1,https://fm1077.serv00.net/anbo/index.php?id=2254
@@ -1349,6 +1759,7 @@ HBTV,https://fm1077.serv00.net/anbo/index.php?id=1302
 KienGiangTV,https://fm1077.serv00.net/anbo/index.php?id=1309
 KienGiangTV1,https://fm1077.serv00.net/anbo/index.php?id=1310
 土耳其,#genre#
+TRTWORLD,https://fm1077.serv00.net/anbo/index.php?id=1022
 A SPOR,https://fm1077.serv00.net/anbo/index.php?id=2367
 TRT 1 HD,https://fm1077.serv00.net/anbo/index.php?id=2368
 SHOW TV HD,https://fm1077.serv00.net/anbo/index.php?id=2369
@@ -1387,66 +1798,20 @@ Sport TV 1,https://fm1077.serv00.net/anbo/index.php?id=1779
 Sport TV 2,https://fm1077.serv00.net/anbo/index.php?id=1785
 Sport TV 3,https://fm1077.serv00.net/anbo/index.php?id=2135
 Globo News,https://fm1077.serv00.net/anbo/index.php?id=1489
-भारत,#genre#
 WION,https://fm1077.serv00.net/anbo/index.php?id=303
 ZeeNews,https://fm1077.serv00.net/anbo/index.php?id=465
 ABP Majha,https://fm1077.serv00.net/anbo/index.php?id=1782
 IndiaTV,https://fm1077.serv00.net/anbo/index.php?id=1607
 TV9 Marathi,https://fm1077.serv00.net/anbo/index.php?id=2281
 Sun TV,https://fm1077.serv00.net/anbo/index.php?id=1458
+Zee Tamil,https://fm1077.serv00.net/anbo/index.php?id=1460
 Zee Business,https://fm1077.serv00.net/anbo/index.php?id=1461
 Zee Actions,https://fm1077.serv00.net/anbo/index.php?id=1464
 Zee TV HD,https://fm1077.serv00.net/anbo/index.php?id=1466
 Zee Cinema HD,https://fm1077.serv00.net/anbo/index.php?id=1467
 Colors HD,https://fm1077.serv00.net/anbo/index.php?id=1468
 Picture,https://fm1077.serv00.net/anbo/index.php?id=1470
-俄羅斯,#genre#
 RT News,https://fm1077.serv00.net/anbo/index.php?id=2564
 Москва 24,https://fm1077.serv00.net/anbo/index.php?id=2574
 RT Documentary,https://fm1077.serv00.net/anbo/index.php?id=2611
-5 KANAL,https://fm1077.serv00.net/anbo/index.php?id=2444
 TV CENTR,https://fm1077.serv00.net/anbo/index.php?id=2451
-私密頻道_543,#genre#
-松視1,https://fm1077.serv00.net/anbo/index.php?id=402
-松视1台,https://fm1077.serv00.net/anbo/index.php?id=2905
-松视2台,https://fm1077.serv00.net/anbo/index.php?id=2906
-松視2,https://fm1077.serv00.net/anbo/index.php?id=403
-松視3,https://fm1077.serv00.net/anbo/index.php?id=404
-潘朵拉完美,https://fm1077.serv00.net/anbo/index.php?id=410
-HAPPY,https://fm1077.serv00.net/anbo/index.php?id=2908
-JStar,https://fm1077.serv00.net/anbo/index.php?id=2909
-彩虹E,https://fm1077.serv00.net/anbo/index.php?id=406
-彩虹K,https://fm1077.serv00.net/anbo/index.php?id=415
-Amazing,https://fm1077.serv00.net/anbo/index.php?id=2931
-Brazzers TV,https://fm1077.serv00.net/anbo/index.php?id=3076
-Vivid Touch,https://fm1077.serv00.net/anbo/index.php?id=3078
-Erox,https://fm1077.serv00.net/anbo/index.php?id=3079
-RED LIPS,https://fm1077.serv00.net/anbo/index.php?id=3083
-EXXOTICA,https://fm1077.serv00.net/anbo/index.php?id=3086
-Hustler XXX TV,https://fm1077.serv00.net/anbo/index.php?id=3087
-BABES,https://fm1077.serv00.net/anbo/index.php?id=3088
-BABES UNLEASHED,https://fm1077.serv00.net/anbo/index.php?id=3089
-BAEB Perv City,https://fm1077.serv00.net/anbo/index.php?id=3090
-BRATTY SIS,https://fm1077.serv00.net/anbo/index.php?id=3091
-BRAZZERS EN ESPANOL,https://fm1077.serv00.net/anbo/index.php?id=3092
-BUSTY LOVER,https://fm1077.serv00.net/anbo/index.php?id=3093
-CUM 4K,https://fm1077.serv00.net/anbo/index.php?id=3094
-Blue Hustler,https://fm1077.serv00.net/anbo/index.php?id=3077
-Banana香蕉,https://fm1077.serv00.net/anbo/index.php?id=2930
-Redlight HD,https://fm1077.serv00.net/anbo/index.php?id=452
-SEX ATION HD,https://fm1077.serv00.net/anbo/index.php?id=459
-極限電影,https://fm1077.serv00.net/anbo/index.php?id=405
-PLAYBOY HD,https://fm1077.serv00.net/anbo/index.php?id=411
-奥视频道2,https://fm1077.serv00.net/anbo/index.php?id=2916
-EXXXTRA SMALL,https://fm1077.serv00.net/anbo/index.php?id=3099
-DAUGHTER SWAP,https://fm1077.serv00.net/anbo/index.php?id=3095
-DEEPER,https://fm1077.serv00.net/anbo/index.php?id=3096
-DIGITAL PLAYGROUND,https://fm1077.serv00.net/anbo/index.php?id=3097
-EROTIC SPICE,https://fm1077.serv00.net/anbo/index.php?id=3098
-FAKE AGENT,https://fm1077.serv00.net/anbo/index.php?id=3100
-FAKE AGENT UK,https://fm1077.serv00.net/anbo/index.php?id=3101
-FAKE COP,https://fm1077.serv00.net/anbo/index.php?id=3102
-苍井空,https://fm1077.serv00.net/anbo/index.php?id=3154
-金丝雀,https://fm1077.serv00.net/anbo/index.php?id=3155
-波多野结衣,https://fm1077.serv00.net/anbo/index.php?id=3158
-上原亜衣,https://fm1077.serv00.net/anbo/index.php?id=3162
