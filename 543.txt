@@ -540,7 +540,7 @@ CCTV16,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&fromCDN=
 云南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 浙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/ZHEJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
 重庆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/CHONGQHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-星視界,#genre#
+中國(星視界),#genre#
 CCTV-1 綜合,http://php.jdshipin.com:8880/xsj.php?id=cctv1
 CCTV-2 財經,http://php.jdshipin.com:8880/xsj.php?id=cctv2
 CCTV-3 綜藝,http://php.jdshipin.com:8880/xsj.php?id=cctv3
@@ -609,6 +609,7 @@ SPOTV 2 測試,http://php.jdshipin.com:8880/xsj.php?id=testspotv2
 河南衛視,http://php.jdshipin.com:8880/xsj.php?id=henan
 青海衛視,http://php.jdshipin.com:8880/xsj.php?id=qinghai
 甘肅衛視,http://php.jdshipin.com:8880/xsj.php?id=gansu
+港澳(星視界),#genre#
 TVB 翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
 TVB 無線新聞台,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
 TVB PLUS,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
@@ -676,6 +677,7 @@ Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
 Now 668,http://php.jdshipin.com:8880/xsj.php?id=now-668
 Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=now-golf2
 Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=now-golf3
+台灣(星視界),#genre#
 民視,http://php.jdshipin.com:8880/xsj.php?id=ftv
 民視台灣台,http://php.jdshipin.com:8880/xsj.php?id=ftv-tw
 民視第一台,http://php.jdshipin.com:8880/xsj.php?id=ftv-one
@@ -765,6 +767,7 @@ TVBS台劇台,http://php.jdshipin.com:8880/xsj.php?id=tvbs-taiju
 視納華仁紀實頻道,http://php.jdshipin.com:8880/xsj.php?id=cnex
 MTV Live HD 頻道,http://php.jdshipin.com:8880/xsj.php?id=mtv
 ELTA 娛樂台,http://php.jdshipin.com:8880/xsj.php?id=elta-ylt
+綜合(星視界),#genre#
 Channel 5,http://php.jdshipin.com:8880/xsj.php?id=channel-5
 Channel 8,http://php.jdshipin.com:8880/xsj.php?id=channel8
 Channel U,http://php.jdshipin.com:8880/xsj.php?id=channel-u
@@ -856,6 +859,7 @@ Astro Rania,http://php.jdshipin.com:8880/xsj.php?id=astro-rania
 Astro Oasis,http://php.jdshipin.com:8880/xsj.php?id=astro-oasis
 Astro TUTOR TV,http://php.jdshipin.com:8880/xsj.php?id=astro-tutor-tv
 Astro GolfChannel,http://php.jdshipin.com:8880/xsj.php?id=astro-golfchannel
+體育(星視界),#genre#
 beIN Sports,http://php.jdshipin.com:8880/xsj.php?id=beinsports
 beIN Sports 2,http://php.jdshipin.com:8880/xsj.php?id=beinsports2
 beIN Sports 3,http://php.jdshipin.com:8880/xsj.php?id=beinsports3
@@ -894,6 +898,7 @@ TRACE Sport Stars,http://php.jdshipin.com:8880/xsj.php?id=trace-sport-stars
 W-Sport,http://php.jdshipin.com:8880/xsj.php?id=w-sport
 PremierSports,http://php.jdshipin.com:8880/xsj.php?id=premiersports
 智林体育台,http://php.jdshipin.com:8880/xsj.php?id=zl-sports
+其他(星視界),#genre#
 新时代电视,http://php.jdshipin.com:8880/xsj.php?id=fairchildtv
 新时代电视二台,http://php.jdshipin.com:8880/xsj.php?id=fairchildtv2
 城市电视,http://php.jdshipin.com:8880/xsj.php?id=talentvisiontv
