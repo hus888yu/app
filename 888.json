@@ -168,8 +168,25 @@
   ],
   "lives": [
     {
-      "name": "543",
-      "url": "https://iptv543.com/list.php"
+     "name": "543",
+      "url": "https://iptv543.com/list.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "星視界",
+      "url": "https://chou1966.serv00.net/histar.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ETH",
+      "api": "https://888.iptv543.com/ethtv.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0"
     }
   ]
 }
