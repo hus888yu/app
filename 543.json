@@ -455,13 +455,25 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "live",
+      "name": "543",
       "url": "https://iptv543.com/list.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "星視界",
+      "url": "https://chou1966.serv00.net/histar.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ETH",
+      "api": "https://888.iptv543.com/ethtv.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0"
     }
   ]
 }
