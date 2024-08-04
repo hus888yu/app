@@ -3,11 +3,20 @@
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "sgys",
-      "name": "三哥影视",
-      "type": 1,
-      "api": "https://zhangqun66.serv00.net/158.php",
-      "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
+      "key": "sgabys",
+      "name": "三哥安博影视",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/ub18?token=a797e28e",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "sghmys",
+      "name": "三哥黑木影视",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/hme?token=a797e28e",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -18,7 +27,7 @@
       "name": "华人影视",
       "type": 1,
       "api": "https://api.huaren.live/api.php/tvbox",
-      "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
+      "playUrl": "json:https://parse.huaren.live/box?url=",
       "header": {
         "User-Agent": "okhttp/3.12.13"
       },
@@ -41,11 +50,11 @@
       "name": "黑木资源站",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
+      "playUrl": "json:https://parse.huaren.live/box?url=",
       "searchable": 1,
       "changeable": 1,
       "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+        "User-Agent": "okhttp/3.12.13"
       },
       "categories": [
         "国产剧",
@@ -159,7 +168,7 @@
   ],
   "lives": [
     {
-      "name": "范明明IPv6",
+      "name": "盒子之家",
       "url": "https://iptv543.com/list.php"
     }
   ]
