@@ -173,8 +173,8 @@
       "type": 3,
       "ua": "okhttp/4.12.0"
     },
-    {
-     "name": "543",
+     {
+      "name": "543",
       "url": "https://888.iptv543.com/list.php",
       "pass": false,
       "boot": false,
@@ -183,10 +183,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "斯馬特",
-      "url": "https://tang.hz.cz/zb/stv?token=14f4bed5",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "ETH",
+      "api": "https://888.iptv543.com/ethtv.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0"
     }
+
   ]
 }
