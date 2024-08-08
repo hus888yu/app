@@ -408,9 +408,21 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "斯馬特",
-      "url": "https://tang.hz.cz/zb/stv?token=14f4bed5",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "name": "歐華",
+      "url": "https://888.iptv543.com/tvlist01.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "焦點",
+      "url": "https://888.iptv543.com/tvlist02.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
