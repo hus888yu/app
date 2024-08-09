@@ -23,6 +23,16 @@
       "changeable": 0
     },
     {
+      "key": "sgolys",
+      "name": "三哥欧乐影视",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/olelive?token=a797e28e",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "hrys",
       "name": "华人影视",
       "type": 1,
@@ -167,7 +177,7 @@
     }
   ],
   "lives": [
-    {
+   {
       "name": "543",
       "url": "https://888.iptv543.com/list.php",
       "pass": false,
@@ -195,11 +205,18 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ETH",
-      "api": "https://888.iptv543.com/ethtv.js",
+      "name": "斯卡特",
+      "url": "https://tang.hz.cz/zb/stv?token=a797e28e"
+    },
+    {
+      "name": "ETH(JS)",
+      "api": "https://tang.hz.cz/js/ethtv.js",
       "type": 3,
       "ua": "okhttp/4.12.0"
+    },
+    {
+      "name": "范明明IPv6",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     }
-
   ]
 }
