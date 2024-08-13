@@ -396,11 +396,11 @@
       ]
     }
   ],
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "logo": "http://tv543.cc/logo2.gif",
   "lives": [
     {
       "name": "543",
-      "url": "https://888.iptv543.com/list.php",
+      "url": "https://tv543.cc/list.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -409,7 +409,7 @@
     },
     {
       "name": "歐華",
-      "url": "https://888.iptv543.com/tvlist01.txt",
+      "url": "https://tv543.cc/tvlist01.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -418,7 +418,7 @@
     },
     {
       "name": "焦點",
-      "url": "https://888.iptv543.com/tvlist02.txt",
+      "url": "https://tv543.cc/tvlist02.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -427,7 +427,7 @@
     },
     {
       "name": "ETH",
-      "api": "https://888.iptv543.com/ethtv.js",
+      "api": "https://tv543.cc/ethtv.js",
       "type": 3,
       "ua": "okhttp/4.12.0"
     }
