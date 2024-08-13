@@ -33,19 +33,6 @@
       "changeable": 0
     },
     {
-      "key": "hrys",
-      "name": "华人影视",
-      "type": 1,
-      "api": "https://api.huaren.live/api.php/tvbox",
-      "playUrl": "json:https://parse.huaren.live/box?url=",
-      "header": {
-        "User-Agent": "okhttp/3.12.13"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "nyys",
       "name": "纽约影视",
       "type": 3,
@@ -60,7 +47,6 @@
       "name": "黑木资源站",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://parse.huaren.live/box?url=",
       "searchable": 1,
       "changeable": 1,
       "header": {
@@ -179,7 +165,7 @@
   "lives": [
    {
       "name": "543",
-      "url": "https://888.iptv543.com/list.php",
+      "url": "https://tv543.cc/list.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -188,7 +174,7 @@
     },
     {
       "name": "歐華",
-      "url": "https://888.iptv543.com/tvlist01.txt",
+      "url": "https://tv543.cc/tvlist01.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -197,7 +183,7 @@
     },
     {
       "name": "焦點",
-      "url": "https://888.iptv543.com/tvlist02.txt",
+      "url": "https://tv543.cc/tvlist02.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
