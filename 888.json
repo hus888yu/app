@@ -180,29 +180,6 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "焦點",
-      "url": "https://tv543.cc/tvlist02.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "斯卡特",
-      "url": "https://tang.hz.cz/zb/stv?token=a797e28e"
-    },
-    {
-      "name": "ETH(JS)",
-      "api": "https://tang.hz.cz/js/ethtv.js",
-      "type": 3,
-      "ua": "okhttp/4.12.0"
-    },
-    {
-      "name": "范明明IPv6",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     }
   ]
 }
