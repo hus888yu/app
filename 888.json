@@ -172,6 +172,15 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+     {
+      "name": "SMT",
+      "url": "https://tv543.cc/smt.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "歐華",
       "url": "https://tv543.cc/tvlist01.txt",
