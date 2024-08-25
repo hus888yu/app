@@ -1,194 +1,39 @@
-{
-  "spider": "https://4tvbox.ggff.net/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f",
-  "wallpaper": "https://深色壁纸.饭.eu.org/",
-  "sites": [
-    {
-      "key": "sgabys",
-      "name": "三哥安博影视",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=a797e28e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "sghmys",
-      "name": "三哥黑木影视",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/hme?token=a797e28e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "sgolys",
-      "name": "三哥欧乐影视",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/olelive?token=a797e28e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "nyys",
-      "name": "纽约影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://4tvbox.ggff.net/ys.json"
-    },
-    {
-      "key": "hm",
-      "name": "黑木资源站",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "header": {
-        "User-Agent": "okhttp/3.12.13"
-      },
-      "categories": [
-        "国产剧",
-        "港剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "国产综艺",
-        "欧美综艺",
-        "韩国综艺",
-        "日本综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "动画电影",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "同性片",
-        "经典片"
-      ]
-    },
-    {
-      "key": "hw",
-      "name": "华为资源站",
-      "type": 1,
-      "api": "https://cjhwba.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "纪录片",
-        "短片",
-        "动画片",
-        "西部片",
-        "伦理片"
-      ]
-    },
-    {
-      "key": "360",
-      "name": "360资源站",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "纪录片",
-        "短片",
-        "动画片",
-        "西部片",
-        "伦理片"
-      ]
-    }
-  ],
-  "lives": [
+"lives": [
    {
-      "name": "543",
-      "url": "https://tv543.cc/list.php",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-     {
-      "name": "SMT",
-      "url": "https://tv543.cc/smt.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+  "name":"543",
+  "url":"https://tv543.cc/list.php",
+  "pass":false,
+  "boot":false,
+  "playerType":2,
+  "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name":"安博",
+"url":"https://tv543.cc/nb.txt",
+ "pass":false,"boot":false,"playerType":2,
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+ "logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+ {
+ "name":"歐華",
+ "url":"https://tv543.cc/tvlist01.txt",
+"pass":false,"boot":false,"playerType":2,
+  "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+   "logo":"https://epg.112114.xyz/logo/{name}.png"
+ },
     {
-      "name": "歐華",
-      "url": "https://tv543.cc/tvlist01.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    "name":"焦點",
+      "url":"https://tv543.cc/tvlist02.txt",
+      "pass":false,"boot":false,"playerType":2,
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+ {
+    "name": "ETH",
+    "api": "https://tv543.cc/ethtv.js",
+    "type": 3,
+    "ua": "okhttp/4.12.0"
+}
   ]
 }
