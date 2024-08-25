@@ -408,7 +408,7 @@
   ],
   "logo": "http://tv543.cc/logo2.gif",
   "lives": [
-   {
+{
   "name":"543",
   "url":"https://tv543.cc/list.php",
   "pass":false,
@@ -431,13 +431,13 @@
   "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
    "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
-    {
-    "name":"焦點",
-      "url":"https://tv543.cc/tvlist02.txt",
-      "pass":false,"boot":false,"playerType":2,
-      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo":"https://epg.112114.xyz/logo/{name}.png"
-    },
+ {
+  "name":"焦點",
+  "url":"https://tv543.cc/tvlist02.txt",
+  "pass":false,"boot":false,"playerType":2,
+   "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo":"https://epg.112114.xyz/logo/{name}.png"
+   },
  {
     "name": "ETH",
     "api": "https://tv543.cc/ethtv.js",
