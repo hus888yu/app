@@ -2,7 +2,7 @@
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-         {
+    {
       "key": "sgys",
       "name": "543",
       "type": 1,
@@ -44,17 +44,7 @@
         "经典片"
       ]
     },
-          {
-            "key": "php_hmezy",
-            "name": "黑木耳克隆",
-            "type": 4,
-            "api": "https://t4.doube.eu.org/heimuer.php",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0
-        },
-
- {
+    {
       "key": "T4-heimuer",
       "name": "黑木耳(T4)",
       "type": 4,
@@ -158,16 +148,15 @@
         "伦理片"
       ]
     },
-{
-            "key": "实验金鹰",
-            "name": "实验金鹰",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/jy.php",
-            "searchable": 1,
-            "changeable": 1
-        },
-
-     {
+    {
+      "key": "实验金鹰",
+      "name": "实验金鹰",
+      "type": 1,
+      "api": "http://zhangqun66.serv00.net/jy.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
@@ -177,7 +166,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
     {
       "key": "视觉",
       "name": "👓视觉┃多线",
@@ -189,8 +177,6 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
     },
-
-
     {
       "key": "原创",
       "name": "☀原创┃不卡",
@@ -202,7 +188,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
     {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
@@ -212,7 +197,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
     {
       "key": "可可",
       "name": "👻可可┃多线",
@@ -296,8 +280,6 @@
       "changeable": 1,
       "ext": "https://www.libvio.pw/"
     },
-
-   
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
@@ -351,7 +333,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
     {
       "key": "cc",
       "name": "请勿相信视频中广告",
@@ -408,41 +389,38 @@
   ],
   "logo": "http://tv543.cc/logo2.gif",
   "lives": [
-{
-  "name":"543",
-  "url":"https://tv543.cc/list.php",
-  "pass":false,
-  "boot":false,
-  "playerType":2,
-  "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{
-"name":"安博",
-"url":"https://tv543.cc/nb.txt",
- "pass":false,"boot":false,"playerType":2,
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
- "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
- {
- "name":"歐華",
- "url":"https://tv543.cc/tvlist01.txt",
-"pass":false,"boot":false,"playerType":2,
-  "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo":"https://epg.112114.xyz/logo/{name}.png"
- },
- {
-  "name":"焦點",
-  "url":"https://tv543.cc/tvlist02.txt",
-  "pass":false,"boot":false,"playerType":2,
-   "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo":"https://epg.112114.xyz/logo/{name}.png"
-   },
- {
-    "name": "ETH",
-    "api": "https://tv543.cc/ethtv.js",
-    "type": 3,
-    "ua": "okhttp/4.12.0"
-}
+    {
+      "name": "543",
+      "url": "https://tv543.cc/list.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "安博",
+      "url": "https://tv543.cc/nb.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "大人台",
+      "url": "https://guot55.serv00.net/zb.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ETH",
+      "api": "https://tv543.cc/ethtv.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0"
+    }
   ]
 }
