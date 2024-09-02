@@ -2222,6 +2222,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
+{
+     "name": "ad",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/ad.m3u",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "sp9",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
