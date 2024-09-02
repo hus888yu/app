@@ -163,7 +163,7 @@
     }
   ],
      "lives": [
-  {
+ {
       "name": "543",
       "url": "https://tv543.cc/list.php",
       "pass": false,
@@ -182,8 +182,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "大人台",
-      "url": "https://guot55.serv00.net/zb.php",
+      "name": "欧华",
+      "url": "https://tv543.cc/tvlist01.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "焦点",
+      "url": "https://tv543.cc/tvlist02.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
