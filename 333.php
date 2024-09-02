@@ -80,7 +80,7 @@ https://www.youtube.com/live/HFib76ySpbU?si=gNvltQSNXOHVRVyG
 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="綜合", 民視
 
-http://47.239.245.207:5050/litv/4gtv-4gtv155
+http://47.239.245.207:5050/litv/4gtv-4gtv002
 
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="綜合", 民視第一台
 
@@ -314,7 +314,7 @@ http://47.239.245.207:5050/litv/4gtv-4gtv070
 
 http://47.239.245.207:5050/4gtv/237
 
-#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="生活旅遊", ELTA生活英語
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="生活旅遊", ELTV 生活英語
 
 http://47.239.245.207:5050/litv/litv-longturn20
 
