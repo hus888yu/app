@@ -426,6 +426,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "159169",
+      "url": "https://xiptv.serv00.net/p3p.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "ETH",
       "api": "https://tv543.cc/ethtv.js",
       "type": 3,
