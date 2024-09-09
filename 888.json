@@ -163,7 +163,7 @@
     }
   ],
      "lives": [
-  {
+ {
       "name": "543",
       "url": "https://tv543.cc/list.php",
       "pass": false,
@@ -201,7 +201,7 @@
     },
     {
       "name": "159169",
-      "url": "https://xiptv.serv00.net/p3p.php",
+      "url": "http://free.xiptv.x10.bz/p3p.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
