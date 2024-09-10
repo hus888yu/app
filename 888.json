@@ -164,8 +164,8 @@
   ],
      "lives": [
  {
-      "name": "543",
-      "url": "https://tv543.cc/list.php",
+      "name": "彥",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/333.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -174,25 +174,7 @@
     },
     {
       "name": "安博",
-      "url": "https://tv543.cc/nb.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "欧华",
-      "url": "https://tv543.cc/tvlist01.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "焦点",
-      "url": "https://tv543.cc/tvlist02.txt",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/ub.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -207,12 +189,6 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "ETH",
-      "api": "https://tv543.cc/ethtv.js",
-      "type": 3,
-      "ua": "okhttp/4.12.0"
     }
   ]
 }
