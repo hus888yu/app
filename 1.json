@@ -390,8 +390,8 @@
   "logo": "http://tv543.cc/logo2.gif",
   "lives": [
     {
-      "name": "543",
-      "url": "https://tv543.cc/list.php",
+      "name": "彥",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/333.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -399,8 +399,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "安博",
-      "url": "https://tv543.cc/nb.txt",
+      "name": "ub",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/ub.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -408,8 +408,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "欧华",
-      "url": "https://tv543.cc/tvlist01.txt",
+      "name": "ow",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/ow.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -417,8 +417,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "焦点",
-      "url": "https://tv543.cc/tvlist02.txt",
+      "name": "gd",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/gd.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -426,8 +426,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "159169",
-      "url": "http://free.xiptv.x10.bz/p3p.php",
+      "name": "p3p",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/p3p.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
