@@ -1,121 +1,4 @@
-TG娱乐群,#genre#
-TG①群ku9cat888,http://free.xiptv.x10.bz/nolive.mp4
-TG②群ku9cat888,http://free.xiptv.x10.bz/nolive.mp4
-TG③群ku9cat888,http://free.xiptv.x10.bz/nolive.mp4
-关于接口,#genre#
-由极致播放器提供,http://free.xiptv.x10.bz/nolive.mp4
-QQ群797944028,http://free.xiptv.x10.bz/nolive.mp4
-功能多解码强,http://free.xiptv.x10.bz/nolive.mp4
-支持各种姿势,http://free.xiptv.x10.bz/nolive.mp4
-港台频道,#genre#
-凤凰卫视台,http://free.xiptv.x10.bz/kudou.php?id=121
-凤凰资讯台,http://free.xiptv.x10.bz/kudou.php?id=122
-凤凰香港台,http://free.xiptv.x10.bz/kudou.php?id=123
-有线新闻台,http://free.xiptv.x10.bz/kudou.php?id=127
-无线新闻台,http://free.xiptv.x10.bz/kudou.php?id=2
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
-无线翡翠台,http://free.xiptv.x10.bz/kudou.php?id=188
-无线华丽台,http://free.xiptv.x10.bz/kudou.php?id=9
-无线Plus台,http://free.xiptv.x10.bz/kudou.php?id=7
-有线综讯台,http://free.xiptv.x10.bz/kudou.php?id=125
-无线跑马台,http://free.xiptv.x10.bz/kudou.php?id=4
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
-MyTV跑马台,http://free.xiptv.x10.bz/kudou.php?id=17
-无线娱乐台,http://free.xiptv.x10.bz/kudou.php?id=20
-无线华剧台,http://free.xiptv.x10.bz/kudou.php?id=22
-无线亚剧台,http://free.xiptv.x10.bz/kudou.php?id=10
-无线亚综台,http://free.xiptv.x10.bz/kudou.php?id=15
-无线粤片台,http://free.xiptv.x10.bz/kudou.php?id=14
-无线功夫粤,http://free.xiptv.x10.bz/kudou.php?id=12
-无线功夫国,http://free.xiptv.x10.bz/kudou.php?id=126
-黄金翡翠台,http://free.xiptv.x10.bz/kudou.php?id=11
-黄金华剧台,http://free.xiptv.x10.bz/kudou.php?id=24
-千禧经典台,http://free.xiptv.x10.bz/kudou.php?id=19
-天映经典台,http://free.xiptv.x10.bz/kudou.php?id=103
-天映频道台,http://free.xiptv.x10.bz/kudou.php?id=104
-美亚电影粤,http://free.xiptv.x10.bz/kudou.php?id=25
-美亚电影国,http://free.xiptv.x10.bz/kudou.php?id=25
-popc电影台,http://free.xiptv.x10.bz/kudou.php?id=38
-Thrill电影台,http://free.xiptv.x10.bz/kudou.php?id=37
-Astr爱奇艺,http://free.xiptv.x10.bz/kudou.php?id=118
-Astr欢喜台,http://free.xiptv.x10.bz/kudou.php?id=115
-ViuTV台粤,http://free.xiptv.x10.bz/kudou.php?id=23
-now爆谷台,http://free.xiptv.x10.bz/kudou.php?id=30
-now星影台,http://free.xiptv.x10.bz/kudou.php?id=29
-now华剧台,http://free.xiptv.x10.bz/kudou.php?id=116
-now英超台,http://free.xiptv.x10.bz/kudou.php?id=31
-Now财经台,http://free.xiptv.x10.bz/kudou.php?id=28
-HBO频道台,http://free.xiptv.x10.bz/kudou.php?id=95
-HBO强档台,http://free.xiptv.x10.bz/kudou.php?id=96
-HBO家庭台,http://free.xiptv.x10.bz/kudou.php?id=97
-TVN电影台,http://free.xiptv.x10.bz/kudou.php?id=41
-好莱坞电影,http://free.xiptv.x10.bz/kudou.php?id=88
-东森新闻台,http://free.xiptv.x10.bz/kudou.php?id=75
-tvbs新闻台,http://free.xiptv.x10.bz/kudou.php?id=78
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
-寰宇新闻台,http://free.xiptv.x10.bz/kudou.php?id=76
-三立新闻台,http://free.xiptv.x10.bz/kudou.php?id=79
-民视新闻台,http://free.xiptv.x10.bz/kudou.php?id=84
-中视新闻台,http://free.xiptv.x10.bz/kudou.php?id=80
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
-台视新闻台,http://free.xiptv.x10.bz/kudou.php?id=81
-台视闽南台,http://free.xiptv.x10.bz/kudou.php?id=44
-华视闽南台,http://free.xiptv.x10.bz/kudou.php?id=46
-公视闽南台,http://free.xiptv.x10.bz/kudou.php?id=47
-民视闽南台,http://free.xiptv.x10.bz/kudou.php?id=43
-民视台湾台,http://free.xiptv.x10.bz/kudou.php?id=49
-民视第一台,http://free.xiptv.x10.bz/kudou.php?id=50
-中视闽南台,http://free.xiptv.x10.bz/kudou.php?id=45
-中天亚洲台,http://free.xiptv.x10.bz/kudou.php?id=60
-中天综合台,http://free.xiptv.x10.bz/kudou.php?id=61
-中天娱乐台,http://free.xiptv.x10.bz/kudou.php?id=62
-三立综合台,http://free.xiptv.x10.bz/kudou.php?id=51
-三立台湾台,http://free.xiptv.x10.bz/kudou.php?id=52
-三立都会台,http://free.xiptv.x10.bz/kudou.php?id=54
-八大综合台,http://free.xiptv.x10.bz/kudou.php?id=55
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
-八大笫一台,http://free.xiptv.x10.bz/kudou.php?id=56
-八大戏剧台,http://free.xiptv.x10.bz/kudou.php?id=57
-tvbs-HD台,http://free.xiptv.x10.bz/kudou.php?id=77
-靖天电影台,http://free.xiptv.x10.bz/kudou.php?id=150
-靖洋戏剧台,http://free.xiptv.x10.bz/kudou.php?id=53
-龙祥时代台,http://free.xiptv.x10.bz/kudou.php?id=85
-东森综合台,http://free.xiptv.x10.bz/kudou.php?id=66
-东森戏剧台,http://free.xiptv.x10.bz/kudou.php?id=67
-东森电影台,http://free.xiptv.x10.bz/kudou.php?id=86
-东森洋片台,http://free.xiptv.x10.bz/kudou.php?id=87
-龙华戏剧台,http://free.xiptv.x10.bz/kudou.php?id=90
-龙华洋片台,http://free.xiptv.x10.bz/kudou.php?id=92
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
-龙华偶像台,http://free.xiptv.x10.bz/kudou.php?id=91
-龙华电影台,http://free.xiptv.x10.bz/kudou.php?id=93
-纬来电影台,http://free.xiptv.x10.bz/kudou.php?id=89
-华纳电影台,http://free.xiptv.x10.bz/kudou.php?id=100
-卫视电影台,http://free.xiptv.x10.bz/kudou.php?id=102
-亚洲旅游台,http://free.xiptv.x10.bz/kudou.php?id=71
-美食星球台,http://free.xiptv.x10.bz/kudou.php?id=69
-探索频道台,http://free.xiptv.x10.bz/kudou.php?id=73
-动物星球台,http://free.xiptv.x10.bz/kudou.php?id=108
-野生地理台,http://free.xiptv.x10.bz/kudou.php?id=109
-国家地理台,http://free.xiptv.x10.bz/kudou.php?id=110
-cn卡通频道,http://free.xiptv.x10.bz/kudou.php?id=65
-AXN电影台,http://free.xiptv.x10.bz/kudou.php?id=99
-FGM电影台,http://free.xiptv.x10.bz/kudou.php?id=151
-BOB电影台,http://free.xiptv.x10.bz/kudou.php?id=114
-EYE-旅游台,http://free.xiptv.x10.bz/kudou.php?id=63
-EYE-戏剧台,http://free.xiptv.x10.bz/kudou.php?id=64
-ELT-影剧台,http://free.xiptv.x10.bz/kudou.php?id=59
-ELT-体育三,http://free.xiptv.x10.bz/kudou.php?id=120
-ELT-体育四,http://free.xiptv.x10.bz/kudou.php?id=72
-KiX-频道台,http://free.xiptv.x10.bz/kudou.php?id=34
-ROCK-综艺,http://free.xiptv.x10.bz/kudou.php?id=32
-ROCK-娱乐,http://free.xiptv.x10.bz/kudou.php?id=33
-AFN频道台,http://free.xiptv.x10.bz/kudou.php?id=70
-BBC纪实台,http://free.xiptv.x10.bz/kudou.php?id=111
-Mtv频道台,http://free.xiptv.x10.bz/kudou.php?id=113
-DMAX频道,http://free.xiptv.x10.bz/kudou.php?id=74
-CiINE-Max,http://free.xiptv.x10.bz/kudou.php?id=98
-moviesnow,http://free.xiptv.x10.bz/kudou.php?id=101
+
 台湾频道,#genre#
 民視台灣台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv001
 民視,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv002
@@ -161,14 +44,14 @@ tvbs精采台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv067
 tvbs歡樂台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv068
 愛爾達娛樂,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv070
 tvbs新聞台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 tvbs,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv073
 中視新聞,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv074
 鏡新聞,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv075
 CATCHPLAY電影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv076
 TRACE SPORTS STARS,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv077
 阿裏郎,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv079
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 中視經典,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv080
 TRACE URBAN,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv082
 MEZZO LIVE,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv083
@@ -196,7 +79,7 @@ MEZZO LIVE,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv083
 博斯高球2,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn06
 博斯運動1,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn07
 博斯運動2,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn08
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 博斯網球,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn09
 博斯無限,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn10
 龍華日韓,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn11
@@ -223,7 +106,7 @@ TVB明珠,p3p://108.181.20.159:36820/611d99f3000116024a845bb9627404c9
 TVB明珠 H.265,p3p://108.181.20.159:36820/602f1ba9000814efa6f2970333d309d9
 Viu TV,p3p://108.181.20.159:36820/611d99820007a67c4a82a3fe3cc749de
 VIU TV H.265,p3p://108.181.20.159:36820/5fed3234000c7a49a57dbd6e14af358f
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 VIU 6,p3p://108.181.20.159:36820/5fed31e7000736e2a57c8f4c14d55d36
 有线直播新闻,p3p://108.181.20.159:36820/64ff4f0e000d7954168179ff031e6108
 香港国际财经,p3p://108.181.20.159:36820/64838620000cd8ed32fb0d6a414411f7
@@ -256,7 +139,7 @@ NOW星影,p3p://108.181.20.159:36820/65423b7b00047dbb1bebd20b45f374d2
 NOW爆谷,p3p://108.181.20.159:36820/657db17a000c6768042fc38047b34ee4
 NOW爆谷,p3p://108.181.20.159:36820/65423beb00082fd01bed887e0ae23bbf
 黄金华剧台,p3p://108.181.20.159:36820/652970de00011277bb14dcd76e301cc0
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 HBO(粤),p3p://108.181.20.159:36820/650ff8190006c7355795739f3c0b7500
 美亚电影(粤),p3p://108.181.20.159:36820/64be58dd0007fb8d18c11148736701af
 美亚电影(粤),p3p://108.181.20.159:36820/655f8ccc0007d2578e70f934113a2428
@@ -284,13 +167,13 @@ HBO Hits,p3p://108.181.20.159:36820/63109c310002f740dbd2a26e2dc405af
 HBO Family,p3p://108.181.20.159:36820/63109c71000a3661dbd39e495cfb24f8
 天映频道(国语),p3p://108.181.20.159:36820/6471b0bb00011e09ed51d397629e4f55
 美亚电影(国),p3p://108.181.20.159:36820/64c3653f0007f6812c7970122ff43531
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 龙祥电影(粤),p3p://108.181.20.159:36820/63375cce0008451773313a26199f3191
 卫视体育,p3p://108.181.20.159:36820/6567988e0000e3a1addebb21084a3ba9
 卫视体育 2,p3p://108.181.20.159:36820/656b06be00029e16bb452713093c6af9
 香港卫视,p3p://108.181.20.159:36820/655f9ff5000f136f8ebbd33f2f097512
 NOW ZooMoo,p3p://108.181.20.159:36820/65679bc200084412adeb40284be664e6
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Love Nature 4k,p3p://108.181.20.159:36820/655fa9280009c6278edfc1176731425f
 Mytv super体育 1,p3p://108.181.20.159:36820/656b084a000d6e6ebb4b34b917802022
 Mytv super体育 2,p3p://108.181.20.159:36820/656b08f3000c2a97bb4dc88f69c60aa6
@@ -318,7 +201,7 @@ Fight Sports,p3p://108.181.20.159:36820/644c26370001b4eb5aad692f22d9728d
 澳门莲花,p3p://108.181.20.159:36820/60b977ed000ba538c36458471a9d6772
 澳视葡语,p3p://108.181.20.159:36820/644ece91000b801a650ee0e442bd0b87
 星空卫视,p3p://108.181.20.159:36820/64ee40d1000cfcc5d3e2330305817be2
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 CN卡通(粤),p3p://108.181.20.159:36820/648353bb0006d4d93236315a766b692a
 Animax HK,p3p://108.181.20.159:36820/6506d1a00000a99a33d7555a4b747caa
 China,#genre#
@@ -335,7 +218,7 @@ CCTV纪录片,p3p://108.181.20.159:36820/600b6ba2000d52801b8cbfda6cd319a2
 CCTV科教,p3p://108.181.20.159:36820/600b6e71000738431b97b6e5675e67a4
 CCTV戏曲,p3p://108.181.20.159:36820/600b70950000f68f1ba011e06e003057
 CCTV社会与法,p3p://108.181.20.159:36820/5fe3e42d00068cbf812561891e0e6b52
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 CCTV新闻,p3p://108.181.20.159:36820/632351570006042224e55806316a7512
 CCTV少儿,p3p://108.181.20.159:36820/600b718b0006dd9f1ba3d45468b1762e
 CCTV音乐,p3p://108.181.20.159:36820/63235101000d828724e40a062bb62592
@@ -349,7 +232,7 @@ CCTV体育赛事,p3p://108.181.20.159:36820/6323522b0000ad5c24e892c57ad041c7
 江苏卫视,p3p://108.181.20.159:36820/62ebe68a000867fa4c6ed916192911b0
 天津卫视,p3p://108.181.20.159:36820/5fe21dfd000e7aa37a37380658302908
 深圳卫视,p3p://108.181.20.159:36820/5fe21c150008cdc67a2fc45c52c03e7b
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 浙江卫视,p3p://108.181.20.159:36820/62c1fc2a0002c3eba8b51e81055b25b3
 山东卫视,p3p://108.181.20.159:36820/5fe2208a000bb11e7a412e17132544de
 黑龙江卫视,p3p://108.181.20.159:36820/6323b2350007630d265fbb91230b76bb
@@ -368,7 +251,7 @@ CCTV体育赛事,p3p://108.181.20.159:36820/6323522b0000ad5c24e892c57ad041c7
 山西卫视,p3p://108.181.20.159:36820/63ec47dd000dba0fe4327fe92f826ca7
 湖北卫视,p3p://108.181.20.159:36820/5fe15c7d00087e2377435a84444d3ac4
 重庆卫视,p3p://108.181.20.159:36820/5fe22070000a826a7a40c843077f6b68
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 广西卫视,p3p://108.181.20.159:36820/602210560009472773fecbad4efa370f
 大湾区卫视(珠江),p3p://108.181.20.159:36820/63ec48e000076bf6e43672044d3841bb
 甘肃卫视,p3p://108.181.20.159:36820/63ec49260005d5b3e43783054f0c650d
@@ -387,11 +270,11 @@ CHC高清电影,p3p://108.181.20.159:36820/63ec4caf00020428e445513c2d902fdb
 CHC家庭影院,p3p://108.181.20.159:36820/63ec4d000006b5ebe4468ed8604807ac
 CHC动作电影,p3p://108.181.20.159:36820/63ec4d4200074d64e44790cb67ae7b20
 新视觉 HD,p3p://108.181.20.159:36820/63ec4d870003e9f2e4489d7821254fbb
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 五星体育,p3p://108.181.20.159:36820/63ec4dc200075675e44984ca52f86245
 兵团卫视,p3p://108.181.20.159:36820/63ed2c99000b902be7affdb21e970038
 青田新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 亲亲20音乐,http://61.221.215.25:8800/hls/49/index.m3u8
 劲爆体育,p3p://108.181.20.159:36820/63ec4ef2000a1b0be44e290412a90692
 戏曲名段,p3p://108.181.20.159:36820/63ec4f4e0008eb5de44f9010114b61da
@@ -431,7 +314,7 @@ TVBS新闻,p3p://108.181.20.159:36820/621858e3000e70ad1217c0700d576ad0
 智林体育,p3p://108.181.20.159:36820/62148d7e000079c103453a521daa6e9f
 民视,p3p://108.181.20.159:36820/6001ba8400051d89f5b151a63fa96419
 台视,p3p://108.181.20.159:36820/612ee2240008f3db8e0578dc59406f9e
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 华视,p3p://108.181.20.159:36820/61eff95c000bcf35803ebfe7426e2914
 中视,p3p://108.181.20.159:36820/621dab720008820a26e1e06b75653395
 HBO原创,p3p://108.181.20.159:36820/623a6e38000091d497395ce957b27132
@@ -464,23 +347,23 @@ Z频道,p3p://108.181.20.159:36820/64c7ce3f000afa423db36d3f378c386d
 Star World,p3p://108.181.20.159:36820/621dc4640002052a2743501031f65ed4
 Animax,p3p://108.181.20.159:36820/61e0f9f0000ec6db45a9e87848424184
 地理野生,p3p://108.181.20.159:36820/64fb557b000ba24206fabee910ec690d
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 HITS,p3p://108.181.20.159:36820/6233e648000735057db6cf734adf440d
 国家地理,p3p://108.181.20.159:36820/621485d20002ab4803274308662d5e97
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 探索亚洲,p3p://108.181.20.159:36820/623bc4f4000da3919c742e942bdb3571
 BBC Lifestyle,p3p://108.181.20.159:36820/64026f590000e9663abc652f25176282
 BBC earth,p3p://108.181.20.159:36820/6444eb2e000921503e6ecfe873cd10b1
 尼克儿童,p3p://108.181.20.159:36820/6233e0ca0000ca8f7da159a76b755519
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 CN卡通,p3p://108.181.20.159:36820/61ded38e000d52023d43f93e0ee00012
 中旺电视,p3p://108.181.20.159:36820/5fe09c570001addf7454c44e021f76be
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 中视箐采,p3p://108.181.20.159:36820/621db1fb0006fbf526fb672712522a46
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 动物星球,p3p://108.181.20.159:36820/6214894b0007e3120334d50a59d03689
 卫视中文,p3p://108.181.20.159:36820/61e0f08a0009de79458530bd5bfa2605
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 亚洲美食,p3p://108.181.20.159:36820/62c9a44500000cd3c69dc74b77c62c82
 龙华卡通,p3p://108.181.20.159:36820/6264b6e0000669483c6365b319d43878
 靖洋卡通,p3p://108.181.20.159:36820/626104fd000e0f742df488f03ab9480b
@@ -493,7 +376,7 @@ TLC台湾,p3p://108.181.20.159:36820/5fe16de700083ba97787607e74d90cb5
 纬来日本,p3p://108.181.20.159:36820/5fe1add80007bbbd788125c43bf36060
 靖天日本,p3p://108.181.20.159:36820/612db74f000c333c897629ac70920bef
 靖天国际,p3p://108.181.20.159:36820/612db8220006940e897960753ab534e9
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 龙华日韩,p3p://108.181.20.159:36820/621e1d0e00085766289da9bb1d7120af
 靖天戏剧,p3p://108.181.20.159:36820/612db70e000298f98975294e4645098b
 影迷数位电影,p3p://108.181.20.159:36820/6223ae1b0007136f3e5c44280e3300fa
@@ -523,23 +406,23 @@ TVBS欢乐,p3p://108.181.20.159:36820/61e831a60008c7d761db13151abe16ae
 三立国际,p3p://108.181.20.159:36820/5fe95e150003dbe09689221a68d3215e
 三立台湾,p3p://108.181.20.159:36820/5fe2947f000c58a57c0623474ae64e07
 三立都会,p3p://108.181.20.159:36820/5fe29458000eb9287c058b8b2e5806e8
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 三立戏剧,p3p://108.181.20.159:36820/623524310003dee68290a4c42edc7cf5
 WarnerTV,p3p://108.181.20.159:36820/623a7c43000859b0977039e0175b0470
 纬来综合,p3p://108.181.20.159:36820/5fe16e690002b73877895ae33a8a2a16
 纬来电影,p3p://108.181.20.159:36820/62c860e50008ea96c1ae9a96599c6947
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 纬来戏剧,p3p://108.181.20.159:36820/5fe29426000330687c04c55011370c91
 纬来精彩,p3p://108.181.20.159:36820/623a875d0001a53e979b95b628874e82
 八大第一,p3p://108.181.20.159:36820/5fea93070007b1939b3ff46f17b905c7
 八大戏剧,p3p://108.181.20.159:36820/6224f676000aef1a435e76c619855b4e
 八大娱乐,p3p://108.181.20.159:36820/5fe293b60007594a7c0310e05b6a27ac
 八大综合,p3p://108.181.20.159:36820/61a57c52000cc2015d49e9e91be106b6
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 靖天映画,p3p://108.181.20.159:36820/6258eae500040fd80e4f0b2311754279
 博斯网球,p3p://108.181.20.159:36820/6275f21d000aeb447fb1e83c30d60273
 美食星球,p3p://108.181.20.159:36820/62c9a5620009f165c6a22320701370b6
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 探索台湾,p3p://108.181.20.159:36820/62c759f2000bc06bbdab761176c927da
 DMAX台湾,p3p://108.181.20.159:36820/62636a890008309f3751324a7688052d
 History台湾,p3p://108.181.20.159:36820/6233e1a30007e08d7da4ab21717b3e79
@@ -597,7 +480,7 @@ TVN HD,p3p://108.181.20.159:36820/644f9623000a4051681a72d66bfc0191
 Classica古典音乐,p3p://108.181.20.159:36820/6452b4f1000c38e8744ac80744c33d67
 Mezzo Live,p3p://108.181.20.159:36820/6452bcb000039d52746907f4476f5e7b
 猪哥亮歌厅秀,p3p://108.181.20.159:36820/6452bbf2000d02457466242b0e5c5ea2
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 UniverseTV,p3p://108.181.20.159:36820/644fbb7c0004a5e968ac550c11f72df5
 Global Trekker,p3p://108.181.20.159:36820/644fb34f000f396e688c67ff6b147338
 高点综合,p3p://108.181.20.159:36820/64c7cf1b000247a33db6c6660f1427b6
@@ -608,7 +491,7 @@ Baby TV,p3p://108.181.20.159:36820/64bea3f00002bdf919e6522520650b26
 华艺综合,p3p://108.181.20.159:36820/64c62137000746f437278510051625d8
 ELtoday综合,p3p://108.181.20.159:36820/64c7d0cb0005131a3dbd5e9f3e8523f2
 国会频道 1,p3p://108.181.20.159:36820/64ce0646000722d755fe479603e64ba8
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 国会频道 2,p3p://108.181.20.159:36820/64ce06980008b4f755ff884d646a56da
 SMART,p3p://108.181.20.159:36820/64e367a800053465a982145d191f168f
 CMUSIC,p3p://108.181.20.159:36820/64e368dc000e5b23a986c9d62f9604df
@@ -672,7 +555,7 @@ Astro aod351,p3p://108.181.20.159:36820/5fdeca140004e52a6d37e0be49f64a69
 Astro aod352,p3p://108.181.20.159:36820/63efe58900033edcf25265146c7b5b6e
 Astro aod354,p3p://108.181.20.159:36820/5fdeca5300094f496d38d7f8255f4c4f
 LoveNature,p3p://108.181.20.159:36820/5fe96780000bf31b96adee2068cf1132
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 Hits Movies,p3p://108.181.20.159:36820/5fe7e6cb000d17db90cf9c5a45ff17b9
 Astro Aec,p3p://108.181.20.159:36820/6557a4a6000efa206f8e50c360a97728
 Astro Aec,p3p://108.181.20.159:36820/6533b8de000efc1be33df56933cc5afe
@@ -726,7 +609,7 @@ Astro Cricket,p3p://108.181.20.159:36820/5fe7e312000e326190c1120560b323e1
 HBO,p3p://108.181.20.159:36820/5fe6c3b3000ae0538c5e86154ed52a5b
 9TV,p3p://108.181.20.159:36820/60298ed100097c1691446b9e7cc10b2c
 中天亚洲,p3p://108.181.20.159:36820/5fe6fce400011e568d3deaf35a511da9
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 CNA,p3p://108.181.20.159:36820/64be9bb50006c1b519c62cba356951a9
 NTV7,p3p://108.181.20.159:36820/5fee9e750004e303ab0c996729da73f2
 天映高清(ID),p3p://108.181.20.159:36820/6471b17d00006ecded54c93b1ea4486b
@@ -765,7 +648,7 @@ Astro Arenabola 2,p3p://108.181.20.159:36820/64bd0692000e510013979df27f954b02
 Korea,#genre#
 KBS 1,p3p://108.181.20.159:36820/63b02943000b43d483b5663707ff057c
 KBS 2,p3p://108.181.20.159:36820/63b029bf000ccb4e83b74af96cda035c
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 MBC,p3p://108.181.20.159:36820/63b02a3e00097d4d83b93a3769895f02
 SBS,p3p://108.181.20.159:36820/63b02a8a0008248283ba62be06ab76f2
 EBS 1,p3p://108.181.20.159:36820/63b02ac7000cdbf683bb523a338e55f0
@@ -779,7 +662,7 @@ TV Chosun,p3p://108.181.20.159:36820/63b03b60000afee183fc27647c4f4a58
 Yonhap NewsTV,p3p://108.181.20.159:36820/63b03bd600054ac083fdf2dd36407afe
 Yonhap News TV HD,p3p://108.181.20.159:36820/63b05099000e6115844f0ee71c9c0ecd
 Channel A,p3p://108.181.20.159:36820/63b050df00058bd784501e13689a64a8
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Sony One,p3p://108.181.20.159:36820/5fdee0c4000837f36d9081146b3a4406
 OCN Movies(??CGV),p3p://108.181.20.159:36820/63b051a1000025938453128f67032ed8
 JEI??TV,p3p://108.181.20.159:36820/63b051eb0005f97e8454351c0d8c47ab
@@ -816,7 +699,7 @@ SKY Sports,p3p://108.181.20.159:36820/63b05feb00019be8848ae3f216d84083
 CHING,p3p://108.181.20.159:36820/63b0602c000c2dd3848be48e259d7570
 FTV,p3p://108.181.20.159:36820/63b0608a000195f7848d51161fc92b74
 TVBaduk,p3p://108.181.20.159:36820/63b060c7000b4d1b848e41da346549e8
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 Channel China,p3p://108.181.20.159:36820/63b06103000460dc848f2a7310cc5c80
 tvN Sports,p3p://108.181.20.159:36820/63b06143000a3645849025f1005b2ab5
 Nat Geo,p3p://108.181.20.159:36820/63b0619e00083efd849188e8770332bc
@@ -835,7 +718,7 @@ Japan,#genre#
 東京NHK総合,p3p://108.181.20.159:36820/6417572e000d95e38c65829c13ce2f37
 東京NHK教育,p3p://108.181.20.159:36820/64168d0200096671894fc5a31b4604df
 東京日本テレビ,p3p://108.181.20.159:36820/6417585e000932568c6a2502167354af
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 東京TBSテレビ,p3p://108.181.20.159:36820/64168c6700067cd5894d676e483855cc
 東京フジテレビ,p3p://108.181.20.159:36820/64168e37000baf2389547d4e6ff91d37
 東京テレビ朝日,p3p://108.181.20.159:36820/6416e77d000be29a8ab136c476bb20a1
@@ -860,10 +743,10 @@ BSフジ,p3p://108.181.20.159:36820/6416ef57000756578acfe127297f2898
 WOWOWプライム,p3p://108.181.20.159:36820/6416ef9c000c20c38ad0efe660801f6f
 WOWOWライブ,p3p://108.181.20.159:36820/6416f9950006aa568af7e32a61f43085
 WOWOWシネマ,p3p://108.181.20.159:36820/6416f9f900013a898af968702b5b4ae8
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 スターチャンネル1,p3p://108.181.20.159:36820/6416fb2e000530f28afe207823d2738f
 スターチャンネル2,p3p://108.181.20.159:36820/6416fb7100056ae38aff2642122115cf
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 スターチャンネル3,p3p://108.181.20.159:36820/6416fbd80006b6838b00b8f03781239a
 BS11,p3p://108.181.20.159:36820/64170dda000959128b47116c6fb9798e
 BS12,p3p://108.181.20.159:36820/64170e210003ee828b48255a655e4529
@@ -887,7 +770,7 @@ Gaora Sports,p3p://108.181.20.159:36820/63a9b996000665546a9129231b0a37f4
 ゴルフネット,p3p://108.181.20.159:36820/63a9ba4800030d846a93dfa632b41784
 宝塚歌劇専門チャンネル,p3p://108.181.20.159:36820/63a9ba9a00018f446a951f9208cf3252
 時代劇専門,p3p://108.181.20.159:36820/63a9bae30000454c6a963c656fb107cd
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 ファミリー劇場,p3p://108.181.20.159:36820/63a9bb2c000344356a975a51355738ed
 MONDO TV トップ,p3p://108.181.20.159:36820/63a9bbc50008636b6a99b14607501571
 TBSチャンネル1,p3p://108.181.20.159:36820/63a9bc06000e6f856a9ab0ba58cd69cb
@@ -921,7 +804,7 @@ BBCワールドニュース,p3p://108.181.20.159:36820/63a9cedc000345fe6ae441d30
 囲碁 将棋チャンネル,p3p://108.181.20.159:36820/63a9cf7b000433ce6ae6af262e402b08
 旅チャンネル,p3p://108.181.20.159:36820/63a9cfdc0001da206ae82973579549ff
 鉄道チャンネル,p3p://108.181.20.159:36820/63a9d026000b07136ae94cdb66ee3bdc
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 FIGHTING TV サムライ,p3p://108.181.20.159:36820/63a9d074000b85646aea7daa15b2085b
 ミュージック?ジャパンTV,p3p://108.181.20.159:36820/63a9d0bb000b3ba96aeb92ef7cc57647
 ホームドラマチャンネル,p3p://108.181.20.159:36820/63a9d10b00072b956aecca6357d160b4
@@ -982,11 +865,11 @@ XXXAV,p3p://108.181.20.159:36820/5fe80214000d2ec8913a3189085b6434
 色情世界,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
 人妻出轨,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
 日本天热素人,p3p://108.181.20.159:36820/5fe6d51e0009f6db8ca28fc66a750553
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 FC2PPV-1,p3p://108.181.20.159:36820/5fed5578000e28fba6077f774fba6950
 Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
 古川伊织,p3p://108.181.20.159:36820/5ff7430900000f8fcccf091c30805ccb
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 日本无码破解,p3p://108.181.20.159:36820/5fef580000022fb6ade15fa160a61ae1
 迷奸无码,p3p://108.181.20.159:36820/5ff201c40003b7e3b8481485121959a6
 经典三级片1,p3p://108.181.20.159:36820/62dac52e00087a70098570f12b7962e5
@@ -1041,14 +924,14 @@ HBO Family my,p3p://108.181.32.169:22947/64137f29000ae5e4a582ae5d42d65d7a
 HBO家庭,p3p://108.181.32.169:22947/64137f3c000d4a86a582f93235111bc5
 HBO Signature my,p3p://108.181.32.169:22947/64137f530000971da5834fca2631479a
 HBO强档,p3p://108.181.32.169:22947/64137f700008f329a583c3344ddf5dfc
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 HBO Hits my,p3p://108.181.32.169:22947/64137f85000a578fa58415985b5b1f5d
 HBO原创,p3p://108.181.32.169:22947/64137f970005246ea5845a9326ce6233
 AXN tw,p3p://108.181.32.169:22947/64137fb6000e2555a584d5f94945113b
 Thrill,p3p://108.181.32.169:22947/644a0879000272f67a89b6687af342ae
 AXN tw2,p3p://108.181.32.169:22947/64137fed000660a5a585aad4055228a8
 AXN my,p3p://108.181.32.169:22947/6413800100002d47a585f75e0b4d15d4
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 CINEMAX tw,p3p://108.181.32.169:22947/641380160003b61ca5864a4e3d49763a
 Cinemax my,p3p://108.181.32.169:22947/6413802a000969a0a58699e441aa3320
 Animax my,p3p://108.181.32.169:22947/6413803e00077f23a586e786585056af
@@ -1089,7 +972,7 @@ Kix HD,p3p://108.181.32.169:22947/6413854d000785b1a59aaa2924fa1aa7
 Rugby Pass TV,p3p://108.181.32.169:22947/641385640003a0f9a59b02f333796f30
 Sun TV MY,p3p://108.181.32.169:22947/64138578000a0b4da59b52b76a9552c0
 Sun TVTataSky,p3p://108.181.32.169:22947/6413858800046ac8a59b8fc622de0dc9
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 Sun TV Tamil,p3p://108.181.32.169:22947/641385a2000d8ae7a59bf7ad23443b39
 Star Vijay,p3p://108.181.32.169:22947/641385b300076a44a59c388327276d0a
 STAR VIJAY india,p3p://108.181.32.169:22947/64f5a3ef000bd3723990b8062810502f
@@ -1099,7 +982,7 @@ Astro Vaanavil,p3p://108.181.32.169:22947/6413864100052c3da59e62ae01dd502f
 Sun Music,p3p://108.181.32.169:22947/64138655000659f1a59eb11c4bb665a7
 Sony Max,p3p://108.181.32.169:22947/6413866d000325caa59f0e0a0a6f3911
 Set Sony,p3p://108.181.32.169:22947/6413868200096c30a59f61a5378b6035
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Sab Sony,p3p://108.181.32.169:22947/641386c1000c2bbfa5a05872576a61bd
 Zee Cinema,p3p://108.181.32.169:22947/641386d30008a32fa5a09dda08bc5c0d
 Zee TV,p3p://108.181.32.169:22947/641386e6000bfb90a5a0e8ee501f7fd5
@@ -1133,7 +1016,7 @@ HGTV TW,p3p://108.181.32.169:22947/641382440002a30ca58ecdbf74a8039c
 AFC AFN,p3p://108.181.32.169:22947/641382600009923ea58f3ce6638b7516
 TLC HD,p3p://108.181.32.169:22947/64138278000b9ab8a58f9b2b5a106790
 TLC旅遊生活,p3p://108.181.32.169:22947/6413828d000cff1da58fed8f7d2719cf
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 Food Network,p3p://108.181.32.169:22947/641382a10003769fa590393e3fb23f92
 Asia Food Network,p3p://108.181.32.169:22947/641382ce0009fbafa590eab223060296
 E! HD,p3p://108.181.32.169:22947/641382e1000e0ae1a59135f449455b3d
@@ -1172,9 +1055,9 @@ Drama Sangat,p3p://108.181.32.169:22947/6412449c000257b9a0b5f5624d0621a2
 TVS,p3p://108.181.32.169:22947/641244ba000752eea0b66bd9202b299b
 Awesome TV,p3p://108.181.32.169:22947/641244e9000576b1a0b722f7232a5c8b
 Bola Arena1,p3p://108.181.32.169:22947/641245040004d52aa0b78c446be55863
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 Bola Arena2,p3p://108.181.32.169:22947/64124524000e86a3a0b80bbf421014d4
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 Astro Arena 1,p3p://108.181.32.169:22947/6412454a0000fbb4a0b89cb81723411e
 Astro Arena 1(b),p3p://108.181.32.169:22947/64124580000df2d5a0b972fa5e5d3940
 Astro Arena 2,p3p://108.181.32.169:22947/64124568000c643aa0b914d41041515b
@@ -1209,7 +1092,7 @@ Astro Ceria(a),p3p://108.181.32.169:22947/64124a76000afc5da0ccd33328db54d4
 Astro Citra,p3p://108.181.32.169:22947/64124a950004c142a0cd4ab321ff3eaa
 Astro Tutor UPSR,p3p://108.181.32.169:22947/64124ab1000a05e4a0cdb96c45713a25
 Astro Tutor SPM,p3p://108.181.32.169:22947/64124ad20003446da0ce389969675397
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Aljazeera,p3p://108.181.32.169:22947/64124aec000d584ca0cea0be08dc17b5
 Bernama News,p3p://108.181.32.169:22947/64124b0c000298f3a0cf1afc535930fa
 TV-AlHijrah,p3p://108.181.32.169:22947/64124b2900044546a0cf8cb162560917
@@ -1243,7 +1126,7 @@ CCM 天映经典,p3p://108.181.32.169:22947/64124d990007b0aaa0d9131033d9354a
 CCM 天映经典 CN中英字幕,p3p://108.181.32.169:22947/64124dd500082194a0d9fd8d736a3dff
 Celestial MY 天映,p3p://108.181.32.169:22947/64124df1000c3585a0da6bf812014c1a
 Celestial MY 天映2,p3p://108.181.32.169:22947/64124e0f00045619a0dadf2552b73bf8
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 Celestial cn 天映2,p3p://108.181.32.169:22947/64124e2b000b454ba0db4e4b137c6137
 SETI 三立国际,p3p://108.181.32.169:22947/64124e4200057913a0dba6a76ebf248c
 Hits Movies,p3p://108.181.32.169:22947/6413852a000f0a74a59a235e4e1c318d
@@ -1291,7 +1174,7 @@ Animax tw,p3p://108.181.32.169:22947/6413807500012fe3a587bcbf2e6b7388
 Hits Movies my,p3p://108.181.32.169:22947/6413808800072695a588087e3cc239d1
 Blue Ant Entertainm,p3p://108.181.32.169:22947/6413809e000478cba5885dbe4d29586c
 Blue Ant Extreme,p3p://108.181.32.169:22947/641380b20005698fa588ac1c60782adf
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 CNN my,p3p://108.181.32.169:22947/641380c6000d7e73a588fc4e012b3240
 CNN Indonesia Indonesia,p3p://108.181.32.169:22947/641380ea000891c1a58987ab53f905fa
 CNBC my,p3p://108.181.32.169:22947/64138101000e328aa589e2f46ee85f3d
@@ -1353,12 +1236,12 @@ Zee Cinema,p3p://108.181.32.169:22947/641386d30008a32fa5a09dda08bc5c0d
 Zee TV,p3p://108.181.32.169:22947/641386e6000bfb90a5a0e8ee501f7fd5
 Astro Colors,p3p://108.181.32.169:22947/641386f70003798da5a1292811a2387f
 Colors HD TataSky,p3p://108.181.32.169:22947/6413870b00037690a5a177473df07376
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 Astro Adithya,p3p://108.181.32.169:22947/6413872200000fa0a5a1d03f37ed2010
 Polimer news,p3p://108.181.32.169:22947/641387360006b6e4a5a2201438a0209c
 Raj TV,p3p://108.181.32.169:22947/641387490003dee5a5a2699101f2025c
 Jaya TV ,p3p://108.181.32.169:22947/6413875c000e1e78a5a2b66900ee49b9
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Chutti TV,p3p://108.181.32.169:22947/64138770000495faa5a30218116101b2
 UTV movies,p3p://108.181.32.169:22947/64138783000ac99ca5a34de73976474e
 HBO HD my,p3p://108.181.32.169:22947/64137ee50006d7eca581a3b3297e60a3
@@ -1367,7 +1250,7 @@ HBO Family my,p3p://108.181.32.169:22947/64137f29000ae5e4a582ae5d42d65d7a
 HBO家庭,p3p://108.181.32.169:22947/64137f3c000d4a86a582f93235111bc5
 HBO Signature my,p3p://108.181.32.169:22947/64137f530000971da5834fca2631479a
 HBO强档,p3p://108.181.32.169:22947/64137f700008f329a583c3344ddf5dfc
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 HBO Hits my,p3p://108.181.32.169:22947/64137f85000a578fa58415985b5b1f5d
 HBO原创,p3p://108.181.32.169:22947/64137f970005246ea5845a9326ce6233
 AXN tw,p3p://108.181.32.169:22947/64137fb6000e2555a584d5f94945113b
@@ -1379,7 +1262,7 @@ Animax my,p3p://108.181.32.169:22947/6413803e00077f23a586e786585056af
 Animax tw,p3p://108.181.32.169:22947/6413807500012fe3a587bcbf2e6b7388
 Hits Movies my,p3p://108.181.32.169:22947/6413808800072695a588087e3cc239d1
 Blue Ant Entertainm,p3p://108.181.32.169:22947/6413809e000478cba5885dbe4d29586c
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 Blue Ant Extreme,p3p://108.181.32.169:22947/641380b20005698fa588ac1c60782adf
 CNN my,p3p://108.181.32.169:22947/641380c6000d7e73a588fc4e012b3240
 CNN Indonesia Indonesia,p3p://108.181.32.169:22947/641380ea000891c1a58987ab53f905fa
@@ -1389,7 +1272,7 @@ Sky News HD my,p3p://108.181.32.169:22947/641381340003e883a58aa78a57c53479
 Bloomberg TV my,p3p://108.181.32.169:22947/6413814f000a6413a58b12ab52934c96
 France 24 my,p3p://108.181.32.169:22947/6413816700069158a58b6f7a03cd341c
 Euro news my,p3p://108.181.32.169:22947/6413817b0003393aa58bbcbf158b6409
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 FOX NEWS my,p3p://108.181.32.169:22947/6413818e000154fca58c067b60210765
 MTV LIVE my,p3p://108.181.32.169:22947/641381a8000b2beaa58c6e90661462b5
 NHK World my,p3p://108.181.32.169:22947/641381bd00065fefa58cbf5e66b171d0
@@ -1446,7 +1329,7 @@ CCTV-15,p3p://108.181.32.169:22947/64260e5a000a63ffee0193f872fa5767
 山东卫视,p3p://108.181.32.169:22947/64260f89000475c3ee06320a031a7286
 江西卫视,p3p://108.181.32.169:22947/64260f920000727aee06542a02064fce
 广东卫视,p3p://108.181.32.169:22947/64260f9d0003bfdeee067ffb753744c8
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 黑龙江卫视,p3p://108.181.32.169:22947/64260fa7000c1330ee06a92c52724886
 河南卫视,p3p://108.181.32.169:22947/64260fb100056a93ee06ce871c2e5071
 海南卫视,p3p://108.181.32.169:22947/64260fc10002a54fee070c525d0d5e83
@@ -1465,7 +1348,7 @@ HongKong香港,#genre#
 TVB翡翠台,p3p://108.181.32.169:22947/641009ee000871369800bf4762e35621
 TVB翡翠台(b),p3p://108.181.32.169:22947/6410094a000234c597fe3d0e63905877
 TVB翡翠台MY,p3p://108.181.32.169:22947/64100a0b000cbbda980131a946a90bc0
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 TVB明珠台Pearl,p3p://108.181.32.169:22947/64100a2a0003a57f9801a86d6b050a59
 TVB星河粤语,p3p://108.181.32.169:22947/641021c50003c5af985dddf037af353c
 TVB星河国语,p3p://108.181.32.169:22947/641021e900026b0f985e6a374d7d56bb
@@ -1512,7 +1395,7 @@ Now体育7 Sports 7,p3p://108.181.32.169:22947/643799ca000a29a43289d0542d57262c
 凤凰中文,p3p://108.181.32.169:22947/6410229e000655dd98612e41401e3e7d
 凤凰资讯,p3p://108.181.32.169:22947/641022be000e5cc69861ad4f5a025336
 凤凰香港台,p3p://108.181.32.169:22947/641022da0005d3069862188000a64525
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 HBO,p3p://108.181.32.169:22947/64137f0b0006a17fa58238155813216c
 HBO家庭,p3p://108.181.32.169:22947/64137f3c000d4a86a582f93235111bc5
 HBO强档,p3p://108.181.32.169:22947/64137f700008f329a583c3344ddf5dfc
@@ -1557,11 +1440,11 @@ TW台湾,#genre#
 非凡新聞台,p3p://108.181.32.169:22947/64258e8600060f7eec0e3ebd6c49020e
 寰宇新聞台,p3p://108.181.32.169:22947/64295eb60008744efaf37ae07d17520b
 TVBS 新聞台,p3p://108.181.32.169:22947/64252188000673fcea647eb0397d464d
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 三立新闻,p3p://108.181.32.169:22947/64251e23000bcd04ea573d7c0f0a002e
 年代新聞,p3p://108.181.32.169:22947/645b2569000acf2fbd624de55e212fb2
 三立戏剧三立戲劇,p3p://108.181.32.169:22947/64251e39000ed5bbea579433569b6381
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 三立綜合台,p3p://108.181.32.169:22947/64251e49000e34e7ea57d28a25014df2
 三立台湾,p3p://108.181.32.169:22947/64251e5e0003388bea5821c268061bfb
 三立都会,p3p://108.181.32.169:22947/64251e7300064780ea587492773a63cc
@@ -1573,7 +1456,7 @@ TVBS 新聞台,p3p://108.181.32.169:22947/64252188000673fcea647eb0397d464d
 東森幼幼,p3p://108.181.32.169:22947/6430b41c0001f3831798d72948126428
 東森电影台,p3p://108.181.32.169:22947/64253899000a078deabe99ff587050b0
 東森綜合台,p3p://108.181.32.169:22947/64253f6e0002d287ead9482831323a6d
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 東森戲劇台,p3p://108.181.32.169:22947/64251f7a000bc46eea5c79536d5e2a0e
 東森洋片,p3p://108.181.32.169:22947/64251f8a0008854aea5cb6fe64e47b4e
 八大娛樂台,p3p://108.181.32.169:22947/642520730002bc15ea6043b344e032a5
@@ -1597,7 +1480,7 @@ MOMO親子臺,p3p://108.181.32.169:22947/6425226f000463e1ea68048207b3285f
 ELEVEN 体育1,p3p://108.181.32.169:22947/6425227b000100c6ea6832842d41783a
 ELEVEN 体育2,p3p://108.181.32.169:22947/64252292000127feea688c6630d312e7
 ELTA体育1台,p3p://108.181.32.169:22947/6425229e00024ab4ea68bb9154ab1928
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 ELTA体育2台,p3p://108.181.32.169:22947/642522b0000a6c14ea6903f615622aab
 ELTA体育3台,p3p://108.181.32.169:22947/642522bd000ad1bbea6936d803e32fc0
 ELTA体育3台国语,p3p://108.181.32.169:22947/6433e3220006392724084f1711880c01
@@ -1676,7 +1559,7 @@ NOW 新闻台,p3p://108.181.32.169:22947/6410254c0006df63986ba60f292a7500
 凤凰中文,p3p://108.181.32.169:22947/6410229e000655dd98612e41401e3e7d
 凤凰资讯,p3p://108.181.32.169:22947/641022be000e5cc69861ad4f5a025336
 凤凰香港台,p3p://108.181.32.169:22947/641022da0005d3069862188000a64525
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 中天新闻,p3p://108.181.32.169:22947/64252571000be01dea73c63b5616781e
 中天新闻(b),p3p://108.181.32.169:22947/642590050003b317ec1416371a246f3d
 民视新闻台 ,p3p://108.181.32.169:22947/64c859e10007934267f487ac0fa618e0
@@ -1705,17 +1588,17 @@ CCTV-5 ,p3p://108.181.32.169:22947/64260cb0000afd53edfb140f10811127
 CCTV-5+,p3p://108.181.32.169:22947/64260cbc00081417edfb42307c984dd4
 EPL Now Sports 英超4keng,p3p://108.181.32.169:22947/64d74cf7000556f0223ed6366e5f689a
 EPL Now Sports 英超1eng,p3p://108.181.32.169:22947/64d74cb1000cc276223dc6ac654a2299
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 EPL Now Sports 英超4k1粤语,p3p://108.181.32.169:22947/64d74ca40007202e223d927267473868
 EPL Now Sports 英超 粤语,p3p://108.181.32.169:22947/64d74c1600083555223b68096e79387e
 Now体育630,p3p://108.181.32.169:22947/64b8f92b000089e02be334b114c32320
 Now plus,p3p://108.181.32.169:22947/64b8f962000df4a32be40ef90d9f4afd
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 NOW 体育台,p3p://108.181.32.169:22947/6410211d00048968985b4de16d6e5b6a
 Now体育1 Sports 1,p3p://108.181.32.169:22947/643361f20007b9a9220fabfc3001244e
 Now体育2 Sports 2,p3p://108.181.32.169:22947/643362090006b031221005903b883d07
 Now体育3 Sports 3,p3p://108.181.32.169:22947/6433621d000d9c3522105573223958e1
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 Now体育4 Sports 4,p3p://108.181.32.169:22947/6437999f00025f983289265f38ef3722
 Now体育5 Sports 5,p3p://108.181.32.169:22947/643799aa000e7bac3289547135e05a80
 Now体育6 Sports 6,p3p://108.181.32.169:22947/643799bb00044f193289943e2e5f6ac1
@@ -1730,12 +1613,12 @@ ELTA体育3台国语,p3p://108.181.32.169:22947/6433e3220006392724084f1711880c01
 博斯魅力,p3p://108.181.32.169:22947/642d395d0004e9950a015dce389f4c91
 博斯網球台 ,p3p://108.181.32.169:22947/642d0029000bd7e70921ec71212f5735
 博斯運動二台 ,p3p://108.181.32.169:22947/642d0087000484c5092359c47ee4201a
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 博斯高球台 ,p3p://108.181.32.169:22947/642d009f000f1f000923ba3b26b667e4
 博斯高球二台 ,p3p://108.181.32.169:22947/642d00ae000e846a0923f4ac45c06f09
 博斯無限台 ,p3p://108.181.32.169:22947/642d00bf00041ae7092434690ae526c7
 ASSP1(a),p3p://108.181.32.169:22947/6412459f000acfeba0b9eb4448574dee
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 ASSP1(b),p3p://108.181.32.169:22947/641245bc0008335da0ba5be15de04db6
 ASSP2(a),p3p://108.181.32.169:22947/641245e30005d242a0baf39e4a3f4a03
 ASSP2(b),p3p://108.181.32.169:22947/641245fd000a6c90a0bb5a5b3f082922
@@ -1765,7 +1648,7 @@ ESPN 2,p3p://108.181.32.169:22947/64311d29000d2a3b193334cb71ba3db4
 ESPN 3,p3p://108.181.32.169:22947/64311e68000a2a1d1938121f51b1501b
 NBA TV,p3p://108.181.32.169:22947/64311e75000090631938427279742fef
 NBA TV(b),p3p://108.181.32.169:22947/64311e81000176281938718d4b003c1b
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 beIN Sports 1,p3p://108.181.32.169:22947/64311e93000ba7aa1938ba7e1e4b3642
 beIN Sports 2,p3p://108.181.32.169:22947/64311ea0000526211938eb9c63bc100c
 beIN Sports 3,p3p://108.181.32.169:22947/64311eac00023ce5193919bd41e13e59
@@ -1805,7 +1688,7 @@ SKY Racing 2,p3p://108.181.32.169:22947/64312844000ad7b5195e95b069db4ef2
 Racing.com HD,p3p://108.181.32.169:22947/64312852000912ad195ecbec6de2555f
 FOX Sports Racing HD,p3p://108.181.32.169:22947/64312865000d9bbf195f174e5ec83175
 Ziggo Sport Racing ,p3p://108.181.32.169:22947/64312871000b6954195f459e7c10663c
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 Dubai Sports 2 ,p3p://108.181.32.169:22947/6431287f0003edcc195f7a6369cf47b8
 Dubai Sports 2b ,p3p://108.181.32.169:22947/64312936000a354e196246d611a14be4
 Dubai Racing 3,p3p://108.181.32.169:22947/64312942000933931962757447382f61
@@ -1818,7 +1701,7 @@ Star Sports Select 1b,p3p://108.181.32.169:22947/643129d50004aa151964b2834730348
 Star Sports Select 2,p3p://108.181.32.169:22947/643129e6000a70531964f6661182226c
 Star Sports Select 2b HD,p3p://108.181.32.169:22947/643129f40005210b19652bb847830d99
 SKY SPORTS FOOTBALL,p3p://108.181.32.169:22947/64312a3d000a7d6c19664a3f15773237
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 SKY SPORTS MAIN EVENT,p3p://108.181.32.169:22947/64312a4d0002b877196686c254e3270d
 SKY SPORTS PREMIER LEAGUE,p3p://108.181.32.169:22947/64312a5c000d11031966c4005f4e2e4d
 SKY SPORTS NFL U.K,p3p://108.181.32.169:22947/64312a6b000a8eed1966fdf44a0647cc
@@ -1845,7 +1728,7 @@ Supersport Premier League USA,p3p://108.181.32.169:22947/6463a5f80008b1c0de9841c
 Supersport Football USA ,p3p://108.181.32.169:22947/6463a606000229f7de9876c846553fcc
 Supersport LaLiga USA,p3p://108.181.32.169:22947/6463a6260000ab5fde98f3660a053de2
 SuperSport MaXimo USA,p3p://108.181.32.169:22947/6463a638000409ffde993a937bef2d62
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Supersport Motorsport USA,p3p://108.181.32.169:22947/6463a64500015776de996caa4be276c3
 Supersport PSL USA,p3p://108.181.32.169:22947/6463a8ff000b74a1dea415d470ea7983
 Supersport Variety 3 USA,p3p://108.181.32.169:22947/6463a90d000d7e9adea44d0a511a6930
@@ -1878,12 +1761,12 @@ Celestial MY 天映2,p3p://108.181.32.169:22947/64124e0f00045619a0dadf2552b73bf8
 CatchPlay電影台,p3p://108.181.32.169:22947/64252479000b7f1aea6ffd6177e3015c
 衛視中文 HD Star Chinese,p3p://108.181.32.169:22947/64252507000eefc4ea7228f32f390502
 好莱坞电影台,p3p://108.181.32.169:22947/6425244f0001184fea6f56a70aca63d2
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 卫视电影台scm,p3p://108.181.32.169:22947/642525150008a4ecea725e071929091e
 星卫HD电影,p3p://108.181.32.169:22947/642521030009ef43ea62780c438e2a38
 美亚电影台,p3p://108.181.32.169:22947/642525310003ad3cea72ca2155c734c3
 卫视HD电影,p3p://108.181.32.169:22947/6425253c0007ee60ea72f6307ae25fdd
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 東森电影台,p3p://108.181.32.169:22947/64253899000a078deabe99ff587050b0
 東森洋片,p3p://108.181.32.169:22947/64251f8a0008854aea5cb6fe64e47b4e
 纬来电影,p3p://108.181.32.169:22947/64251eae0001bef7ea5959e100ae671e
@@ -1925,7 +1808,7 @@ EYE TV旅遊台,p3p://108.181.32.169:22947/642524030003a5b2ea6e2e6f6efc45a1
 亚洲旅游台,p3p://108.181.32.169:22947/642520f70001a86dea62470d303d34d3
 美食星球,p3p://108.181.32.169:22947/6425252400079076ea72985811e07306
 CI 罪案偵查頻道crime,p3p://108.181.32.169:22947/642520d9000d93c9ea61d4ea78792b01
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 动物星球animal planet,p3p://108.181.32.169:22947/6425241f00027d03ea6e9b836b853b0b
 人间卫视,p3p://108.181.32.169:22947/6425224d00048156ea677fb9420534b4
 大爱电视,p3p://108.181.32.169:22947/6425225a0002859cea67b1ff6aaf6db6
@@ -1963,7 +1846,7 @@ FUSION,p3p://108.181.32.169:22947/64682d86000d9dd7f049c5be62a544dc
 INVESTMENT PITCH,p3p://108.181.32.169:22947/64682d920000784af049f14136c47100
 MTV 2,p3p://108.181.32.169:22947/6465b57200035a76e6a4b4fa39e03456
 MTV CLASSIC,p3p://108.181.32.169:22947/6465b57e000664abe6a4e4a12a9c53c2
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 MTV UHD,p3p://108.181.32.169:22947/6465b595000b11b4e6a53fac6b7c2eaa
 OUTDOOR CHANNEL,p3p://108.181.32.169:22947/6465b5a0000c3aa7e6a56af0523416a8
 Nat Geo Wild USA,p3p://108.181.32.169:22947/645fbc4e000ef087cf4fbd770b2c438b
@@ -1999,14 +1882,14 @@ MNC Shop Smart,p3p://108.181.32.169:22947/64325f0100000b7b1e1c65377ae07d02
 TRT World ,p3p://108.181.32.169:22947/64325f16000226b11e1cb7c9769e6d7a
 Ochannel Discovery Asia,p3p://108.181.32.169:22947/64325f260007794d1e1cf7a65c7207d1
 Thrill,p3p://108.181.32.169:22947/644a0879000272f67a89b6687af342ae
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 美国USA,#genre#
 AMC,p3p://108.181.32.169:22947/645fa0880000ff6ecee33c7463b220d0
 A and E,p3p://108.181.32.169:22947/645fbe610002b43acf57d49031e80df5
 ABC FHD,p3p://108.181.32.169:22947/645fa8c300060753cf0364303f9473bc
 ABC NEW,p3p://108.181.32.169:22947/645fa09900060edccee3802872e62015
 ACC Network,p3p://108.181.32.169:22947/645fa0a900079278cee3bf0b280d2e46
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 Antenna TV,p3p://108.181.32.169:22947/645fa0b60003ec2fcee3f0e4434a1a1c
 AWE HD,p3p://108.181.32.169:22947/645fa0c3000a4546cee4254c0c1b3458
 BET JAMZ,p3p://108.181.32.169:22947/645fa0e3000c95afcee4a2e442e97f8e
@@ -2066,7 +1949,7 @@ Starz Encore Classic,p3p://108.181.32.169:22947/645fb252000ee85ecf28bd190f9a0ab2
 Starz in Black,p3p://108.181.32.169:22947/645fb25e000bff23cf28eb3a514e0515
 Starz Kids,p3p://108.181.32.169:22947/645fb26f00087cd0cf292cbc765a234c
 STARZ East HD,p3p://108.181.32.169:22947/645fb27a00083823cf2957a31eac7185
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 TASTEMADE,p3p://108.181.32.169:22947/645fb28a000ebb70cf2997ce41cc3736
 Telemundo (Las Vegas) KBLR,p3p://108.181.32.169:22947/645fb6aa000067adcf39b11820ab16d1
 The Cowboy Channel,p3p://108.181.32.169:22947/645fb6c60003c4cfcf3a1f5556c03ff1
@@ -2095,7 +1978,7 @@ TCM,p3p://108.181.32.169:22947/646271c6000aa69fd9e45efb74141bfe
 TBS,p3p://108.181.32.169:22947/64626ffc000b95aad9dd622652330147
 DIY Network,p3p://108.181.32.169:22947/64627016000985b8d9ddc72f70d00e9e
 Dog TV ,p3p://108.181.32.169:22947/6462702f000f1a04d9de2a4569c51756
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 Lifetime,p3p://108.181.32.169:22947/6462704200005b24d9de70b7255a7658
 LIFETIME MOVIES,p3p://108.181.32.169:22947/6463a5a5000a7afede96fe1018a905c5
 BEIN SPORTS 11,p3p://108.181.32.169:22947/6463a5b400077f08de9737e474b0055b
@@ -2107,7 +1990,7 @@ Supersport Football,p3p://108.181.32.169:22947/6463a606000229f7de9876c846553fcc
 Supersport LaLiga,p3p://108.181.32.169:22947/6463a6260000ab5fde98f3660a053de2
 SuperSport MaXimo,p3p://108.181.32.169:22947/6463a638000409ffde993a937bef2d62
 Supersport Motorsport,p3p://108.181.32.169:22947/6463a64500015776de996caa4be276c3
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 Supersport PSL,p3p://108.181.32.169:22947/6463a8ff000b74a1dea415d470ea7983
 Supersport Variety 3,p3p://108.181.32.169:22947/6463a90d000d7e9adea44d0a511a6930
 Supersport Variety 4,p3p://108.181.32.169:22947/6463a926000e1336dea4aed876667f60
@@ -2147,7 +2030,7 @@ NEWS 12 THE BRONX,p3p://108.181.32.169:22947/6465abfa00086f05e67fb98b35733f88
 NEWS 12 WESTCHESTER,p3p://108.181.32.169:22947/6465ac0a00093bd1e67ff8404bce63ed
 NEWSY,p3p://108.181.32.169:22947/6465ac1c0003cbc0e6803d2b05391318
 RT AMERICA,p3p://108.181.32.169:22947/6465ac2800084395e6806d30799b0f28
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 ASPIRE TV,p3p://108.181.32.169:22947/6465ac44000f32c7e680dc572130539e
 CHARGE!,p3p://108.181.32.169:22947/6465b54500006776e6a404702c326fa0
 DABL,p3p://108.181.32.169:22947/6465b5500000d99ae6a42f8608ee0231
@@ -2164,7 +2047,7 @@ PARAMOUNT NETWORK,p3p://108.181.32.169:22947/6465c0f300032e9ae6d1a4d574ed2855
 PBS,p3p://108.181.32.169:22947/6465c0fe0007acaee6d1d0f3686a31ca
 POP,p3p://108.181.32.169:22947/6465c12700085746e6d271474f017d4a
 POP TV,p3p://108.181.32.169:22947/6465c131000b3108e6d2991278326004
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 QVC,p3p://108.181.32.169:22947/6465c13e00028b0ee6d2c9a339d47db8
 QVC UHD,p3p://108.181.32.169:22947/6465c1480004ae00e6d2f13f4ba531c7
 RFD-TV,p3p://108.181.32.169:22947/6465c15c000524e3e6d33f7e534b3a92
@@ -2216,12 +2099,12 @@ CITY MONTREAL,p3p://108.181.32.169:22947/6485ea10000db33d6471929121c20741
 CITY TORONTO,p3p://108.181.32.169:22947/6485ea1d00026ef36471c2775e425237
 CITY VANCOUVER,p3p://108.181.32.169:22947/6485ea28000dd4376471f05928ce3bbb
 CITY CALGARY,p3p://108.181.32.169:22947/6485ea370008f0c1647229b106b67023
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 CMT | HD,p3p://108.181.32.169:22947/6485ea44000825b864725c456fb97bb4
 CNN,p3p://108.181.32.169:22947/6485ea58000f09ec6472ac29322b7f37
 CNN INTERNATIONAL,p3p://108.181.32.169:22947/6485ea65000a32f26472ddb460281e95
 CNN | HD,p3p://108.181.32.169:22947/6485eb19000a54fe64759cce5552728d
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 COMEDY,p3p://108.181.32.169:22947/6485eb26000e4cb66475d09a5c7015d9
 COOKING CHANNE,p3p://108.181.32.169:22947/6485eb32000e7bab6475ff860d903d2e
 COTTAGE LIFE,p3p://108.181.32.169:22947/6485eb3d000eedce64762a9b3cfe7f87
@@ -2278,7 +2161,7 @@ BS-TBS,p3p://108.181.32.169:22947/641a21cd0004b9bdbf6dc4467ff766ad
 BSジャパン,p3p://108.181.32.169:22947/641a21bb000df8cfbf6d8054551233ec
 BSフジ JP,p3p://108.181.32.169:22947/641a21a300048f44bf6d202b4d0f24f8
 BS朝日,p3p://108.181.32.169:22947/641a218a000306e8bf6cbe1e2f2d16b2
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 BS日テレ,p3p://108.181.32.169:22947/641a217600019c44bf6c6fa138a21c99
 BS釣りビジョン ,p3p://108.181.32.169:22947/641a216000016ecebf6c19a57bf53ac9
 GAORA ,p3p://108.181.32.169:22947/641a214b0000fe29bf6bc7805d3c5203
@@ -2291,7 +2174,7 @@ J SPORTS 4,p3p://108.181.32.169:22947/641a208100012886bf68b27a61ba4329
 MBS毎日放送,p3p://108.181.32.169:22947/641a2069000e98fdbf68582b0b3029ec
 BS1,p3p://108.181.32.169:22947/641a204b000cf2e8bf67e28f510e10b9
 BSプレミアム,p3p://108.181.32.169:22947/641a203600052133bf678e867cf478d6
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 NHK-Eテレ,p3p://108.181.32.169:22947/641a202100034f6cbf673c04601341f8
 NHKEテレ,p3p://108.181.32.169:22947/641a20060005df7dbf66d334679e719d
 NHK総合 ,p3p://108.181.32.169:22947/641a1ff10002ac95bf6680630445195d
@@ -2313,9 +2196,9 @@ WOWOWライブ,p3p://108.181.32.169:22947/641a1f510005dcacbf64103357d547ba
 スターチャンネル 3,p3p://108.181.32.169:22947/641a1dc0000243f3bf5df0e17ac0501d
 ディズニージュニア,p3p://108.181.32.169:22947/641a1d9e000af328bf5d6e4a4e1b5c10
 ディズニーチャンネル,p3p://108.181.32.169:22947/641a1d880007ad81bf5d1783598709ed
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 テレビ朝日,p3p://108.181.32.169:22947/641a1d6d000e8673bf5cafcc47cf6f73
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 テレビ大阪,p3p://108.181.32.169:22947/641a1d550007f828bf5c505e1c7a528c
 テレビ東京,p3p://108.181.32.169:22947/641a1d4200096286bf5c06837a157907
 ファミリー劇場,p3p://108.181.32.169:22947/641a1d2e000d7174bf5bb96c78257de0
@@ -2363,7 +2246,7 @@ JTBC??,p3p://108.181.32.169:22947/641a183c000cddb0bf4867f37b157f23
 松視3台,p3p://108.181.32.169:22947/650b8a0e000007df8f1b27da75d42f65
 松視2台,p3p://108.181.32.169:22947/650b8a51000ac6568f1c30530c503d72
 HAPPY,p3p://108.181.32.169:22947/650b8915000b1a1b8f175e0765017f8a
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 彩虹K,p3p://108.181.32.169:22947/650b896a000407bf8f18a840011e789a
 玩美台,p3p://108.181.32.169:22947/650b8a9900047f038f1d47f730bd5b7c
 ATV 香蕉台,p3p://108.181.32.169:22947/650b8ae60005f36b8f1e751f68bd1c14
@@ -2392,9 +2275,9 @@ vip05wuma,p3p://108.181.32.169:22947/64231a33000d8e7de277dc6f4f9a18e6
 三级,p3p://108.181.32.169:22947/643f46e90005e4b65085d6f66e8430d7
 良家,p3p://108.181.32.169:22947/643f46fa00003df4508617eb220234bd
 人妻,p3p://108.181.32.169:22947/64487f210008fc287489385479a92810
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 张总,p3p://108.181.32.169:22947/64487f750009511b748a808a27984fac
-今日影视TG群jin365m,http://free.xiptv.x10.bz/nolive.mp4
+
 轮播1,p3p://108.181.32.169:22947/64487f5d000b5491748a234e7ced2478
 轮播2,p3p://108.181.32.169:22947/64487f69000cb436748a5288486852e5
 韩国演艺圈,p3p://108.181.32.169:22947/64487f44000009c47489bec26ba13f81
@@ -2421,12 +2304,12 @@ short video1,p3p://108.181.32.169:22947/64231f800006c5b7e28c8f791462113b
 short video2,p3p://108.181.32.169:22947/64231f8a0006c438e28cb688051704fb
 English1,p3p://108.181.32.169:22947/64231a4200010d06e27813d404c6258d
 English2,p3p://108.181.32.169:22947/64231a510001a320e2784e927fb73712
-极致TG群jizhi222,http://free.xiptv.x10.bz/nolive.mp4
+
 English3,p3p://108.181.32.169:22947/64231a5e0004e407e27882302c8b31e1
 English4,p3p://108.181.32.169:22947/64231a730008e6bde278d53e721a5725
-盒子TG群aitvbox,http://free.xiptv.x10.bz/nolive.mp4
+
 English5,p3p://108.181.32.169:22947/64231a7f0003d911e27902d3411850e7
-影视TG群atv168,http://free.xiptv.x10.bz/nolive.mp4
+
 English6,p3p://108.181.32.169:22947/64231a8b0002615ee2793152059606bd
 English7,p3p://108.181.32.169:22947/64231b27000855e1e27b94397bf80b92
 English8,p3p://108.181.32.169:22947/64231b31000b2fa3e27bbc0401b41502
