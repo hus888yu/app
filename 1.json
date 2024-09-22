@@ -48,7 +48,7 @@
       "key": "T4-heimuer",
       "name": "黑木耳(T4)",
       "type": 4,
-      "api": "https://tang.hz.cz/power/hme?token=14f4bed5",
+      "api": "https://tang.hz.cz/power/hme?token=d0616267",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -58,7 +58,7 @@
       "key": "T4-欧乐",
       "name": "欧乐(T4)",
       "type": 4,
-      "api": "https://tang.hz.cz/power/olelive?token=14f4bed5",
+      "api": "https://tang.hz.cz/power/olelive?token=d0616267",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -68,7 +68,7 @@
       "key": "T4-安博",
       "name": "安博(T4)",
       "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=14f4bed5",
+      "api": "https://tang.hz.cz/power/ub18?token=d0616267",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -147,14 +147,6 @@
         "西部片",
         "伦理片"
       ]
-    },
-    {
-      "key": "实验金鹰",
-      "name": "实验金鹰",
-      "type": 1,
-      "api": "http://zhangqun66.serv00.net/jy.php",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "酷看",
@@ -390,8 +382,8 @@
   "logo": "http://tv543.cc/logo2.gif",
   "lives": [
     {
-      "name": "彥",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/333.php",
+      "name": "543",
+      "url": "https://tv543.cc/list.php",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -400,7 +392,7 @@
     },
     {
       "name": "安博",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/ub.txt",
+      "url": "https://tv543.cc/nb.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -408,14 +400,32 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "p3p",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/p3p.php",
+      "name": "欧华",
+      "url": "https://tv543.cc/tvlist01.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-     },
+    },
+    {
+      "name": "焦点",
+      "url": "https://tv543.cc/tvlist02.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "159169",
+      "url": "http://free.xiptv.x10.bz/p3p.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "ETH",
       "api": "https://tv543.cc/ethtv.js",
