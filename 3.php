@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="yt新聞",年代新聞
+#EXTINF:-1 group-title="新聞財經",年代新聞
 
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
@@ -186,13 +186,13 @@ http://47.239.245.207:5050/litv/4gtv-4gtv034
 
 http://47.239.245.207:5050/litv/4gtv-4gtv039
 
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="新聞財經", 三立新聞
-
-http://47.239.245.207:5050/4gtv/229
-
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="綜合", 三立綜合台
 
 http://47.239.245.207:5050/4gtv/169
+
+#EXTINF:-1 tvg-id="三立財經新聞" tvg-name="三立 iNEWS" tvg-logo="https://assets.livednow.com/logo/三立財經新聞.png" group-title="新聞財經", 三立 iNEWS
+
+http://47.239.245.207:5050/4gtv/229
 
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="綜合", 台視
 
@@ -450,7 +450,7 @@ http://47.239.245.207:5050/litv/4gtv-4gtv082
 
 http://47.239.245.207:5050/4gtv/252
 
-#EXTINF:-1 tvg-id="Globetrotter-環遊旅行家" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="生活旅遊", Globetrotter 環遊旅行家
+#EXTINF:-1 tvg-id="韓國娛樂台" tvg-name="韓國娛樂台" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="音樂綜藝", 韓國娛樂台
 
 http://47.239.245.207:5050/litv/4gtv-4gtv016
 
