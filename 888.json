@@ -6,7 +6,7 @@
       "key": "sgabys",
       "name": "三哥安博影视",
       "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=48da13fc",
+      "api": "https://tang.hz.cz/power/ub18?token=a797e28e",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -16,7 +16,7 @@
       "key": "sghmys",
       "name": "三哥黑木影视",
       "type": 4,
-      "api": "https://tang.hz.cz/power/hme?token=48da13fc",
+      "api": "https://tang.hz.cz/power/hme?token=a797e28e",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -26,7 +26,7 @@
       "key": "sgolys",
       "name": "三哥欧乐影视",
       "type": 4,
-      "api": "https://tang.hz.cz/power/olelive?token=48da13fc",
+      "api": "https://tang.hz.cz/power/olelive?token=a797e28e",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -47,12 +47,11 @@
       "name": "黑木资源站",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-      },
       "searchable": 1,
       "changeable": 1,
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      },
       "categories": [
         "国产剧",
         "港剧",
@@ -161,26 +160,39 @@
         "西部片",
         "伦理片"
       ]
-    },
-    {
-      "key": "dmys",
-      "name": "大米影视",
-      "type": 1,
-      "api": "http://172.96.161.250:2052/fusionapi.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
     }
   ],
-  "lives": [
-    {
-      "name": "海外",
-      "url": "https://www.stream-link.org/stream-link.m3u",
+     "lives": [
+ {
+      "name": "彥",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/333.php",
+      "pass": false,
+      "boot": false,
       "playerType": 2,
-      "ua": "AptvPlayer/1.3.3"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "安博",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/ub.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "p3p",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/p3p.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      },
 {
-      "name": "543",
-      "url": "https://tv543.cc/list.php",
+      "name": "nb",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/nb.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -188,23 +200,22 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 {
-      "name": "159169",
-      "url": "http://free.xiptv.x10.bz/p3p.php",
+      "name": "yt",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/yt.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-    {
-      "name": "内地",
-      "url": "https://tang.hz.cz/zb/笑死.txt",
-      "ua": "okhttp/4.12.0"
-    },
-    {
-      "name": "范明明IPv6",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+{
+      "name": "4gtv",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/4gtv.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
