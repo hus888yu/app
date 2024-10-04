@@ -1,636 +1,1502 @@
 台灣頻道,#genre#
-
-民視,https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
-民視,https://z88.ubtvfans.com/live/rx1/336/52df001ee54d5a0069363a98d89b7d8b/index.m3u8
-台視,https://z88.ubtvfans.com/live/rx1/27/cb171eb673f5738ed89b0546b7e474ac/index.m3u8
-台視,https://z88.ubtvfans.com/live/rx1/326/c30e3cf1a9d2033be1ac80712fffdc12/index.m3u8
-台視,https://z88.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
-中視,https://z88.ubtvfans.com/live/rx1/333/5defc2a827d09feb516cda3182f189e8/index.m3u8
-中視,https://z88.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
-華視,https://z88.ubtvfans.com/live/rx1/32/9b44594fd83fa796452bff38162a3202/index.m3u8
-華視,https://z88.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
-公視,https://z88.ubtvfans.com/live/rx1/86/64703ae4d9c596caa344b65be2e6cc67/index.m3u8
-公視,https://z88.ubtvfans.com/live/rx6/28/c1260eafd7e20fdb879904548ba76ddf/index.m3u8
-好消息,https://z88.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
-客家電視,https://z88.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
-緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/174dfc7a30b495c92a2068327bb43efa/index.m3u8
-八大第一,https://z88.ubtvfans.com/live/rx1/318/e76cf0121722cdec755c818a67e5462a/index.m3u8
-八大綜合,https://z88.ubtvfans.com/live/rx1/3258/7da90cbc0cc5c247d6d52bc51e98024d/index.m3u8
-八大綜合,https://z88.ubtvfans.com/live/rx1/2286/bbfc612e34aa4278cb672507ae8f6080/index.m3u8
-東風衛視,https://z88.ubtvfans.com/live/rx1/3262/ecb1347dbef93804d7da43f50315d982/index.m3u8
-三立臺灣,https://z88.ubtvfans.com/live/rx1/35/95b580d006ccfa063954e194114981bb/index.m3u8
-三立臺灣,https://z88.ubtvfans.com/live/rx1/2436/b092782bb131a42358edd5973812efa9/index.m3u8
-三立臺灣,https://z88.ubtvfans.com/live/rx1/21/76c76eb600260e45acc3e1b7cc9b8829/index.m3u8
-三立都會,https://z88.ubtvfans.com/live/rx1/2435/a15f8b990537e8cd25f336a415380f30/index.m3u8
-三立都會,https://z88.ubtvfans.com/live/rx1/1001/aa97429bb7cba900f227972bf6b4b97b/index.m3u8
-三立都會,https://z88.ubtvfans.com/live/rx1/38/d3a2189c91cf1ddbed698d220984ec03/index.m3u8
-東森綜合,https://z88.ubtvfans.com/live/rx1/372/be456746d41f8414c18f760897de0673/index.m3u8
-東森綜合,https://z88.ubtvfans.com/live/rx1/3254/3c427ecd56ea46b403ced80f522024dd/index.m3u8
-東森超視,https://z88.ubtvfans.com/live/rx1/80/b5d0c31ab2a655f6565c3d08c9e4b0f1/index.m3u8
-東森購物2,https://z88.ubtvfans.com/live/rx6/1156/6ac2cd40b881317511da83c5a10b8a92/index.m3u8
-中天綜合,https://z88.ubtvfans.com/live/rx1/3072/82fc353808368794fe365772f595ba93/index.m3u8
-中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
-中天娛樂,https://z88.ubtvfans.com/live/rx1/324/fb84f373bc641f0424a893f87e1f88ba/index.m3u8
-TVBS歡樂,https://z88.ubtvfans.com/live/rx1/40/8ceb045b439bef6cb1f623464f39c519/index.m3u8
-八大精彩,https://z88.ubtvfans.com/live/rx1/1024/08b238ed7421aede867c880e1e5c86f1/index.m3u8
-JET綜合,https://z88.ubtvfans.com/live/rx1/41/c1064e0a4d03c8b2afb980287575e161/index.m3u8
-東森購物1,https://z88.ubtvfans.com/live/rx6/1155/49f63742d532959a02171b3730b8164c/index.m3u8
-TVBS,https://z88.ubtvfans.com/live/rx1/2273/971d29df098a4eaf4714a260eeedd411/index.m3u8
-TVBS,https://z88.ubtvfans.com/live/rx4/16/0863004f457425d84eef2152ea466eb9/index.m3u8
-緯來育樂,https://z88.ubtvfans.com/live/rx1/338/b455808b20b7ad0cf01b55be627ed959/index.m3u8
-緯來育樂（測試）,https://z88.ubtvfans.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
-緯來日本,https://z88.ubtvfans.com/live/rx1/337/3b0d4202de1049a73589247a8028070a/index.m3u8
-緯來日本,https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
-國興衛視,https://z88.ubtvfans.com/live/rx1/65/6cf1bba1b16518a5da5dda2c42e756cc/index.m3u8
-國興衛視-備,https://z88.ubtvfans.com/live/rx1/3261/dc094a4037fa569499de6f7989180277/index.m3u8
-信大電視,https://z88.ubtvfans.com/live/rx6/422/68859fe350eaa682d63751f3e7bf82e6/index.m3u8
-八大娱乐,https://z88.ubtvfans.com/live/rx1/105/bc1daa0c7ab48bbec4ba74801befcad1/index.m3u8
-公視3台,https://z88.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
-好消息2,https://z88.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
-高點綜合,https://z88.ubtvfans.com/live/rx1/99/18738768f6f66bc143d29a1cfd626281/index.m3u8
-中天亞洲,https://z88.ubtvfans.com/live/rx6/2277/7162c114ae1dc81d4c1d56184638ab5d/index.m3u8
-中天亞洲,https://z88.ubtvfans.com/live/rx1/322/adf09c9b125ca53d55e6d3504fb78dcb/index.m3u8
-民視第一台,https://z88.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
-民視台灣,https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
-龍華日韓,https://z88.ubtvfans.com/live/rx1/382/18190f1b240aa61058c76fecf63c9f8e/index.m3u8
-豬哥亮歌廳秀,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
-豬哥會社,https://z88.ubtvfans.com/live/rx6/103/3f213826ba5dbdd891fa92f7205dc782/index.m3u8
-ELTA娛樂台,https://z88.ubtvfans.com/live/rx1/351/2b3a1d012e72cc51d4e149ad3764d8b1/index.m3u8
-韓國娛樂,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
-靖天國際,https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
-靖天育樂,https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
-靖天日本,https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-靖天歡樂,https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
-三立綜合,https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-三立綜合,https://z88.ubtvfans.com/live/rx1/2815/7607e92022ee4906c5e74b8912b7f938/index.m3u8
-靖天資訊,https://z88.ubtvfans.com/live/rx2/49/84ed3f5b844bee3715410ddc1b66cf39/index.m3u8
-靖天綜合,https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
-中視菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
-TVBS精采,https://z88.ubtvfans.com/live/rx1/66/57acefb7578c8b5b01f7e4d3a23e65f0/index.m3u8
-TVBS精采,https://z88.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
-年代much,https://z88.ubtvfans.com/live/rx2/1359/fe676f94494d57950e5a104b27a5cfa7/index.m3u8
-ELTA綜合,https://z88.ubtvfans.com/live/rx1/1137/1b0fe62ac4c7f524733c208ea6f0ed21/index.m3u8
-TVN台湾版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-東森購物3,https://z88.ubtvfans.com/live/rx6/1584/c052bd4c50be7676f06709e917d4a793/index.m3u8
-MOMO購物1,https://z88.ubtvfans.com/live/rx6/1585/41413f47318acec62aa3e4c7331c0371/index.m3u8
-MOMO購物2,https://z88.ubtvfans.com/live/rx6/1586/6f15340ecd25670ca08605411b9c7b37/index.m3u8
-美好購物1,https://z88.ubtvfans.com/live/rx6/1591/251f7b1927b38165f672891c6f8d4e78/index.m3u8
-美好購物2,https://z88.ubtvfans.com/live/rx6/1592/09072a18e84508c56729c0b6e2c80f02/index.m3u8
-國會頻道１,https://z88.ubtvfans.com/live/rx6/2614/a8644d38b231c86305d55f929f60dec8/index.m3u8
-國會頻道2,https://z88.ubtvfans.com/live/rx6/420/d427169e08d782c3793fd31317c4c706/index.m3u8
-海豚綜合,https://z88.ubtvfans.com/live/rx6/262/626f39632e4b8d67d0ee8049ba0bc3b4/index.m3u8
-台灣地震監視,https://z88.ubtvfans.com/live/rx6/2637/6d4fbfc0d3ce3624f4ee82dc33c26649/index.m3u8
-中視經典綜藝,https://z88.ubtvfans.com/live/rx6/2773/e280cfe2f392244454755a743a7806c8/index.m3u8
-第一名電視,https://z88.ubtvfans.com/live/rx6/216/9dd2225be1aacbfd3b6e5c1d6ee12e01/index.m3u8
-誠心電視,https://z88.ubtvfans.com/live/rx6/495/87d2a1700ed072de1c9232ea84af50d1/index.m3u8
-萬秀豬王,https://z88.ubtvfans.com/live/rx6/2978/ce1f4fa827249995f5753e058545d453/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx1/2794/06cd115365b5095465cb62fa04427e1f/index.m3u8
-三立新聞+,https://z88.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
-東森新聞4,https://z88.ubtvfans.com/live/rx1/2766/7c8313f0387637d3abec8b79823b551c/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-東森亞洲,https://z88.ubtvfans.com/live/rx1/3/e02dd030dc43d7e25fd8288fc9c22a11/index.m3u8
-中天新聞2台,https://z88.ubtvfans.com/live/rx6/152/2d8b2279a71a577a7a4817ccf6e8ead0/index.m3u8
-中天新聞,https://z88.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
-民視新聞,https://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-TVBS新聞,https://z88.ubtvfans.com/live/rx4/2736/bfdca7e2a9b0141e6716a43f90e93d22/index.m3u8
-TVBS新聞,https://z88.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
-東森財經,https://z88.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
-華視新聞,https://z88.ubtvfans.com/live/rx1/2424/67ae228e0af437f5e3fe36689ac1cac9/index.m3u8
-華視新聞,https://z88.ubtvfans.com/live/rx6/1171/058ed1ce3a191d38f0e5918d5f655e3a/index.m3u8
-台視新聞,https://z88.ubtvfans.com/live/rx6/1/f2689f3bc90c3782bc56427e5463bcf8/index.m3u8
-寰宇新聞,https://z88.ubtvfans.com/live/rx6/304/90b7f77306d00f55293802b34ac88952/index.m3u8
-寰宇財經,https://z88.ubtvfans.com/live/rx6/2536/15b2e288eee63f0047911f73bcd0b3fc/index.m3u8
-公視新聞,https://z88.ubtvfans.com/live/rx6/20/1938403e880d42045b94c56c488894c5/index.m3u8
-寰宇臺灣,https://z88.ubtvfans.com/live/rx1/87/4a23c542d935fa907129b1c6eebde86f/index.m3u8
-年代新聞,https://z88.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z88.ubtvfans.com/live/rx1/2777/313274d3ff42695b8ac68984698008f6/index.m3u8
-台視財經,https://z88.ubtvfans.com/live/rx1/300/56b15fc6b228e2e43d2873bd97b6ea9d/index.m3u8
-鏡新聞mnews,https://z88.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
-三立国際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
-CBN News,https://z88.ubtvfans.com/live/rx6/499/9ee8213ce1d18e95bcc8ccbafed70cbd/index.m3u8
-東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/27bc99acf387e6446aa6958bfc1d9444/index.m3u8
-東森戲劇,https://z88.ubtvfans.com/live/rx1/321/6e310925fa2aa6e7274b236cc99685ac/index.m3u8
-八大戲劇,https://z88.ubtvfans.com/live/rx1/81/a3e860d21cf5f6252eb7d08ed1abd29b/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/2720/0679a36ae9de135be5b7efb44f74a85b/index.m3u8
-緯來電影,https://z88.ubtvfans.com/live/rx1/2728/d2fe2b9893b40d1099a7bcd0df062ca3/index.m3u8
-緯來電影,https://z88.ubtvfans.com/live/rx1/3252/1e5fc2617490832af28b647b92934999/index.m3u8
-HBO HD,https://z88.ubtvfans.com/live/rx1/332/355b0e7c6284c5dd990074ade643ebb8/index.m3u8
-HBO HD,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
-東森洋片,https://z88.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
-壹電影,https://z88.ubtvfans.com/live/rx1/2284/0bc14977af0178bcdc71d180e230321c/index.m3u8
-好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8
-愛爾達影劇,https://z88.ubtvfans.com/live/rx1/500/08e0c7d7739bcfbf5b321211addc793f/index.m3u8
-CineMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
-靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
-靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
-緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/c21d1805875193b4cc64293a1f26d08d/index.m3u8
-EYE戲劇,https://z88.ubtvfans.com/live/rx1/191/78413141b5531ed3c2d3eec76c5d0ec1/index.m3u8
-三立戲劇,https://z88.ubtvfans.com/live/rx1/64/4c301b0cf679104b02233cf8f962d3ee/index.m3u8
-三立戲劇,https://z88.ubtvfans.com/live/rx1/2819/e2939ea1f305919470d9d2c20fc2cb37/index.m3u8
-龍華偶像,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-靖天電影,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
-美亞電影,https://z88.ubtvfans.com/live/rx1/375/f37775e6478032a0878def1864f31711/index.m3u8
-HBOSignature,https://z88.ubtvfans.com/live/rx1/329/17436d1e6f9f65c789b3ce36100f16cb/index.m3u8
-HBOSignature,https://z88.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx1/330/672bf68a0a682cd02168cf83418d4aef/index.m3u8
-采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
-采昌影劇,https://z88.ubtvfans.com/live/rx1/2804/6736ffb2a774d12709b6fec4f2d30365/index.m3u8
-影迷數位電影,https://z88.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
-影迷數位電影,https://z88.ubtvfans.com/live/rx1/2800/b34b6ed06fef6eb3ef1f9997d160bae2/index.m3u8
-龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-龍華戲劇,https://z88.ubtvfans.com/live/rx1/2796/f37ba166e1842351b1c66a41df915e96/index.m3u8
-龍華經典,https://z88.ubtvfans.com/live/rx1/100/11455600333dc0d0e7ffc74bd012e95f/index.m3u8
-龍翔時代,https://z88.ubtvfans.com/live/rx1/373/72ff9f42bc18b4d3f46d9a4a0847564e/index.m3u8
-AXN臺灣,https://z88.ubtvfans.com/live/rx1/2816/e5ef36f1ac98bfb819d5f3232972d391/index.m3u8
-天映經典,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
-公視戲劇,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
-AXN亞洲,https://z88.ubtvfans.com/live/rx1/1066/7bcad6f5cb60f69d6bed039e22bf90b6/index.m3u8
-Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/9396c2544377ae33b75b571c76726ee3/index.m3u8
-龍華電影,https://z88.ubtvfans.com/live/rx1/311/6769e1d74f8e49779c875631eaf605a1/index.m3u8
-華納電影,https://z88.ubtvfans.com/live/rx1/83/baf111f9330624dce5003d1559e188ba/index.m3u8
-靖天戲劇,https://z88.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
-龍華洋片,https://z88.ubtvfans.com/live/rx1/341/d460e01af1e2753e7f4424b4bf34522a/index.m3u8
-飢餓遊戲,https://z88.ubtvfans.com/live/rx6/264/23083b43bd840220fdc5af900585eb00/index.m3u8
-ELTA體育1,https://z88.ubtvfans.com/live/rx1/2729/7fea5fb664a75ca66a3da7b3287eb922/index.m3u8
-ELTA體育1-備,https://z88.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
-ELTA體育2,https://z88.ubtvfans.com/live/rx1/2730/97fe24b806fdddd91089df736dcb6904/index.m3u8
-ELTA體育2-備,https://z88.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
-ELTA體育3-備2,https://z88.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
-ELTA體育3,https://z88.ubtvfans.com/live/rx1/2731/f5cd20e3b291672ee4b5ff4f13f9d630/index.m3u8
-ELTA體育3台-備,https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
-ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/662425d9560b953880bbb1a9faa4bb32/index.m3u8
-緯來體育,https://z88.ubtvfans.com/live/rx1/118/73f860632b916aedfe839b46ea58c630/index.m3u8
-緯來體育,https://z88.ubtvfans.com/live/rx3/2732/4a38b4f7ff814aecc701aab67b5ea42c/index.m3u8
-Eleven Sport 1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven Sport 2,https://z88.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
-Z頻道,https://z88.ubtvfans.com/live/rx1/1130/e739576b1aff666f9fdddf5a90b2cf92/index.m3u8
-博斯無限,https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
-博斯無限,https://z88.ubtvfans.com/live/rx1/2797/cef20d4474f12cdf3149418b63b636e2/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx1/2798/e46d0bacdc54caf5b4cf76fc391a3f93/index.m3u8
-博斯運動1,https://z88.ubtvfans.com/live/rx1/379/e713406601de52476d837004981af67e/index.m3u8
-博斯運動2,https://z88.ubtvfans.com/live/rx1/380/fd0d79577114e459f4ce4b2309da4750/index.m3u8
-亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/bb58cd1b255f58c6cf970519b8713c14/index.m3u8
-探索頻道,https://z88.ubtvfans.com/live/rx1/2817/c90dc5a2c0fdb1fcbd4cd0c79b96110b/index.m3u8
-探索頻道,https://z88.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
-大陸尋奇,https://z88.ubtvfans.com/live/rx6/102/9e5a9c0636f4f9fbc9888e487df2058b/index.m3u8
-探索亞洲,https://z88.ubtvfans.com/live/rx1/306/40457770b1b221cc752c3b46e21975c6/index.m3u8
-探索科學,https://z88.ubtvfans.com/live/rx1/343/4649e63dd450ef96bc471e8eae798f65/index.m3u8
-國家野生（英）,https://z88.ubtvfans.com/live/rx1/1038/9b32fc6e57855ef8d8f0eec759f9ae0e/index.m3u8
-探索EVE,https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
-TaiwanPlus,https://z88.ubtvfans.com/live/rx6/327/ebb005678777b3ac5065158017054331/index.m3u8
-視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/3073/d86b0ec21887580d706afa6f903a80d9/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/e0f32fb3c0eb7f4ffda974a354c02815/index.m3u8
-Globetrotter（環球旅遊）,https://z88.ubtvfans.com/live/rx1/114/b486b29428a82907474eaa9d8924721b/index.m3u8
-Globetrotter（MOD）,https://z88.ubtvfans.com/live/rx1/3259/3c1d3084b73e86371fff90636daaf98c/index.m3u8
-MOMO親子,https://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
-東森幼幼（備）,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-東森幼幼,https://z88.ubtvfans.com/live/rx1/371/e5a626d0c50b5b2ffc67d45f5573088f/index.m3u8
-東森亞洲呦呦,https://z88.ubtvfans.com/live/rx1/293/b97bce651c119e363f86476c45894e3c/index.m3u8
-CN卡通,https://z88.ubtvfans.com/live/rx1/107/2a996b4eec8a67c34db592186cfc9754/index.m3u8
-靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
-靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f2b38611a7331b79c3a6810a1f009503/index.m3u8
-大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
+民視,http://cookies.elementfx.com/ublive/ublive.php?id=336
+民視,http://cookies.elementfx.com/ublive/ublive.php?id=2805
+台視,http://cookies.elementfx.com/ublive/ublive.php?id=27
+台視,http://cookies.elementfx.com/ublive/ublive.php?id=326
+台視,http://cookies.elementfx.com/ublive/ublive.php?id=312
+中視,http://cookies.elementfx.com/ublive/ublive.php?id=333
+中視,http://cookies.elementfx.com/ublive/ublive.php?id=1041
+華視,http://cookies.elementfx.com/ublive/ublive.php?id=32
+公視,http://cookies.elementfx.com/ublive/ublive.php?id=86
+公視,http://cookies.elementfx.com/ublive/ublive.php?id=28
+好消息,http://cookies.elementfx.com/ublive/ublive.php?id=104
+客家電視,http://cookies.elementfx.com/ublive/ublive.php?id=76
+緯來綜合,http://cookies.elementfx.com/ublive/ublive.php?id=2726
+八大第一,http://cookies.elementfx.com/ublive/ublive.php?id=318
+八大綜合,http://cookies.elementfx.com/ublive/ublive.php?id=3258
+八大綜合,http://cookies.elementfx.com/ublive/ublive.php?id=2286
+東風衛視,http://cookies.elementfx.com/ublive/ublive.php?id=3262
+三立臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=35
+三立臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=2436
+三立臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=21
+三立都會,http://cookies.elementfx.com/ublive/ublive.php?id=2435
+三立都會,http://cookies.elementfx.com/ublive/ublive.php?id=1001
+三立都會,http://cookies.elementfx.com/ublive/ublive.php?id=38
+東森綜合,http://cookies.elementfx.com/ublive/ublive.php?id=372
+東森綜合-替,http://cookies.elementfx.com/ublive/ublive.php?id=3254
+東森超視,http://cookies.elementfx.com/ublive/ublive.php?id=80
+東森購物2,http://cookies.elementfx.com/ublive/ublive.php?id=1156
+中天綜合,http://cookies.elementfx.com/ublive/ublive.php?id=3072
+中天綜合,http://cookies.elementfx.com/ublive/ublive.php?id=54
+中天娛樂,http://cookies.elementfx.com/ublive/ublive.php?id=324
+TVBS歡樂,http://cookies.elementfx.com/ublive/ublive.php?id=40
+八大精彩,http://cookies.elementfx.com/ublive/ublive.php?id=1024
+JET綜合,http://cookies.elementfx.com/ublive/ublive.php?id=41
+東森購物1,http://cookies.elementfx.com/ublive/ublive.php?id=1155
+TVBS,http://cookies.elementfx.com/ublive/ublive.php?id=2273
+TVBS,http://cookies.elementfx.com/ublive/ublive.php?id=16
+緯來育樂,http://cookies.elementfx.com/ublive/ublive.php?id=338
+緯來育樂（測試）,http://cookies.elementfx.com/ublive/ublive.php?id=2772
+緯來日本,http://cookies.elementfx.com/ublive/ublive.php?id=337
+緯來日本,http://cookies.elementfx.com/ublive/ublive.php?id=46
+信大電視,http://cookies.elementfx.com/ublive/ublive.php?id=422
+八大娱乐,http://cookies.elementfx.com/ublive/ublive.php?id=105
+公視3台,http://cookies.elementfx.com/ublive/ublive.php?id=1340
+好消息2,http://cookies.elementfx.com/ublive/ublive.php?id=363
+中天亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=2277
+中天亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=322
+民視第一台,http://cookies.elementfx.com/ublive/ublive.php?id=34
+民視台灣,http://cookies.elementfx.com/ublive/ublive.php?id=36
+龍華日韓,http://cookies.elementfx.com/ublive/ublive.php?id=382
+豬哥亮歌廳秀,http://cookies.elementfx.com/ublive/ublive.php?id=75
+豬哥會社,http://cookies.elementfx.com/ublive/ublive.php?id=103
+ELTA娛樂台,http://cookies.elementfx.com/ublive/ublive.php?id=351
+韓國娛樂,http://cookies.elementfx.com/ublive/ublive.php?id=73
+靖天國際,http://cookies.elementfx.com/ublive/ublive.php?id=345
+靖天育樂,http://cookies.elementfx.com/ublive/ublive.php?id=1029
+靖天日本,http://cookies.elementfx.com/ublive/ublive.php?id=108
+靖天歡樂,http://cookies.elementfx.com/ublive/ublive.php?id=51
+三立綜合,http://cookies.elementfx.com/ublive/ublive.php?id=315
+三立綜合,http://cookies.elementfx.com/ublive/ublive.php?id=2815
+靖天資訊,http://cookies.elementfx.com/ublive/ublive.php?id=49
+靖天綜合,http://cookies.elementfx.com/ublive/ublive.php?id=308
+中視經典,http://cookies.elementfx.com/ublive/ublive.php?id=185
+中視菁采,http://cookies.elementfx.com/ublive/ublive.php?id=74
+TVBS精采,http://cookies.elementfx.com/ublive/ublive.php?id=66
+TVBS精采,http://cookies.elementfx.com/ublive/ublive.php?id=117
+年代much,http://cookies.elementfx.com/ublive/ublive.php?id=1359
+ELTA綜合,http://cookies.elementfx.com/ublive/ublive.php?id=1137
+東森購物3,http://cookies.elementfx.com/ublive/ublive.php?id=1584
+MOMO購物1,http://cookies.elementfx.com/ublive/ublive.php?id=1585
+MOMO購物2,http://cookies.elementfx.com/ublive/ublive.php?id=1586
+美好購物1,http://cookies.elementfx.com/ublive/ublive.php?id=1591
+美好購物2,http://cookies.elementfx.com/ublive/ublive.php?id=1592
+大立電視,http://cookies.elementfx.com/ublive/ublive.php?id=1593
+國會頻道１,http://cookies.elementfx.com/ublive/ublive.php?id=2614
+國會頻道2,http://cookies.elementfx.com/ublive/ublive.php?id=420
+海豚綜合,http://cookies.elementfx.com/ublive/ublive.php?id=262
+台灣地震監視,http://cookies.elementfx.com/ublive/ublive.php?id=2637
+中視經典綜藝,http://cookies.elementfx.com/ublive/ublive.php?id=2773
+第一名電視,http://cookies.elementfx.com/ublive/ublive.php?id=216
+誠心電視,http://cookies.elementfx.com/ublive/ublive.php?id=495
+萬秀豬王,http://cookies.elementfx.com/ublive/ublive.php?id=2978
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=43
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2794
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2392
+三立新聞+,http://cookies.elementfx.com/ublive/ublive.php?id=320
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1025
+東森新聞4,http://cookies.elementfx.com/ublive/ublive.php?id=2766
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1358
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2393
+東森亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=3
+中天新聞2台,http://cookies.elementfx.com/ublive/ublive.php?id=152
+中天新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2420
+民視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2395
+民視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=13
+TVBS新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2736
+TVBS新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2
+TVBS新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2396
+東森財經,http://cookies.elementfx.com/ublive/ublive.php?id=2397
+東森財經,http://cookies.elementfx.com/ublive/ublive.php?id=12
+華視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2424
+華視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1171
+台視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2399
+台視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1
+中視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2400
+寰宇新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2401
+寰宇新聞,http://cookies.elementfx.com/ublive/ublive.php?id=304
+寰宇財經,http://cookies.elementfx.com/ublive/ublive.php?id=2536
+公視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=20
+寰宇臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=87
+年代新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2719
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
+年代新聞-備,http://cookies.elementfx.com/ublive/ublive.php?id=1099
+壹新聞-替,http://cookies.elementfx.com/ublive/ublive.php?id=494
+台視財經,http://cookies.elementfx.com/ublive/ublive.php?id=300
+鏡新聞mnews,http://cookies.elementfx.com/ublive/ublive.php?id=463
+三立国際,http://cookies.elementfx.com/ublive/ublive.php?id=2285
+CBN News,http://cookies.elementfx.com/ublive/ublive.php?id=499
+東森戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2825
+東森戲劇-備,http://cookies.elementfx.com/ublive/ublive.php?id=321
+八大戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=81
+緯來戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2727
+緯來戲劇-備,http://cookies.elementfx.com/ublive/ublive.php?id=339
+東森電影-備,http://cookies.elementfx.com/ublive/ublive.php?id=350
+東森電影,http://cookies.elementfx.com/ublive/ublive.php?id=2720
+緯來電影,http://cookies.elementfx.com/ublive/ublive.php?id=2728
+緯來電影,http://cookies.elementfx.com/ublive/ublive.php?id=3252
+HBO HD,http://cookies.elementfx.com/ublive/ublive.php?id=332
+HBO HD,http://cookies.elementfx.com/ublive/ublive.php?id=2823
+東森洋片,http://cookies.elementfx.com/ublive/ublive.php?id=1128
+壹電影,http://cookies.elementfx.com/ublive/ublive.php?id=2284
+好萊塢電影,http://cookies.elementfx.com/ublive/ublive.php?id=37
+愛爾達影劇,http://cookies.elementfx.com/ublive/ublive.php?id=500
+CineMAX,http://cookies.elementfx.com/ublive/ublive.php?id=346
+靖天映畫,http://cookies.elementfx.com/ublive/ublive.php?id=349
+靖洋戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=319
+緯來精彩,http://cookies.elementfx.com/ublive/ublive.php?id=2280
+EYE戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=191
+三立戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=64
+三立戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2819
+龍華偶像,http://cookies.elementfx.com/ublive/ublive.php?id=385
+霹靂臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=1339
+靖天電影,http://cookies.elementfx.com/ublive/ublive.php?id=110
+美亞電影,http://cookies.elementfx.com/ublive/ublive.php?id=375
+HBOSignature,http://cookies.elementfx.com/ublive/ublive.php?id=329
+HBOSignature,http://cookies.elementfx.com/ublive/ublive.php?id=2824
+HBO Hits,http://cookies.elementfx.com/ublive/ublive.php?id=330
+采昌影劇,http://cookies.elementfx.com/ublive/ublive.php?id=62
+采昌影劇,http://cookies.elementfx.com/ublive/ublive.php?id=2804
+影迷數位電影,http://cookies.elementfx.com/ublive/ublive.php?id=497
+影迷數位電影,http://cookies.elementfx.com/ublive/ublive.php?id=2800
+龍華戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=365
+龍華戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2796
+龍華經典,http://cookies.elementfx.com/ublive/ublive.php?id=100
+龍翔時代,http://cookies.elementfx.com/ublive/ublive.php?id=373
+AXN臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=2816
+天映經典,http://cookies.elementfx.com/ublive/ublive.php?id=2289
+公視戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=69
+AXN亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=1066
+Trill恐怖電影,http://cookies.elementfx.com/ublive/ublive.php?id=18
+龍華電影,http://cookies.elementfx.com/ublive/ublive.php?id=311
+華納電影,http://cookies.elementfx.com/ublive/ublive.php?id=83
+靖天戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=109
+龍華洋片,http://cookies.elementfx.com/ublive/ublive.php?id=341
+飢餓遊戲,http://cookies.elementfx.com/ublive/ublive.php?id=264
+緯來體育,http://cookies.elementfx.com/ublive/ublive.php?id=118
+緯來體育,http://cookies.elementfx.com/ublive/ublive.php?id=2732
+ELTA體育1,http://cookies.elementfx.com/ublive/ublive.php?id=2729
+ELTA體育1-備,http://cookies.elementfx.com/ublive/ublive.php?id=192
+ELTA體育2,http://cookies.elementfx.com/ublive/ublive.php?id=2730
+ELTA體育2-備,http://cookies.elementfx.com/ublive/ublive.php?id=193
+ELTA體育3-備2,http://cookies.elementfx.com/ublive/ublive.php?id=194
+ELTA體育3,http://cookies.elementfx.com/ublive/ublive.php?id=2731
+ELTA體育3台-備,http://cookies.elementfx.com/ublive/ublive.php?id=2722
+ELTA體育4,http://cookies.elementfx.com/ublive/ublive.php?id=2820
+ELTA體育4-備,http://cookies.elementfx.com/ublive/ublive.php?id=3255
+Eleven Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=3224
+Eleven Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=301
+Z頻道,http://cookies.elementfx.com/ublive/ublive.php?id=1130
+博斯無限,http://cookies.elementfx.com/ublive/ublive.php?id=381
+博斯無限,http://cookies.elementfx.com/ublive/ublive.php?id=2797
+博斯無限2,http://cookies.elementfx.com/ublive/ublive.php?id=426
+博斯無限2,http://cookies.elementfx.com/ublive/ublive.php?id=2798
+博斯運動1,http://cookies.elementfx.com/ublive/ublive.php?id=379
+博斯運動2,http://cookies.elementfx.com/ublive/ublive.php?id=380
+亞洲旅遊,http://cookies.elementfx.com/ublive/ublive.php?id=2299
+探索頻道,http://cookies.elementfx.com/ublive/ublive.php?id=2817
+探索頻道,http://cookies.elementfx.com/ublive/ublive.php?id=1035
+大陸尋奇,http://cookies.elementfx.com/ublive/ublive.php?id=102
+動物星球,http://cookies.elementfx.com/ublive/ublive.php?id=367
+探索亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=306
+探索科學,http://cookies.elementfx.com/ublive/ublive.php?id=343
+國家野生（英）,http://cookies.elementfx.com/ublive/ublive.php?id=1038
+探索EVE,http://cookies.elementfx.com/ublive/ublive.php?id=1036
+TaiwanPlus,http://cookies.elementfx.com/ublive/ublive.php?id=327
+視納華仁紀實,http://cookies.elementfx.com/ublive/ublive.php?id=91
+美食星球,http://cookies.elementfx.com/ublive/ublive.php?id=3073
+美食星球,http://cookies.elementfx.com/ublive/ublive.php?id=1360
+EYE旅遊,http://cookies.elementfx.com/ublive/ublive.php?id=1494
+探索動力DMAX,http://cookies.elementfx.com/ublive/ublive.php?id=335
+MOMO親子,http://cookies.elementfx.com/ublive/ublive.php?id=2767
+東森幼幼,http://cookies.elementfx.com/ublive/ublive.php?id=371
+東森幼幼（備）,http://cookies.elementfx.com/ublive/ublive.php?id=2771
+東森亞洲呦呦,http://cookies.elementfx.com/ublive/ublive.php?id=293
+CN卡通,http://cookies.elementfx.com/ublive/ublive.php?id=107
+靖洋卡通,http://cookies.elementfx.com/ublive/ublive.php?id=348
+靖天卡通,http://cookies.elementfx.com/ublive/ublive.php?id=344
+大愛一臺,http://cookies.elementfx.com/ublive/ublive.php?id=11
 港澳頻道,#genre#
-TVB翡翠,https://z88.ubtvfans.com/live/rx1/390/2aaf45955b88bc753effe41f9cb094d0/index.m3u8
-TVB翡翠,https://z88.ubtvfans.com/live/rx1/30/c42e16b9b557b6bf5ecd8e282c711ee8/index.m3u8
-TVB明珠,https://z88.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
-TVB明珠,https://z88.ubtvfans.com/live/rx1/2437/d18c0dca00d0f0ed1381a2eec64c00e8/index.m3u8
-TVB plus,https://z88.ubtvfans.com/live/rx1/45/480afc21cb6e660b63b14b1e2842b5fc/index.m3u8
-TVB plus,https://z88.ubtvfans.com/live/rx1/394/a1a220b8bbe279d4ed490d9233c7fd42/index.m3u8
-HOY资讯台,https://z88.ubtvfans.com/live/rx1/395/33828c5efff50928130552eef762d022/index.m3u8
-Viu TV,https://z88.ubtvfans.com/live/rx1/2334/3d9e7fa4ea20135297395694ae635e7d/index.m3u8
-TVB_POPC,https://z88.ubtvfans.com/live/rx1/2818/b74642d4d6cc5edbb1fd792a996f6768/index.m3u8
-TVB直播,https://z88.ubtvfans.com/live/rx1/2743/63e3073323655c75b2cc780f39e50147/index.m3u8
-TVB J2,https://z88.ubtvfans.com/live/rx1/392/f0a4f36cc4512c88feb32fe90dcdf284/index.m3u8
-TVB J2,https://z88.ubtvfans.com/live/rx1/2834/a62caf235434f94dacec9574c862183e/index.m3u8
-NOWTV,https://z88.ubtvfans.com/live/rx1/1246/1e15ea2827def88ef1994f4c7e3799f6/index.m3u8
-鳳凰香港,https://z88.ubtvfans.com/live/rx1/2810/4fa266d15cefbf69f4a19d208a433fad/index.m3u8
-鳳凰衛視,https://z88.ubtvfans.com/live/rx3/2291/2b011e9f29a96046f6b0804c7ba039ef/index.m3u8
-鳳凰衛視,https://z88.ubtvfans.com/live/rx1/2812/cdd29cdeafabc4f01b5a6b2e6c92b9fd/index.m3u8
-鳳凰资讯,https://z88.ubtvfans.com/live/rx1/2811/54845f69305e59126a84ed015e085529/index.m3u8
-鳳凰资讯,https://z88.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
-星空衛視,https://z88.ubtvfans.com/live/rx1/56/1a0f4f99975f166b0d39157772cc34bd/index.m3u8
-HKIBC,https://z88.ubtvfans.com/live/rx1/354/99db3b3c9d6f54c585cf30f97f45f3a9/index.m3u8
-HOY,https://z88.ubtvfans.com/live/rx1/401/854fed92a8ecbb0a02c1119d001ccfb5/index.m3u8
-廣東珠江,https://z88.ubtvfans.com/live/rx1/1034/02ee843d33b0949fb2303a53ddd96679/index.m3u8
-18台,https://z88.ubtvfans.com/live/rx1/2813/aeb4576e4a832c36365a4e0a914524c3/index.m3u8
-18台,https://z88.ubtvfans.com/live/rx1/44/85341c5f70a65a7ffbe09dae086f1201/index.m3u8
-澳門蓮花,https://z88.ubtvfans.com/live/rx1/70/37bc89b1fcd9da68c0a8710d3cf77138/index.m3u8
-鳳凰電影,https://z88.ubtvfans.com/live/rx1/2814/4e85c6e79a8008c0eeee3b9fba980941/index.m3u8
-Viutv 6,https://z88.ubtvfans.com/live/rx1/176/b2b6957e3699957899727f34e90d7cf8/index.m3u8
-創世電視,https://z88.ubtvfans.com/live/rx6/1317/a6cc4d38042da834e3c7eee3ad2aef10/index.m3u8
-澳亞衛視,https://z88.ubtvfans.com/live/rx3/85/c871830ea5628e11c1a0af56f2424165/index.m3u8
-Euronews English,https://z88.ubtvfans.com/live/rx6/2342/154b6c8b822f81c15bab71d6b12ce655/index.m3u8
-TVB亞洲劇,https://z88.ubtvfans.com/live/rx1/1048/967cba19213ea501424f0eca629b12e2/index.m3u8
-TVB粵語片,https://z88.ubtvfans.com/live/rx1/1589/1624461c43c7c271178724c93a0d5808/index.m3u8
-TVB功夫台,https://z88.ubtvfans.com/live/rx1/168/09a432a19cb9526b697914342a38afa0/index.m3u8
-TVB1,https://z88.ubtvfans.com/live/rx3/1242/6045fc20e42766849008f7e4f94b01df/index.m3u8
-TVB DRAMA,https://z88.ubtvfans.com/live/rx3/1243/75a6e75f5bdac50e94dcafa9a6e8da00/index.m3u8
-TVBJ1,https://z88.ubtvfans.com/live/rx3/1244/e5d0e60831caa7cbd6cb28685f3ce666/index.m3u8
-TVBE,https://z88.ubtvfans.com/live/rx3/1245/d7a701aa77e07df92ac0b3d16e45aba6/index.m3u8
-新時代東部,https://z88.ubtvfans.com/live/rx3/1286/a8d6b7c5839888962b60049913b5a891/index.m3u8
-（時移）新時代東,https://z88.ubtvfans.com/live/rx4/1287/3a88005925f3ccce0dc5d66070400e02/index.m3u8
-新時代2,https://z88.ubtvfans.com/live/rx3/1288/99d190e454892806c4594d0ed8af9afc/index.m3u8
-城市電視,https://z88.ubtvfans.com/live/rx4/1289/0bae9e9455a9e8cf7ffda9d078043e09/index.m3u8
-TVB星河,https://z88.ubtvfans.com/live/rx4/1079/140d6886cb983b13354c31bbb06be710/index.m3u8
-TVB經典,https://z88.ubtvfans.com/live/rx4/1083/017333dd71cce6b700edd989820e11cd/index.m3u8
+TVB翡翠,http://cookies.elementfx.com/ublive/ublive.php?id=390
+TVB翡翠,http://cookies.elementfx.com/ublive/ublive.php?id=30
+TVB明珠,http://cookies.elementfx.com/ublive/ublive.php?id=391
+TVB明珠,http://cookies.elementfx.com/ublive/ublive.php?id=2437
+TVB plus,http://cookies.elementfx.com/ublive/ublive.php?id=45
+TVB plus,http://cookies.elementfx.com/ublive/ublive.php?id=394
+HOY资讯台,http://cookies.elementfx.com/ublive/ublive.php?id=395
+Viu TV,http://cookies.elementfx.com/ublive/ublive.php?id=2334
+Viutv,http://cookies.elementfx.com/ublive/ublive.php?id=72
+TVB_POPC,http://cookies.elementfx.com/ublive/ublive.php?id=2818
+TVB直播,http://cookies.elementfx.com/ublive/ublive.php?id=2743
+TVB J2,http://cookies.elementfx.com/ublive/ublive.php?id=392
+TVB J2,http://cookies.elementfx.com/ublive/ublive.php?id=2834
+NOWTV,http://cookies.elementfx.com/ublive/ublive.php?id=1246
+鳳凰香港,http://cookies.elementfx.com/ublive/ublive.php?id=2810
+鳳凰衛視,http://cookies.elementfx.com/ublive/ublive.php?id=2291
+鳳凰衛視,http://cookies.elementfx.com/ublive/ublive.php?id=2812
+鳳凰资讯,http://cookies.elementfx.com/ublive/ublive.php?id=2811
+鳳凰资讯,http://cookies.elementfx.com/ublive/ublive.php?id=2292
+星空衛視,http://cookies.elementfx.com/ublive/ublive.php?id=56
+HOY,http://cookies.elementfx.com/ublive/ublive.php?id=401
+HKIBC,http://cookies.elementfx.com/ublive/ublive.php?id=354
+廣東珠江,http://cookies.elementfx.com/ublive/ublive.php?id=1034
+18台,http://cookies.elementfx.com/ublive/ublive.php?id=2813
+18台,http://cookies.elementfx.com/ublive/ublive.php?id=44
+澳門蓮花,http://cookies.elementfx.com/ublive/ublive.php?id=70
+鳳凰電影,http://cookies.elementfx.com/ublive/ublive.php?id=2814
+Viutv 6,http://cookies.elementfx.com/ublive/ublive.php?id=176
+創世電視,http://cookies.elementfx.com/ublive/ublive.php?id=1317
+Euronews English,http://cookies.elementfx.com/ublive/ublive.php?id=2342
+TVB亞洲劇,http://cookies.elementfx.com/ublive/ublive.php?id=1048
+TVB粵語片,http://cookies.elementfx.com/ublive/ublive.php?id=1589
+TVB功夫台,http://cookies.elementfx.com/ublive/ublive.php?id=168
+TVB1,http://cookies.elementfx.com/ublive/ublive.php?id=1242
+TVB DRAMA,http://cookies.elementfx.com/ublive/ublive.php?id=1243
+TVBJ1,http://cookies.elementfx.com/ublive/ublive.php?id=1244
+TVBE,http://cookies.elementfx.com/ublive/ublive.php?id=1245
+新時代東部,http://cookies.elementfx.com/ublive/ublive.php?id=1286
+（時移）新時代東,http://cookies.elementfx.com/ublive/ublive.php?id=1287
+新時代2,http://cookies.elementfx.com/ublive/ublive.php?id=1288
+城市電視,http://cookies.elementfx.com/ublive/ublive.php?id=1289
+TVB星河,http://cookies.elementfx.com/ublive/ublive.php?id=1079
+TVB經典,http://cookies.elementfx.com/ublive/ublive.php?id=1083
 新聞頻道,#genre#
-HOY资讯台,https://z88.ubtvfans.com/live/rx1/395/33828c5efff50928130552eef762d022/index.m3u8
-HKIBC,https://z88.ubtvfans.com/live/rx1/354/99db3b3c9d6f54c585cf30f97f45f3a9/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx1/2794/06cd115365b5095465cb62fa04427e1f/index.m3u8
-三立新聞+,https://z88.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
-東森新聞4,https://z88.ubtvfans.com/live/rx1/2766/7c8313f0387637d3abec8b79823b551c/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-東森亞洲,https://z88.ubtvfans.com/live/rx1/3/e02dd030dc43d7e25fd8288fc9c22a11/index.m3u8
-中天新聞2台,https://z88.ubtvfans.com/live/rx6/152/2d8b2279a71a577a7a4817ccf6e8ead0/index.m3u8
-中天新聞,https://z88.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
-民視新聞,https://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-TVBS新聞,https://z88.ubtvfans.com/live/rx4/2736/bfdca7e2a9b0141e6716a43f90e93d22/index.m3u8
-TVBS新聞,https://z88.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
-東森財經,https://z88.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
-華視新聞,https://z88.ubtvfans.com/live/rx1/2424/67ae228e0af437f5e3fe36689ac1cac9/index.m3u8
-華視新聞,https://z88.ubtvfans.com/live/rx6/1171/058ed1ce3a191d38f0e5918d5f655e3a/index.m3u8
-台視新聞,https://z88.ubtvfans.com/live/rx6/1/f2689f3bc90c3782bc56427e5463bcf8/index.m3u8
-中視新聞,https://z88.ubtvfans.com/live/rx6/7/3bb55f2aeb0dc98d4b019dc862e78a59/index.m3u8
-寰宇新聞,https://z88.ubtvfans.com/live/rx6/304/90b7f77306d00f55293802b34ac88952/index.m3u8
-寰宇財經,https://z88.ubtvfans.com/live/rx6/2536/15b2e288eee63f0047911f73bcd0b3fc/index.m3u8
-公視新聞,https://z88.ubtvfans.com/live/rx6/20/1938403e880d42045b94c56c488894c5/index.m3u8
-寰宇臺灣,https://z88.ubtvfans.com/live/rx1/87/4a23c542d935fa907129b1c6eebde86f/index.m3u8
-年代新聞,https://z88.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-壹新聞,https://z88.ubtvfans.com/live/rx1/2777/313274d3ff42695b8ac68984698008f6/index.m3u8
-非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/4b1b623041120e96c24bbb6c729c5b0d/index.m3u8
-非凡新聞（備）,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
-非凡商業新聞,https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
-台視財經,https://z88.ubtvfans.com/live/rx1/300/56b15fc6b228e2e43d2873bd97b6ea9d/index.m3u8
-運通財經,https://z88.ubtvfans.com/live/rx6/79/87fc9b7dfbd52b10268f69ee769031a5/index.m3u8
-SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983f7fcbd4/index.m3u8
-鏡新聞mnews,https://z88.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
-鳳凰秀,https://z88.ubtvfans.com/live/rx6/1293/481ece003369e60f702ca20418a050ea/index.m3u8
-三立国際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
-DW德國之聲,https://z88.ubtvfans.com/live/rx6/1059/8dcea67b1a0da6697f506a44df3dd186/index.m3u8
-FRANCE 24 English,https://z88.ubtvfans.com/live/rx6/2231/840634d63a9267e2213de90e49597d8a/index.m3u8
-新唐人亞太台,https://z88.ubtvfans.com/live/rx3/10/f7240af7b6bf444cf2eef555a6917dff/index.m3u8
-CBN News,https://z88.ubtvfans.com/live/rx6/499/9ee8213ce1d18e95bcc8ccbafed70cbd/index.m3u8
-TRTWORLD,https://z88.ubtvfans.com/live/rx6/1022/7c303a019f34728187365569719ee665/index.m3u8
-Bloomberg Business,https://z88.ubtvfans.com/live/rx6/1046/bb6681376712ad64c67230137347edec/index.m3u8
-Al Jazeera,https://z88.ubtvfans.com/live/rx6/1144/b0dd23e4afefd94499f0b2efeb853601/index.m3u8
-Bloomberg Quicktake,https://z88.ubtvfans.com/live/rx6/370/58ab3cabdc5ad9668ae84644b4f1ec4a/index.m3u8
-Euronews English,https://z88.ubtvfans.com/live/rx6/2342/154b6c8b822f81c15bab71d6b12ce655/index.m3u8
-NHK WORLD,https://z88.ubtvfans.com/live/rx6/1394/285f43e40b8ac19a33fdb1c48c0a91ac/index.m3u8
-United Nations,https://z88.ubtvfans.com/live/rx6/184/6cf8e4a1a20b85f9a16c10d0b87dc9f8/index.m3u8
-Channels,https://z88.ubtvfans.com/live/rx6/1495/02f7540135a7934d578929d8620aec83/index.m3u8
-ABC News Australia,https://z88.ubtvfans.com/live/rx6/2769/bc0dcfc3979f4ea45c8c897a07ce51e0/index.m3u8
-GB News,https://z88.ubtvfans.com/live/rx6/77/3fa5a68553a8d34e7d619f50a550f725/index.m3u8
-FRANCE 24,https://z88.ubtvfans.com/live/rx6/1042/431c36701047742d2dbc22cb72272da1/index.m3u8
-CNN Indonesia,https://z88.ubtvfans.com/live/rx5/1145/d974c24bd1cdd3a88cde844fe11ceffe/index.m3u8
+HOY资讯台,http://cookies.elementfx.com/ublive/ublive.php?id=395
+HKIBC,http://cookies.elementfx.com/ublive/ublive.php?id=354
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=43
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2794
+三立新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2392
+三立新聞+,http://cookies.elementfx.com/ublive/ublive.php?id=320
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1025
+東森新聞4,http://cookies.elementfx.com/ublive/ublive.php?id=2766
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1358
+東森新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2393
+東森亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=3
+中天新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2394
+中天新聞2台,http://cookies.elementfx.com/ublive/ublive.php?id=152
+中天新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2420
+民視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2395
+民視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=13
+TVBS新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2736
+TVBS新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2
+TVBS新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2396
+東森財經,http://cookies.elementfx.com/ublive/ublive.php?id=2397
+東森財經,http://cookies.elementfx.com/ublive/ublive.php?id=12
+華視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2424
+華視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1171
+台視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2399
+台視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=1
+中視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2400
+中視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=7
+寰宇新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2401
+寰宇新聞,http://cookies.elementfx.com/ublive/ublive.php?id=304
+寰宇財經,http://cookies.elementfx.com/ublive/ublive.php?id=2536
+公視新聞,http://cookies.elementfx.com/ublive/ublive.php?id=20
+寰宇臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=87
+年代新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2719
+壹新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2777
+年代新聞-備,http://cookies.elementfx.com/ublive/ublive.php?id=1099
+壹新聞-替,http://cookies.elementfx.com/ublive/ublive.php?id=494
+非凡新聞,http://cookies.elementfx.com/ublive/ublive.php?id=2795
+非凡新聞（備）,http://cookies.elementfx.com/ublive/ublive.php?id=3236
+非凡商業新聞,http://cookies.elementfx.com/ublive/ublive.php?id=314
+台視財經,http://cookies.elementfx.com/ublive/ublive.php?id=300
+運通財經,http://cookies.elementfx.com/ublive/ublive.php?id=79
+SBN全球財經,http://cookies.elementfx.com/ublive/ublive.php?id=1497
+鏡新聞mnews,http://cookies.elementfx.com/ublive/ublive.php?id=463
+鳳凰秀,http://cookies.elementfx.com/ublive/ublive.php?id=1293
+三立国際,http://cookies.elementfx.com/ublive/ublive.php?id=2285
+DW德國之聲,http://cookies.elementfx.com/ublive/ublive.php?id=1059
+FRANCE 24 English,http://cookies.elementfx.com/ublive/ublive.php?id=2231
+新唐人亞太台,http://cookies.elementfx.com/ublive/ublive.php?id=10
+CBN News,http://cookies.elementfx.com/ublive/ublive.php?id=499
+Bloomberg Business,http://cookies.elementfx.com/ublive/ublive.php?id=1046
+Al Jazeera,http://cookies.elementfx.com/ublive/ublive.php?id=1144
+Bloomberg Quicktake,http://cookies.elementfx.com/ublive/ublive.php?id=370
+Euronews English,http://cookies.elementfx.com/ublive/ublive.php?id=2342
+NHK WORLD,http://cookies.elementfx.com/ublive/ublive.php?id=1394
+United Nations,http://cookies.elementfx.com/ublive/ublive.php?id=184
+Channels,http://cookies.elementfx.com/ublive/ublive.php?id=1495
+ABC News Australia,http://cookies.elementfx.com/ublive/ublive.php?id=2769
+GB News,http://cookies.elementfx.com/ublive/ublive.php?id=77
+FRANCE 24,http://cookies.elementfx.com/ublive/ublive.php?id=1042
+CNN Indonesia,http://cookies.elementfx.com/ublive/ublive.php?id=1145
+TRTWORLD,http://cookies.elementfx.com/ublive/ublive.php?id=1022
 影視頻道,#genre#
-八大精彩,https://z88.ubtvfans.com/live/rx1/1024/08b238ed7421aede867c880e1e5c86f1/index.m3u8
-龍華日韓,https://z88.ubtvfans.com/live/rx1/382/18190f1b240aa61058c76fecf63c9f8e/index.m3u8
-東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/27bc99acf387e6446aa6958bfc1d9444/index.m3u8
-東森戲劇,https://z88.ubtvfans.com/live/rx1/321/6e310925fa2aa6e7274b236cc99685ac/index.m3u8
-八大戲劇,https://z88.ubtvfans.com/live/rx1/81/a3e860d21cf5f6252eb7d08ed1abd29b/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-東森電影,https://z88.ubtvfans.com/live/rx1/2720/0679a36ae9de135be5b7efb44f74a85b/index.m3u8
-緯來電影,https://z88.ubtvfans.com/live/rx1/2728/d2fe2b9893b40d1099a7bcd0df062ca3/index.m3u8
-緯來電影,https://z88.ubtvfans.com/live/rx1/3252/1e5fc2617490832af28b647b92934999/index.m3u8
-HBO HD,https://z88.ubtvfans.com/live/rx1/332/355b0e7c6284c5dd990074ade643ebb8/index.m3u8
-HBO HD,https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
-東森洋片,https://z88.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
-壹電影,https://z88.ubtvfans.com/live/rx1/2284/0bc14977af0178bcdc71d180e230321c/index.m3u8
-好萊塢電影,https://z88.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8
-愛爾達影劇,https://z88.ubtvfans.com/live/rx1/500/08e0c7d7739bcfbf5b321211addc793f/index.m3u8
-CineMAX,https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
-靖天映畫,https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
-靖洋戲劇,https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
-緯來精彩,https://z88.ubtvfans.com/live/rx1/2280/c21d1805875193b4cc64293a1f26d08d/index.m3u8
-EYE戲劇,https://z88.ubtvfans.com/live/rx1/191/78413141b5531ed3c2d3eec76c5d0ec1/index.m3u8
-三立戲劇,https://z88.ubtvfans.com/live/rx1/64/4c301b0cf679104b02233cf8f962d3ee/index.m3u8
-三立戲劇,https://z88.ubtvfans.com/live/rx1/2819/e2939ea1f305919470d9d2c20fc2cb37/index.m3u8
-龍華偶像,https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-靖天電影,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
-美亞電影,https://z88.ubtvfans.com/live/rx1/375/f37775e6478032a0878def1864f31711/index.m3u8
-AMC,https://z88.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
-HBOSignature,https://z88.ubtvfans.com/live/rx1/329/17436d1e6f9f65c789b3ce36100f16cb/index.m3u8
-HBOSignature,https://z88.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx1/330/672bf68a0a682cd02168cf83418d4aef/index.m3u8
-采昌影劇,https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
-采昌影劇,https://z88.ubtvfans.com/live/rx1/2804/6736ffb2a774d12709b6fec4f2d30365/index.m3u8
-影迷數位電影,https://z88.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
-影迷數位電影,https://z88.ubtvfans.com/live/rx1/2800/b34b6ed06fef6eb3ef1f9997d160bae2/index.m3u8
-龍華戲劇,https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-龍華戲劇,https://z88.ubtvfans.com/live/rx1/2796/f37ba166e1842351b1c66a41df915e96/index.m3u8
-龍華經典,https://z88.ubtvfans.com/live/rx1/100/11455600333dc0d0e7ffc74bd012e95f/index.m3u8
-龍翔時代,https://z88.ubtvfans.com/live/rx1/373/72ff9f42bc18b4d3f46d9a4a0847564e/index.m3u8
-AXN臺灣,https://z88.ubtvfans.com/live/rx1/2816/e5ef36f1ac98bfb819d5f3232972d391/index.m3u8
-天映經典,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
-公視戲劇,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
-AXN亞洲,https://z88.ubtvfans.com/live/rx1/1066/7bcad6f5cb60f69d6bed039e22bf90b6/index.m3u8
-Trill恐怖電影,https://z88.ubtvfans.com/live/rx1/18/9396c2544377ae33b75b571c76726ee3/index.m3u8
-龍華電影,https://z88.ubtvfans.com/live/rx1/311/6769e1d74f8e49779c875631eaf605a1/index.m3u8
-華納電影,https://z88.ubtvfans.com/live/rx1/83/baf111f9330624dce5003d1559e188ba/index.m3u8
-靖天戲劇,https://z88.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
-CATCHPLAY,https://z88.ubtvfans.com/live/rx1/362/571d62381b0ca1a1f5b5de81330a3f97/index.m3u8
-TVB亞洲劇,https://z88.ubtvfans.com/live/rx1/1048/967cba19213ea501424f0eca629b12e2/index.m3u8
-TVB粵語片,https://z88.ubtvfans.com/live/rx1/1589/1624461c43c7c271178724c93a0d5808/index.m3u8
-CHC高清電影,https://z88.ubtvfans.com/live/rx1/1345/206e60929cae88b70609e70c84c18a85/index.m3u8
-CHC動作電影,https://z88.ubtvfans.com/live/rx1/1346/45015239dbfbba4baedaf1072c84041f/index.m3u8
-CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/361ec817dc054714e60f811a34a92d9c/index.m3u8
-CBN歡笑劇場4K,https://z88.ubtvfans.com/live/rx1/1348/32fbdac930f35f7379c430a445a833a9/index.m3u8
-SETONE,https://z88.ubtvfans.com/live/rx1/1349/bb4be8537e5a75bd44c28fa46381ec09/index.m3u8
-龍華洋片,https://z88.ubtvfans.com/live/rx1/341/d460e01af1e2753e7f4424b4bf34522a/index.m3u8
-TVB功夫台,https://z88.ubtvfans.com/live/rx1/168/09a432a19cb9526b697914342a38afa0/index.m3u8
-飢餓遊戲,https://z88.ubtvfans.com/live/rx6/264/23083b43bd840220fdc5af900585eb00/index.m3u8
-台視時光機,https://z88.ubtvfans.com/live/rx6/2555/d16f0dd1c094d04fdee3d491c1f098c2/index.m3u8
-龍翔時代,https://z88.ubtvfans.com/live/rx3/1175/860407d45c27ef02f31601276cac3e71/index.m3u8
+八大精彩,http://cookies.elementfx.com/ublive/ublive.php?id=1024
+龍華日韓,http://cookies.elementfx.com/ublive/ublive.php?id=382
+東森戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2825
+東森戲劇-備,http://cookies.elementfx.com/ublive/ublive.php?id=321
+八大戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=81
+緯來戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2727
+緯來戲劇-備,http://cookies.elementfx.com/ublive/ublive.php?id=339
+東森電影-備,http://cookies.elementfx.com/ublive/ublive.php?id=350
+東森電影,http://cookies.elementfx.com/ublive/ublive.php?id=2720
+緯來電影,http://cookies.elementfx.com/ublive/ublive.php?id=2728
+緯來電影,http://cookies.elementfx.com/ublive/ublive.php?id=3252
+HBO HD,http://cookies.elementfx.com/ublive/ublive.php?id=332
+HBO HD,http://cookies.elementfx.com/ublive/ublive.php?id=2823
+東森洋片,http://cookies.elementfx.com/ublive/ublive.php?id=1128
+壹電影,http://cookies.elementfx.com/ublive/ublive.php?id=2284
+好萊塢電影,http://cookies.elementfx.com/ublive/ublive.php?id=37
+愛爾達影劇,http://cookies.elementfx.com/ublive/ublive.php?id=500
+CineMAX,http://cookies.elementfx.com/ublive/ublive.php?id=346
+靖天映畫,http://cookies.elementfx.com/ublive/ublive.php?id=349
+靖洋戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=319
+緯來精彩,http://cookies.elementfx.com/ublive/ublive.php?id=2280
+EYE戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=191
+三立戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=64
+三立戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2819
+龍華偶像,http://cookies.elementfx.com/ublive/ublive.php?id=385
+霹靂臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=1339
+靖天電影,http://cookies.elementfx.com/ublive/ublive.php?id=110
+美亞電影,http://cookies.elementfx.com/ublive/ublive.php?id=375
+AMC,http://cookies.elementfx.com/ublive/ublive.php?id=84
+HBOSignature,http://cookies.elementfx.com/ublive/ublive.php?id=329
+HBOSignature,http://cookies.elementfx.com/ublive/ublive.php?id=2824
+HBO Hits,http://cookies.elementfx.com/ublive/ublive.php?id=330
+采昌影劇,http://cookies.elementfx.com/ublive/ublive.php?id=62
+采昌影劇,http://cookies.elementfx.com/ublive/ublive.php?id=2804
+影迷數位電影,http://cookies.elementfx.com/ublive/ublive.php?id=497
+影迷數位電影,http://cookies.elementfx.com/ublive/ublive.php?id=2800
+龍華戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=365
+龍華戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=2796
+龍華經典,http://cookies.elementfx.com/ublive/ublive.php?id=100
+龍翔時代,http://cookies.elementfx.com/ublive/ublive.php?id=373
+AXN臺灣,http://cookies.elementfx.com/ublive/ublive.php?id=2816
+天映經典,http://cookies.elementfx.com/ublive/ublive.php?id=2289
+公視戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=69
+AXN亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=1066
+Trill恐怖電影,http://cookies.elementfx.com/ublive/ublive.php?id=18
+龍華電影,http://cookies.elementfx.com/ublive/ublive.php?id=311
+華納電影,http://cookies.elementfx.com/ublive/ublive.php?id=83
+靖天戲劇,http://cookies.elementfx.com/ublive/ublive.php?id=109
+CATCHPLAY,http://cookies.elementfx.com/ublive/ublive.php?id=362
+TVB亞洲劇,http://cookies.elementfx.com/ublive/ublive.php?id=1048
+TVB粵語片,http://cookies.elementfx.com/ublive/ublive.php?id=1589
+CHC高清電影,http://cookies.elementfx.com/ublive/ublive.php?id=1345
+CHC動作電影,http://cookies.elementfx.com/ublive/ublive.php?id=1346
+CHC家庭影院,http://cookies.elementfx.com/ublive/ublive.php?id=1347
+CBN歡笑劇場4K,http://cookies.elementfx.com/ublive/ublive.php?id=1348
+SETONE,http://cookies.elementfx.com/ublive/ublive.php?id=1349
+龍華洋片,http://cookies.elementfx.com/ublive/ublive.php?id=341
+TVB功夫台,http://cookies.elementfx.com/ublive/ublive.php?id=168
+飢餓遊戲,http://cookies.elementfx.com/ublive/ublive.php?id=264
+台視時光機,http://cookies.elementfx.com/ublive/ublive.php?id=2555
+龍翔時代,http://cookies.elementfx.com/ublive/ublive.php?id=1175
 體育頻道,#genre#
-ELTA體育1,https://z88.ubtvfans.com/live/rx1/2729/7fea5fb664a75ca66a3da7b3287eb922/index.m3u8
-ELTA體育1-備,https://z88.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
-ELTA體育2,https://z88.ubtvfans.com/live/rx1/2730/97fe24b806fdddd91089df736dcb6904/index.m3u8
-ELTA體育2-備,https://z88.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
-ELTA體育3-備2,https://z88.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
-ELTA體育3,https://z88.ubtvfans.com/live/rx1/2731/f5cd20e3b291672ee4b5ff4f13f9d630/index.m3u8
-ELTA體育3台-備,https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
-ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/662425d9560b953880bbb1a9faa4bb32/index.m3u8
-緯來體育,https://z88.ubtvfans.com/live/rx1/118/73f860632b916aedfe839b46ea58c630/index.m3u8
-緯來體育,https://z88.ubtvfans.com/live/rx3/2732/4a38b4f7ff814aecc701aab67b5ea42c/index.m3u8
-FOX Sport 1,https://z88.ubtvfans.com/live/rx1/2791/8d75d7aaa4f624c63769f4001abe054e/index.m3u8
-FOX Sport 2,https://z88.ubtvfans.com/live/rx1/1132/5da0da83da82926bd820bdca979733b1/index.m3u8
-Eleven Sport 1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven Sport 2,https://z88.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
-Z頻道,https://z88.ubtvfans.com/live/rx1/1130/e739576b1aff666f9fdddf5a90b2cf92/index.m3u8
-博斯無限,https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
-博斯無限,https://z88.ubtvfans.com/live/rx1/2797/cef20d4474f12cdf3149418b63b636e2/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx1/2798/e46d0bacdc54caf5b4cf76fc391a3f93/index.m3u8
-博斯網球,https://z88.ubtvfans.com/live/rx1/498/b9e30a5ae7d2da479ba459679baa3565/index.m3u8
-博斯高球1,https://z88.ubtvfans.com/live/rx1/377/f601833be1fa0a590c9f736683e44236/index.m3u8
-博斯高球2,https://z88.ubtvfans.com/live/rx1/378/2669fb9de7fb40084f47f8489c3414ab/index.m3u8
-博斯魅力,https://z88.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
-博斯運動1,https://z88.ubtvfans.com/live/rx1/379/e713406601de52476d837004981af67e/index.m3u8
-博斯運動2,https://z88.ubtvfans.com/live/rx1/380/fd0d79577114e459f4ce4b2309da4750/index.m3u8
-TRACE Sport Stars,https://z88.ubtvfans.com/live/rx1/1037/560865204284fe14b7a60084e342b5eb/index.m3u8
-歐洲體育,https://z88.ubtvfans.com/live/rx1/1342/c2f7f8cb747b732cb12930b3db28d832/index.m3u8
-魅力足球,https://z88.ubtvfans.com/live/rx1/464/31af6ab18230501af80a62a9e62f16ae/index.m3u8
-BeIN Sport News,https://z88.ubtvfans.com/live/rx1/2402/b05da80fe0b2856e24e480a1a97b72b9/index.m3u8
-BeIN Sport 1,https://z88.ubtvfans.com/live/rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8
-BeIN Sport 2,https://z88.ubtvfans.com/live/rx1/2404/c90e86b85812b7d1920fbff2b70895b7/index.m3u8
-BeIN Sport 3,https://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
-BeIN Sport 4,https://z88.ubtvfans.com/live/rx1/2406/30ae1126c0f3a6ec5434f3ac7cc6fa56/index.m3u8
-BeIN Sport 5,https://z88.ubtvfans.com/live/rx1/2407/1a0151d3fd98d915256507b8b38abf34/index.m3u8
-BeIN Sport 6,https://z88.ubtvfans.com/live/rx1/2408/8f58f04be89292ecdd5e2cc01166767d/index.m3u8
-BeIN Sport 7,https://z88.ubtvfans.com/live/rx1/2409/358563c7da7f0465b4d2c5884fae9b3e/index.m3u8
-BeIN Sport 8,https://z88.ubtvfans.com/live/rx1/2410/4da28f584244ad271fb6f47c44c86d47/index.m3u8
-BeIN Sport 9,https://z88.ubtvfans.com/live/rx1/2411/b2676ff32ff03a35a519151933da9d77/index.m3u8
-BeIN Sport 10,https://z88.ubtvfans.com/live/rx2/2412/776debe4995c9d61f0a280f7b131da1b/index.m3u8
-BeIN Sport 11,https://z88.ubtvfans.com/live/rx2/2413/b16d74ac849a21ff4d72900cc7139b26/index.m3u8
-BeIN Sport 12,https://z88.ubtvfans.com/live/rx2/2414/3ff159dbf54d0c8ca50afe5802da763b/index.m3u8
-Bein Sport 13,https://z88.ubtvfans.com/live/rx2/2415/59ff989dedc6cbfbdb99113d3aec3c67/index.m3u8
-Bein Sport 15,https://z88.ubtvfans.com/live/rx2/2416/9bbf4cbf79c511a88d340f4e980f030c/index.m3u8
-Bein sports,https://z88.ubtvfans.com/live/rx2/2417/9db40e44a5b4a5e36959af90bf62d400/index.m3u8
-Bein Sport 14,https://z88.ubtvfans.com/live/rx2/2418/bb54cedc8376a307ba5fb83f6ce57fbf/index.m3u8
-J SPORTS 1,https://z88.ubtvfans.com/live/rx3/129/a6d710c192bbc1f370bd6876155f39d8/index.m3u8
-J SPORTS 2,https://z88.ubtvfans.com/live/rx3/130/3bba8721385a72ef1055c839f62fc25c/index.m3u8
-J SPORTS 3,https://z88.ubtvfans.com/live/rx3/131/8c03fa852e919f09f75e4da92ef2fe58/index.m3u8
-J SPORTS 4,https://z88.ubtvfans.com/live/rx3/132/3da9703475611365848ece1766e66d91/index.m3u8
-mlb  network,https://z88.ubtvfans.com/live/rx3/3250/361d8236f82fa0cc7417f452733b0b5f/index.m3u8
-BTN,https://z88.ubtvfans.com/live/rx3/3256/e19cb50ca83ac6ee41bfd34e8d930b77/index.m3u8
-mlb  network,https://z88.ubtvfans.com/live/rx3/3251/18cee9ee9ff26936db1d989519238926/index.m3u8
-bt espn hd,https://z88.ubtvfans.com/live/rx3/2790/66f2cd7e363487d1252c7f367bb554bc/index.m3u8
-ESPN 1,https://z88.ubtvfans.com/live/rx3/1182/5a3f32c742237ed715279a45bd9a4356/index.m3u8
-ESPN 2,https://z88.ubtvfans.com/live/rx3/2789/7814aa3492303391fe2650e1ad1a3609/index.m3u8
-NBA,https://z88.ubtvfans.com/live/rx3/2792/819ce6d7713d5816b1d696043076a2db/index.m3u8
-NBA TV US,https://z88.ubtvfans.com/live/rx3/1185/2bd5fa6c5ee878c6b921f2d073bc174c/index.m3u8
-Fox Sport 2,https://z88.ubtvfans.com/live/rx3/1187/3cf0beca956e9357365c1739799f760c/index.m3u8
-TSN 1,https://z88.ubtvfans.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
-TSN 2,https://z88.ubtvfans.com/live/rx3/1274/86de5062a3db4568ac97842cf4897b75/index.m3u8
-TSN 3,https://z88.ubtvfans.com/live/rx3/1275/47f2960010cd38e38a1f224152c5733c/index.m3u8
-TSN 4,https://z88.ubtvfans.com/live/rx4/1276/d28187684ff3010df0e3b25f1e2fa933/index.m3u8
-TSN 5,https://z88.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
-SportNet ON,https://z88.ubtvfans.com/live/rx4/1278/6004c399c69d90c64257dc4748a83c87/index.m3u8
-SportNet One,https://z88.ubtvfans.com/live/rx4/1279/f311772341fe59a162a61cd5f3da1f4c/index.m3u8
-SportNet World,https://z88.ubtvfans.com/live/rx3/1280/2938972177ab24dc28df73782d6159af/index.m3u8
-SportNet 360,https://z88.ubtvfans.com/live/rx4/1281/367c4a59c51840b40302fea9dadc4c7b/index.m3u8
-NBA CA,https://z88.ubtvfans.com/live/rx4/1282/0b76ff1886531cacf86e289f3a0b05a9/index.m3u8
-E ent,https://z88.ubtvfans.com/live/rx3/1392/9725ad4da8cb5b7394f43062c7969d92/index.m3u8
-Freesports,https://z88.ubtvfans.com/live/rx3/1412/92cd4507b6a57a21a0bd474916167215/index.m3u8
-BT Sport 2,https://z88.ubtvfans.com/live/rx3/166/d982086946b7508e3bef1b68ba5591b7/index.m3u8
-BT Sport 3,https://z88.ubtvfans.com/live/rx3/167/6d2a177a24cbac7e1ef62a401b9e5450/index.m3u8
-BT Sport 1,https://z88.ubtvfans.com/live/rx3/165/24c82b44c37dcf98816f3599f08688d0/index.m3u8
-Sky Sports 1,https://z88.ubtvfans.com/live/rx3/172/0aa7a5aeb880d1cbdaa993c0d7fafc6e/index.m3u8
-Sky Sport 2,https://z88.ubtvfans.com/live/rx3/171/165abbee8f9a10ecbc2cde414509f5a2/index.m3u8
-Sky Sports F1,https://z88.ubtvfans.com/live/rx3/182/fa36182a5e59864adfc621ad26b4204c/index.m3u8
-Sky Sport 3,https://z88.ubtvfans.com/live/rx3/183/62589d7b7cfa15a74915e9471032c0aa/index.m3u8
-Sky Sport 4,https://z88.ubtvfans.com/live/rx3/417/8e02b9ae5f6898ae8f2d340e1927ff56/index.m3u8
-Sky Sport 5,https://z88.ubtvfans.com/live/rx3/418/b7ac5780e5a97962129b0b09f9a106ce/index.m3u8
-sky sports racing hd,https://z88.ubtvfans.com/live/rx3/2778/51f1b5ac0c1a6c4aec4fa67ca12132e4/index.m3u8
-sky news hd,https://z88.ubtvfans.com/live/rx3/2779/7a4315c8ed4cd6bba0c418218b4e8d83/index.m3u8
-UK Euro Sport 1,https://z88.ubtvfans.com/live/rx3/3226/746f1e614ee8106a2ef9932bfc3c6bb5/index.m3u8
-UK Euro Sport 2,https://z88.ubtvfans.com/live/rx3/3227/53c287b4819145e199e757405a5536b6/index.m3u8
-sky sports mix,https://z88.ubtvfans.com/live/rx3/2780/493504c1187efa40be936d0e86de9c1f/index.m3u8
-sky sports arena,https://z88.ubtvfans.com/live/rx3/2781/73a1b982aa673e4c829ece3824d9fc28/index.m3u8
-sky sports football,https://z88.ubtvfans.com/live/rx3/2782/587f1f037511bfe22a9712eba3b8aff4/index.m3u8
-sky sports premier league,https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8
-sky sports the open,https://z88.ubtvfans.com/live/rx3/2784/fad281403dbe3d7ca781a3af8ab9c6bb/index.m3u8
-sky sports action,https://z88.ubtvfans.com/live/rx3/2785/0ad11dbb55c7faddeac1a3c6d08bd278/index.m3u8
-sky sports cricket,https://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u8
-sky sports main event,https://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8
-sky sports f1,https://z88.ubtvfans.com/live/rx3/3237/ed636b06dc881ff4e47522a0cdfecb03/index.m3u8
-cbs action,https://z88.ubtvfans.com/live/rx3/3238/71b9c87be7fc341fdb9615f72814b188/index.m3u8
-Russia Today,https://z88.ubtvfans.com/live/rx3/3239/9d801bf22168c3fea20abb20764f033f/index.m3u8
-4seven hd,https://z88.ubtvfans.com/live/rx3/3240/3ada7c0ec136dd098b10c0ac6effbb56/index.m3u8
-racing uk hd,https://z88.ubtvfans.com/live/rx3/3241/c21c31b721c5fbfc98f278c448c3d474/index.m3u8
-vault,https://z88.ubtvfans.com/live/rx3/3242/76330ceeaf9974c734723cceec7b45f2/index.m3u8
-sky greats,https://z88.ubtvfans.com/live/rx3/3243/d80cf3a4229ddba773fe8e25e70635ae/index.m3u8
-hoem and health,https://z88.ubtvfans.com/live/rx3/3244/8ed157d34258841cd1e2aaa12f96be28/index.m3u8
-channel 4 hd,https://z88.ubtvfans.com/live/rx3/3245/556c03e717ef3c2ff3149be3be54a068/index.m3u8
-citv,https://z88.ubtvfans.com/live/rx3/3246/4f731af85e4174c72a3f41f9df307d73/index.m3u8
-channel 5,https://z88.ubtvfans.com/live/rx3/3247/e35f1966085d9e126ff649963014fc3a/index.m3u8
-sony tv,https://z88.ubtvfans.com/live/rx3/3248/1ac8f3e76393aad31253499179021c13/index.m3u8
-nickelodeon,https://z88.ubtvfans.com/live/rx3/3249/b795b9a9c282a6ddc9fd21a3ca1b6838/index.m3u8
-Bein Sport 4 Max,https://z88.ubtvfans.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u8
-Bein Sport 5 Max,https://z88.ubtvfans.com/live/rx3/1450/5ac009d3967ada766006b4249049bd9a/index.m3u8
-Bein Sport 1,https://z88.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
-Bein Sport 3,https://z88.ubtvfans.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
-SKY SPORT ARENA,https://z88.ubtvfans.com/live/rx4/2739/f0a63866c5b298c3897da2de57e154c2/index.m3u8
-SKY F1,https://z88.ubtvfans.com/live/rx4/2740/0afdbd13b4e7e3437c753e70e3fd34bd/index.m3u8
-Sky sport uno,https://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
-Rai Sport,https://z88.ubtvfans.com/live/rx3/1613/6d9571af10a2d5522e50a221a5a79818/index.m3u8
-Suria,https://z88.ubtvfans.com/live/rx3/434/19d76612c149b5d957a155f5b3d881a7/index.m3u8
-Astro Sp1,https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
-ASSP1_HD,https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
-Astro Sp2,https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
-ASSP2_HD,https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
-Astro Sp3,https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
-Astro Sp4,https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
-Astro Sp4,https://z88.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
-Astro Sp5,https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
-SPOTV 1,https://z88.ubtvfans.com/live/rx4/3037/34666a056c53fed3bdbba2f98ff4bdb2/index.m3u8
-SPOTV 2,https://z88.ubtvfans.com/live/rx4/3038/20eaefb02e8fdf274ac4c90d7c744cbc/index.m3u8
-Sport TV 1,https://z88.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
-Sport TV 2,https://z88.ubtvfans.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
-Sport TV 3,https://z88.ubtvfans.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
+緯來體育,http://cookies.elementfx.com/ublive/ublive.php?id=118
+緯來體育,http://cookies.elementfx.com/ublive/ublive.php?id=2732
+ELTA體育1,http://cookies.elementfx.com/ublive/ublive.php?id=2729
+ELTA體育1-備,http://cookies.elementfx.com/ublive/ublive.php?id=192
+ELTA體育2,http://cookies.elementfx.com/ublive/ublive.php?id=2730
+ELTA體育2-備,http://cookies.elementfx.com/ublive/ublive.php?id=193
+ELTA體育3-備2,http://cookies.elementfx.com/ublive/ublive.php?id=194
+ELTA體育3,http://cookies.elementfx.com/ublive/ublive.php?id=2731
+ELTA體育3台-備,http://cookies.elementfx.com/ublive/ublive.php?id=2722
+ELTA體育4,http://cookies.elementfx.com/ublive/ublive.php?id=2820
+ELTA體育4-備,http://cookies.elementfx.com/ublive/ublive.php?id=3255
+FOX Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=2791
+FOX Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=1132
+Eleven Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=3224
+Eleven Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=301
+Z頻道,http://cookies.elementfx.com/ublive/ublive.php?id=1130
+博斯無限,http://cookies.elementfx.com/ublive/ublive.php?id=381
+博斯無限,http://cookies.elementfx.com/ublive/ublive.php?id=2797
+博斯無限2,http://cookies.elementfx.com/ublive/ublive.php?id=426
+博斯無限2,http://cookies.elementfx.com/ublive/ublive.php?id=2798
+博斯網球,http://cookies.elementfx.com/ublive/ublive.php?id=498
+博斯高球1,http://cookies.elementfx.com/ublive/ublive.php?id=377
+博斯高球2,http://cookies.elementfx.com/ublive/ublive.php?id=378
+博斯魅力,http://cookies.elementfx.com/ublive/ublive.php?id=175
+博斯運動1,http://cookies.elementfx.com/ublive/ublive.php?id=379
+博斯運動2,http://cookies.elementfx.com/ublive/ublive.php?id=380
+TRACE Sport Stars,http://cookies.elementfx.com/ublive/ublive.php?id=1037
+歐洲體育,http://cookies.elementfx.com/ublive/ublive.php?id=1342
+魅力足球,http://cookies.elementfx.com/ublive/ublive.php?id=464
+BeIN Sport News,http://cookies.elementfx.com/ublive/ublive.php?id=2402
+BeIN Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=2403
+BeIN Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=2404
+BeIN Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=2405
+BeIN Sport 4,http://cookies.elementfx.com/ublive/ublive.php?id=2406
+BeIN Sport 5,http://cookies.elementfx.com/ublive/ublive.php?id=2407
+BeIN Sport 6,http://cookies.elementfx.com/ublive/ublive.php?id=2408
+BeIN Sport 7,http://cookies.elementfx.com/ublive/ublive.php?id=2409
+BeIN Sport 8,http://cookies.elementfx.com/ublive/ublive.php?id=2410
+BeIN Sport 9,http://cookies.elementfx.com/ublive/ublive.php?id=2411
+BeIN Sport 10,http://cookies.elementfx.com/ublive/ublive.php?id=2412
+BeIN Sport 11,http://cookies.elementfx.com/ublive/ublive.php?id=2413
+BeIN Sport 12,http://cookies.elementfx.com/ublive/ublive.php?id=2414
+Bein Sport 13,http://cookies.elementfx.com/ublive/ublive.php?id=2415
+Bein Sport 15,http://cookies.elementfx.com/ublive/ublive.php?id=2416
+Bein sports,http://cookies.elementfx.com/ublive/ublive.php?id=2417
+Bein Sport 14,http://cookies.elementfx.com/ublive/ublive.php?id=2418
+J SPORTS 1,http://cookies.elementfx.com/ublive/ublive.php?id=129
+J SPORTS 2,http://cookies.elementfx.com/ublive/ublive.php?id=130
+J SPORTS 3,http://cookies.elementfx.com/ublive/ublive.php?id=131
+J SPORTS 4,http://cookies.elementfx.com/ublive/ublive.php?id=132
+mlb  network,http://cookies.elementfx.com/ublive/ublive.php?id=3250
+BTN,http://cookies.elementfx.com/ublive/ublive.php?id=3256
+mlb  network,http://cookies.elementfx.com/ublive/ublive.php?id=3251
+bt espn hd,http://cookies.elementfx.com/ublive/ublive.php?id=2790
+ESPN 1,http://cookies.elementfx.com/ublive/ublive.php?id=1182
+ESPN 2,http://cookies.elementfx.com/ublive/ublive.php?id=2789
+NBA,http://cookies.elementfx.com/ublive/ublive.php?id=2792
+NBA TV US,http://cookies.elementfx.com/ublive/ublive.php?id=1185
+Fox Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=1187
+TSN 1,http://cookies.elementfx.com/ublive/ublive.php?id=1273
+TSN 2,http://cookies.elementfx.com/ublive/ublive.php?id=1274
+TSN 3,http://cookies.elementfx.com/ublive/ublive.php?id=1275
+TSN 4,http://cookies.elementfx.com/ublive/ublive.php?id=1276
+TSN 5,http://cookies.elementfx.com/ublive/ublive.php?id=1277
+SportNet ON,http://cookies.elementfx.com/ublive/ublive.php?id=1278
+SportNet One,http://cookies.elementfx.com/ublive/ublive.php?id=1279
+SportNet World,http://cookies.elementfx.com/ublive/ublive.php?id=1280
+SportNet 360,http://cookies.elementfx.com/ublive/ublive.php?id=1281
+NBA CA,http://cookies.elementfx.com/ublive/ublive.php?id=1282
+E ent,http://cookies.elementfx.com/ublive/ublive.php?id=1392
+Freesports,http://cookies.elementfx.com/ublive/ublive.php?id=1412
+BT Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=166
+BT Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=167
+BT Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=165
+Sky Sports 1,http://cookies.elementfx.com/ublive/ublive.php?id=172
+Sky Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=171
+Sky Sports F1,http://cookies.elementfx.com/ublive/ublive.php?id=182
+Sky Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=183
+Sky Sport 4,http://cookies.elementfx.com/ublive/ublive.php?id=417
+Sky Sport 5,http://cookies.elementfx.com/ublive/ublive.php?id=418
+sky sports racing hd,http://cookies.elementfx.com/ublive/ublive.php?id=2778
+sky news hd,http://cookies.elementfx.com/ublive/ublive.php?id=2779
+UK Euro Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=3226
+UK Euro Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=3227
+sky sports mix,http://cookies.elementfx.com/ublive/ublive.php?id=2780
+sky sports arena,http://cookies.elementfx.com/ublive/ublive.php?id=2781
+sky sports football,http://cookies.elementfx.com/ublive/ublive.php?id=2782
+sky sports premier league,http://cookies.elementfx.com/ublive/ublive.php?id=2783
+sky sports the open,http://cookies.elementfx.com/ublive/ublive.php?id=2784
+sky sports action,http://cookies.elementfx.com/ublive/ublive.php?id=2785
+sky sports cricket,http://cookies.elementfx.com/ublive/ublive.php?id=2786
+sky sports main event,http://cookies.elementfx.com/ublive/ublive.php?id=2787
+sky sports f1,http://cookies.elementfx.com/ublive/ublive.php?id=3237
+cbs action,http://cookies.elementfx.com/ublive/ublive.php?id=3238
+Russia Today,http://cookies.elementfx.com/ublive/ublive.php?id=3239
+4seven hd,http://cookies.elementfx.com/ublive/ublive.php?id=3240
+racing uk hd,http://cookies.elementfx.com/ublive/ublive.php?id=3241
+vault,http://cookies.elementfx.com/ublive/ublive.php?id=3242
+sky greats,http://cookies.elementfx.com/ublive/ublive.php?id=3243
+hoem and health,http://cookies.elementfx.com/ublive/ublive.php?id=3244
+channel 4 hd,http://cookies.elementfx.com/ublive/ublive.php?id=3245
+citv,http://cookies.elementfx.com/ublive/ublive.php?id=3246
+channel 5,http://cookies.elementfx.com/ublive/ublive.php?id=3247
+sony tv,http://cookies.elementfx.com/ublive/ublive.php?id=3248
+nickelodeon,http://cookies.elementfx.com/ublive/ublive.php?id=3249
+Bein Sport 4 Max,http://cookies.elementfx.com/ublive/ublive.php?id=1405
+Bein Sport 5 Max,http://cookies.elementfx.com/ublive/ublive.php?id=1450
+Bein Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=1085
+Bein Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=2230
+SKY SPORT ARENA,http://cookies.elementfx.com/ublive/ublive.php?id=2739
+SKY F1,http://cookies.elementfx.com/ublive/ublive.php?id=2740
+Sky sport uno,http://cookies.elementfx.com/ublive/ublive.php?id=1597
+Rai Sport,http://cookies.elementfx.com/ublive/ublive.php?id=1613
+Suria,http://cookies.elementfx.com/ublive/ublive.php?id=434
+Astro Sp1,http://cookies.elementfx.com/ublive/ublive.php?id=444
+ASSP1_HD,http://cookies.elementfx.com/ublive/ublive.php?id=1070
+Astro Sp2,http://cookies.elementfx.com/ublive/ublive.php?id=445
+ASSP2_HD,http://cookies.elementfx.com/ublive/ublive.php?id=1071
+Astro Sp3,http://cookies.elementfx.com/ublive/ublive.php?id=446
+Astro Sp4,http://cookies.elementfx.com/ublive/ublive.php?id=3234
+Astro Sp4,http://cookies.elementfx.com/ublive/ublive.php?id=447
+Astro Sp5,http://cookies.elementfx.com/ublive/ublive.php?id=2432
+SPOTV 1,http://cookies.elementfx.com/ublive/ublive.php?id=3037
+SPOTV 2,http://cookies.elementfx.com/ublive/ublive.php?id=3038
+Sport TV 1,http://cookies.elementfx.com/ublive/ublive.php?id=1779
+Sport TV 2,http://cookies.elementfx.com/ublive/ublive.php?id=1785
+Sport TV 3,http://cookies.elementfx.com/ublive/ublive.php?id=2135
 紀實頻道,#genre#
-亞洲旅遊,https://z88.ubtvfans.com/live/rx1/2299/bb58cd1b255f58c6cf970519b8713c14/index.m3u8
-探索頻道,https://z88.ubtvfans.com/live/rx1/2817/c90dc5a2c0fdb1fcbd4cd0c79b96110b/index.m3u8
-探索頻道,https://z88.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
-大陸尋奇,https://z88.ubtvfans.com/live/rx6/102/9e5a9c0636f4f9fbc9888e487df2058b/index.m3u8
-TLC,https://z88.ubtvfans.com/live/rx4/2275/cc1eba5779124bd214ad0a7d8d9f88ff/index.m3u8
-Fashion One,https://z88.ubtvfans.com/live/rx1/113/eb82e45f5b12858e1ec1d219fabfb779/index.m3u8
-探索亞洲,https://z88.ubtvfans.com/live/rx1/306/40457770b1b221cc752c3b46e21975c6/index.m3u8
-探索科學,https://z88.ubtvfans.com/live/rx1/343/4649e63dd450ef96bc471e8eae798f65/index.m3u8
-Nat Geo WILD,https://z88.ubtvfans.com/live/rx6/388/fa128c38d0d9255eaaec931313ca4ab1/index.m3u8
-國家野生（英）,https://z88.ubtvfans.com/live/rx1/1038/9b32fc6e57855ef8d8f0eec759f9ae0e/index.m3u8
-HGTV,https://z88.ubtvfans.com/live/rx6/1159/172ecd42c7b2bd9e666affbd2ec3cd34/index.m3u8
-CI罪案偵查,https://z88.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822facf8cd5/index.m3u8
-探索EVE,https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
-TaiwanPlus,https://z88.ubtvfans.com/live/rx6/327/ebb005678777b3ac5065158017054331/index.m3u8
-BBC Lifestyle,https://z88.ubtvfans.com/live/rx1/424/ddb4f5a5c05abc2bbff346115c978617/index.m3u8
-視納華仁紀實,https://z88.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/3073/d86b0ec21887580d706afa6f903a80d9/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-Travel Channel,https://z88.ubtvfans.com/live/rx6/63/0a571738d28fe4e2961c65ded61e2290/index.m3u8
-BBC EARTH,https://z88.ubtvfans.com/live/rx1/97/c89adde9761c66aa26f1d27de9de7c3a/index.m3u8
-探索動力DMAX,https://z88.ubtvfans.com/live/rx1/335/e0f32fb3c0eb7f4ffda974a354c02815/index.m3u8
-Pet Club,https://z88.ubtvfans.com/live/rx1/368/649c4c56f424e2dd0fd31e60ba969932/index.m3u8
-Globetrotter（環球旅遊）,https://z88.ubtvfans.com/live/rx1/114/b486b29428a82907474eaa9d8924721b/index.m3u8
-Globetrotter（MOD）,https://z88.ubtvfans.com/live/rx1/3259/3c1d3084b73e86371fff90636daaf98c/index.m3u8
-NASA TV,https://z88.ubtvfans.com/live/rx6/25/2cf362960fc3fc1a3a549c3ee55ced5f/index.m3u8
-NASA Live,https://z88.ubtvfans.com/live/rx6/196/02b3ad0e522854b59940ce9340484537/index.m3u8
-TV5MONDE STYLE,https://z88.ubtvfans.com/live/rx1/389/3eef601efdbdeb2c7209935e1df235b9/index.m3u8
-動物世界,https://z88.ubtvfans.com/live/rx6/291/b895ba8d20deef2691c682478462d166/index.m3u8
-法國時裝,https://z88.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
-台灣啟示錄,https://z88.ubtvfans.com/live/rx6/2765/3d70da0bfdbfe742ef0311e20d797db3/index.m3u8
-CCTV17,https://z88.ubtvfans.com/live/rx1/3260/1eb0ce21059a8e6090947afe226f3e43/index.m3u8
-TLC,https://z88.ubtvfans.com/live/rx3/1533/ed4410c43ae2094bb66831a1b06b7c40/index.m3u8
-National Geographic,https://z88.ubtvfans.com/live/rx6/294/7868630ad0bc70634068f8d708b87f21/index.m3u8
-TLC Canada,https://z88.ubtvfans.com/live/rx4/1262/adc7d3ca892336cdf136b5486b00239f/index.m3u8
-Food Network Canada,https://z88.ubtvfans.com/live/rx4/1265/5ed3c78b7575c60ebd1a0a3d77f013da/index.m3u8
-History,https://z88.ubtvfans.com/live/rx3/1413/8e2baabe125b5f1520dfa7321c3a2c8d/index.m3u8
-Food Network 英,https://z88.ubtvfans.com/live/rx3/1421/652b97a2d7d84b684627d693b4a28f58/index.m3u8
+亞洲旅遊,http://cookies.elementfx.com/ublive/ublive.php?id=2299
+探索頻道,http://cookies.elementfx.com/ublive/ublive.php?id=2817
+探索頻道,http://cookies.elementfx.com/ublive/ublive.php?id=1035
+大陸尋奇,http://cookies.elementfx.com/ublive/ublive.php?id=102
+TLC,http://cookies.elementfx.com/ublive/ublive.php?id=2275
+動物星球,http://cookies.elementfx.com/ublive/ublive.php?id=367
+Fashion One,http://cookies.elementfx.com/ublive/ublive.php?id=113
+探索亞洲,http://cookies.elementfx.com/ublive/ublive.php?id=306
+探索科學,http://cookies.elementfx.com/ublive/ublive.php?id=343
+Nat Geo WILD,http://cookies.elementfx.com/ublive/ublive.php?id=388
+國家野生（英）,http://cookies.elementfx.com/ublive/ublive.php?id=1038
+CI罪案偵查,http://cookies.elementfx.com/ublive/ublive.php?id=2303
+探索EVE,http://cookies.elementfx.com/ublive/ublive.php?id=1036
+TaiwanPlus,http://cookies.elementfx.com/ublive/ublive.php?id=327
+視納華仁紀實,http://cookies.elementfx.com/ublive/ublive.php?id=91
+美食星球,http://cookies.elementfx.com/ublive/ublive.php?id=3073
+美食星球,http://cookies.elementfx.com/ublive/ublive.php?id=1360
+EYE旅遊,http://cookies.elementfx.com/ublive/ublive.php?id=1494
+Travel Channel,http://cookies.elementfx.com/ublive/ublive.php?id=63
+探索動力DMAX,http://cookies.elementfx.com/ublive/ublive.php?id=335
+Pet Club,http://cookies.elementfx.com/ublive/ublive.php?id=368
+TV5MONDE STYLE,http://cookies.elementfx.com/ublive/ublive.php?id=389
+動物世界,http://cookies.elementfx.com/ublive/ublive.php?id=291
+Lifetime,http://cookies.elementfx.com/ublive/ublive.php?id=246
+法國時裝,http://cookies.elementfx.com/ublive/ublive.php?id=2287
+台灣啟示錄,http://cookies.elementfx.com/ublive/ublive.php?id=2765
+CCTV17,http://cookies.elementfx.com/ublive/ublive.php?id=3260
+TLC,http://cookies.elementfx.com/ublive/ublive.php?id=1533
+National Geographic,http://cookies.elementfx.com/ublive/ublive.php?id=294
+TLC Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1262
+Food Network Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1265
+History,http://cookies.elementfx.com/ublive/ublive.php?id=1413
+Food Network 英,http://cookies.elementfx.com/ublive/ublive.php?id=1421
 少兒頻道,#genre#
-Bebefinn,https://z88.ubtvfans.com/live/rx6/489/61e04f306677de01b1b719e8a56e7352/index.m3u8
-Leigha Marina,https://z88.ubtvfans.com/live/rx6/313/4396273dc2b1fbb9f3e4ef07af3b773c/index.m3u8
-MOMO親子,https://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
-東森幼幼（備）,https://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-東森幼幼,https://z88.ubtvfans.com/live/rx1/371/e5a626d0c50b5b2ffc67d45f5573088f/index.m3u8
-東森亞洲呦呦,https://z88.ubtvfans.com/live/rx1/293/b97bce651c119e363f86476c45894e3c/index.m3u8
-PBS KIDS,https://z88.ubtvfans.com/live/rx6/355/832e759e3f7448640a4e76beca5df5e7/index.m3u8
-CN Asia,https://z88.ubtvfans.com/live/rx6/2768/a9a814d76242121e4f2cbe66a0ec41b5/index.m3u8
-Nick Jr.,https://z88.ubtvfans.com/live/rx3/50/d99c73beac78ca613cac573ae7650726/index.m3u8
-PAW Patrol,https://z88.ubtvfans.com/live/rx6/2226/84a753c3a559092b39949999414893aa/index.m3u8
-Spidey,https://z88.ubtvfans.com/live/rx6/2270/624cb5cf1dae808a7ba07e188c5dbd2c/index.m3u8
-Dreamworks,https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
-CN卡通,https://z88.ubtvfans.com/live/rx1/107/2a996b4eec8a67c34db592186cfc9754/index.m3u8
-Curious George,https://z88.ubtvfans.com/live/rx6/173/da2b0d9c158691e834593898f1970126/index.m3u8
-Gabby Dollhouse,https://z88.ubtvfans.com/live/rx6/1344/ff71c8464149758a6fc628ce4c87c479/index.m3u8
-Animax,https://z88.ubtvfans.com/live/rx1/59/6e4b04eb1943932fa4fde49e3959bf43/index.m3u8
-Bluey,https://z88.ubtvfans.com/live/rx6/143/8ff64aedd8f3248ca51b69a7c52feab0/index.m3u8
-靖洋卡通,https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
-YOYO TV,https://z88.ubtvfans.com/live/rx6/340/02ccfece6444b964f8996cbe56ee28a5/index.m3u8
-靖天卡通,https://z88.ubtvfans.com/live/rx1/344/f2b38611a7331b79c3a6810a1f009503/index.m3u8
-i-Fun動漫,https://z88.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8
-i-Fun動漫,https://z88.ubtvfans.com/live/rx1/2802/70127d837e2683d72eef709df830f83c/index.m3u8
-達文西,https://z88.ubtvfans.com/live/rx3/68/362719c5d92bd192ea01bf1248e4a7fc/index.m3u8
-Baby TV,https://z88.ubtvfans.com/live/rx6/1129/51c235219afea879cb992e48eb35a53f/index.m3u8
-Treehouse,https://z88.ubtvfans.com/live/rx3/55/788583370cb33f8357308e1fdae5ee1c/index.m3u8
-Nickj,https://z88.ubtvfans.com/live/rx3/53/ffb3409478def0980111668eb6526b85/index.m3u8
-Disney,https://z88.ubtvfans.com/live/rx4/5/526e7c592240ed7623c9942596d61409/index.m3u8
-Disneyxd,https://z88.ubtvfans.com/live/rx4/31/f7717b6e450c6462c9e237ac24ebf228/index.m3u8
-Boomerang,https://z88.ubtvfans.com/live/rx1/57/94ddf08e5b6b1d886c8872d77f44f7cb/index.m3u8
-Disney Junior,https://z88.ubtvfans.com/live/rx6/460/c5e394adee2681238a6f04b34d750090/index.m3u8
-Hogi,https://z88.ubtvfans.com/live/rx6/2346/fcb4d0b53ac8c5b8500744bf8396a42e/index.m3u8
-LiaChaCha,https://z88.ubtvfans.com/live/rx6/1399/b3e68239a18e9a5d501c8f5b43659248/index.m3u8
-Phineas and Ferb,https://z88.ubtvfans.com/live/rx6/1098/848c9812046f0b479aacf9e590ac862f/index.m3u8
-Talking Tom,https://z88.ubtvfans.com/live/rx6/2696/f5429c7dcbc4379ce7adb90f27502512/index.m3u8
-Robocar POLI,https://z88.ubtvfans.com/live/rx6/298/9390a2156ab83bdeb5ff4d21f0d66bb5/index.m3u8
-SpongeBob,https://z88.ubtvfans.com/live/rx6/1094/e825ce577b1e88f56fbaa5dfa9fc3a7b/index.m3u8
-朱妮托尼,https://z88.ubtvfans.com/live/rx6/2537/c19bc4d21ab421f6618aa48064e6786f/index.m3u8
-Beep Beep,https://z88.ubtvfans.com/live/rx6/3015/f270d739f6e0bc11bb2095230e4563d5/index.m3u8
-Winnie,https://z88.ubtvfans.com/live/rx6/3018/19d17c2b1a13b95b49abefe2cb0e1726/index.m3u8
-The Amazing World of Elmore,https://z88.ubtvfans.com/live/rx6/456/7b1808bc48674799848603932039975a/index.m3u8
-The Smurfs,https://z88.ubtvfans.com/live/rx6/454/6a1fe302962de6a4bcf782b26702ed26/index.m3u8
-CCTV14,https://z88.ubtvfans.com/live/rx1/214/263d5992b4318745a17263662c242200/index.m3u8
-CCTV14,https://z88.ubtvfans.com/live/rx1/2826/fc1ef9b4c5106eb2b21d13f671542472/index.m3u8
+Bebefinn,http://cookies.elementfx.com/ublive/ublive.php?id=489
+Leigha Marina,http://cookies.elementfx.com/ublive/ublive.php?id=313
+MOMO親子,http://cookies.elementfx.com/ublive/ublive.php?id=2767
+東森幼幼,http://cookies.elementfx.com/ublive/ublive.php?id=371
+東森幼幼（備）,http://cookies.elementfx.com/ublive/ublive.php?id=2771
+東森亞洲呦呦,http://cookies.elementfx.com/ublive/ublive.php?id=293
+PBS KIDS,http://cookies.elementfx.com/ublive/ublive.php?id=355
+CN Asia,http://cookies.elementfx.com/ublive/ublive.php?id=2768
+Nick Jr.,http://cookies.elementfx.com/ublive/ublive.php?id=50
+PAW Patrol,http://cookies.elementfx.com/ublive/ublive.php?id=2226
+Spidey,http://cookies.elementfx.com/ublive/ublive.php?id=2270
+Dreamworks,http://cookies.elementfx.com/ublive/ublive.php?id=48
+CN卡通,http://cookies.elementfx.com/ublive/ublive.php?id=107
+Tom and Jerry,http://cookies.elementfx.com/ublive/ublive.php?id=3209
+Curious George,http://cookies.elementfx.com/ublive/ublive.php?id=173
+Gabby Dollhouse,http://cookies.elementfx.com/ublive/ublive.php?id=1344
+Animax,http://cookies.elementfx.com/ublive/ublive.php?id=59
+Bluey,http://cookies.elementfx.com/ublive/ublive.php?id=143
+靖洋卡通,http://cookies.elementfx.com/ublive/ublive.php?id=348
+YOYO TV,http://cookies.elementfx.com/ublive/ublive.php?id=340
+靖天卡通,http://cookies.elementfx.com/ublive/ublive.php?id=344
+i-Fun動漫,http://cookies.elementfx.com/ublive/ublive.php?id=1127
+i-Fun動漫,http://cookies.elementfx.com/ublive/ublive.php?id=2802
+達文西,http://cookies.elementfx.com/ublive/ublive.php?id=68
+Baby TV,http://cookies.elementfx.com/ublive/ublive.php?id=1129
+Treehouse,http://cookies.elementfx.com/ublive/ublive.php?id=55
+Nickj,http://cookies.elementfx.com/ublive/ublive.php?id=53
+Disney,http://cookies.elementfx.com/ublive/ublive.php?id=5
+Boomerang,http://cookies.elementfx.com/ublive/ublive.php?id=57
+Disney Junior,http://cookies.elementfx.com/ublive/ublive.php?id=460
+Hogi,http://cookies.elementfx.com/ublive/ublive.php?id=2346
+LiaChaCha,http://cookies.elementfx.com/ublive/ublive.php?id=1399
+Phineas and Ferb,http://cookies.elementfx.com/ublive/ublive.php?id=1098
+Talking Tom,http://cookies.elementfx.com/ublive/ublive.php?id=2696
+Robocar POLI,http://cookies.elementfx.com/ublive/ublive.php?id=298
+SpongeBob,http://cookies.elementfx.com/ublive/ublive.php?id=1094
+BABY LOONEY TUNES,http://cookies.elementfx.com/ublive/ublive.php?id=2438
+朱妮托尼,http://cookies.elementfx.com/ublive/ublive.php?id=2537
+Beep Beep,http://cookies.elementfx.com/ublive/ublive.php?id=3015
+Winnie,http://cookies.elementfx.com/ublive/ublive.php?id=3018
+The Amazing World of Elmore,http://cookies.elementfx.com/ublive/ublive.php?id=456
+The Smurfs,http://cookies.elementfx.com/ublive/ublive.php?id=454
+ChuChu,http://cookies.elementfx.com/ublive/ublive.php?id=1562
+CCTV14,http://cookies.elementfx.com/ublive/ublive.php?id=214
+CCTV14,http://cookies.elementfx.com/ublive/ublive.php?id=2826
 音樂宗教,#genre#
-好消息,https://z88.ubtvfans.com/live/rx1/104/ee07571be25fcadb0ba2b662aef072db/index.m3u8
-好消息2,https://z88.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
-Water Sounds,https://z88.ubtvfans.com/live/rx6/496/709bc467cf8a0cc6bb0fe36a886cf7d5/index.m3u8
-Hits Radio,https://z88.ubtvfans.com/live/rx6/4/51324029bec78bf0503e147a2116bf7b/index.m3u8
-Unbelievable Beauty,https://z88.ubtvfans.com/live/rx6/1002/5180bb60cce8e8fff5ba6c1291f4a269/index.m3u8
-Relaxing Music,https://z88.ubtvfans.com/live/rx6/151/5ef336bd565834eaba4cade2cf350ebe/index.m3u8
-Relaxing Jazz Piano,https://z88.ubtvfans.com/live/rx6/1351/3d435e4af416080cd5ca5512a4893615/index.m3u8
-輕鬆音樂,https://z88.ubtvfans.com/live/rx6/1361/8104b38d50f0b175aff360208b01fc35/index.m3u8
-One World Radio,https://z88.ubtvfans.com/live/rx6/1153/1b8c54f4a2a59db9d4e20e1b90c485ba/index.m3u8
-Mezzo Live,https://z88.ubtvfans.com/live/rx1/60/8793314eeab06f1a6c51ce220f3fa99b/index.m3u8
-8FM,https://z88.ubtvfans.com/live/rx6/9/b60ff6abf03a07061d29ec189401731f/index.m3u8
-Lofi Hip Hop,https://z88.ubtvfans.com/live/rx6/2350/c9f39fa9516a3a49adcfcab243c0b0f6/index.m3u8
-Eight FM,https://z88.ubtvfans.com/live/rx6/1021/61d35c061c716d67cd7302aa875dbdf5/index.m3u8
-自然の音,https://z88.ubtvfans.com/live/rx6/1138/4207cb431cab6e07620de8b3bcabd881/index.m3u8
-4K Nature,https://z88.ubtvfans.com/live/rx6/1015/ae4b64e1e02381688c8315dc61725f1b/index.m3u8
-Coffee Jazz,https://z88.ubtvfans.com/live/rx6/1019/8d5427dfe678b8cf87a050fdbc78208b/index.m3u8
-Space Ambient,https://z88.ubtvfans.com/live/rx6/1005/2a6e9bbe0d3010cd16f46b5e04927a58/index.m3u8
-Rolling Cam Venice,https://z88.ubtvfans.com/live/rx6/1007/3ecb1930e55701f32e4e0cee39d91ced/index.m3u8
-大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
-大愛二臺,https://z88.ubtvfans.com/live/rx6/197/903a28d4e38b90dd8b75f5402dbb1fb4/index.m3u8
-Baroque Live Music,https://z88.ubtvfans.com/live/rx6/1027/c211f3d6fe293e4d7152ac2cee5a8e2b/index.m3u8
-唯心電視,https://z88.ubtvfans.com/live/rx1/1150/0021ffaf534756bb58442f068eff051a/index.m3u8
-人間衛視,https://z88.ubtvfans.com/live/rx6/101/947b2d705ed64f1b240e2b90d6dfb58f/index.m3u8
-Good Life Radio,https://z88.ubtvfans.com/live/rx6/1152/e9e7d82f2146997265dae55daf067874/index.m3u8
-Rainy Jazz,https://z88.ubtvfans.com/live/rx6/1089/8fab10fdbdf0bfe252185d2a2fb9a2aa/index.m3u8
-Deep House Radio,https://z88.ubtvfans.com/live/rx6/1090/353aa70a62a3f2c5a656fee9ca811c25/index.m3u8
-Sleeping Music,https://z88.ubtvfans.com/live/rx6/1087/44b46f24742b89bb3a92dbdfd6d0093e/index.m3u8
-Relaxing Piano Collection,https://z88.ubtvfans.com/live/rx6/1088/a61eb74265c6a3b0c8d7ffad76717b6e/index.m3u8
-Trace Urban,https://z88.ubtvfans.com/live/rx1/1003/565b5263b2952757a4f53a3fc610b8ce/index.m3u8
-佛衛慈悲台,https://z88.ubtvfans.com/live/rx6/1306/ead0dd62bc1bb64af19c80730806f8b2/index.m3u8
-生命電視,https://z88.ubtvfans.com/live/rx3/1124/9570974b045c13b4da97f5e72c6dfbaa/index.m3u8
-華藏電視,https://z88.ubtvfans.com/live/rx6/1053/d6d19fc3c82f8bde8922343ec0027587/index.m3u8
-治愈音樂,https://z88.ubtvfans.com/live/rx6/1503/826513e8897154dd281dd9d8a237311e/index.m3u8
-正德電視,https://z88.ubtvfans.com/live/rx6/42/756d37d270af848a56d4a7d3a926c744/index.m3u8
-SupremeMasterTV,https://z88.ubtvfans.com/live/rx6/323/d5baa4b1937a9f8e30f811482c77e40e/index.m3u8
-鳥鳴音樂,https://z88.ubtvfans.com/live/rx6/1407/894306f2b41aa85e2cdb6fd0e1e367d0/index.m3u8
-Heavenly Harp Music,https://z88.ubtvfans.com/live/rx6/2540/6b27c84e9d8b03571ed8e0638c190d0f/index.m3u8
-
+好消息,http://cookies.elementfx.com/ublive/ublive.php?id=104
+好消息2,http://cookies.elementfx.com/ublive/ublive.php?id=363
+Water Sounds,http://cookies.elementfx.com/ublive/ublive.php?id=496
+Hits Radio,http://cookies.elementfx.com/ublive/ublive.php?id=4
+Unbelievable Beauty,http://cookies.elementfx.com/ublive/ublive.php?id=1002
+Relaxing Music,http://cookies.elementfx.com/ublive/ublive.php?id=151
+Relaxing Jazz Piano,http://cookies.elementfx.com/ublive/ublive.php?id=1351
+One World Radio,http://cookies.elementfx.com/ublive/ublive.php?id=1153
+Mezzo Live,http://cookies.elementfx.com/ublive/ublive.php?id=60
+8FM,http://cookies.elementfx.com/ublive/ublive.php?id=9
+Lofi Hip Hop,http://cookies.elementfx.com/ublive/ublive.php?id=2350
+Eight FM,http://cookies.elementfx.com/ublive/ublive.php?id=1021
+自然の音,http://cookies.elementfx.com/ublive/ublive.php?id=1138
+4K Nature,http://cookies.elementfx.com/ublive/ublive.php?id=1015
+Coffee Jazz,http://cookies.elementfx.com/ublive/ublive.php?id=1019
+Space Ambient,http://cookies.elementfx.com/ublive/ublive.php?id=1005
+Rolling Cam Venice,http://cookies.elementfx.com/ublive/ublive.php?id=1007
+大愛一臺,http://cookies.elementfx.com/ublive/ublive.php?id=11
+大愛二臺,http://cookies.elementfx.com/ublive/ublive.php?id=197
+Baroque Live Music,http://cookies.elementfx.com/ublive/ublive.php?id=1027
+唯心電視,http://cookies.elementfx.com/ublive/ublive.php?id=1150
+人間衛視,http://cookies.elementfx.com/ublive/ublive.php?id=101
+Good Life Radio,http://cookies.elementfx.com/ublive/ublive.php?id=1152
+Rainy Jazz,http://cookies.elementfx.com/ublive/ublive.php?id=1089
+Deep House Radio,http://cookies.elementfx.com/ublive/ublive.php?id=1090
+Sleeping Music,http://cookies.elementfx.com/ublive/ublive.php?id=1087
+Relaxing Piano Collection,http://cookies.elementfx.com/ublive/ublive.php?id=1088
+Trace Urban,http://cookies.elementfx.com/ublive/ublive.php?id=1003
+佛衛慈悲台,http://cookies.elementfx.com/ublive/ublive.php?id=1306
+生命電視,http://cookies.elementfx.com/ublive/ublive.php?id=1124
+華藏電視,http://cookies.elementfx.com/ublive/ublive.php?id=1053
+治愈音樂,http://cookies.elementfx.com/ublive/ublive.php?id=1503
+正德電視,http://cookies.elementfx.com/ublive/ublive.php?id=42
+SupremeMasterTV,http://cookies.elementfx.com/ublive/ublive.php?id=323
+鳥鳴音樂,http://cookies.elementfx.com/ublive/ublive.php?id=1407
+GRASS COTTON,http://cookies.elementfx.com/ublive/ublive.php?id=3221
+Heavenly Harp Music,http://cookies.elementfx.com/ublive/ublive.php?id=2540
+大陸頻道,#genre#
+CCTV1,http://cookies.elementfx.com/ublive/ublive.php?id=2305
+CCTV1,http://cookies.elementfx.com/ublive/ublive.php?id=200
+CCTV2,http://cookies.elementfx.com/ublive/ublive.php?id=201
+CCTV2,http://cookies.elementfx.com/ublive/ublive.php?id=2763
+CCTV3,http://cookies.elementfx.com/ublive/ublive.php?id=202
+CCTV3,http://cookies.elementfx.com/ublive/ublive.php?id=2808
+CCTV4,http://cookies.elementfx.com/ublive/ublive.php?id=248
+CCTV4,http://cookies.elementfx.com/ublive/ublive.php?id=203
+CCTV4,http://cookies.elementfx.com/ublive/ublive.php?id=2764
+CCTV5,http://cookies.elementfx.com/ublive/ublive.php?id=204
+CCTV5plus,http://cookies.elementfx.com/ublive/ublive.php?id=205
+CCTV5,http://cookies.elementfx.com/ublive/ublive.php?id=2760
+CCTV5plus,http://cookies.elementfx.com/ublive/ublive.php?id=2759
+CCTV6,http://cookies.elementfx.com/ublive/ublive.php?id=206
+CCTV6,http://cookies.elementfx.com/ublive/ublive.php?id=2758
+CCTV7,http://cookies.elementfx.com/ublive/ublive.php?id=207
+CCTV7,http://cookies.elementfx.com/ublive/ublive.php?id=2757
+CCTV8,http://cookies.elementfx.com/ublive/ublive.php?id=208
+CCTV8,http://cookies.elementfx.com/ublive/ublive.php?id=2756
+CCTV9,http://cookies.elementfx.com/ublive/ublive.php?id=2308
+CCTV9,http://cookies.elementfx.com/ublive/ublive.php?id=209
+CCTV10,http://cookies.elementfx.com/ublive/ublive.php?id=210
+CCTV11,http://cookies.elementfx.com/ublive/ublive.php?id=2809
+CCTV11,http://cookies.elementfx.com/ublive/ublive.php?id=211
+CCTV12,http://cookies.elementfx.com/ublive/ublive.php?id=212
+CCTV12,http://cookies.elementfx.com/ublive/ublive.php?id=2755
+CCTV13,http://cookies.elementfx.com/ublive/ublive.php?id=213
+CCTV13,http://cookies.elementfx.com/ublive/ublive.php?id=2754
+CCTV14,http://cookies.elementfx.com/ublive/ublive.php?id=214
+CCTV14,http://cookies.elementfx.com/ublive/ublive.php?id=2826
+CCTV15,http://cookies.elementfx.com/ublive/ublive.php?id=215
+CCTV16,http://cookies.elementfx.com/ublive/ublive.php?id=2821
+CCTV17,http://cookies.elementfx.com/ublive/ublive.php?id=3260
+浙江卫视,http://cookies.elementfx.com/ublive/ublive.php?id=217
+江苏卫视,http://cookies.elementfx.com/ublive/ublive.php?id=218
+江苏卫视,http://cookies.elementfx.com/ublive/ublive.php?id=2829
+南方卫视,http://cookies.elementfx.com/ublive/ublive.php?id=219
+北京卫视,http://cookies.elementfx.com/ublive/ublive.php?id=220
+北京衛視,http://cookies.elementfx.com/ublive/ublive.php?id=221
+广东卫视,http://cookies.elementfx.com/ublive/ublive.php?id=231
+广东卫视,http://cookies.elementfx.com/ublive/ublive.php?id=1499
+东方卫视,http://cookies.elementfx.com/ublive/ublive.php?id=224
+河南卫视,http://cookies.elementfx.com/ublive/ublive.php?id=225
+湖南卫视,http://cookies.elementfx.com/ublive/ublive.php?id=3228
+湖南卫视,http://cookies.elementfx.com/ublive/ublive.php?id=226
+湖北卫视,http://cookies.elementfx.com/ublive/ublive.php?id=3229
+湖北卫视,http://cookies.elementfx.com/ublive/ublive.php?id=227
+东南卫视,http://cookies.elementfx.com/ublive/ublive.php?id=228
+辽宁卫视,http://cookies.elementfx.com/ublive/ublive.php?id=229
+深圳卫视,http://cookies.elementfx.com/ublive/ublive.php?id=230
+深圳卫视,http://cookies.elementfx.com/ublive/ublive.php?id=3230
+安徽卫视,http://cookies.elementfx.com/ublive/ublive.php?id=232
+安徽卫视,http://cookies.elementfx.com/ublive/ublive.php?id=2830
+四川卫视,http://cookies.elementfx.com/ublive/ublive.php?id=233
+山东卫视,http://cookies.elementfx.com/ublive/ublive.php?id=234
+青田電視台,http://cookies.elementfx.com/ublive/ublive.php?id=2295
+天津衛視,http://cookies.elementfx.com/ublive/ublive.php?id=1093
+江西衛視,http://cookies.elementfx.com/ublive/ublive.php?id=1097
+新疆衛視,http://cookies.elementfx.com/ublive/ublive.php?id=1026
+にっぽん,#genre#
+JapaNews24,http://cookies.elementfx.com/ublive/ublive.php?id=425
+スカイA,http://cookies.elementfx.com/ublive/ublive.php?id=2433
+日テレニュース24,http://cookies.elementfx.com/ublive/ublive.php?id=292
+フジone,http://cookies.elementfx.com/ublive/ublive.php?id=2300
+フジ two,http://cookies.elementfx.com/ublive/ublive.php?id=2301
+フジ next,http://cookies.elementfx.com/ublive/ublive.php?id=2750
+KANSAI News24,http://cookies.elementfx.com/ublive/ublive.php?id=247
+メ～テレNEWS,http://cookies.elementfx.com/ublive/ublive.php?id=245
+広島ニュース,http://cookies.elementfx.com/ublive/ublive.php?id=1095
+TBS NEWS,http://cookies.elementfx.com/ublive/ublive.php?id=1096
+RKB NEWS 24,http://cookies.elementfx.com/ublive/ublive.php?id=1043
+STV NEWS,http://cookies.elementfx.com/ublive/ublive.php?id=1500
+テレ朝チャンネル1,http://cookies.elementfx.com/ublive/ublive.php?id=2271
+テレ朝チャンネル2,http://cookies.elementfx.com/ublive/ublive.php?id=2344
+スポーツライブ＋,http://cookies.elementfx.com/ublive/ublive.php?id=2343
+読売テレビ,http://cookies.elementfx.com/ublive/ublive.php?id=198
+関西テレビ,http://cookies.elementfx.com/ublive/ublive.php?id=235
+BS日テレ,http://cookies.elementfx.com/ublive/ublive.php?id=240
+BS朝日,http://cookies.elementfx.com/ublive/ublive.php?id=241
+BS-TBS,http://cookies.elementfx.com/ublive/ublive.php?id=242
+BSテレビ東京,http://cookies.elementfx.com/ublive/ublive.php?id=243
+SATVニュース,http://cookies.elementfx.com/ublive/ublive.php?id=1594
+BSフジ,http://cookies.elementfx.com/ublive/ublive.php?id=244
+旅チャンネル,http://cookies.elementfx.com/ublive/ublive.php?id=2304
+RCC NEWS,http://cookies.elementfx.com/ublive/ublive.php?id=421
+TOKYO MX 1,http://cookies.elementfx.com/ublive/ublive.php?id=2204
+TOKYO MX 2,http://cookies.elementfx.com/ublive/ublive.php?id=2205
+朝日放送テレビ,http://cookies.elementfx.com/ublive/ublive.php?id=237
+時代劇専門チャンネル,http://cookies.elementfx.com/ublive/ublive.php?id=287
+TV Tokyo,http://cookies.elementfx.com/ublive/ublive.php?id=123
+J SPORTS 1,http://cookies.elementfx.com/ublive/ublive.php?id=129
+J SPORTS 2,http://cookies.elementfx.com/ublive/ublive.php?id=130
+J SPORTS 3,http://cookies.elementfx.com/ublive/ublive.php?id=131
+J SPORTS 4,http://cookies.elementfx.com/ublive/ublive.php?id=132
+ABC朝日,http://cookies.elementfx.com/ublive/ublive.php?id=127
+FU JI,http://cookies.elementfx.com/ublive/ublive.php?id=122
+テレビ東京,http://cookies.elementfx.com/ublive/ublive.php?id=2202
+フジテレビ,http://cookies.elementfx.com/ublive/ublive.php?id=2203
+テレビ朝日,http://cookies.elementfx.com/ublive/ublive.php?id=125
+大阪TV,http://cookies.elementfx.com/ublive/ublive.php?id=126
+WOWOWプライム,http://cookies.elementfx.com/ublive/ublive.php?id=133
+WOWOWライブ,http://cookies.elementfx.com/ublive/ublive.php?id=134
+WOWOWシネマ,http://cookies.elementfx.com/ublive/ublive.php?id=135
+スターチャンネル1,http://cookies.elementfx.com/ublive/ublive.php?id=136
+日本テレビ,http://cookies.elementfx.com/ublive/ublive.php?id=119
+毎日放送,http://cookies.elementfx.com/ublive/ublive.php?id=199
+ゴルフネットワーク,http://cookies.elementfx.com/ublive/ublive.php?id=249
+HTB北海道,http://cookies.elementfx.com/ublive/ublive.php?id=39
+日テレG+,http://cookies.elementfx.com/ublive/ublive.php?id=2298
+GAORA SPORTS,http://cookies.elementfx.com/ublive/ublive.php?id=296
+TBS,http://cookies.elementfx.com/ublive/ublive.php?id=124
+TBS,http://cookies.elementfx.com/ublive/ublive.php?id=2201
+アニマックス,http://cookies.elementfx.com/ublive/ublive.php?id=139
+グリーンチャンネル,http://cookies.elementfx.com/ublive/ublive.php?id=140
+キッズステーション,http://cookies.elementfx.com/ublive/ublive.php?id=289
+静岡ニュース,http://cookies.elementfx.com/ublive/ublive.php?id=297
+MUSIC ON! TV,http://cookies.elementfx.com/ublive/ublive.php?id=288
+QVCライブ,http://cookies.elementfx.com/ublive/ublive.php?id=2218
+BS日本映画専門Ch,http://cookies.elementfx.com/ublive/ublive.php?id=2219
+Discovery Japan,http://cookies.elementfx.com/ublive/ublive.php?id=290
+衛星劇場,http://cookies.elementfx.com/ublive/ublive.php?id=2345
+日テレG＋,http://cookies.elementfx.com/ublive/ublive.php?id=2434
+兵庫県の最新,http://cookies.elementfx.com/ublive/ublive.php?id=1142
+KBC NEWS,http://cookies.elementfx.com/ublive/ublive.php?id=3219
+TBS,http://cookies.elementfx.com/ublive/ublive.php?id=2917
+NHK World,http://cookies.elementfx.com/ublive/ublive.php?id=2918
+BS-富士,http://cookies.elementfx.com/ublive/ublive.php?id=2919
+フジテレビ富士,http://cookies.elementfx.com/ublive/ublive.php?id=2920
+テレビ朝日,http://cookies.elementfx.com/ublive/ublive.php?id=2921
+テレビ東京,http://cookies.elementfx.com/ublive/ublive.php?id=2922
+日本テレビ,http://cookies.elementfx.com/ublive/ublive.php?id=2923
+スター・チャンネル,http://cookies.elementfx.com/ublive/ublive.php?id=3210
+BS朝日,http://cookies.elementfx.com/ublive/ublive.php?id=3213
+BS-TBS,http://cookies.elementfx.com/ublive/ublive.php?id=3214
+한국,#genre#
+연합뉴스TV,http://cookies.elementfx.com/ublive/ublive.php?id=1039
+KBS KOREA,http://cookies.elementfx.com/ublive/ublive.php?id=1040
+YTN2,http://cookies.elementfx.com/ublive/ublive.php?id=1058
+KBS1,http://cookies.elementfx.com/ublive/ublive.php?id=2752
+KBS2,http://cookies.elementfx.com/ublive/ublive.php?id=2753
+CATCH ON2,http://cookies.elementfx.com/ublive/ublive.php?id=3200
+SBS,http://cookies.elementfx.com/ublive/ublive.php?id=252
+SBS,http://cookies.elementfx.com/ublive/ublive.php?id=3107
+SBS BIZ,http://cookies.elementfx.com/ublive/ublive.php?id=3201
+Channel A,http://cookies.elementfx.com/ublive/ublive.php?id=3204
+CATCH ON1,http://cookies.elementfx.com/ublive/ublive.php?id=3207
+JEI재능TV,http://cookies.elementfx.com/ublive/ublive.php?id=3205
+NOW[미드],http://cookies.elementfx.com/ublive/ublive.php?id=3166
+AXN[미드],http://cookies.elementfx.com/ublive/ublive.php?id=3168
+SCREEN,http://cookies.elementfx.com/ublive/ublive.php?id=3153
+런닝맨,http://cookies.elementfx.com/ublive/ublive.php?id=2347
+KBS드라마1,http://cookies.elementfx.com/ublive/ublive.php?id=2348
+MBC드라마넷,http://cookies.elementfx.com/ublive/ublive.php?id=2349
+I.NET,http://cookies.elementfx.com/ublive/ublive.php?id=2351
+SkySports,http://cookies.elementfx.com/ublive/ublive.php?id=2352
+KBSN Sports,http://cookies.elementfx.com/ublive/ublive.php?id=2353
+SBS Sports,http://cookies.elementfx.com/ublive/ublive.php?id=2354
+FTV,http://cookies.elementfx.com/ublive/ublive.php?id=2355
+바둑TV,http://cookies.elementfx.com/ublive/ublive.php?id=2356
+OCN Thrills,http://cookies.elementfx.com/ublive/ublive.php?id=2357
+OBS,http://cookies.elementfx.com/ublive/ublive.php?id=2358
+OBS,http://cookies.elementfx.com/ublive/ublive.php?id=2359
+투니버스Tooniverse 39,http://cookies.elementfx.com/ublive/ublive.php?id=2360
+연변위성,http://cookies.elementfx.com/ublive/ublive.php?id=2361
+TVN,http://cookies.elementfx.com/ublive/ublive.php?id=295
+MBC,http://cookies.elementfx.com/ublive/ublive.php?id=251
+MBC,http://cookies.elementfx.com/ublive/ublive.php?id=3106
+MBN,http://cookies.elementfx.com/ublive/ublive.php?id=257
+Mnet,http://cookies.elementfx.com/ublive/ublive.php?id=3203
+MBN,http://cookies.elementfx.com/ublive/ublive.php?id=3197
+MBC스포츠,http://cookies.elementfx.com/ublive/ublive.php?id=265
+JTBC골프,http://cookies.elementfx.com/ublive/ublive.php?id=268
+JTBC,http://cookies.elementfx.com/ublive/ublive.php?id=3108
+JTBC,http://cookies.elementfx.com/ublive/ublive.php?id=253
+tvN,http://cookies.elementfx.com/ublive/ublive.php?id=1154
+OCN,http://cookies.elementfx.com/ublive/ublive.php?id=488
+OCN Movies,http://cookies.elementfx.com/ublive/ublive.php?id=3165
+iNet,http://cookies.elementfx.com/ublive/ublive.php?id=490
+OCN,http://cookies.elementfx.com/ublive/ublive.php?id=3206
+CTS,http://cookies.elementfx.com/ublive/ublive.php?id=491
+Spotv,http://cookies.elementfx.com/ublive/ublive.php?id=266
+SPOTV ON1,http://cookies.elementfx.com/ublive/ublive.php?id=3104
+SPOTV ON2,http://cookies.elementfx.com/ublive/ublive.php?id=3105
+THE K-POP,http://cookies.elementfx.com/ublive/ublive.php?id=493
+SBS골프,http://cookies.elementfx.com/ublive/ublive.php?id=486
+TV Chosun,http://cookies.elementfx.com/ublive/ublive.php?id=3109
+한국경제,http://cookies.elementfx.com/ublive/ublive.php?id=1064
+매일경제TV,http://cookies.elementfx.com/ublive/ublive.php?id=1065
+YTN 사이언스,http://cookies.elementfx.com/ublive/ublive.php?id=1605
+Arirang TV,http://cookies.elementfx.com/ublive/ublive.php?id=256
+TV CHOSUN,http://cookies.elementfx.com/ublive/ublive.php?id=2333
+SBS Sports,http://cookies.elementfx.com/ublive/ublive.php?id=487
+Mnet,http://cookies.elementfx.com/ublive/ublive.php?id=1136
+Tconvers,http://cookies.elementfx.com/ublive/ublive.php?id=1134
+채널A,http://cookies.elementfx.com/ublive/ublive.php?id=1092
+KBC,http://cookies.elementfx.com/ublive/ublive.php?id=1307
+MTN,http://cookies.elementfx.com/ublive/ublive.php?id=1504
+토마토TV,http://cookies.elementfx.com/ublive/ublive.php?id=1544
+이데일리TV,http://cookies.elementfx.com/ublive/ublive.php?id=1554
+EBS1,http://cookies.elementfx.com/ublive/ublive.php?id=2439
+EBS2,http://cookies.elementfx.com/ublive/ublive.php?id=3006
+EBS KIDS,http://cookies.elementfx.com/ublive/ublive.php?id=3007
+EBS PLUS1,http://cookies.elementfx.com/ublive/ublive.php?id=3008
+EBS PLUS2,http://cookies.elementfx.com/ublive/ublive.php?id=3009
+EBSe,http://cookies.elementfx.com/ublive/ublive.php?id=3010
+tvN Show,http://cookies.elementfx.com/ublive/ublive.php?id=1020
+tvN Story,http://cookies.elementfx.com/ublive/ublive.php?id=1062
+Inet TV,http://cookies.elementfx.com/ublive/ublive.php?id=263
+Tooniverse,http://cookies.elementfx.com/ublive/ublive.php?id=1100
+대교 어린이,http://cookies.elementfx.com/ublive/ublive.php?id=260
+CNTV,http://cookies.elementfx.com/ublive/ublive.php?id=3167
+Kids Talk Talk,http://cookies.elementfx.com/ublive/ublive.php?id=1582
+SPOTV Golf,http://cookies.elementfx.com/ublive/ublive.php?id=3169
+SBS Golf,http://cookies.elementfx.com/ublive/ublive.php?id=3170
+JTBC Golf,http://cookies.elementfx.com/ublive/ublive.php?id=3173
+JTBC Golf&Sports,http://cookies.elementfx.com/ublive/ublive.php?id=3198
+MBC Sports,http://cookies.elementfx.com/ublive/ublive.php?id=3174
+SBS Sports,http://cookies.elementfx.com/ublive/ublive.php?id=3199
+SPOTV2,http://cookies.elementfx.com/ublive/ublive.php?id=250
+KBSN Sports,http://cookies.elementfx.com/ublive/ublive.php?id=174
+FTV,http://cookies.elementfx.com/ublive/ublive.php?id=2905
+TVBaduk,http://cookies.elementfx.com/ublive/ublive.php?id=2906
+Channel China,http://cookies.elementfx.com/ublive/ublive.php?id=2907
+SKY Sports,http://cookies.elementfx.com/ublive/ublive.php?id=2910
+tvN Sports,http://cookies.elementfx.com/ublive/ublive.php?id=2931
+Smithsonian,http://cookies.elementfx.com/ublive/ublive.php?id=2934
+BTN,http://cookies.elementfx.com/ublive/ublive.php?id=3078
+SPOTV,http://cookies.elementfx.com/ublive/ublive.php?id=3080
+CHING,http://cookies.elementfx.com/ublive/ublive.php?id=3081
+CPBC,http://cookies.elementfx.com/ublive/ublive.php?id=3083
+CTS,http://cookies.elementfx.com/ublive/ublive.php?id=3084
+KBS2,http://cookies.elementfx.com/ublive/ublive.php?id=3075
+CGNTV GW,http://cookies.elementfx.com/ublive/ublive.php?id=2911
+Discovery,http://cookies.elementfx.com/ublive/ublive.php?id=3196
+美國頻道,#genre#
+Sinovision,http://cookies.elementfx.com/ublive/ublive.php?id=1101
+mlb  network,http://cookies.elementfx.com/ublive/ublive.php?id=3250
+BTN,http://cookies.elementfx.com/ublive/ublive.php?id=3256
+mlb  network,http://cookies.elementfx.com/ublive/ublive.php?id=3251
+TLC,http://cookies.elementfx.com/ublive/ublive.php?id=1206
+FOX,http://cookies.elementfx.com/ublive/ublive.php?id=1218
+FOX NOW,http://cookies.elementfx.com/ublive/ublive.php?id=1506
+WillowCricket,http://cookies.elementfx.com/ublive/ublive.php?id=3231
+coking chan,http://cookies.elementfx.com/ublive/ublive.php?id=3233
+CNN,http://cookies.elementfx.com/ublive/ublive.php?id=1507
+CNN （備用）,http://cookies.elementfx.com/ublive/ublive.php?id=1102
+Msnbc,http://cookies.elementfx.com/ublive/ublive.php?id=1541
+MSNBC（備）,http://cookies.elementfx.com/ublive/ublive.php?id=1104
+Newsmax2,http://cookies.elementfx.com/ublive/ublive.php?id=156
+Yahoo Finance,http://cookies.elementfx.com/ublive/ublive.php?id=2541
+ABC News,http://cookies.elementfx.com/ublive/ublive.php?id=1508
+NBC,http://cookies.elementfx.com/ublive/ublive.php?id=1509
+NBC,http://cookies.elementfx.com/ublive/ublive.php?id=1217
+Fox Business,http://cookies.elementfx.com/ublive/ublive.php?id=1511
+Fox Business,http://cookies.elementfx.com/ublive/ublive.php?id=1108
+FOX Weather,http://cookies.elementfx.com/ublive/ublive.php?id=2742
+E!,http://cookies.elementfx.com/ublive/ublive.php?id=1222
+E,http://cookies.elementfx.com/ublive/ublive.php?id=1536
+Hbo East,http://cookies.elementfx.com/ublive/ublive.php?id=1513
+HBO Family,http://cookies.elementfx.com/ublive/ublive.php?id=1113
+HBO Comedy,http://cookies.elementfx.com/ublive/ublive.php?id=1109
+Hbo Family,http://cookies.elementfx.com/ublive/ublive.php?id=1512
+HBO Signature,http://cookies.elementfx.com/ublive/ublive.php?id=1112
+HBO 2 US,http://cookies.elementfx.com/ublive/ublive.php?id=1111
+Hbo One,http://cookies.elementfx.com/ublive/ublive.php?id=1514
+HBO 1 US,http://cookies.elementfx.com/ublive/ublive.php?id=1110
+Tennis chan,http://cookies.elementfx.com/ublive/ublive.php?id=1519
+Tennis chan（備）,http://cookies.elementfx.com/ublive/ublive.php?id=3235
+MTV,http://cookies.elementfx.com/ublive/ublive.php?id=1546
+FX,http://cookies.elementfx.com/ublive/ublive.php?id=1551
+CNBC,http://cookies.elementfx.com/ublive/ublive.php?id=1106
+CNBC,http://cookies.elementfx.com/ublive/ublive.php?id=1555
+CW,http://cookies.elementfx.com/ublive/ublive.php?id=1557
+CW,http://cookies.elementfx.com/ublive/ublive.php?id=1220
+Animal,http://cookies.elementfx.com/ublive/ublive.php?id=1558
+Animal Planet,http://cookies.elementfx.com/ublive/ublive.php?id=1203
+AE,http://cookies.elementfx.com/ublive/ublive.php?id=1559
+Investigation Discovery,http://cookies.elementfx.com/ublive/ublive.php?id=1564
+Lifetime Movie Network,http://cookies.elementfx.com/ublive/ublive.php?id=1565
+Showtime,http://cookies.elementfx.com/ublive/ublive.php?id=1568
+StarZ,http://cookies.elementfx.com/ublive/ublive.php?id=1569
+USA Network,http://cookies.elementfx.com/ublive/ublive.php?id=1571
+Right Now,http://cookies.elementfx.com/ublive/ublive.php?id=144
+Atlanta,http://cookies.elementfx.com/ublive/ublive.php?id=1055
+Panama City,http://cookies.elementfx.com/ublive/ublive.php?id=1056
+Pawleys Island,http://cookies.elementfx.com/ublive/ublive.php?id=1057
+HGTV,http://cookies.elementfx.com/ublive/ublive.php?id=1538
+HGTV,http://cookies.elementfx.com/ublive/ublive.php?id=2311
+National Geographic,http://cookies.elementfx.com/ublive/ublive.php?id=2312
+Nat Geo Wild,http://cookies.elementfx.com/ublive/ublive.php?id=1521
+Nat Geo Wild,http://cookies.elementfx.com/ublive/ublive.php?id=2313
+Cinemax,http://cookies.elementfx.com/ublive/ublive.php?id=2314
+IFC,http://cookies.elementfx.com/ublive/ublive.php?id=1362
+ESPN NEWS,http://cookies.elementfx.com/ublive/ublive.php?id=1363
+CBS Sport,http://cookies.elementfx.com/ublive/ublive.php?id=1364
+Fight Box,http://cookies.elementfx.com/ublive/ublive.php?id=1365
+Outdoor,http://cookies.elementfx.com/ublive/ublive.php?id=1368
+SEC Network,http://cookies.elementfx.com/ublive/ublive.php?id=1369
+PBS Kids,http://cookies.elementfx.com/ublive/ublive.php?id=1370
+WGN,http://cookies.elementfx.com/ublive/ublive.php?id=1372
+FX,http://cookies.elementfx.com/ublive/ublive.php?id=1373
+Fuse,http://cookies.elementfx.com/ublive/ublive.php?id=1376
+FX Movie,http://cookies.elementfx.com/ublive/ublive.php?id=1380
+Comet,http://cookies.elementfx.com/ublive/ublive.php?id=1381
+5 Star Max,http://cookies.elementfx.com/ublive/ublive.php?id=1174
+龍翔時代,http://cookies.elementfx.com/ublive/ublive.php?id=1175
+MoreMax,http://cookies.elementfx.com/ublive/ublive.php?id=1176
+Hallmark Movie,http://cookies.elementfx.com/ublive/ublive.php?id=1179
+TCM,http://cookies.elementfx.com/ublive/ublive.php?id=1180
+Starz in Black,http://cookies.elementfx.com/ublive/ublive.php?id=1181
+ESPN 1,http://cookies.elementfx.com/ublive/ublive.php?id=1182
+ESPN 2,http://cookies.elementfx.com/ublive/ublive.php?id=2789
+NBA,http://cookies.elementfx.com/ublive/ublive.php?id=2792
+NBA TV US,http://cookies.elementfx.com/ublive/ublive.php?id=1185
+Fight network,http://cookies.elementfx.com/ublive/ublive.php?id=1527
+Fox Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=1187
+NFL Network,http://cookies.elementfx.com/ublive/ublive.php?id=1189
+Food network 美,http://cookies.elementfx.com/ublive/ublive.php?id=1526
+Cartoon Network US,http://cookies.elementfx.com/ublive/ublive.php?id=1211
+USA Network,http://cookies.elementfx.com/ublive/ublive.php?id=1230
+Diy network,http://cookies.elementfx.com/ublive/ublive.php?id=1528
+Golf,http://cookies.elementfx.com/ublive/ublive.php?id=1190
+WWE,http://cookies.elementfx.com/ublive/ublive.php?id=1191
+UFC PASS,http://cookies.elementfx.com/ublive/ublive.php?id=1192
+Bein Sports USA,http://cookies.elementfx.com/ublive/ublive.php?id=1195
+ESPN U,http://cookies.elementfx.com/ublive/ublive.php?id=1196
+Discovery Channel,http://cookies.elementfx.com/ublive/ublive.php?id=1198
+National Geographic,http://cookies.elementfx.com/ublive/ublive.php?id=1200
+History,http://cookies.elementfx.com/ublive/ublive.php?id=1204
+SMITHSONIAN,http://cookies.elementfx.com/ublive/ublive.php?id=1205
+Disney,http://cookies.elementfx.com/ublive/ublive.php?id=1208
+Disney XD,http://cookies.elementfx.com/ublive/ublive.php?id=1209
+Nick Junior,http://cookies.elementfx.com/ublive/ublive.php?id=1213
+Boomerang,http://cookies.elementfx.com/ublive/ublive.php?id=1214
+KCBS（原CBS）,http://cookies.elementfx.com/ublive/ublive.php?id=1219
+LifeTime US,http://cookies.elementfx.com/ublive/ublive.php?id=1226
+Arts and Entertainment,http://cookies.elementfx.com/ublive/ublive.php?id=1227
+Hallmark,http://cookies.elementfx.com/ublive/ublive.php?id=1535
+WE TV,http://cookies.elementfx.com/ublive/ublive.php?id=1229
+VH-1,http://cookies.elementfx.com/ublive/ublive.php?id=1233
+OWN US,http://cookies.elementfx.com/ublive/ublive.php?id=1235
+GSN,http://cookies.elementfx.com/ublive/ublive.php?id=1236
+TVG,http://cookies.elementfx.com/ublive/ublive.php?id=1543
+Cooking Channel,http://cookies.elementfx.com/ublive/ublive.php?id=1238
+FYI,http://cookies.elementfx.com/ublive/ublive.php?id=1240
+BabyTV,http://cookies.elementfx.com/ublive/ublive.php?id=1241
+TVB1,http://cookies.elementfx.com/ublive/ublive.php?id=1242
+TVB DRAMA,http://cookies.elementfx.com/ublive/ublive.php?id=1243
+ABC News,http://cookies.elementfx.com/ublive/ublive.php?id=1516
+TVBJ1,http://cookies.elementfx.com/ublive/ublive.php?id=1244
+TVBE,http://cookies.elementfx.com/ublive/ublive.php?id=1245
+ktsf26,http://cookies.elementfx.com/ublive/ublive.php?id=1517
+The Weather Nation,http://cookies.elementfx.com/ublive/ublive.php?id=1105
+Cinemax,http://cookies.elementfx.com/ublive/ublive.php?id=1518
+History,http://cookies.elementfx.com/ublive/ublive.php?id=1530
+Bloomberg,http://cookies.elementfx.com/ublive/ublive.php?id=1107
+Fox News,http://cookies.elementfx.com/ublive/ublive.php?id=1510
+Travel chan,http://cookies.elementfx.com/ublive/ublive.php?id=1515
+Discovery,http://cookies.elementfx.com/ublive/ublive.php?id=1529
+ShowTime 1,http://cookies.elementfx.com/ublive/ublive.php?id=1114
+NHL net,http://cookies.elementfx.com/ublive/ublive.php?id=1534
+ShowTime 2,http://cookies.elementfx.com/ublive/ublive.php?id=1115
+ShowCase US,http://cookies.elementfx.com/ublive/ublive.php?id=1116
+Starz Comedy,http://cookies.elementfx.com/ublive/ublive.php?id=1118
+Starz Edge,http://cookies.elementfx.com/ublive/ublive.php?id=1119
+Starz Kids Family,http://cookies.elementfx.com/ublive/ublive.php?id=1120
+World Fishing net,http://cookies.elementfx.com/ublive/ublive.php?id=1531
+Starz Encore,http://cookies.elementfx.com/ublive/ublive.php?id=1121
+Starz Encore Westerns,http://cookies.elementfx.com/ublive/ublive.php?id=1122
+Bravo,http://cookies.elementfx.com/ublive/ublive.php?id=1525
+Babytv,http://cookies.elementfx.com/ublive/ublive.php?id=1522
+WFLD-DT Fox 32.1,http://cookies.elementfx.com/ublive/ublive.php?id=2431
+CBS2-WBBM-TV,http://cookies.elementfx.com/ublive/ublive.php?id=2822
+ken5,http://cookies.elementfx.com/ublive/ublive.php?id=2429
+VH1,http://cookies.elementfx.com/ublive/ublive.php?id=1532
+woai,http://cookies.elementfx.com/ublive/ublive.php?id=2430
+TLC,http://cookies.elementfx.com/ublive/ublive.php?id=1533
+TNT,http://cookies.elementfx.com/ublive/ublive.php?id=1524
+ksat12,http://cookies.elementfx.com/ublive/ublive.php?id=2428
+National Geographic,http://cookies.elementfx.com/ublive/ublive.php?id=294
+Syfy,http://cookies.elementfx.com/ublive/ublive.php?id=1537
+加拿大,#genre#
+The Weather Network,http://cookies.elementfx.com/ublive/ublive.php?id=1251
+CP 24 Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1247
+CBC,http://cookies.elementfx.com/ublive/ublive.php?id=1252
+CTV,http://cookies.elementfx.com/ublive/ublive.php?id=1253
+CHCH,http://cookies.elementfx.com/ublive/ublive.php?id=1256
+CTV 2,http://cookies.elementfx.com/ublive/ublive.php?id=1257
+OMNI 1,http://cookies.elementfx.com/ublive/ublive.php?id=1258
+OMNI 2,http://cookies.elementfx.com/ublive/ublive.php?id=1259
+TVO,http://cookies.elementfx.com/ublive/ublive.php?id=1260
+Discovery Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1261
+TLC Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1262
+Love Nature,http://cookies.elementfx.com/ublive/ublive.php?id=1263
+Food Network Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1265
+Cooking Channel Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1266
+CTV Comedy,http://cookies.elementfx.com/ublive/ublive.php?id=1267
+CTV Sci-Fi,http://cookies.elementfx.com/ublive/ublive.php?id=1268
+Crave 1,http://cookies.elementfx.com/ublive/ublive.php?id=1269
+Crave 2,http://cookies.elementfx.com/ublive/ublive.php?id=1270
+Crave 3,http://cookies.elementfx.com/ublive/ublive.php?id=1271
+TSN 1,http://cookies.elementfx.com/ublive/ublive.php?id=1273
+TSN 2,http://cookies.elementfx.com/ublive/ublive.php?id=1274
+TSN 3,http://cookies.elementfx.com/ublive/ublive.php?id=1275
+TSN 4,http://cookies.elementfx.com/ublive/ublive.php?id=1276
+TSN 5,http://cookies.elementfx.com/ublive/ublive.php?id=1277
+SportNet ON,http://cookies.elementfx.com/ublive/ublive.php?id=1278
+SportNet One,http://cookies.elementfx.com/ublive/ublive.php?id=1279
+SportNet World,http://cookies.elementfx.com/ublive/ublive.php?id=1280
+SportNet 360,http://cookies.elementfx.com/ublive/ublive.php?id=1281
+NBA CA,http://cookies.elementfx.com/ublive/ublive.php?id=1282
+TreeHouse,http://cookies.elementfx.com/ublive/ublive.php?id=1283
+Teletoon,http://cookies.elementfx.com/ublive/ublive.php?id=1284
+YTV,http://cookies.elementfx.com/ublive/ublive.php?id=1285
+新時代東部,http://cookies.elementfx.com/ublive/ublive.php?id=1286
+（時移）新時代東,http://cookies.elementfx.com/ublive/ublive.php?id=1287
+新時代2,http://cookies.elementfx.com/ublive/ublive.php?id=1288
+城市電視,http://cookies.elementfx.com/ublive/ublive.php?id=1289
+Sportsnet P,http://cookies.elementfx.com/ublive/ublive.php?id=3074
+Global,http://cookies.elementfx.com/ublive/ublive.php?id=1254
+City,http://cookies.elementfx.com/ublive/ublive.php?id=1255
+HGTV Canada,http://cookies.elementfx.com/ublive/ublive.php?id=1264
+Business Network News,http://cookies.elementfx.com/ublive/ublive.php?id=1250
+CTV News,http://cookies.elementfx.com/ublive/ublive.php?id=1249
+CBC News,http://cookies.elementfx.com/ublive/ublive.php?id=1248
+Crave 4,http://cookies.elementfx.com/ublive/ublive.php?id=1272
+英國頻道,#genre#
+bt espn hd,http://cookies.elementfx.com/ublive/ublive.php?id=2790
+GB News,http://cookies.elementfx.com/ublive/ublive.php?id=77
+TalkTV,http://cookies.elementfx.com/ublive/ublive.php?id=309
+BBC three cbbc,http://cookies.elementfx.com/ublive/ublive.php?id=1384
+BBC four cbeebies,http://cookies.elementfx.com/ublive/ublive.php?id=1383
+True entertainment,http://cookies.elementfx.com/ublive/ublive.php?id=1386
+Discovery turbo,http://cookies.elementfx.com/ublive/ublive.php?id=1387
+sky_docu_hd,http://cookies.elementfx.com/ublive/ublive.php?id=1388
+E ent,http://cookies.elementfx.com/ublive/ublive.php?id=1392
+BBC red button,http://cookies.elementfx.com/ublive/ublive.php?id=1393
+E4,http://cookies.elementfx.com/ublive/ublive.php?id=1397
+Alibi,http://cookies.elementfx.com/ublive/ublive.php?id=1398
+5 star,http://cookies.elementfx.com/ublive/ublive.php?id=1400
+Itv 1,http://cookies.elementfx.com/ublive/ublive.php?id=1401
+Itv 2,http://cookies.elementfx.com/ublive/ublive.php?id=1402
+Itv 3,http://cookies.elementfx.com/ublive/ublive.php?id=1403
+Itv 4,http://cookies.elementfx.com/ublive/ublive.php?id=1404
+discovery channel,http://cookies.elementfx.com/ublive/ublive.php?id=1406
+Comedy Central,http://cookies.elementfx.com/ublive/ublive.php?id=1408
+Rte1,http://cookies.elementfx.com/ublive/ublive.php?id=1409
+Rte2,http://cookies.elementfx.com/ublive/ublive.php?id=1410
+Premiersp,http://cookies.elementfx.com/ublive/ublive.php?id=1411
+Freesports,http://cookies.elementfx.com/ublive/ublive.php?id=1412
+History,http://cookies.elementfx.com/ublive/ublive.php?id=1413
+CNBC,http://cookies.elementfx.com/ublive/ublive.php?id=1414
+Aljazeera,http://cookies.elementfx.com/ublive/ublive.php?id=1415
+Tv3 virgin,http://cookies.elementfx.com/ublive/ublive.php?id=1416
+Home,http://cookies.elementfx.com/ublive/ublive.php?id=1417
+Dave,http://cookies.elementfx.com/ublive/ublive.php?id=1418
+Film 4,http://cookies.elementfx.com/ublive/ublive.php?id=1419
+More 4,http://cookies.elementfx.com/ublive/ublive.php?id=1420
+Food Network 英,http://cookies.elementfx.com/ublive/ublive.php?id=1421
+Gold,http://cookies.elementfx.com/ublive/ublive.php?id=1422
+Syfy,http://cookies.elementfx.com/ublive/ublive.php?id=1423
+discovery science,http://cookies.elementfx.com/ublive/ublive.php?id=1424
+Discovery investigation,http://cookies.elementfx.com/ublive/ublive.php?id=1426
+Tg4,http://cookies.elementfx.com/ublive/ublive.php?id=1427
+Real live,http://cookies.elementfx.com/ublive/ublive.php?id=1428
+Cartoonito,http://cookies.elementfx.com/ublive/ublive.php?id=1429
+Watch,http://cookies.elementfx.com/ublive/ublive.php?id=1430
+Challenge,http://cookies.elementfx.com/ublive/ublive.php?id=1431
+Pick,http://cookies.elementfx.com/ublive/ublive.php?id=1433
+Nat Geo Wild,http://cookies.elementfx.com/ublive/ublive.php?id=1434
+Nick jr,http://cookies.elementfx.com/ublive/ublive.php?id=1435
+Quest,http://cookies.elementfx.com/ublive/ublive.php?id=1436
+Sky News,http://cookies.elementfx.com/ublive/ublive.php?id=169
+BT Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=166
+BT Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=167
+BT Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=165
+Sky Sports 1,http://cookies.elementfx.com/ublive/ublive.php?id=172
+Sky Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=171
+Sky Sports F1,http://cookies.elementfx.com/ublive/ublive.php?id=182
+Sky Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=183
+Sky Sport 4,http://cookies.elementfx.com/ublive/ublive.php?id=417
+Sky Sport 5,http://cookies.elementfx.com/ublive/ublive.php?id=418
+sky sports racing hd,http://cookies.elementfx.com/ublive/ublive.php?id=2778
+sky news hd,http://cookies.elementfx.com/ublive/ublive.php?id=2779
+UK Euro Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=3226
+UK Euro Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=3227
+sky sports mix,http://cookies.elementfx.com/ublive/ublive.php?id=2780
+sky sports arena,http://cookies.elementfx.com/ublive/ublive.php?id=2781
+sky sports football,http://cookies.elementfx.com/ublive/ublive.php?id=2782
+sky sports premier league,http://cookies.elementfx.com/ublive/ublive.php?id=2783
+sky sports the open,http://cookies.elementfx.com/ublive/ublive.php?id=2784
+sky sports action,http://cookies.elementfx.com/ublive/ublive.php?id=2785
+sky sports cricket,http://cookies.elementfx.com/ublive/ublive.php?id=2786
+sky sports main event,http://cookies.elementfx.com/ublive/ublive.php?id=2787
+sky sports f1,http://cookies.elementfx.com/ublive/ublive.php?id=3237
+cbs action,http://cookies.elementfx.com/ublive/ublive.php?id=3238
+Russia Today,http://cookies.elementfx.com/ublive/ublive.php?id=3239
+4seven hd,http://cookies.elementfx.com/ublive/ublive.php?id=3240
+racing uk hd,http://cookies.elementfx.com/ublive/ublive.php?id=3241
+vault,http://cookies.elementfx.com/ublive/ublive.php?id=3242
+sky greats,http://cookies.elementfx.com/ublive/ublive.php?id=3243
+hoem and health,http://cookies.elementfx.com/ublive/ublive.php?id=3244
+channel 4 hd,http://cookies.elementfx.com/ublive/ublive.php?id=3245
+citv,http://cookies.elementfx.com/ublive/ublive.php?id=3246
+channel 5,http://cookies.elementfx.com/ublive/ublive.php?id=3247
+sony tv,http://cookies.elementfx.com/ublive/ublive.php?id=3248
+nickelodeon,http://cookies.elementfx.com/ublive/ublive.php?id=3249
+法國頻道,#genre#
+FRANCE 24,http://cookies.elementfx.com/ublive/ublive.php?id=1042
+Franceinfo,http://cookies.elementfx.com/ublive/ublive.php?id=376
+Euronews français,http://cookies.elementfx.com/ublive/ublive.php?id=1017
+Bein Sport 4 Max,http://cookies.elementfx.com/ublive/ublive.php?id=1405
+Bein Sport 5 Max,http://cookies.elementfx.com/ublive/ublive.php?id=1450
+Bein Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=1085
+Bein Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=2366
+Bein Sport 3,http://cookies.elementfx.com/ublive/ublive.php?id=2230
+Boomerang,http://cookies.elementfx.com/ublive/ublive.php?id=2228
+CANAL Sport,http://cookies.elementfx.com/ublive/ublive.php?id=2234
+Cine Class,http://cookies.elementfx.com/ublive/ublive.php?id=2229
+Cine Permier,http://cookies.elementfx.com/ublive/ublive.php?id=2237
+FR Eurosport 1,http://cookies.elementfx.com/ublive/ublive.php?id=2327
+FR Eurosport 2,http://cookies.elementfx.com/ublive/ublive.php?id=3225
+Paramount,http://cookies.elementfx.com/ublive/ublive.php?id=2233
+Paris premiere,http://cookies.elementfx.com/ublive/ublive.php?id=2235
+TF1 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2236
+Toute Lhistoire,http://cookies.elementfx.com/ublive/ublive.php?id=2238
+德國頻道,#genre#
+Euronews,http://cookies.elementfx.com/ublive/ublive.php?id=1560
+Das Erste,http://cookies.elementfx.com/ublive/ublive.php?id=1523
+BR Fernsehen,http://cookies.elementfx.com/ublive/ublive.php?id=3032
+Tagesschau24,http://cookies.elementfx.com/ublive/ublive.php?id=1690
+SR,http://cookies.elementfx.com/ublive/ublive.php?id=3220
+RNF,http://cookies.elementfx.com/ublive/ublive.php?id=414
+Regio TV Bodensee,http://cookies.elementfx.com/ublive/ublive.php?id=457
+Regio TV Stuttgart,http://cookies.elementfx.com/ublive/ublive.php?id=453
+Regio TV Schwaben,http://cookies.elementfx.com/ublive/ublive.php?id=416
+LTV,http://cookies.elementfx.com/ublive/ublive.php?id=407
+Baden TV,http://cookies.elementfx.com/ublive/ublive.php?id=412
+Yol TV,http://cookies.elementfx.com/ublive/ublive.php?id=409
+意大利,#genre#
+Euronews,http://cookies.elementfx.com/ublive/ublive.php?id=186
+LA7,http://cookies.elementfx.com/ublive/ublive.php?id=3028
+Sky Calcio,http://cookies.elementfx.com/ublive/ublive.php?id=2737
+SKY SPORT ARENA,http://cookies.elementfx.com/ublive/ublive.php?id=2739
+SKY F1,http://cookies.elementfx.com/ublive/ublive.php?id=2740
+Sky sport uno,http://cookies.elementfx.com/ublive/ublive.php?id=1597
+Inter TV,http://cookies.elementfx.com/ublive/ublive.php?id=1599
+Deejay TV,http://cookies.elementfx.com/ublive/ublive.php?id=1601
+Rai Sport,http://cookies.elementfx.com/ublive/ublive.php?id=1613
+Italia 1,http://cookies.elementfx.com/ublive/ublive.php?id=1616
+Kiss Kiss,http://cookies.elementfx.com/ublive/ublive.php?id=3216
+LA7D,http://cookies.elementfx.com/ublive/ublive.php?id=3218
+新馬頻道,#genre#
+CNA 24,http://cookies.elementfx.com/ublive/ublive.php?id=15
+AEC,http://cookies.elementfx.com/ublive/ublive.php?id=433
+AEC,http://cookies.elementfx.com/ublive/ublive.php?id=2745
+CNA Insider,http://cookies.elementfx.com/ublive/ublive.php?id=3208
+TV2,http://cookies.elementfx.com/ublive/ublive.php?id=436
+TV3,http://cookies.elementfx.com/ublive/ublive.php?id=437
+TV8,http://cookies.elementfx.com/ublive/ublive.php?id=442
+Arena,http://cookies.elementfx.com/ublive/ublive.php?id=1172
+Channel8,http://cookies.elementfx.com/ublive/ublive.php?id=142
+天映頻道,http://cookies.elementfx.com/ublive/ublive.php?id=441
+KIX,http://cookies.elementfx.com/ublive/ublive.php?id=430
+全佳,http://cookies.elementfx.com/ublive/ublive.php?id=427
+歡喜,http://cookies.elementfx.com/ublive/ublive.php?id=432
+TVN,http://cookies.elementfx.com/ublive/ublive.php?id=1170
+CRICKET,http://cookies.elementfx.com/ublive/ublive.php?id=1173
+華麗,http://cookies.elementfx.com/ublive/ublive.php?id=429
+Astro Awani,http://cookies.elementfx.com/ublive/ublive.php?id=440
+Suria,http://cookies.elementfx.com/ublive/ublive.php?id=434
+TV9,http://cookies.elementfx.com/ublive/ublive.php?id=438
+NTV7,http://cookies.elementfx.com/ublive/ublive.php?id=439
+AOD,http://cookies.elementfx.com/ublive/ublive.php?id=428
+TV1,http://cookies.elementfx.com/ublive/ublive.php?id=435
+Astro Sp1,http://cookies.elementfx.com/ublive/ublive.php?id=444
+ASSP1_HD,http://cookies.elementfx.com/ublive/ublive.php?id=1070
+Astro Sp2,http://cookies.elementfx.com/ublive/ublive.php?id=445
+ASSP2_HD,http://cookies.elementfx.com/ublive/ublive.php?id=1071
+Astro Sp3,http://cookies.elementfx.com/ublive/ublive.php?id=446
+ASSP3_HD,http://cookies.elementfx.com/ublive/ublive.php?id=1072
+Astro Sp4,http://cookies.elementfx.com/ublive/ublive.php?id=3234
+Astro Sp4,http://cookies.elementfx.com/ublive/ublive.php?id=447
+Astro Sp5,http://cookies.elementfx.com/ublive/ublive.php?id=2432
+BOO,http://cookies.elementfx.com/ublive/ublive.php?id=1437
+CCM,http://cookies.elementfx.com/ublive/ublive.php?id=1438
+KIX,http://cookies.elementfx.com/ublive/ublive.php?id=1446
+PRIMA,http://cookies.elementfx.com/ublive/ublive.php?id=1448
+sony_one,http://cookies.elementfx.com/ublive/ublive.php?id=1451
+TV8,http://cookies.elementfx.com/ublive/ublive.php?id=1455
+Channel5,http://cookies.elementfx.com/ublive/ublive.php?id=141
+AFN,http://cookies.elementfx.com/ublive/ublive.php?id=195
+Channel U,http://cookies.elementfx.com/ublive/ublive.php?id=1077
+Vasantham,http://cookies.elementfx.com/ublive/ublive.php?id=1078
+TVB星河,http://cookies.elementfx.com/ublive/ublive.php?id=1079
+TVB經典,http://cookies.elementfx.com/ublive/ublive.php?id=1083
+Suria,http://cookies.elementfx.com/ublive/ublive.php?id=1076
+OKEY,http://cookies.elementfx.com/ublive/ublive.php?id=1075
+AXN,http://cookies.elementfx.com/ublive/ublive.php?id=1044
+BNC,http://cookies.elementfx.com/ublive/ublive.php?id=1045
+菲律賓,#genre#
+DZRH TV,http://cookies.elementfx.com/ublive/ublive.php?id=1425
+CinemaOne,http://cookies.elementfx.com/ublive/ublive.php?id=1333
+泰國頻道,#genre#
+Channel 5,http://cookies.elementfx.com/ublive/ublive.php?id=2316
+Channel 7,http://cookies.elementfx.com/ublive/ublive.php?id=2317
+MCOT HD,http://cookies.elementfx.com/ublive/ublive.php?id=2318
+Channel 8,http://cookies.elementfx.com/ublive/ublive.php?id=1140
+Gmm one,http://cookies.elementfx.com/ublive/ublive.php?id=2322
+Mono,http://cookies.elementfx.com/ublive/ublive.php?id=2323
+Thairath,http://cookies.elementfx.com/ublive/ublive.php?id=2324
+TPBS,http://cookies.elementfx.com/ublive/ublive.php?id=2325
+Workpoint,http://cookies.elementfx.com/ublive/ublive.php?id=2326
+Nation,http://cookies.elementfx.com/ublive/ublive.php?id=2328
+Tnn24,http://cookies.elementfx.com/ublive/ublive.php?id=2329
+NBT Central,http://cookies.elementfx.com/ublive/ublive.php?id=1609
+Amarin,http://cookies.elementfx.com/ublive/ublive.php?id=2320
+PPTV,http://cookies.elementfx.com/ublive/ublive.php?id=2240
+PPTV,http://cookies.elementfx.com/ublive/ublive.php?id=2319
+Police TV,http://cookies.elementfx.com/ublive/ublive.php?id=2242
+Esan TV,http://cookies.elementfx.com/ublive/ublive.php?id=2243
+Nation TV,http://cookies.elementfx.com/ublive/ublive.php?id=2245
+M Channel,http://cookies.elementfx.com/ublive/ublive.php?id=2246
+JKN,http://cookies.elementfx.com/ublive/ublive.php?id=2247
+Thai PBS,http://cookies.elementfx.com/ublive/ublive.php?id=1047
+Thairath TV,http://cookies.elementfx.com/ublive/ublive.php?id=1139
+NEWS1,http://cookies.elementfx.com/ublive/ublive.php?id=1608
+Channel 3,http://cookies.elementfx.com/ublive/ublive.php?id=2315
+Thailand ch3,http://cookies.elementfx.com/ublive/ublive.php?id=1839
+印尼頻道,#genre#
+iNews,http://cookies.elementfx.com/ublive/ublive.php?id=3023
+CNN Indonesia,http://cookies.elementfx.com/ublive/ublive.php?id=1145
+KOMPASTV,http://cookies.elementfx.com/ublive/ublive.php?id=2577
+tvOne,http://cookies.elementfx.com/ublive/ublive.php?id=2734
+TVRI,http://cookies.elementfx.com/ublive/ublive.php?id=1473
+Rcti,http://cookies.elementfx.com/ublive/ublive.php?id=1474
+Kompass,http://cookies.elementfx.com/ublive/ublive.php?id=1475
+Indosiar,http://cookies.elementfx.com/ublive/ublive.php?id=1478
+Antv,http://cookies.elementfx.com/ublive/ublive.php?id=1479
+TV9,http://cookies.elementfx.com/ublive/ublive.php?id=1480
+Mnctv,http://cookies.elementfx.com/ublive/ublive.php?id=1481
+Trans7,http://cookies.elementfx.com/ublive/ublive.php?id=1482
+Transtv,http://cookies.elementfx.com/ublive/ublive.php?id=1483
+JTV,http://cookies.elementfx.com/ublive/ublive.php?id=1484
+Sctv,http://cookies.elementfx.com/ublive/ublive.php?id=1486
+TVone,http://cookies.elementfx.com/ublive/ublive.php?id=1487
+BeritaSatu,http://cookies.elementfx.com/ublive/ublive.php?id=1488
+TVMU,http://cookies.elementfx.com/ublive/ublive.php?id=1490
+Rajawali TV,http://cookies.elementfx.com/ublive/ublive.php?id=2942
+NET TV,http://cookies.elementfx.com/ublive/ublive.php?id=2943
+JTV,http://cookies.elementfx.com/ublive/ublive.php?id=2944
+Bali TV,http://cookies.elementfx.com/ublive/ublive.php?id=2945
+Dunia Lain,http://cookies.elementfx.com/ublive/ublive.php?id=2946
+Trans TV,http://cookies.elementfx.com/ublive/ublive.php?id=2947
+Trans 7,http://cookies.elementfx.com/ublive/ublive.php?id=2948
+SCTV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2949
+Indosiar,http://cookies.elementfx.com/ublive/ublive.php?id=2950
+Hope Channel,http://cookies.elementfx.com/ublive/ublive.php?id=2951
+Antara TV,http://cookies.elementfx.com/ublive/ublive.php?id=2952
+TV ONE,http://cookies.elementfx.com/ublive/ublive.php?id=2953
+Kompas TV,http://cookies.elementfx.com/ublive/ublive.php?id=2954
+TVRI,http://cookies.elementfx.com/ublive/ublive.php?id=2955
+CNN Indonesia,http://cookies.elementfx.com/ublive/ublive.php?id=2956
+Metro TV,http://cookies.elementfx.com/ublive/ublive.php?id=2957
+Aljazeera EN,http://cookies.elementfx.com/ublive/ublive.php?id=2958
+Berita Satu News,http://cookies.elementfx.com/ublive/ublive.php?id=2959
+DW TV Asia,http://cookies.elementfx.com/ublive/ublive.php?id=2960
+France 24,http://cookies.elementfx.com/ublive/ublive.php?id=2961
+BBC World News HD,http://cookies.elementfx.com/ublive/ublive.php?id=2962
+Channel News Asia,http://cookies.elementfx.com/ublive/ublive.php?id=2963
+CNN Int,http://cookies.elementfx.com/ublive/ublive.php?id=2964
+CNBC Indonesia,http://cookies.elementfx.com/ublive/ublive.php?id=2965
+Metro TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2966
+CGTN News,http://cookies.elementfx.com/ublive/ublive.php?id=2967
+Thrill,http://cookies.elementfx.com/ublive/ublive.php?id=2968
+Celestial Movies,http://cookies.elementfx.com/ublive/ublive.php?id=2969
+KIX HD,http://cookies.elementfx.com/ublive/ublive.php?id=2970
+AXN,http://cookies.elementfx.com/ublive/ublive.php?id=2971
+HITS,http://cookies.elementfx.com/ublive/ublive.php?id=2972
+Paramount Network,http://cookies.elementfx.com/ublive/ublive.php?id=2973
+Hits Movies HD,http://cookies.elementfx.com/ublive/ublive.php?id=2974
+HBO HD,http://cookies.elementfx.com/ublive/ublive.php?id=2975
+HBO Hits HD,http://cookies.elementfx.com/ublive/ublive.php?id=2976
+HBO Family HD,http://cookies.elementfx.com/ublive/ublive.php?id=2977
+Rock Entertainment HD,http://cookies.elementfx.com/ublive/ublive.php?id=2979
+LifeTime HD,http://cookies.elementfx.com/ublive/ublive.php?id=2980
+HBO Signature HD,http://cookies.elementfx.com/ublive/ublive.php?id=2981
+Bioskop Indonesia,http://cookies.elementfx.com/ublive/ublive.php?id=2982
+Hits Movie SD,http://cookies.elementfx.com/ublive/ublive.php?id=2983
+HITS HD,http://cookies.elementfx.com/ublive/ublive.php?id=2984
+Hits Movies,http://cookies.elementfx.com/ublive/ublive.php?id=2985
+HBO FHD,http://cookies.elementfx.com/ublive/ublive.php?id=2986
+HBO Signature FHD,http://cookies.elementfx.com/ublive/ublive.php?id=2987
+Warner TV ID HD,http://cookies.elementfx.com/ublive/ublive.php?id=2988
+My Cinema Asia,http://cookies.elementfx.com/ublive/ublive.php?id=2989
+Cinemax ID,http://cookies.elementfx.com/ublive/ublive.php?id=2990
+HBO Hits FHD,http://cookies.elementfx.com/ublive/ublive.php?id=2991
+My Family Channel,http://cookies.elementfx.com/ublive/ublive.php?id=2992
+HBO SD,http://cookies.elementfx.com/ublive/ublive.php?id=2993
+HBO Hits SD,http://cookies.elementfx.com/ublive/ublive.php?id=2994
+HBO Signature SD,http://cookies.elementfx.com/ublive/ublive.php?id=2995
+HBO Family SD,http://cookies.elementfx.com/ublive/ublive.php?id=2996
+FLIK HD,http://cookies.elementfx.com/ublive/ublive.php?id=2997
+Galaxy Premium SD,http://cookies.elementfx.com/ublive/ublive.php?id=2998
+Galaxy SD,http://cookies.elementfx.com/ublive/ublive.php?id=2999
+ATV,http://cookies.elementfx.com/ublive/ublive.php?id=3000
+HBO Family FHD,http://cookies.elementfx.com/ublive/ublive.php?id=3001
+Cinemax FHD,http://cookies.elementfx.com/ublive/ublive.php?id=3002
+IMC SD,http://cookies.elementfx.com/ublive/ublive.php?id=3003
+Celestial Classic Movies CCM,http://cookies.elementfx.com/ublive/ublive.php?id=3004
+Discovery Channel,http://cookies.elementfx.com/ublive/ublive.php?id=3005
+TechStorm,http://cookies.elementfx.com/ublive/ublive.php?id=3012
+History,http://cookies.elementfx.com/ublive/ublive.php?id=3014
+History,http://cookies.elementfx.com/ublive/ublive.php?id=3016
+Lingua Channel,http://cookies.elementfx.com/ublive/ublive.php?id=3017
+Da Vinci Learning,http://cookies.elementfx.com/ublive/ublive.php?id=3019
+Aniplus,http://cookies.elementfx.com/ublive/ublive.php?id=3024
+Animax,http://cookies.elementfx.com/ublive/ublive.php?id=3025
+My Kidz,http://cookies.elementfx.com/ublive/ublive.php?id=3026
+Boomerang ID,http://cookies.elementfx.com/ublive/ublive.php?id=3027
+Nick Jr,http://cookies.elementfx.com/ublive/ublive.php?id=3029
+Cartoon Network,http://cookies.elementfx.com/ublive/ublive.php?id=3030
+Dunia Anak,http://cookies.elementfx.com/ublive/ublive.php?id=3031
+My Kidz,http://cookies.elementfx.com/ublive/ublive.php?id=3033
+Indi Kids,http://cookies.elementfx.com/ublive/ublive.php?id=3034
+Horee,http://cookies.elementfx.com/ublive/ublive.php?id=3035
+Dream Works,http://cookies.elementfx.com/ublive/ublive.php?id=3036
+SPOTV 1,http://cookies.elementfx.com/ublive/ublive.php?id=3037
+SPOTV 2,http://cookies.elementfx.com/ublive/ublive.php?id=3038
+Golf Channel,http://cookies.elementfx.com/ublive/ublive.php?id=3040
+BeIN Sport 1,http://cookies.elementfx.com/ublive/ublive.php?id=3041
+BeIN Sport 2,http://cookies.elementfx.com/ublive/ublive.php?id=3042
+Fight Sports,http://cookies.elementfx.com/ublive/ublive.php?id=3043
+NBA TV,http://cookies.elementfx.com/ublive/ublive.php?id=3044
+Horizon Sports,http://cookies.elementfx.com/ublive/ublive.php?id=3045
+Fashion TV,http://cookies.elementfx.com/ublive/ublive.php?id=3046
+TLC HD,http://cookies.elementfx.com/ublive/ublive.php?id=3047
+HGTV,http://cookies.elementfx.com/ublive/ublive.php?id=3048
+TLC HD,http://cookies.elementfx.com/ublive/ublive.php?id=3049
+AFN HD,http://cookies.elementfx.com/ublive/ublive.php?id=3050
+Citra Drama,http://cookies.elementfx.com/ublive/ublive.php?id=3051
+Rock Action,http://cookies.elementfx.com/ublive/ublive.php?id=3052
+Insert,http://cookies.elementfx.com/ublive/ublive.php?id=3053
+Eat&Go,http://cookies.elementfx.com/ublive/ublive.php?id=3054
+idku,http://cookies.elementfx.com/ublive/ublive.php?id=3055
+BBC Lifestyle,http://cookies.elementfx.com/ublive/ublive.php?id=3056
+K Plus,http://cookies.elementfx.com/ublive/ublive.php?id=3057
+Sony ONE,http://cookies.elementfx.com/ublive/ublive.php?id=3058
+TVN ID,http://cookies.elementfx.com/ublive/ublive.php?id=3059
+S GEM,http://cookies.elementfx.com/ublive/ublive.php?id=3060
+tVN Movies,http://cookies.elementfx.com/ublive/ublive.php?id=3061
+KBS World,http://cookies.elementfx.com/ublive/ublive.php?id=3062
+Drama Korea LBS,http://cookies.elementfx.com/ublive/ublive.php?id=3063
+MTV Music,http://cookies.elementfx.com/ublive/ublive.php?id=3064
+Prambors TV,http://cookies.elementfx.com/ublive/ublive.php?id=3065
+ONE African TV,http://cookies.elementfx.com/ublive/ublive.php?id=3066
+Citra Dangdut,http://cookies.elementfx.com/ublive/ublive.php?id=3067
+MTV LIVE HD,http://cookies.elementfx.com/ublive/ublive.php?id=3068
+i konser,http://cookies.elementfx.com/ublive/ublive.php?id=3069
+Makkah TV,http://cookies.elementfx.com/ublive/ublive.php?id=3070
+TV Mu,http://cookies.elementfx.com/ublive/ublive.php?id=3071
+NET TV,http://cookies.elementfx.com/ublive/ublive.php?id=2937
+ANTV,http://cookies.elementfx.com/ublive/ublive.php?id=2938
+SCTV,http://cookies.elementfx.com/ublive/ublive.php?id=2939
+Trans TV,http://cookies.elementfx.com/ublive/ublive.php?id=2940
+Trans 7,http://cookies.elementfx.com/ublive/ublive.php?id=2941
+DAAI TV,http://cookies.elementfx.com/ublive/ublive.php?id=2936
+越南頻道,#genre#
+HTV7 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2251
+HTV9 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2253
+HTV1,http://cookies.elementfx.com/ublive/ublive.php?id=2254
+HTV2 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2255
+Max by HBO,http://cookies.elementfx.com/ublive/ublive.php?id=2261
+Disney Chanel,http://cookies.elementfx.com/ublive/ublive.php?id=2262
+Bóng Đá TV,http://cookies.elementfx.com/ublive/ublive.php?id=2263
+QRT,http://cookies.elementfx.com/ublive/ublive.php?id=1294
+ANTV,http://cookies.elementfx.com/ublive/ublive.php?id=1300
+ANTV HD,http://cookies.elementfx.com/ublive/ublive.php?id=1301
+HBTV,http://cookies.elementfx.com/ublive/ublive.php?id=1302
+KienGiangTV,http://cookies.elementfx.com/ublive/ublive.php?id=1309
+KienGiangTV1,http://cookies.elementfx.com/ublive/ublive.php?id=1310
+土耳其,#genre#
+TRTWORLD,http://cookies.elementfx.com/ublive/ublive.php?id=1022
+A SPOR,http://cookies.elementfx.com/ublive/ublive.php?id=2367
+TRT 1 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2368
+SHOW TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2369
+STAR TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2370
+KANAL D HD,http://cookies.elementfx.com/ublive/ublive.php?id=2371
+FOX HD,http://cookies.elementfx.com/ublive/ublive.php?id=2372
+TV 8 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2373
+CNN TURK HD,http://cookies.elementfx.com/ublive/ublive.php?id=2374
+HABER TURK HD,http://cookies.elementfx.com/ublive/ublive.php?id=2375
+NTV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2376
+A HABER HD,http://cookies.elementfx.com/ublive/ublive.php?id=2377
+BEYAZ TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2378
+KANAL 7 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2379
+KEMAL SUNAL TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2380
+ATV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2381
+HALK TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2382
+TGRT HABER HD,http://cookies.elementfx.com/ublive/ublive.php?id=2383
+360 TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=2384
+DMAX HD,http://cookies.elementfx.com/ublive/ublive.php?id=2385
+TRT BELGESEL HD,http://cookies.elementfx.com/ublive/ublive.php?id=2386
+TRT COCUK HD,http://cookies.elementfx.com/ublive/ublive.php?id=2387
+TRT SPOR HD,http://cookies.elementfx.com/ublive/ublive.php?id=2388
+BEIN SPORTS 1 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2389
+BEIN SPORTS 2 HD,http://cookies.elementfx.com/ublive/ublive.php?id=2390
+ULUSAL TV,http://cookies.elementfx.com/ublive/ublive.php?id=2391
+巴西,#genre#
+Globo RBS TV,http://cookies.elementfx.com/ublive/ublive.php?id=1668
+Gloobinho,http://cookies.elementfx.com/ublive/ublive.php?id=1684
+Globo RJ,http://cookies.elementfx.com/ublive/ublive.php?id=1688
+GNT,http://cookies.elementfx.com/ublive/ublive.php?id=1689
+Mais Globosat,http://cookies.elementfx.com/ublive/ublive.php?id=1704
+Rede TV,http://cookies.elementfx.com/ublive/ublive.php?id=1728
+Record,http://cookies.elementfx.com/ublive/ublive.php?id=1746
+SBT,http://cookies.elementfx.com/ublive/ublive.php?id=1747
+Sport TV 1,http://cookies.elementfx.com/ublive/ublive.php?id=1779
+Sport TV 2,http://cookies.elementfx.com/ublive/ublive.php?id=1785
+Sport TV 3,http://cookies.elementfx.com/ublive/ublive.php?id=2135
+Globo News,http://cookies.elementfx.com/ublive/ublive.php?id=1489
+भारत,#genre#
+WION,http://cookies.elementfx.com/ublive/ublive.php?id=303
+ZeeNews,http://cookies.elementfx.com/ublive/ublive.php?id=465
+ABP Majha,http://cookies.elementfx.com/ublive/ublive.php?id=1782
+IndiaTV,http://cookies.elementfx.com/ublive/ublive.php?id=1607
+TV9 Marathi,http://cookies.elementfx.com/ublive/ublive.php?id=2281
+Sun TV,http://cookies.elementfx.com/ublive/ublive.php?id=1458
+Star Vijay,http://cookies.elementfx.com/ublive/ublive.php?id=1459
+Zee Tamil,http://cookies.elementfx.com/ublive/ublive.php?id=1460
+Zee Business,http://cookies.elementfx.com/ublive/ublive.php?id=1461
+Raj Musix,http://cookies.elementfx.com/ublive/ublive.php?id=1463
+Zee Actions,http://cookies.elementfx.com/ublive/ublive.php?id=1464
+KTV Tamil,http://cookies.elementfx.com/ublive/ublive.php?id=1465
+Zee TV HD,http://cookies.elementfx.com/ublive/ublive.php?id=1466
+Zee Cinema HD,http://cookies.elementfx.com/ublive/ublive.php?id=1467
+Colors HD,http://cookies.elementfx.com/ublive/ublive.php?id=1468
+Starplus,http://cookies.elementfx.com/ublive/ublive.php?id=1469
+Picture,http://cookies.elementfx.com/ublive/ublive.php?id=1470
+Asianet,http://cookies.elementfx.com/ublive/ublive.php?id=1471
+俄羅斯,#genre#
+RT News,http://cookies.elementfx.com/ublive/ublive.php?id=2564
+Москва 24,http://cookies.elementfx.com/ublive/ublive.php?id=2574
+RT Documentary,http://cookies.elementfx.com/ublive/ublive.php?id=2611
+TV CENTR,http://cookies.elementfx.com/ublive/ublive.php?id=2451
 私密頻道,#genre#
-松視1,https://z88.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
-松視2,https://z88.ubtvfans.com/live/rx3/403/9b7b6ffe613ab14cdcc993d8c28aa042/index.m3u8
-松視3,https://z88.ubtvfans.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
-潘朵拉完美,https://z88.ubtvfans.com/live/rx3/410/415bdc67f1b4040b4983963911f2485b/index.m3u8
-HAPPY,https://z88.ubtvfans.com/live/rx3/2908/0f506ec82f9fff8c676e40317aa8886c/index.m3u8
-JStar,https://z88.ubtvfans.com/live/rx3/2909/164b8735a2a0243396aa17baccd2b100/index.m3u8
-彩虹E,https://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-彩虹K,https://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-Brazzers TV,https://z88.ubtvfans.com/live/rx4/3076/aaf322a185d653c53b1bfaef17708a93/index.m3u8
-Erox,https://z88.ubtvfans.com/live/rx4/3079/e4cead65e532c6dd651bf698a898972b/index.m3u8
-Hustler XXX TV,https://z88.ubtvfans.com/live/rx4/3087/6ca2c1a74e00affd8a2cbd72ca83b146/index.m3u8
-BABES,https://z88.ubtvfans.com/live/rx4/3088/61896c954eec6e77aad3763fc80ed30d/index.m3u8
-BABES UNLEASHED,https://z88.ubtvfans.com/live/rx4/3089/7ac3f3f48aa084841d97ee95f69943c9/index.m3u8
-BAEB Perv City,https://z88.ubtvfans.com/live/rx4/3090/61b40c4d9912a5e88d9093c259c9c6c2/index.m3u8
-BRATTY SIS,https://z88.ubtvfans.com/live/rx4/3091/673eba99e9adae6abdd859d2b693ad9b/index.m3u8
-BRAZZERS EN ESPANOL,https://z88.ubtvfans.com/live/rx4/3092/b50bc6f4137ee58a03dddc0cd7867a2f/index.m3u8
-BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/295168419f66238022939a5f2a883497/index.m3u8
-CUM 4K,https://z88.ubtvfans.com/live/rx4/3094/3e3c40c5a2477f2af2e65e35ebc225f7/index.m3u8
-Blue Hustler,https://z88.ubtvfans.com/live/rx4/3077/feef88223f7dfe080c91b351aaddd270/index.m3u8
-Redlight HD,https://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
-SEX ATION HD,https://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-極限電影,https://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
-奥视频道2,https://z88.ubtvfans.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
-EXXXTRA SMALL,https://z88.ubtvfans.com/live/rx4/3099/a36a7aae4d36a61a76ae8fb4ddecd7fe/index.m3u8
-DAUGHTER SWAP,https://z88.ubtvfans.com/live/rx4/3095/ff9a906e7146219f268c4aad8af84ec5/index.m3u8
-DEEPER,https://z88.ubtvfans.com/live/rx4/3096/1673bbac43023b67969a8b4743e6bdc4/index.m3u8
-DIGITAL PLAYGROUND,https://z88.ubtvfans.com/live/rx4/3097/6a87dfae87872c7a971bb185d9768587/index.m3u8
-EROTIC SPICE,https://z88.ubtvfans.com/live/rx4/3098/e484c97ecdfe5ca263af1d82f2d7d199/index.m3u8
-FAKE AGENT,https://z88.ubtvfans.com/live/rx4/3100/7b1939ca379bc61acb5ae8d4310fc1cd/index.m3u8
-FAKE AGENT UK,https://z88.ubtvfans.com/live/rx4/3101/2db737509d9d65c8d1073995e74050b0/index.m3u8
-FAKE COP,https://z88.ubtvfans.com/live/rx4/3102/0b12c47f4b1a423b6720807852a1421c/index.m3u8
-苍井空,https://z88.ubtvfans.com/live/rx4/3154/83ca5f886d657cc8b660677938773213/index.m3u8
-金丝雀,https://z88.ubtvfans.com/live/rx4/3155/dc67eb59d50bbd63e221f7ded1bdca85/index.m3u8
-波多野结衣,https://z88.ubtvfans.com/live/rx4/3158/3fa04142ab22b5a272ba5115bd56d477/index.m3u8
-上原亜衣,https://z88.ubtvfans.com/live/rx4/3162/d56054ff3aed682703e25437999f5236/index.m3u8
+松視3,http://cookies.elementfx.com/ublive/ublive.php?id=404
+潘朵拉完美,http://cookies.elementfx.com/ublive/ublive.php?id=410
+HAPPY,http://cookies.elementfx.com/ublive/ublive.php?id=2908
+JStar,http://cookies.elementfx.com/ublive/ublive.php?id=2909
+彩虹E,http://cookies.elementfx.com/ublive/ublive.php?id=406
+彩虹K,http://cookies.elementfx.com/ublive/ublive.php?id=415
+Brazzers TV,http://cookies.elementfx.com/ublive/ublive.php?id=3076
+Erox,http://cookies.elementfx.com/ublive/ublive.php?id=3079
+Hustler XXX TV,http://cookies.elementfx.com/ublive/ublive.php?id=3087
+BABES,http://cookies.elementfx.com/ublive/ublive.php?id=3088
+BABES UNLEASHED,http://cookies.elementfx.com/ublive/ublive.php?id=3089
+BAEB Perv City,http://cookies.elementfx.com/ublive/ublive.php?id=3090
+BRATTY SIS,http://cookies.elementfx.com/ublive/ublive.php?id=3091
+BRAZZERS EN ESPANOL,http://cookies.elementfx.com/ublive/ublive.php?id=3092
+BUSTY LOVER,http://cookies.elementfx.com/ublive/ublive.php?id=3093
+CUM 4K,http://cookies.elementfx.com/ublive/ublive.php?id=3094
+Blue Hustler,http://cookies.elementfx.com/ublive/ublive.php?id=3077
+Redlight HD,http://cookies.elementfx.com/ublive/ublive.php?id=452
+SEX ATION HD,http://cookies.elementfx.com/ublive/ublive.php?id=459
+極限電影,http://cookies.elementfx.com/ublive/ublive.php?id=405
+奥视频道2,http://cookies.elementfx.com/ublive/ublive.php?id=2916
+EXXXTRA SMALL,http://cookies.elementfx.com/ublive/ublive.php?id=3099
+DAUGHTER SWAP,http://cookies.elementfx.com/ublive/ublive.php?id=3095
+DEEPER,http://cookies.elementfx.com/ublive/ublive.php?id=3096
+DIGITAL PLAYGROUND,http://cookies.elementfx.com/ublive/ublive.php?id=3097
+EROTIC SPICE,http://cookies.elementfx.com/ublive/ublive.php?id=3098
+FAKE AGENT,http://cookies.elementfx.com/ublive/ublive.php?id=3100
+FAKE AGENT UK,http://cookies.elementfx.com/ublive/ublive.php?id=3101
+FAKE COP,http://cookies.elementfx.com/ublive/ublive.php?id=3102
+苍井空,http://cookies.elementfx.com/ublive/ublive.php?id=3154
+金丝雀,http://cookies.elementfx.com/ublive/ublive.php?id=3155
+波多野结衣,http://cookies.elementfx.com/ublive/ublive.php?id=3158
+上原亜衣,http://cookies.elementfx.com/ublive/ublive.php?id=3162
