@@ -4,10 +4,7 @@
       "name": "🐸彥",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/1.json"
     },
-    {
-      "name": "🐸尚愛",
-      "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master"
-    },
+   
     {
       "name": "盒子之家",
       "url": "https://tv543.cc/2.json"
@@ -22,10 +19,9 @@
       "url": "https://4tvbox.ggff.net/config.json"
     },
     {
-      "name": "宝盒",
-      "url": "http://ygbh.live/dc.php"
-    },  
-    
+      "name": "🐸尚愛",
+      "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master"
+    },
    {
       "name": "18",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/18.json" }]}
