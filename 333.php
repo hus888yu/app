@@ -1,12 +1,80 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="yt新聞",TVBS NEWS
+
+https://www.youtube.com/live/m_dhMSvUCIc?si=78nn4zg-p7myFADX
 
 
-#EXTINF:-1 group-title="新聞財經",年代新聞
+
+#EXTINF:-1 group-title="yt新聞",華視新聞 CH52
+
+https://www.youtube.com/live/wM0g8EoUZ_E?si=3T_8RY87ofxF1e9l
+
+
+
+#EXTINF:-1 group-title="yt新聞",三立LIVE新聞
+
+https://www.youtube.com/live/oZdzzvxTfUY?si=r5eFogY2Wtp5fow6
+
+#EXTINF:-1 group-title="yt新聞",鏡新聞
+
+https://www.youtube.com/live/5n0y6b0Q25o?si=g5BhIIh3GkKHE6WN
+
+#EXTINF:-1 group-title="yt新聞",台視新聞 TTV NEWS
+
+https://www.youtube.com/live/xL0ch83RAK8?si=oJboCZkV587NAROX
+
+#EXTINF:-1 group-title="yt新聞",中視新聞 HD直播頻道｜Taiwan CTV news HD Live
+
+https://www.youtube.com/live/TCnaIE_SAtM?si=TL218pRsQaf-wPqs
+
+#EXTINF:-1 group-title="yt新聞",中天電視
+
+https://www.youtube.com/live/oIgbl7t0S_w?si=2cFOk3EDavpOQm5t
+
+#EXTINF:-1 group-title="yt新聞",CTI+ | 中天2台
+
+https://www.youtube.com/live/WPfPjbOLNfE?si=zXSnir0gxW9_7Gg2
+
+#EXTINF:-1 group-title="yt新聞",公視 網路直播頻道
+
+https://www.youtube.com/live/C6gYqSHLRw4?si=RH1rK6z2Ty1W6Cx5
+
+#EXTINF:-1 group-title="yt新聞",公視新聞網
+
+https://www.youtube.com/live/quwqlazU-c8?si=QVGvSdOOw6JUysBK
+
+#EXTINF:-1 group-title="yt新聞",公視台語台
+
+https://www.youtube.com/live/6KlRR_DGhmI?si=FxUe97Uzd8xFnx_c
+
+#EXTINF:-1 group-title="yt新聞",57東森財經新聞
+
+https://www.youtube.com/live/WHEPzbFA3hw?si=nJLlM3OF7nuq1a0d
+
+#EXTINF:-1 group-title="yt新聞",TTV LIVE 台視直播
+
+https://www.youtube.com/live/uDqQo8a7Xmk?si=ve9gPXOQ3fJCkBVh
+
+#EXTINF:-1 group-title="yt新聞",寰宇新聞 頻道
+
+https://www.youtube.com/live/6IquAgfvYmc?si=dx_A4oh2RZ8cbYef
+
+#EXTINF:-1 group-title="yt新聞",民視新聞網 Formosa TV News network
+
+https://www.youtube.com/live/ylYJSBUgaMA?si=imrpr3gkiGHnhiwZ
+
+#EXTINF:-1 group-title="yt新聞",東森新聞
+
+https://www.youtube.com/live/V1p33hqPrUk?si=WEahQ_iSd2GXJK_K
+
+#EXTINF:-1 group-title="yt新聞",年代新聞
 
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
+#EXTINF:-1 group-title="yt新聞",鳳凰衛視PhoenixTV
 
+https://www.youtube.com/live/HFib76ySpbU?si=gNvltQSNXOHVRVyG
 
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
@@ -581,5 +649,3 @@ http://47.239.245.207:5050/4gtv/287
 #EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="其他", 東森購物四台
 
 http://47.239.245.207:5050/4gtv/286
-
-
