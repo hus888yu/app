@@ -391,8 +391,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "x",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/x.txt",
+      "name": "台灣",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/tw.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -402,6 +402,15 @@
     {
       "name": "大人台",
       "url": "http://tv543.cc/173.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "世界",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/WL.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
