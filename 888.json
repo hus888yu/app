@@ -184,7 +184,8 @@
       },
 {
       "name": "台灣",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/tw.txt",
+      "url": "https://freetv.fun/test_channels_taiwan_new.txt
+",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -193,7 +194,7 @@
     },
 {
       "name": "世界",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/WL.txt",
+      "url": "https://freetv.fun/test_channels_new.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
