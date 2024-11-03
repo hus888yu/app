@@ -184,8 +184,7 @@
       },
 {
       "name": "台灣",
-      "url": "https://freetv.fun/test_channels_taiwan_new.txt
-",
+      "url": "https://freetv.fun/test_channels_taiwan_new.txt",
       "pass": false,
       "boot": false,
       "playerType": 2,
