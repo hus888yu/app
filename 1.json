@@ -283,22 +283,6 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- {
-      "name": "台灣",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/tw.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "ETH",
-      "api": "https://tv543.cc/ethtv.js",
-      "type": 3,
-      "ua": "okhttp/4.12.0"
     }
   ]
 }
