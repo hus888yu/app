@@ -3,48 +3,56 @@
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "sgabys",
-      "name": "三哥安博影视",
+      "key": "mchmys",
+      "name": "沐辰黑木影视",
       "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=48da13fc",
+      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "sghmys",
-      "name": "三哥黑木影视",
+      "key": "mcolys",
+      "name": "沐辰欧乐影视",
       "type": 4,
-      "api": "https://tang.hz.cz/power/hme?token=48da13fc",
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "sgolys",
-      "name": "三哥欧乐影视",
+      "key": "mcbttwoo",
+      "name": "沐辰TwoBT",
       "type": 4,
-      "api": "https://tang.hz.cz/power/olelive?token=48da13fc",
+      "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
       "changeable": 0
     },
     {
-      "key": "nyys",
-      "name": "纽约影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
+      "key": "zqhmys",
+      "name": "张群黑木影视",
+      "type": 4,
+      "api": "https://api.paoyun.eu.org/225.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://4tvbox.ggff.net/ys.json"
+      "filterable": 0
+    },
+    {
+      "key": "cjys",
+      "name": "采集影视",
+      "type": 4,
+      "api": "https://api.paoyun.eu.org/klhj.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "hm",
-      "name": "黑木资源站",
+      "name": "黑木资源专线",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
@@ -89,8 +97,54 @@
       ]
     },
     {
+      "key": "hmbk",
+      "name": "黑木资源备用",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "playUrl": "json:https://tvbox.linkpc.net/api/kill_ads?url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+      },
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "港剧",
+        "欧美剧",
+        "台剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "国产综艺",
+        "欧美综艺",
+        "韩国综艺",
+        "日本综艺",
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "动画电影",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "同性片",
+        "经典片"
+      ]
+    },
+    {
       "key": "hw",
-      "name": "华为资源站",
+      "name": "华为资源",
       "type": 1,
       "api": "https://cjhwba.com/api.php/provide/vod",
       "searchable": 1,
@@ -127,7 +181,7 @@
     },
     {
       "key": "360",
-      "name": "360资源站",
+      "name": "360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -163,15 +217,76 @@
       ]
     }
   ],
-     "lives": [
- {
-      "name": "彥",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/333.php",
-      "pass": false,
-      "boot": false,
+  "lives": [
+    {
+      "name": "范明明",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    },
+    {
+      "name": "YanG-1989",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"
+    },
+    {
+      "name": "IPV6直播",
+      "url": "https://json.doube.eu.org/live/IPV6/Sub.php"
+    },
+    {
+      "name": "咪咕直播",
+      "url": "https://json.doube.eu.org/live/migu/Sub.php"
+    },
+    {
+      "name": "Youtube直播",
+      "url": "https://json.doube.eu.org/live/youtube/Sub.php"
+    },
+    {
+      "name": "海外",
+      "url": "https://www.stream-link.org/stream-link.m3u",
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "ua": "AptvPlayer/1.3.3"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
     }
   ]
 }
