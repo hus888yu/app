@@ -1,220 +1,108 @@
 {
-  "spider": "https://4tvbox.ggff.net/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f",
+  "spider": "https://4tvbox.ggff.net/GM.jar",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "mchmys",
-      "name": "沐辰黑木影视",
+      "key": "hmys1",
+      "name": "自营黑木影视",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "T4-heimuer",
+      "name": "唐三黑木影视",
       "type": 4,
-      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+      "api": "https://tang.hz.cz/power/hme?token=48da13fc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": false
+    },
+    {
+      "key": "T4-独播库",
+      "name": "唐三独播库",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/duboku?token=48da13fc",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "mcolys",
-      "name": "沐辰欧乐影视",
+      "key": "T4-欧乐",
+      "name": "唐三欧乐影视",
       "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "api": "https://tang.hz.cz/power/olelive?token=48da13fc",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "mcbttwoo",
-      "name": "沐辰TwoBT",
+      "key": "T4-安博",
+      "name": "唐三安博影视",
       "type": 4,
-      "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
+      "api": "https://tang.hz.cz/power/ub18?token=48da13fc",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "zqhmys",
-      "name": "张群黑木影视",
-      "type": 4,
-      "api": "https://api.paoyun.eu.org/225.php",
+      "key": "yfsp",
+      "name": "cori爱壹帆",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./ysfp.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.png*",
+            "*.mp3*",
+            "*.css*",
+            "https://*.googletagmanager.com/*",
+            "https://*.google-analytics.com/*"
+          ]
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://m.yfsp.tv/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://m.yfsp.tv/play/${id}"
+          },
+          "playerContent": {
+            "loadUrl": "https://m.yfsp.tv/play/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://m.yfsp.tv/search"
+          }
+        }
+      }
+    },
+    {
+      "key": "hmys2",
+      "name": "备用黑木影视",
+      "type": 1,
+      "api": "https://heimuer.run.place/api.php/tvbox",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "cjys",
-      "name": "采集影视",
-      "type": 4,
-      "api": "https://api.paoyun.eu.org/klhj.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "hm",
-      "name": "黑木资源专线",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-      },
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "港剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "国产综艺",
-        "欧美综艺",
-        "韩国综艺",
-        "日本综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "动画电影",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "同性片",
-        "经典片"
-      ]
-    },
-    {
-      "key": "hmbk",
-      "name": "黑木资源备用",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "playUrl": "json:https://tvbox.linkpc.net/api/kill_ads?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-      },
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "港剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "国产综艺",
-        "欧美综艺",
-        "韩国综艺",
-        "日本综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "动画电影",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "同性片",
-        "经典片"
-      ]
-    },
-    {
-      "key": "hw",
-      "name": "华为资源",
-      "type": 1,
-      "api": "https://cjhwba.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "纪录片",
-        "短片",
-        "动画片",
-        "西部片",
-        "伦理片"
-      ]
-    },
-    {
-      "key": "360",
-      "name": "360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "纪录片",
-        "短片",
-        "动画片",
-        "西部片",
-        "伦理片"
-      ]
     }
   ],
   "lives": [
@@ -227,16 +115,10 @@
       "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"
     },
     {
-      "name": "IPV6直播",
-      "url": "https://json.doube.eu.org/live/IPV6/Sub.php"
-    },
-    {
-      "name": "咪咕直播",
-      "url": "https://json.doube.eu.org/live/migu/Sub.php"
-    },
-    {
-      "name": "Youtube直播",
-      "url": "https://json.doube.eu.org/live/youtube/Sub.php"
+      "name": "华人TV",
+      "url": "http://umostfear.serv00.net/api/huaren",
+      "ua": "okhttp/4.12.0",
+      "referer": "https://huaren.live/"
     },
     {
       "name": "海外",
