@@ -376,7 +376,7 @@
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
-      ]
+     ]
     }
   ],
   "logo": "http://tv543.cc/logo2.gif",
@@ -389,7 +389,15 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    
+     },
+   {
+      "name": "台灣",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/tw.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
