@@ -1,0 +1,245 @@
+💝台湾频道👉秒播,#genre#
+123,rtmp://69.230.192.222/live/bgt
+cnn,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488932.ts#http://hdtvtw.com/jrlive.php?id=PhoenixChineseMY
+民視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488996.ts
+民視（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476986.ts
+人间卫视,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488957.ts
+台視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488998.ts
+台視（备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476982.ts
+台視（备2）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/507781.ts
+大愛電視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477082.ts
+中視 HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476983.ts
+中視（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488999.ts
+中視（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49
+霹雳台湾,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488941.ts
+華視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476985.ts
+華視（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488997.ts
+華視（備）,https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f
+公視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476984.ts
+公視（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489000.ts
+幸福空間居家台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488986.ts
+好消息,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476227.ts
+原住民頻道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476228.ts
+客家電視台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476229.ts
+客家电视台（備）,https://fake-stream.livednow.com/4gtv/107?token=687876a0addb2cb119e8f094cb9d5a09
+探索頻道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476277.ts
+tlc旅遊台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488939.ts
+動物星球,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477088.ts
+CN卡通,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476247.ts
+迪士尼1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495450.ts
+Momo親子台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477060.ts
+momo亲子台（备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/508248.ts
+東森幼幼,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476246.ts
+緯來綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477086.ts
+八大第1台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477071.ts
+八大第一台（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489004.ts
+八大綜合台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477069.ts
+八大綜合台（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489003.ts
+八大綜合台（備）,https://fake-stream.livednow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613
+三立台湾台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477050.ts
+三立台湾台（备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481765.ts
+三立台湾（备2）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/503982.ts
+三立都會台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476232.ts
+三立都會台（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489023.ts
+三立都会 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/518334.ts
+東森綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476987.ts
+東森超視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476234.ts
+東森購物2台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488988.ts
+momo购物2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495449.ts
+中天綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477084.ts
+中天综合（备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/620132.ts
+中天娱乐,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/518696.ts
+中天娛樂,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476996.ts
+東森戲劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476994.ts
+東森戲劇台（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489002.ts
+八大戏剧台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488934.ts
+TVBS歡樂台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477068.ts
+TVBS歡樂台（备）,https://fake-stream.livednow.com/4gtv/184?token=914438a4c8a7fdcc9eb2471aa9681962
+緯來戲劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477067.ts
+JET綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476239.ts
+東森購物3台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488989.ts
+東森購物1台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488987.ts
+壹電視新聞台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488993.ts
+壹新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477087.ts
+年代新聞高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477030.ts
+東森新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476998.ts
+東森新闻(备),http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479200.ts
+東森新聞（備）,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+中天新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477695.ts
+中天新闻 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479209.ts
+中天新闻（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489006.ts
+中天新闻 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/519582.ts
+中天新闻（備）,https://yt-stream.livednow.com/stream/oIgbl7t0S_w/master.m3u8
+民視新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477080.ts
+民视新闻 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/538797.ts
+民視新聞（備）,https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc
+三立新闻 news,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/492922.ts
+tvbs新闻(CES),http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479199.ts
+tvbs新闻,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/494223.ts
+TVBS綜合高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477042.ts
+tvbs 综合 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/521130.ts
+東森財經新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477062.ts
+非凡新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477083.ts
+東森財經（備）,https://yt-stream.livednow.com/stream/WHEPzbFA3hw/master.m3u8
+viva购物台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495452.ts
+东森购物5台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493136.ts
+東森電影,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476995.ts
+緯來電影,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477063.ts
+龍祥電影台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476979.ts
+HBO HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476278.ts
+HBO 高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476974.ts
+東森洋片,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476997.ts
+東森洋片台（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489001.ts
+AXN壹湾,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476296.ts
+好萊塢電影,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476281.ts
+CineMax,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476283.ts
+緯來育樂,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477081.ts
+緯來體育,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477026.ts
+緯來體育（備）,https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37
+ELEVEN SPORTS 1 HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476990.ts
+ELEVEN SPORTS 2 HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476991.ts
+緯來日本,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477039.ts
+國興衛視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476971.ts
+z频道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525785.ts
+Animax,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477583.ts
+八大娛樂,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477064.ts
+三立財經新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488992.ts
+非凡商业台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488936.ts
+NHK,https://bmcc.nhkworld.jp/live/index_1M.m3u8
+華藏衛星電視台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495256.ts
+生命电视,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+信大電視台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495258.ts
+正德电视频道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495464.ts
+台湾番薯電視台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495096.ts
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+维心电视频道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+民視第一台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476243.ts
+民視第一台（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8
+民視台湾,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476244.ts
+民視台湾（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a
+中視菁采,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476260.ts
+中視菁采台（備）,https://fake-stream.livednow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7
+中視新聞台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476269.ts
+中視新聞（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f
+台視新聞台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476268.ts
+台視新聞（備）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495824.ts
+台視新聞（備）,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+台視新闻 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/529891.ts
+台視財經,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476271.ts
+台視綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476261.ts
+達文西頻道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493134.ts
+達文西頻道（備）,https://fake-stream.livednow.com/4gtv/11?token=5d6187154f4face288d87356ae6632ff
+探索亞洲,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476978.ts
+discovery 探索科学（备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489008.ts
+BBC地球高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477040.ts
+探索科學,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476981.ts
+緯來精采,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476286.ts
+華納電影,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476301.ts
+寰宇新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476270.ts
+寰宇新闻（备）,https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d
+亞洲旅遊,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476274.ts
+亞洲旅遊（備）,https://fake-stream.livednow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d
+美食星球,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476263.ts
+HGTV居家樂活,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476328.ts
+博斯運動,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477034.ts
+AMC HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477058.ts
+HBO 强档钜献,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.ts
+HBO family,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476973.ts
+博斯高球1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477089.ts
+博斯高球2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477073.ts
+博斯魅力,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477598.ts
+博斯網球,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477602.ts
+博斯運動 2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477029.ts
+博斯無限,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477603.ts
+大爱二台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493133.ts
+公视三台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493131.ts
+彭博财经台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493132.ts
+博斯無限 Ⅱ,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477604.ts
+龍華洋片,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477076.ts
+龍華日韓,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476231.ts
+龍華日韓 （备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483360.ts
+龙华日韩（备）,https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864
+龍華經典,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476294.ts
+龍華電影,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476300.ts
+龍華電影（备）,https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac
+Hollywood,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477065.ts
+龍華戲劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476293.ts
+龍華戲劇（備）,https://fake-stream.livednow.com/4gtv/23?token=f42cb2ceb9fbd50038ad7fa38dcc2225
+KLT靖天國際,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476254.ts
+靖天電影,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476290.ts
+靖天電影台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477061.ts
+靖天電影（备）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e0257013e0744
+靖天戲劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476302.ts
+靖天戲劇（备）,https://fake-stream.livednow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9
+靖天卡通,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476249.ts
+靖天卡通台（备）,https://fake-stream.livednow.com/4gtv/15?token=154fcede334ef91894ac12b2ca7093e7
+靖天日本,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476256.ts
+靖天日本（备）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv047?token=d6169004ece38bbcc7f0ef06135fbd52
+靖天歡樂台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476255.ts
+靖天歡樂（备）,https://fake-stream.livednow.com/4gtv/119?token=a12d9c7597bf7eea07ddd5c6adde3ab2
+靖天欢乐,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476253.ts
+靖天映畫,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476284.ts
+靖天映畫（备）,https://fake-stream.livednow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92
+靖天資訊台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476258.ts
+靖天綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476259.ts
+靖天綜合（备）,https://fake-stream.livednow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859
+愛爾達影劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476282.ts
+ELTA體育1高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477037.ts
+ELTA 體育 1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476267.ts
+愛爾達綜合高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477041.ts
+ELTA体育2台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488983.ts
+ELTA 體育 3,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483407.ts
+elta 体育3 （备）,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587744.ts
+AE,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476662.ts
+壹綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476230.ts
+搜索亞洲,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476238.ts
+靖洋卡通,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476248.ts
+Baby TV(台湾),http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476250.ts
+搜索EVE,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476251.ts
+ELTA綜合,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476262.ts
+鏡新聞news,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476272.ts
+鏡電視新聞台（备）,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3
+EYE 旅游,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476276.ts
+靖洋戲劇（备）,https://fake-stream.livednow.com/4gtv/118?token=9d65ed6164d628b37d484bc983cda228
+Baby TV HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477721.ts
+靖洋卡通nice bingo,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481784.ts
+靖洋卡通台（备）,https://fake-stream.livednow.com/4gtv/59?token=8d7dac6ff1e42d49b1c88868a9806d1a
+靖天育樂台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481789.ts
+靖天育樂（备）,https://fake-stream.livednow.com/4gtv/83?token=f15f03d7f5caebe3a50ba2c708e9af5c
+gtv八大精彩台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477035.ts
+AXN HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477730.ts
+AXN 亞洲,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476299.ts
+靖洋戲劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476285.ts
+尼克动画高清,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477025.ts
+華視新聞,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476266.ts
+華視新聞（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61
+寰宇财经台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488994.ts
+寰宇财经（备）,https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3
+公視戲劇,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476298.ts
+公視戲劇（备）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71
+公视台语,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476235.ts
+中視經典,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476362.ts
+中視經典（備）,https://fake-stream.livednow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7
+民視綜藝,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476242.ts
+民視綜藝（備）,https://fake-stream.livednow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb
+民视旅遊,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476240.ts
+東森亞洲衛視,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476264.ts
+momo綜合台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488940.ts
+龍祥時代,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476295.ts
+三立國際,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476273.ts
+三立戲劇台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476288.ts
+智林體育台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488984.ts
+壹電視電影台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476280.ts
+TVBS精彩,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477075.ts
+中天亞洲台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476241.ts
+半岛电视（备）,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
+天映頻道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.ts
+三立live,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479198.ts
+探索世界,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476976.ts
+CinemaWorld,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477033.ts
+EYE TV戲劇台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476287.ts
+龙华动画,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493135.ts
+卡通頻道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477066.ts
+视纳华仁纪实台,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493137.ts
+历史频道,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525779.ts
+华艺中文,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/509141.ts
