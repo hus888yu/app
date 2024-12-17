@@ -1,26 +1,15 @@
 {
-  "spider": "https://4tvbox.ggff.net/GM.jar",
+  "spider": "https://4tvbox.ggff.net/new.jar",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "hmys1",
-      "name": "自营黑木影视",
+      "name": "黑木影视",
       "type": 1,
       "api": "https://heimuer.ggff.net/api.php/tvbox",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "T4-heimuer",
-      "name": "唐三黑木影视",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/hme?token=48da13fc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": false
     },
     {
       "key": "T4-独播库",
@@ -34,7 +23,7 @@
     },
     {
       "key": "T4-欧乐",
-      "name": "唐三欧乐影视",
+      "name": "唐三欧乐影院",
       "type": 4,
       "api": "https://tang.hz.cz/power/olelive?token=48da13fc",
       "searchable": 1,
@@ -43,18 +32,40 @@
       "changeable": 0
     },
     {
-      "key": "T4-安博",
-      "name": "唐三安博影视",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=48da13fc",
+      "key": "csp_JPYY",
+      "name": "小米金牌影院",
+      "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "playerType": 2,
       "filterable": 1,
+      "jar": "https://4tvbox.ggff.net/xmwd.jar"
+    },
+    {
+      "key": "csp_Uvod",
+      "name": "Qile优视频",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Uvod",
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "https://github.com/FongMi/CatVodSpider/raw/refs/heads/main/jar/custom_spider.jar"
+    },
+    {
+      "key": "py_UpFuHn",
+      "name": "沐辰Hi视频",
+      "type": 4,
+      "api": "https://spider.doube.eu.org/spider?site=UpFuHn",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
       "changeable": 0
     },
     {
       "key": "yfsp",
-      "name": "cori爱壹帆",
+      "name": "Cori爱壹帆",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -87,7 +98,7 @@
             "loadUrl": "https://m.yfsp.tv/play/${id}"
           },
           "playerContent": {
-            "loadUrl": "https://m.yfsp.tv/play/${id}"
+            "loadUrl": "https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
           },
           "searchContent": {
             "loadUrl": "https://m.yfsp.tv/search"
@@ -96,10 +107,19 @@
       }
     },
     {
+      "key": "直播频道",
+      "name": "直播频道",
+      "type": 4,
+      "api": "http://zhangqun66.com/zh/2241-2.php",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "1,2,3,4,5,6"
+    },
+    {
       "key": "hmys2",
       "name": "备用黑木影视",
       "type": 1,
-      "api": "https://heimuer.run.place/api.php/tvbox",
+      "api": "https://tvbot.ggff.net/api.php/tvbox",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -107,24 +127,31 @@
   ],
   "lives": [
     {
-      "name": "范明明",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
-    },
-    {
-      "name": "YanG-1989",
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"
-    },
-    {
-      "name": "华人TV",
-      "url": "http://umostfear.serv00.net/api/huaren",
-      "ua": "okhttp/4.12.0",
-      "referer": "https://huaren.live/"
-    },
-    {
-      "name": "海外",
-      "url": "https://www.stream-link.org/stream-link.m3u",
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
+      "pass": false,
+      "boot": false,
       "playerType": 2,
-      "ua": "AptvPlayer/1.3.3"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "大人台",
+      "url": "http://tv543.cc/173.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "XA",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "doh": [
@@ -168,28 +195,7 @@
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
- ]
-    }
-  ],
-  "logo": "http://tv543.cc/logo2.gif",
-  "lives": [
-   {
-      "name": "543",
-      "url": "https://tv543.cc/list.php",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-     },
-   {
-      "name": "台灣",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/tw.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      ]
     }
   ]
 }
