@@ -1,9 +1,9 @@
 {
-  "spider": "https://4tvbox.ggff.net/new.jar",
+  "spider": "https://github.com/FongMi/CatVodSpider/raw/refs/heads/main/jar/custom_spider.jar",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites": [
     {
-      "key": "hmys1",
+      "key": "黑木影视",
       "name": "黑木影视",
       "type": 1,
       "api": "https://heimuer.ggff.net/api.php/tvbox",
@@ -12,7 +12,7 @@
       "filterable": 0
     },
     {
-      "key": "T4-独播库",
+      "key": "唐三独播库",
       "name": "唐三独播库",
       "type": 4,
       "api": "https://tang.hz.cz/power/duboku?token=48da13fc",
@@ -22,7 +22,7 @@
       "changeable": 0
     },
     {
-      "key": "T4-欧乐",
+      "key": "唐三欧乐影院",
       "name": "唐三欧乐影院",
       "type": 4,
       "api": "https://tang.hz.cz/power/olelive?token=48da13fc",
@@ -32,7 +32,7 @@
       "changeable": 0
     },
     {
-      "key": "csp_JPYY",
+      "key": "小米金牌影院",
       "name": "小米金牌影院",
       "type": 3,
       "searchable": 1,
@@ -43,18 +43,17 @@
       "jar": "https://4tvbox.ggff.net/xmwd.jar"
     },
     {
-      "key": "csp_Uvod",
+      "key": "Qile优视频",
       "name": "Qile优视频",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
       "api": "csp_Uvod",
       "playerType": 2,
-      "filterable": 1,
-      "jar": "https://github.com/FongMi/CatVodSpider/raw/refs/heads/main/jar/custom_spider.jar"
+      "filterable": 1
     },
     {
-      "key": "py_UpFuHn",
+      "key": "沐辰Hi视频",
       "name": "沐辰Hi视频",
       "type": 4,
       "api": "https://spider.doube.eu.org/spider?site=UpFuHn",
@@ -64,7 +63,17 @@
       "changeable": 0
     },
     {
-      "key": "yfsp",
+      "key": "沐辰爱瓜TV",
+      "name": "沐辰爱瓜TV",
+      "type": 4,
+      "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Cori爱壹帆",
       "name": "Cori爱壹帆",
       "type": 3,
       "searchable": 1,
@@ -104,7 +113,8 @@
             "loadUrl": "https://m.yfsp.tv/search"
           }
         }
-      }
+      },
+      "jar": "https://4tvbox.ggff.net/GM.jar"
     },
     {
       "key": "直播频道",
@@ -116,7 +126,7 @@
       "ext": "1,2,3,4,5,6"
     },
     {
-      "key": "hmys2",
+      "key": "备用黑木影视",
       "name": "备用黑木影视",
       "type": 1,
       "api": "https://tvbot.ggff.net/api.php/tvbox",
@@ -127,31 +137,24 @@
   ],
   "lives": [
     {
-      "name": "TW",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "范明明",
+      "url": "https://m3u.ibert.me/fmml_ipv6.m3u"
     },
     {
-      "name": "大人台",
-      "url": "http://tv543.cc/173.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "YanG-1989",
+      "url": "https://m3u.ibert.me/y_g.m3u"
     },
     {
-      "name": "XA",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "沐辰IPV6直播",
+      "url": "https://json.doube.eu.org/live/IPV6/Sub.php"
+    },
+    {
+      "name": "沐辰CCTV直播",
+      "url": "https://json.doube.eu.org/live/tv/Sub.php"
+    },
+    {
+      "name": "沐辰台湾直播",
+      "url": "https://json.doube.eu.org/live/tw/Sub.php"
     }
   ],
   "doh": [
