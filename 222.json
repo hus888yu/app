@@ -1,6 +1,11 @@
  {
   "urls": [
     {
+      "name": "🐸海外",
+      "url":https://raw.githubusercontent.com/hus888yu/app/main/888.json"
+    },
+
+    {
       "name": "🐸饭太硬",
       "url": "http://www.饭太硬.com/tv/"
     },
@@ -18,13 +23,18 @@
       "url": "https://100km.top/0"
     },
     {
-      "name": "🐸宝盒",
-      "url": "http://宝盒接口.top"
+      "name": "🐸天天开心",
+      "url": "http://kxrj.site:55/天天开心"
     },
 
     {
       "name": "🐸摸鱼儿",
       "url": "http://我不是.摸鱼儿.com"
+    },
+    {
+
+      "name": "🐸宝盒",
+      "url": "http://mzjk.top/禁止贩卖.com"
     },
 
     {
