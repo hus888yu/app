@@ -1,10 +1,27 @@
  {
   "urls": [
     {
-      "name": "🐸海外",
-      "url":"https://raw.githubusercontent.com/hus888yu/app/main/888.json"
+      "name": "🐸彥",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/1.json"
     },
-
+    {
+      "name": "🐸盒子之家",
+      "url": "https://tv543.cc/1.json"
+    },
+    {
+      "name": "🐸彥2",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/888.json"
+    },  
+     
+    {
+      "name": "🐼三哥影视",
+      "url": "https://4tvbox.ggff.net/config.json"
+    },
+   
+    {
+      "name": "🐼xa",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/xa.json" 
+    },
     {
       "name": "🐸饭太硬",
       "url": "http://www.饭太硬.com/tv/"
@@ -31,12 +48,7 @@
       "name": "🐸摸鱼儿",
       "url": "http://我不是.摸鱼儿.com"
     },
-    {
-
-      "name": "🐸宝盒",
-      "url": "http://mzjk.top/禁止贩卖.com"
-    },
-
+   
     {
       "name": "🐸ok",
       "url": "http://ok321.top/tv"
@@ -47,6 +59,10 @@
       "url": "https://d.kstore.dev/download/12020/jk.bmp"
     },
     {
+      "name": "🐸拾光趣乐屋",
+      "url": "https://xmbjm.github.io/ck.json"
+    },
+
+    {
       "name": "🐸肥猫",
       "url": "http://肥猫.com" }]}
-  
