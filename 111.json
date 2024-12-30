@@ -7,17 +7,26 @@
     {
       "name": "🐸盒子之家",
       "url": "https://tv543.cc/1.json"
+    },.
+    {
+      "name": "🐸新路線",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/new.json."
     },
     {
       "name": "🐸彥2",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/888.json"
     },  
+     
     {
       "name": "🐼三哥影视",
       "url": "https://4tvbox.ggff.net/config.json"
     },
+    {
+      "name": "🐼18+",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/18+.json"
+    },
    
-   {
+    {
       "name": "🐼xa",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/xa.json" }]}
   
