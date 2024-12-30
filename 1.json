@@ -3,20 +3,31 @@
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
-      "key": "T4-欧乐",
-      "name": "欧乐(T4)",
+      "key": "T4-heimuer",
+      "name": "黑木耳(T4)",
       "type": 4,
-      "api": "https://tang.hz.cz/power/olelive?token=d0616267",
+      "api": "https://tang.hz.cz/power/hme?token=d0616267",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": false
     },
     {
       "key": "T4-独播库",
       "name": "独播库(T4)",
       "type": 4,
       "api": "https://tang.hz.cz/power/duboku?token=d0616267",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "T4-欧乐",
+      "name": "欧乐(T4)",
+      "type": 4,
+      "api": "https://tang.hz.cz/power/olelive?token=d0616267",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -31,101 +42,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-    },
-    {
-      "key": "短剧go",
-      "name": "短剧go",
-      "type": 1,
-      "api": "http://jg.zhangqun66.com:8080",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0
-    },
-    {
-      "key": "克隆合集",
-      "name": "克隆合集",
-      "type": 4,
-      "api": "http://jg.zhangqun66.com/klhj.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1,
-      "filterable": 0
-    },
-    {
-      "key": "采集集合",
-      "name": "采集集合",
-      "type": 1,
-      "api": "http://jg.zhangqun66.com/cjjh.php",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-    {
-      "key": "服务器油管",
-      "name": "服务器油管",
-      "type": 4,
-      "api": "http://jg.zhangqun66.com/yt/yt001.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#穿越小说#影视解说#腾讯动漫#动物#风光#放松#8k video ultra hd#HDR#movie#经典音乐#documentary#bbc documentary"
-    },
-    {
-      "key": "油管播放列表1",
-      "name": "油管播放列表1",
-      "type": 4,
-      "api": "http://jg.zhangqun66.com/ytlb.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "油管播放列表2",
-      "name": "油管播放列表2",
-      "type": 4,
-      "api": "http://jg.zhangqun66.com/ytlb1.php",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-    {
-      "key": "直播转点播",
-      "name": "直播转点播",
-      "type": 4,
-      "api": "http://jg.zhangqun66.com/zh/2241-2.php",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "1,2,3,4,5,6"
-    },
-    {
-      "key": "低端影视",
-      "name": "低端┃影视",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1,
-      "ext": "./js/ddys.js"
     },
     {
       "key": "huawei",
@@ -472,7 +388,7 @@
     "s3t3d2y8.afcdn.net"
   ],
   "logo": "http://tv543.cc/logo2.gif",
- "lives": [
+  "lives": [
     {
       "name": "TW",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
