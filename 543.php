@@ -6,367 +6,367 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 
 #EXTINF:-1 group-title="新闻频道",TVBS HD
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv073
+http://888.tv543.cc/litv.php?id=4gtv-4gtv073
 
 #EXTINF:-1 group-title="新闻频道",TVBS新闻台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv072
+http://888.tv543.cc/litv.php?id=4gtv-4gtv072
 
 #EXTINF:-1 group-title="新闻频道",中天新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv009
+http://888.tv543.cc/litv.php?id=4gtv-4gtv009
 
 #EXTINF:-1 group-title="新闻频道",中天亚洲台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv109
+http://888.tv543.cc/litv.php?id=4gtv-4gtv109
 
 #EXTINF:-1 group-title="新闻频道",台视新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv051
+http://888.tv543.cc/litv.php?id=4gtv-4gtv051
 
 #EXTINF:-1 group-title="新闻频道",华视新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv052
+http://888.tv543.cc/litv.php?id=4gtv-4gtv052
 
 #EXTINF:-1 group-title="新闻频道",台视财经
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv056
+http://888.tv543.cc/litv.php?id=4gtv-4gtv056
 
 #EXTINF:-1 group-title="新闻频道",中视新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv074
+http://888.tv543.cc/litv.php?id=4gtv-4gtv074
 
 #EXTINF:-1 group-title="新闻频道",非凡新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv010
+http://888.tv543.cc/litv.php?id=4gtv-4gtv010
 
 #EXTINF:-1 group-title="新闻频道",镜新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv075
+http://888.tv543.cc/litv.php?id=4gtv-4gtv075
 
 #EXTINF:-1 group-title="新闻频道",东森新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv152
+http://888.tv543.cc/litv.php?id=4gtv-4gtv152
 
 #EXTINF:-1 group-title="新闻频道",东森财经新闻
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv153
+http://888.tv543.cc/litv.php?id=4gtv-4gtv153
 
 #EXTINF:-1 group-title="新闻频道",半岛新闻
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv10
+http://888.tv543.cc/litv.php?id=litv-ftv10
 
 #EXTINF:-1 group-title="新闻频道",民视新闻台
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv13
+http://888.tv543.cc/litv.php?id=litv-ftv13
 
 #EXTINF:-1 group-title="新闻频道",民视台湾台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv001
+http://888.tv543.cc/litv.php?id=4gtv-4gtv001
 
 #EXTINF:-1 group-title="新闻频道",寰宇新闻台
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn14
+http://888.tv543.cc/litv.php?id=litv-longturn14
 
 #EXTINF:-1 group-title="新闻频道",寰宇新闻台湾台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv156
+http://888.tv543.cc/litv.php?id=4gtv-4gtv156
 
 #EXTINF:-1 group-title="新闻频道",寰宇财经台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv158
+http://888.tv543.cc/litv.php?id=4gtv-4gtv158
 
 #EXTINF:-1 group-title="新闻频道",台视
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv066
+http://888.tv543.cc/litv.php?id=4gtv-4gtv066
 
 #EXTINF:-1 group-title="新闻频道",民视
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv002
+http://888.tv543.cc/litv.php?id=4gtv-4gtv002
 
 #EXTINF:-1 group-title="新闻频道",民视
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv155
+http://888.tv543.cc/litv.php?id=4gtv-4gtv155
 
 #EXTINF:-1 group-title="新闻频道",中视
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv040
+http://888.tv543.cc/litv.php?id=4gtv-4gtv040
 
 #EXTINF:-1 group-title="新闻频道",华视
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv041
+http://888.tv543.cc/litv.php?id=4gtv-4gtv041
 
 #EXTINF:-1 group-title="新闻频道",民视台湾台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv156
+http://888.tv543.cc/litv.php?id=4gtv-4gtv156
 
 #EXTINF:-1 group-title="影视频道",影迷數位電影台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv011
+http://888.tv543.cc/litv.php?id=4gtv-4gtv011
 
 #EXTINF:-1 group-title="影视频道",AMC电影台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv017
+http://888.tv543.cc/litv.php?id=4gtv-4gtv017
 
 #EXTINF:-1 group-title="影视频道",CATCHPLAY电影台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv076
+http://888.tv543.cc/litv.php?id=4gtv-4gtv076
 
 #EXTINF:-1 group-title="影视频道",靖天电影台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv061
+http://888.tv543.cc/litv.php?id=4gtv-4gtv061
 
 #EXTINF:-1 group-title="影视频道",龙华电影
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn03
+http://888.tv543.cc/litv.php?id=litv-longturn03
 
 #EXTINF:-1 group-title="影视频道",采昌影剧
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv049
+http://888.tv543.cc/litv.php?id=4gtv-4gtv049
 
 #EXTINF:-1 group-title="影视频道",民视影剧
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv09
+http://888.tv543.cc/litv.php?id=litv-ftv09
 
 #EXTINF:-1 group-title="影视频道",龙华经典
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn21
+http://888.tv543.cc/litv.php?id=litv-longturn21
 
 #EXTINF:-1 group-title="影视频道",中视经典
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv080
+http://888.tv543.cc/litv.php?id=4gtv-4gtv080
 
 #EXTINF:-1 group-title="影视频道",台湾戏剧台
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn22
+http://888.tv543.cc/litv.php?id=litv-longturn22
 
 #EXTINF:-1 group-title="影视频道",靖洋戏剧台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv045
+http://888.tv543.cc/litv.php?id=4gtv-4gtv045
 
 #EXTINF:-1 group-title="影视频道",靖天戏剧台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv058
+http://888.tv543.cc/litv.php?id=4gtv-4gtv058
 
 #EXTINF:-1 group-title="影视频道",公视戏剧
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv042
+http://888.tv543.cc/litv.php?id=4gtv-4gtv042
 
 #EXTINF:-1 group-title="影视频道",龙华戏剧
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn18
+http://888.tv543.cc/litv.php?id=litv-longturn18
 
 #EXTINF:-1 group-title="体育频道",智林体育台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv101
+http://888.tv543.cc/litv.php?id=4gtv-4gtv101
 
 #EXTINF:-1 group-title="体育频道",时尚运动X
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv014
+http://888.tv543.cc/litv.php?id=4gtv-4gtv014
 
 #EXTINF:-1 group-title="体育频道",靖天育乐台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv062
+http://888.tv543.cc/litv.php?id=4gtv-4gtv062
 
 #EXTINF:-1 group-title="体育频道",博斯魅力
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn04
+http://888.tv543.cc/litv.php?id=litv-longturn04
 
 #EXTINF:-1 group-title="体育频道",博斯高球1
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn05
+http://888.tv543.cc/litv.php?id=litv-longturn05
 
 #EXTINF:-1 group-title="体育频道",博斯高球2
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn06
+http://888.tv543.cc/litv.php?id=litv-longturn06
 
 #EXTINF:-1 group-title="体育频道",博斯运动1
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn07
+http://888.tv543.cc/litv.php?id=litv-longturn07
 
 #EXTINF:-1 group-title="体育频道",博斯运动2
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn08
+http://888.tv543.cc/litv.php?id=litv-longturn08
 
 #EXTINF:-1 group-title="体育频道",博斯网球
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn09
+http://888.tv543.cc/litv.php?id=litv-longturn09
 
 #EXTINF:-1 group-title="体育频道",博斯无限
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn10
+http://888.tv543.cc/litv.php?id=litv-longturn10
 
 #EXTINF:-1 group-title="体育频道",博斯无限2
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn13
+http://888.tv543.cc/litv.php?id=litv-longturn13
 
 #EXTINF:-1 group-title="体育频道",TRACE SPORTS STARS
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv077
+http://888.tv543.cc/litv.php?id=4gtv-4gtv077
 
 #EXTINF:-1 group-title="综艺频道",視納華仁紀實頻道
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv013
+http://888.tv543.cc/litv.php?id=4gtv-4gtv013
 
 #EXTINF:-1 group-title="综艺频道",中视菁采
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv064
+http://888.tv543.cc/litv.php?id=4gtv-4gtv064
 
 #EXTINF:-1 group-title="综艺频道",八大精彩台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv034
+http://888.tv543.cc/litv.php?id=4gtv-4gtv034
 
 #EXTINF:-1 group-title="综艺频道",八大综艺台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv039
+http://888.tv543.cc/litv.php?id=4gtv-4gtv039
 
 #EXTINF:-1 group-title="综艺频道",TVBS精采台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv067
+http://888.tv543.cc/litv.php?id=4gtv-4gtv067
 
 #EXTINF:-1 group-title="综艺频道",TVBS欢乐台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv068
+http://888.tv543.cc/litv.php?id=4gtv-4gtv068
 
 #EXTINF:-1 group-title="综艺频道",靖天欢乐台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv054
+http://888.tv543.cc/litv.php?id=4gtv-4gtv054
 
 #EXTINF:-1 group-title="综艺频道",靖天综合台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv046
+http://888.tv543.cc/litv.php?id=4gtv-4gtv046
 
 #EXTINF:-1 group-title="综艺频道",靖天资讯台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv065
+http://888.tv543.cc/litv.php?id=4gtv-4gtv065
 
 #EXTINF:-1 group-title="综艺频道",靖天卡通台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv044
+http://888.tv543.cc/litv.php?id=4gtv-4gtv044
 
 #EXTINF:-1 group-title="综艺频道",靖天日本台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv047
+http://888.tv543.cc/litv.php?id=4gtv-4gtv047
 
 #EXTINF:-1 group-title="综艺频道",靖洋卡通台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv057
+http://888.tv543.cc/litv.php?id=4gtv-4gtv057
 
 #EXTINF:-1 group-title="综艺频道",靖天国际台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv063
+http://888.tv543.cc/litv.php?id=4gtv-4gtv063
 
 #EXTINF:-1 group-title="综艺频道",靖天映画
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv055
+http://888.tv543.cc/litv.php?id=4gtv-4gtv055
 
 #EXTINF:-1 group-title="综艺频道",爱尔达娱乐
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv070
+http://888.tv543.cc/litv.php?id=4gtv-4gtv070
 
 #EXTINF:-1 group-title="综艺频道",龙华卡通
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn01
+http://888.tv543.cc/litv.php?id=litv-longturn01
 
 #EXTINF:-1 group-title="综艺频道",龙华日韩
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn11
+http://888.tv543.cc/litv.php?id=litv-longturn11
 
 #EXTINF:-1 group-title="综艺频道",龙华偶像
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn12
+http://888.tv543.cc/litv.php?id=litv-longturn12
 
 #EXTINF:-1 group-title="综艺频道",民视综艺
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv004
+http://888.tv543.cc/litv.php?id=4gtv-4gtv004
 
 #EXTINF:-1 group-title="综艺频道",民视第一台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv003
+http://888.tv543.cc/litv.php?id=4gtv-4gtv003
 
 #EXTINF:-1 group-title="综艺频道",民视旅游
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv07
+http://888.tv543.cc/litv.php?id=litv-ftv07
 
 #EXTINF:-1 group-title="综艺频道",亚洲旅游台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv076
+http://888.tv543.cc/litv.php?id=4gtv-4gtv076
 
 #EXTINF:-1 group-title="综艺频道",客家电视台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv043
+http://888.tv543.cc/litv.php?id=4gtv-4gtv043
 
 #EXTINF:-1 group-title="综艺频道",爱放动漫
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv15
+http://888.tv543.cc/litv.php?id=litv-ftv15
 
 #EXTINF:-1 group-title="综艺频道",古典音乐台
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv059
+http://888.tv543.cc/litv.php?id=4gtv-4gtv059
 
 #EXTINF:-1 group-title="综艺频道",猪哥亮歌厅秀
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv006
+http://888.tv543.cc/litv.php?id=4gtv-4gtv006
 
 #EXTINF:-1 group-title="其他频道",Smart知识台
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn19
+http://888.tv543.cc/litv.php?id=litv-longturn19
 
 #EXTINF:-1 group-title="其他频道",达文西频道"
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv018
+http://888.tv543.cc/litv.php?id=4gtv-4gtv018
 
 #EXTINF:-1 group-title="其他频道",阿里郎
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv079
+http://888.tv543.cc/litv.php?id=4gtv-4gtv079
 
 #EXTINF:-1 group-title="其他频道",生活英语台
 
-http://www.52sw.top:678/dxlitv.php?id=litv-longturn20
+http://888.tv543.cc/litv.php?id=litv-longturn20
 
 #EXTINF:-1 group-title="其他频道",国际财经
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv104
+http://888.tv543.cc/litv.php?id=4gtv-4gtv104
 
 #EXTINF:-1 group-title="其他频道",美国之音
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv03
+http://888.tv543.cc/litv.php?id=litv-ftv03
 
 #EXTINF:-1 group-title="其他频道",好消息
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv16
+http://888.tv543.cc/litv.php?id=litv-ftv16
 
 #EXTINF:-1 group-title="其他频道",好消息2台
 
-http://www.52sw.top:678/dxlitv.php?id=litv-ftv17
+http://888.tv543.cc/litv.php?id=litv-ftv17
 
 #EXTINF:-1 group-title="其他频道",非凡商业
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv048
+http://888.tv543.cc/litv.php?id=4gtv-4gtv048
 
 #EXTINF:-1 group-title="其他频道",国会频道"1
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv084
+http://888.tv543.cc/litv.php?id=4gtv-4gtv084
 
 #EXTINF:-1 group-title="其他频道",国会频道"2
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv085
+http://888.tv543.cc/litv.php?id=4gtv-4gtv085
 
 #EXTINF:-1 group-title="其他频道",TRACE URBAN
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv082
+http://888.tv543.cc/litv.php?id=4gtv-4gtv082
 
 #EXTINF:-1 group-title="其他频道",MEZZO LIVE
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv083
+http://888.tv543.cc/litv.php?id=4gtv-4gtv083
 
 #EXTINF:-1 group-title="其他频道",GLOBETROTTER
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv016
+http://888.tv543.cc/litv.php?id=4gtv-4gtv016
 
 #EXTINF:-1 group-title="其他频道",GinxTV
 
-http://www.52sw.top:678/dxlitv.php?id=4gtv-4gtv053
+http://888.tv543.cc/litv.php?id=4gtv-4gtv053
 
 #EXTINF:-1 group-title="台湾TW(167)",壹综合
 
