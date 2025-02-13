@@ -1,6 +1,6 @@
 {
   "spider": "https://github.com/FongMi/CatVodSpider/raw/refs/heads/main/jar/custom_spider.jar",
-  "wallpaper": "https://深色壁纸.饭.eu.org/",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "黑木影视",
@@ -32,17 +32,6 @@
       "changeable": 0
     },
     {
-      "key": "小米金牌影院",
-      "name": "小米金牌影院",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "playerType": 2,
-      "filterable": 1,
-      "jar": "https://4tvbox.ggff.net/xmwd.jar"
-    },
-    {
       "key": "Qile优视频",
       "name": "Qile优视频",
       "type": 3,
@@ -53,10 +42,10 @@
       "filterable": 1
     },
     {
-      "key": "沐辰Hi视频",
-      "name": "沐辰Hi视频",
-      "type": 4,
-      "api": "https://spider.doube.eu.org/spider?site=UpFuHn",
+      "key": "沐辰界影视",
+      "name": "沐辰界影视",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -67,6 +56,16 @@
       "name": "沐辰爱瓜TV",
       "type": 4,
       "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "沐辰Hi视频",
+      "name": "沐辰Hi视频",
+      "type": 4,
+      "api": "https://spider.doube.eu.org/spider?site=UpFuHn",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -117,13 +116,14 @@
       "jar": "https://4tvbox.ggff.net/GM.jar"
     },
     {
-      "key": "直播频道",
-      "name": "直播频道",
+      "key": "沐辰八号影院",
+      "name": "沐辰八号影院",
       "type": 4,
-      "api": "http://zhangqun66.com/zh/2241-2.php",
+      "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "1,2,3,4,5,6"
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "备用黑木影视",
@@ -136,7 +136,7 @@
     }
   ],
   "lives": [
-   {
+    {
       "name": "TW",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
       "pass": false,
@@ -154,19 +154,19 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "XA",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
 
     {
-      "name": "沐辰台湾直播",
-      "url": "https://json.doube.eu.org/live/tw/Sub.php"
+      "name": "自营高速直播",
+      "url": "http://tawangxunyuan.vicp.cc:4000/Sub?type=m3u",
+      "catchup": {
+        "type": "append",
+        "replace": "livemode=1,livemode=4",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
+    {
+      "name": "奇迹公益直播",
+      "url": "https://livetv.wqwqwq.sbs/tv.m3u"
     }
   ],
   "doh": [
