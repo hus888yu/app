@@ -2,7 +2,30 @@
   "urls": [
     {
       "name": "🐸彥",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/111.json"
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/1.json"
+    },
+    {
+      "name": "🐸盒子之家",
+      "url": "http://666.iptv543.com:8080/543.json"
+    },
+    {
+      "name": "🐸彥2",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/888.json"
+    },  
+     
+    {
+      "name": "🐸彥3",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/3.json"
+    },  
+
+    {
+      "name": "🐼三哥影视",
+      "url": "https://4tvbox.ggff.net/config.json"
+    },
+   
+    {
+      "name": "🐼xa",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/xa.json" 
     },
     {
       "name": "🐸饭太硬",
@@ -16,6 +39,7 @@
       "name": "🐸王小二",
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     },  
+     
     {
       "name": "🐸摸鱼儿",
       "url": "http://我不是.摸鱼儿.com"
