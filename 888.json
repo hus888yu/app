@@ -52,20 +52,20 @@
       "changeable": 0
     },
     {
-      "key": "沐辰爱瓜TV",
-      "name": "沐辰爱瓜TV",
+      "key": "沐辰Hi视频",
+      "name": "沐辰Hi视频",
       "type": 4,
-      "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
+      "api": "https://py.doube.eu.org/spider?site=UpFuHn",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
     },
     {
-      "key": "沐辰Hi视频",
-      "name": "沐辰Hi视频",
-      "type": 4,
-      "api": "https://spider.doube.eu.org/spider?site=UpFuHn",
+      "key": "沐辰爱瓜TV",
+      "name": "沐辰爱瓜TV",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_aigua.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -123,7 +123,25 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "header": {
+        "User-Agent": "okhttp/5.0.0-alpha.14",
+        "Referer": "test"
+      }
+    },
+    {
+      "key": "huarenoktv",
+      "name": "华人直播️",
+      "type": 1,
+      "api": "https://huaren.live/api.php/tvbox",
+      "playUrl": "json:https://parse.okhuaren.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "test"
+      }
     },
     {
       "key": "备用黑木影视",
@@ -137,36 +155,12 @@
   ],
   "lives": [
     {
-      "name": "TW",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "catvod.com",
+      "url": "https://iptv.catvod.com/tv.m3u"
     },
     {
-      "name": "大人台",
-      "url": "http://tv543.cc/173.txt",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "自营高速直播",
-      "url": "http://tawangxunyuan.vicp.cc:4000/Sub?type=m3u",
-      "catchup": {
-        "type": "append",
-        "replace": "livemode=1,livemode=4",
-        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
-    {
-      "name": "奇迹公益直播",
-      "url": "https://livetv.wqwqwq.sbs/tv.m3u"
+      "name": "catvod.com(备用)",
+      "url": "https://live.catvod.com/tv.m3u"
     }
   ],
   "doh": [
