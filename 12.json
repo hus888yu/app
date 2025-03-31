@@ -16,8 +16,6 @@
     {
       "name":"👉小雲👈",
       "url":"https://tang.hz.cz/so/xiaoyun.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
       "core":{
          "auth":"local://tvbus",
          "name":"123",
