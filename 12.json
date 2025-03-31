@@ -12,7 +12,7 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
     {
       "name":"👉小雲👈",
       "url":"https://tang.hz.cz/so/xiaoyun.m3u",
