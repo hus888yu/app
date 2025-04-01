@@ -1,21 +1,35 @@
-#EXTM3U
-#EXTINF:-1 group-title="成人",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Playboy HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="成人",PassionXXX
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 group-title="成人",Leo HD
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Reality Kings HD
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+💋松视CR,#genre#
+🎄松视1,p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
+🎄松视2,p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
+🎄松视3,p3p://173.208.176.178:31809/6109e9590001f40bfd9b661109395f3b
+🎄松视4台,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
+潘多拉完美,p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
+🍌香蕉,p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
+惊艳,p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
+LOOK,p3p://173.208.176.178:31809/606271190002a1266f75aaee0463186a
+HAPPY,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
+🌈彩虹e,p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+🌈彩虹K,p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
+🌈彩虹电影,p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
+🌈彩虹频道,p3p://173.208.176.178:31809/63fd589300099ff426db7203798a21f9
+极限电影,p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+西方OFFICE场景,p3p://173.208.176.178:31809/6403cb9f0003a839400cad904b301253
+西方黑白大战,p3p://173.208.176.178:31809/6403cc0d0000f97a400e5a9115f012f3
+精艷臺,http://127.0.0.1:9966/api/proxy/http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘多拉完美臺,http://127.0.0.1:9966/api/proxy/http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+香蕉臺,http://127.0.0.1:9966/api/proxy/http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松視1臺,http://127.0.0.1:9966/api/proxy/http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松視2臺,http://127.0.0.1:9966/api/proxy/http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松視3臺,http://127.0.0.1:9966/api/proxy/http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+
+成人,#genre#
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
