@@ -3,6 +3,15 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "logo": "https://raw.github.tax/wwb521/live/main/18.ico",
   "lives": [
+    {
+      "name": "XA",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp1.txt",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
      {
       "name": "XA1",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp1.txt",
