@@ -1,4 +1,4 @@
-🔞麻豆映画,#genre#,
+🔞麻豆映画1,#genre#
 🦖1传媒01,https://e2fa61.cdnedge.live/file/avple-asserts/hls/63ad7a5b4039e62f06b5ac1e/playlist.m3u8
 🦖1传媒02,https://u89ey1.cdnedge.live/file/avple-asserts/hls/63a66db9fc0f5909431eee4c/playlist.m3u8
 🦖1传媒03,https://u89ey1.cdnedge.live/file/avple-asserts/hls/63a4943b32a6b7426142f891/playlist.m3u8
@@ -806,6 +806,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🥛10传媒17,https://zo3921.cdnedge.live/file/avple-asserts/hls/6337d7cfc4059d2ec892117b/playlist.m3u8
 🥛10传媒18,https://zo3921.cdnedge.live/file/avple-asserts/hls/63396f60496804778df57462/playlist.m3u8
 🥛10传媒19,https://8bb88.cdnedge.live/file/avple-images/hls/6336fef6c4059d2ec892117a/playlist.m3u8
+🔞麻豆映画2,#genre#
 🍸9传媒01,https://u89ey.cdnedge.live/file/avple-images/hls/633586cad1064e7f7a93e422/playlist.m3u8
 🍸9传媒02,https://10j99.cdnedge.live/file/avple-images/hls/63358616d1064e7f7a93e421/playlist.m3u8
 🍸9传媒03,https://d862cp.cdnedge.live/file/avple-images/hls/6334462a40dd715faa4977d6/playlist.m3u8
@@ -1073,6 +1074,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🐣9传媒62,https://e2fa6.cdnedge.live/file/avple-images/hls/630d27d64cd2c231d6ebd8c4/playlist.m3u8
 🐣9传媒63,https://8bb88.cdnedge.live/file/avple-images/hls/630cbf7e4cd2c231d6ebd8c3/playlist.m3u8
 🐣9传媒64,https://zo392.cdnedge.live/file/avple-images/hls/630ca9b24cd2c231d6ebd8c2/playlist.m3u8
+🔞麻豆映画3,#genre#
 🍋8传媒01,https://e2fa6.cdnedge.live/file/avple-images/hls/630f519f3c7f894488546be7/playlist.m3u8
 🍋8传媒02,https://e2fa6.cdnedge.live/file/avple-images/hls/630f519e3c7f894488546be6/playlist.m3u8
 🍋8传媒03,https://8bb88.cdnedge.live/file/avple-images/hls/630f0714f6f3c02fb820950d/playlist.m3u8
@@ -1349,6 +1351,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 😃8传媒12,https://zo392.cdnedge.live/file/avple-images/hls/62e68a240727f630f9789895/playlist.m3u8
 😃8传媒13,https://8bb88.cdnedge.live/file/avple-images/hls/62e676a10727f630f9789894/playlist.m3u8
 😃8传媒14,https://q2cyl7.cdnedge.live/file/avple-images/hls/62e6632c25698b745fc62e3d/playlist.m3u8
+🔞麻豆映画4,#genre#
 😃7传媒01,https://8bb88.cdnedge.live/file/avple-images/hls/62e53bdda7c5986c614691b4/playlist.m3u8
 😃7传媒02,https://q2cyl7.cdnedge.live/file/avple-images/hls/62e506317ae31a7fcbbb26d9/playlist.m3u8
 😃7传媒03,https://8bb88.cdnedge.live/file/avple-images/hls/62e505837ae31a7fcbbb26d8/playlist.m3u8
@@ -1563,6 +1566,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓7传媒12,https://1xp60.cdnedge.live/file/avple-images/hls/62bd878ad0fa6a48496bbf5c/playlist.m3u8
 🍓7传媒13,https://d862cp.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
 🍓7传媒14,https://je40u.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
+🔞麻豆映画5,#genre#
 🐴6传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
 🐴6传媒02,https://w9n76.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
 🐴6传媒03,https://e2fa6.cdnedge.live/file/avple-images/hls/62bbf60aea3d425e0a93b7ae/playlist.m3u8
@@ -1861,6 +1865,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓6传媒204,https://8bb88.cdnedge.live/file/avple-images/hls/6280b2fbfc27be165aeb81d5/playlist.m3u8
 🍓6传媒205,https://zo392.cdnedge.live/file/avple-images/hls/6280b245fc27be165aeb81d4/playlist.m3u8
 🍓6传媒206,https://u89ey.cdnedge.live/file/avple-images/hls/6280b154fc27be165aeb81d2/playlist.m3u8
+🔞麻豆映画6,#genre#
 🍓5传媒01,https://8bb88.cdnedge.live/file/avple-images/hls/6290bf9287412532ac7f4cff/playlist.m3u8
 🍓5传媒02,https://w9n76.cdnedge.live/file/avple-images/hls/6290be2987412532ac7f4cfe/playlist.m3u8
 🍓5传媒03,https://zo392.cdnedge.live/file/avple-images/hls/628f85bd531f007e5ba30b01/playlist.m3u8
@@ -2064,6 +2069,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓5传媒201,https://e2fa6.cdnedge.live/file/avple-images/hls/626bcd5d20859323fc450d65/playlist.m3u8
 🍓5传媒202,https://10j99.cdnedge.live/file/avple-images/hls/626a9b433d701068e96b4fdc/playlist.m3u8
 🍓5传媒203,https://e2fa6.cdnedge.live/file/avple-images/hls/626a9b433d701068e96b4fdb/playlist.m3u8
+🔞麻豆映画6,#genre#
 🍓4传媒01,https://u89ey.cdnedge.live/file/avple-images/hls/6257f50aa840bf2dd2ce4358/playlist.m3u8
 🍓4传媒02,https://10j99.cdnedge.live/file/avple-images/hls/6256da62bd3519566877455d/playlist.m3u8
 🍓4传媒03,https://q2cyl7.cdnedge.live/file/avple-images/hls/6256b304bd3519566877455c/playlist.m3u8
@@ -2384,6 +2390,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓3传媒138,https://e2fa6.cdnedge.live/file/avple-images/hls/6209b4def074eb1e0fe6271a/playlist.m3u8
 🍓3传媒139,https://w9n76.cdnedge.live/file/avple-images/hls/6209b3eef074eb1e0fe62717/playlist.m3u8
 🍓3传媒140,https://1xp60.cdnedge.live/file/avple-images/hls/6209b42bf074eb1e0fe62718/playlist.m3u8
+🔞麻豆映画7,#genre#
 🍓2传媒01,https://w9n76.cdnedge.live/file/avple-images/hls/6206efe3c6e4cd6e597c7185/playlist.m3u8
 🍓2传媒02,https://je40u.cdnedge.live/file/avple-images/hls/6206efa6c6e4cd6e597c7184/playlist.m3u8
 🍓2传媒03,https://u89ey.cdnedge.live/file/avple-images/hls/6205a47ad69d37216eb636de/playlist.m3u8
@@ -2916,6 +2923,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓11传媒07,https://10j99.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
 🍓11传媒08,https://je40u.cdnedge.live/file/avple-images/hls/61703eedbc5c965ae4f56247/playlist.m3u8
 🍓11传媒09,https://e2fa6.cdnedge.live/file/avple-images/hls/61703dc1bc5c965ae4f56245/playlist.m3u8
+🔞麻豆映画8,#genre#
 少年01,https://zo392.cdnedge.live/file/avple-images/hls/60ba6f55ecb87a1b5b8fa848/playlist.m3u8
 少年02,https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playlist.m3u8
 少年03,https://1xp60.cdnedge.live/file/avple-images/hls/61628f7ec778383b6b882d05/playlist.m3u8
