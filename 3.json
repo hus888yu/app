@@ -621,6 +621,21 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
      },
+     {
+      "name": "543",
+      "url": "http://tv543.cc/list.php",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "./live_smt.py",
+      "ext": {}
+    },
     {
       "name": "Yogurt有大人",
       "type": 1,
@@ -638,5 +653,4 @@
       }
     }
   ]
-}   
-  
+}
