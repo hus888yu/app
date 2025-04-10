@@ -1,9 +1,5 @@
  {
-  "urls": [
-    {
-      "name": "🐸道長",
-      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-    },
+  "urls": [  
     {
       "name": "🐸香雅情",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
@@ -25,11 +21,6 @@
       "name": "🐸巧技",
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },
-    {
-      "name": "🐸月光宝盒",
-      "url": "https://3043.kstore.space/bhvip/bh/bh2.json"
-    },
-
     {
       "name": "🐸肥猫",
       "url": "https://6296.kstore.vip/facat.json"}]}
