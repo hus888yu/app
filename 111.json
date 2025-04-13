@@ -1,13 +1,13 @@
  {
   "urls": [
     {
-      "name": "🐸盒子之家",
-      "url": "http://666.iptv543.com:8080/543.json"
-    },
-    {
       "name": "🐸彥2",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/1.json"
     },  
+    {
+      "name": "🐸盒子之家",
+      "url": "http://666.iptv543.com:8080/543.json"
+    },
     {
       "name": "🐸彥3",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/3.json"
