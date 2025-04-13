@@ -1,5 +1,353 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="台湾频道",中天新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv009
+
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv072
+
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="台湾频道",东森新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv152
+
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="台湾频道",民视新闻台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv13
+
+#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜新闻" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="台湾频道",镜新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv075
+
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="台湾频道",非凡新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv010
+
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="台湾频道",台视新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv051
+
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="台湾频道",华视新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv052
+
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻" tvg-logo="https://logo.doube.eu.org/中视新闻台.png" group-title="台湾频道",中视新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv074
+
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台.png" group-title="台湾频道",寰宇新闻台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn14
+
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.doube.eu.org/寰宇新闻台湾台.png" group-title="台湾频道",寰宇新闻台湾台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv156
+
+#EXTINF:-1 tvg-id="半岛国际新闻" tvg-name="半岛新闻" tvg-logo="https://logo.doube.eu.org/半岛国际新闻.png" group-title="台湾频道",半岛新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv10
+
+#EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="台湾频道",美国之音
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv03
+
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://logo.doube.eu.org/东森财经新闻台.png" group-title="台湾频道",东森财经新闻
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv153
+
+#EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业台" tvg-logo="https://logo.doube.eu.org/非凡商业.png" group-title="台湾频道",非凡商业台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv048
+
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经" tvg-logo="https://logo.doube.eu.org/台视财经台.png" group-title="台湾频道",台视财经
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv056
+
+#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://logo.doube.eu.org/第1商业台.png" group-title="台湾频道",第1商业台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv104
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://logo.doube.eu.org/TVBS.png" group-title="台湾频道",TVBS
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv073
+
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="台湾频道",台视
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv066
+
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://logo.doube.eu.org/中视.png" group-title="台湾频道",中视
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv040
+
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://logo.doube.eu.org/华视.png" group-title="台湾频道",华视
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv041
+
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="台湾频道",民视
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv002
+
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="台湾频道",民视
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv155
+
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="台湾频道",民视台湾台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv001
+
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://logo.doube.eu.org/民视第一台.png" group-title="台湾频道",民视第一台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv003
+
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲台" tvg-logo="https://logo.doube.eu.org/中天亚洲.png" group-title="台湾频道",中天亚洲台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv109
+
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://logo.doube.eu.org/靖天综合台.png" group-title="台湾频道",靖天综合台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv046
+
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://logo.doube.eu.org/靖天国际台.png" group-title="台湾频道",靖天国际台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv063
+
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://logo.doube.eu.org/靖天资讯台.png" group-title="台湾频道",靖天资讯台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv065
+
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://logo.doube.eu.org/客家电视台.png" group-title="台湾频道",客家电视台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv043
+
+#EXTINF:-1 tvg-id="ARIRANG" tvg-name="阿里郎" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="台湾频道",阿里郎
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv079
+
+#EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://logo.doube.eu.org/国会频道1.png" group-title="台湾频道",国会频道1
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv084
+
+#EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://logo.doube.eu.org/国会频道2.png" group-title="台湾频道",国会频道2
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv085
+
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="台湾频道",TVBS欢乐台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv068
+
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="台湾频道",TVBS精采台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv067
+
+#EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="爱尔达娱乐" tvg-logo="https://logo.doube.eu.org/ELTV娱乐.png" group-title="台湾频道",爱尔达娱乐
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv070
+
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://logo.doube.eu.org/民视综艺台.png" group-title="台湾频道",民视综艺台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv004
+
+#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺台" tvg-logo="https://logo.doube.eu.org/八大综艺.png" group-title="台湾频道",八大综艺台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv039
+
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="台湾频道",八大精彩台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv034
+
+#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://logo.doube.eu.org/靖天欢乐台.png" group-title="台湾频道",靖天欢乐台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv054
+
+#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://logo.doube.eu.org/靖天育乐台.png" group-title="台湾频道",靖天育乐台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv062
+
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://logo.doube.eu.org/中视菁采台.png" group-title="台湾频道",中视菁采台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv064
+
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://logo.doube.eu.org/猪哥亮歌厅秀.png" group-title="台湾频道",猪哥亮歌厅秀
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv006
+
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="台湾频道",影迷數位電影台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv011
+
+#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="台湾频道",amc电影台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv017
+
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://logo.doube.eu.org/靖天电影台.png" group-title="台湾频道",靖天电影台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv061
+
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://logo.doube.eu.org/靖天映画.png" group-title="台湾频道",靖天映画
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv055
+
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://logo.doube.eu.org/采昌影剧台.png" group-title="台湾频道",采昌影剧台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv049
+
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧" tvg-logo="https://logo.doube.eu.org/民视影剧台.png" group-title="台湾频道",民视影剧
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv09
+
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="台湾频道",龙华电影
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn03
+
+#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="台湾频道",龙华洋片
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn02
+
+#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="台湾频道",公视戏剧
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv042
+
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://logo.doube.eu.org/靖洋戏剧台.png" group-title="台湾频道",靖洋戏剧台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv045
+
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://logo.doube.eu.org/靖天戏剧台.png" group-title="台湾频道",靖天戏剧台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv058
+
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://logo.doube.eu.org/中视经典台.png" group-title="台湾频道",中视经典台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv080
+
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="台湾频道",靖天日本台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv047
+
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="台湾频道",龙华戏剧
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn18
+
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="台湾频道",龙华日韩
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn11
+
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像" tvg-logo="https://logo.doube.eu.org/龙华偶像台.png" group-title="台湾频道",龙华偶像
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn12
+
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典" tvg-logo="https://logo.doube.eu.org/龙华经典台.png" group-title="台湾频道",龙华经典
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn21
+
+#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://logo.doube.eu.org/台湾戏剧台.png" group-title="台湾频道",台湾戏剧台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn22
+
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://logo.doube.eu.org/时尚运动X.png" group-title="台湾频道",时尚运动X
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv014
+
+#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GinxTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="台湾频道",GinxTV
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv053
+
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://logo.doube.eu.org/智林体育台.png" group-title="台湾频道",智林体育台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv101
+
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="台湾频道",博斯魅力
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn04
+
+#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="台湾频道",博斯高球1
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn05
+
+#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="https://logo.doube.eu.org/博斯高球2.png" group-title="台湾频道",博斯高球2
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn06
+
+#EXTINF:-1 tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://logo.doube.eu.org/博斯运动1.png" group-title="台湾频道",博斯运动1
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn07
+
+#EXTINF:-1 tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://logo.doube.eu.org/博斯运动2.png" group-title="台湾频道",博斯运动2
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn08
+
+#EXTINF:-1 tvg-id="博斯网球1" tvg-name="博斯网球" tvg-logo="https://logo.doube.eu.org/博斯网球1.png" group-title="台湾频道",博斯网球
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn09
+
+#EXTINF:-1 tvg-id="博斯无限1" tvg-name="博斯无限" tvg-logo="https://logo.doube.eu.org/博斯无限1.png" group-title="台湾频道",博斯无限
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn10
+
+#EXTINF:-1 tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://logo.doube.eu.org/博斯无限2.png" group-title="台湾频道",博斯无限2
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn13
+
+#EXTINF:-1 tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://logo.doube.eu.org/视纳华仁纪实.png" group-title="台湾频道",视纳华仁纪实
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv013
+
+#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="台湾频道",Globetrotter
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv016
+
+#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://logo.doube.eu.org/达文西频道.png" group-title="台湾频道",达文西频道
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv018
+
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="台湾频道",亚洲旅游台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv076
+
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="台湾频道",民视旅游
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv07
+
+#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="台湾频道",Smart知识台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn19
+
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="台湾频道",靖天卡通台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv044
+
+#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="台湾频道",靖洋卡通台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv057
+
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="台湾频道",龙华卡通
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn01
+
+#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="古典音乐台" tvg-logo="https://logo.doube.eu.org/CLASSICA古典乐.png" group-title="台湾频道",古典音乐台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv059
+
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="台湾频道",TRACE URBAN
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv082
+
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="台湾频道",MEZZO LIVE
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=4gtv-4gtv083
+
+#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="台湾频道",好消息1
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv16
+
+#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="台湾频道",好消息2
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-ftv17
+
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="生活英语台" tvg-logo="https://logo.doube.eu.org/ELTV生活英语台.png" group-title="台湾频道",生活英语台
+
+http://666.iptv543.com:8080/litv.php?token=leifeng&id=litv-longturn20
+
 #EXTINF:-1 group-title="yt新聞",TVBS NEWS
 
 https://www.youtube.com/live/m_dhMSvUCIc?si=78nn4zg-p7myFADX
@@ -87,6 +435,8 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="其他頻道" tvg-logo="",三立臺灣臺
 
 http://125.227.210.55:8160/VideoInput/play.ts
+
+
 
 #EXTINF:-1 group-title="其他頻道" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Videoland7.png",纬来体育
 
@@ -695,578 +1045,6 @@ http://106.107.177.223:50007/4gtv-4gtv101/index.m3u8
 #EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://live.fanmingming.cn/tv/時尚運動X.png" group-title="運動頻道",時尚運動X
 
 http://106.107.177.223:50007/4gtv-4gtv014/index.m3u8
-
-#EXTINF:-1 tvg-name="公視金獎台" tvg-logo="https://live.fanmingming.cn/tv/公視金獎台.png" group-title="歐飛頻道(可快進)",公視金獎台
-
-http://106.107.177.223:50007/ofiii13/index.m3u8
-
-#EXTINF:-1 tvg-name="哆啦Ａ夢台" tvg-logo="https://live.fanmingming.cn/tv/哆啦Ａ夢台.png" group-title="歐飛頻道(可快進)",哆啦Ａ夢台
-
-http://106.107.177.223:50007/ofiii22/index.m3u8
-
-#EXTINF:-1 tvg-name="新哆啦A夢(中文版)" tvg-logo="https://live.fanmingming.cn/tv/新哆啦A夢(中文版).png" group-title="歐飛頻道(可快進)",新哆啦A夢(中文版)
-
-http://106.107.177.223:50007/ofiii23/index.m3u8
-
-#EXTINF:-1 tvg-name="TVBS食尚玩家" tvg-logo="https://live.fanmingming.cn/tv/TVBS食尚玩家.png" group-title="歐飛頻道(可快進)",TVBS食尚玩家
-
-http://106.107.177.223:50007/ofiii31/index.m3u8
-
-#EXTINF:-1 tvg-name="東森娛樂台" tvg-logo="https://live.fanmingming.cn/tv/東森娛樂台.png" group-title="歐飛頻道(可快進)",東森娛樂台
-
-http://106.107.177.223:50007/ofiii32/index.m3u8
-
-#EXTINF:-1 tvg-name="中天亞洲精采台" tvg-logo="https://live.fanmingming.cn/tv/中天亞洲精采台.png" group-title="歐飛頻道(可快進)",中天亞洲精采台
-
-http://106.107.177.223:50007/ofiii36/index.m3u8
-
-#EXTINF:-1 tvg-name="經典劇場" tvg-logo="https://live.fanmingming.cn/tv/經典劇場.png" group-title="歐飛頻道(可快進)",經典劇場
-
-http://106.107.177.223:50007/ofiii38/index.m3u8
-
-#EXTINF:-1 tvg-name="Yes娛樂" tvg-logo="https://live.fanmingming.cn/tv/Yes娛樂.png" group-title="歐飛頻道(可快進)",Yes娛樂
-
-http://106.107.177.223:50007/ofiii47/index.m3u8
-
-#EXTINF:-1 tvg-name="Focus風采戲劇台" tvg-logo="https://live.fanmingming.cn/tv/Focus風采戲劇台.png" group-title="歐飛頻道(可快進)",Focus風采戲劇台
-
-http://106.107.177.223:50007/ofiii1048/index.m3u8
-
-#EXTINF:-1 tvg-name="掏掏新聞" tvg-logo="https://live.fanmingming.cn/tv/掏掏新聞.png" group-title="歐飛頻道(可快進)",掏掏新聞
-
-http://106.107.177.223:50007/ofiii50/index.m3u8
-
-#EXTINF:-1 tvg-name="柯文哲政治風波" tvg-logo="https://live.fanmingming.cn/tv/柯文哲政治風波.png" group-title="歐飛頻道(可快進)",柯文哲政治風波
-
-http://106.107.177.223:50007/ofiii51/index.m3u8
-
-#EXTINF:-1 tvg-name="國際大小事" tvg-logo="https://live.fanmingming.cn/tv/國際大小事.png" group-title="歐飛頻道(可快進)",國際大小事
-
-http://106.107.177.223:50007/ofiii55/index.m3u8
-
-#EXTINF:-1 tvg-name="第1財經" tvg-logo="https://live.fanmingming.cn/tv/第1財經.png" group-title="歐飛頻道(可快進)",第1財經
-
-http://106.107.177.223:50007/ofiii64/index.m3u8
-
-#EXTINF:-1 tvg-name="Golden 強片台" tvg-logo="https://live.fanmingming.cn/tv/Golden 強片台.png" group-title="歐飛頻道(可快進)",Golden 強片台
-
-http://106.107.177.223:50007/ofiii70/index.m3u8
-
-#EXTINF:-1 tvg-name="周星馳台" tvg-logo="https://live.fanmingming.cn/tv/周星馳台.png" group-title="歐飛頻道(可快進)",周星馳台
-
-http://106.107.177.223:50007/ofiii73/index.m3u8
-
-#EXTINF:-1 tvg-name="歐飛電影台" tvg-logo="https://live.fanmingming.cn/tv/歐飛電影台.png" group-title="歐飛頻道(可快進)",歐飛電影台
-
-http://106.107.177.223:50007/ofiii74/index.m3u8
-
-#EXTINF:-1 tvg-name="歐飛動作電影台" tvg-logo="https://live.fanmingming.cn/tv/歐飛動作電影台.png" group-title="歐飛頻道(可快進)",歐飛動作電影台
-
-http://106.107.177.223:50007/ofiii75/index.m3u8
-
-#EXTINF:-1 tvg-name="Focus探索新知台" tvg-logo="https://live.fanmingming.cn/tv/Focus探索新知台.png" group-title="歐飛頻道(可快進)",Focus探索新知台
-
-http://106.107.177.223:50007/ofiii82/index.m3u8
-
-#EXTINF:-1 tvg-name="鄉民大學問" tvg-logo="https://live.fanmingming.cn/tv/鄉民大學問.png" group-title="歐飛頻道(可快進)",鄉民大學問
-
-http://106.107.177.223:50007/ofiii83/index.m3u8
-
-#EXTINF:-1 tvg-name="野球名人房" tvg-logo="https://live.fanmingming.cn/tv/野球名人房.png" group-title="歐飛頻道(可快進)",野球名人房
-
-http://106.107.177.223:50007/ofiii84/index.m3u8
-
-#EXTINF:-1 tvg-name="社會NOW什麼" tvg-logo="https://live.fanmingming.cn/tv/社會NOW什麼.png" group-title="歐飛頻道(可快進)",社會NOW什麼
-
-http://106.107.177.223:50007/ofiii85/index.m3u8
-
-#EXTINF:-1 tvg-name="泰可愛旋風" tvg-logo="https://live.fanmingming.cn/tv/泰可愛旋風.png" group-title="歐飛頻道(可快進)",泰可愛旋風
-
-http://106.107.177.223:50007/ofiii89/index.m3u8
-
-#EXTINF:-1 tvg-name="演唱會直擊" tvg-logo="https://live.fanmingming.cn/tv/演唱會直擊.png" group-title="歐飛頻道(可快進)",演唱會直擊
-
-http://106.107.177.223:50007/ofiii91/index.m3u8
-
-#EXTINF:-1 tvg-name="健康問良醫" tvg-logo="https://live.fanmingming.cn/tv/健康問良醫.png" group-title="歐飛頻道(可快進)",健康問良醫
-
-http://106.107.177.223:50007/ofiii92/index.m3u8
-
-#EXTINF:-1 tvg-name="Freeman" tvg-logo="https://live.fanmingming.cn/tv/Freeman.png" group-title="歐飛頻道(可快進)",Freeman
-
-http://106.107.177.223:50007/ofiii95/index.m3u8
-
-#EXTINF:-1 tvg-name="饕客揪愛吃" tvg-logo="https://live.fanmingming.cn/tv/饕客揪愛吃.png" group-title="歐飛頻道(可快進)",饕客揪愛吃
-
-http://106.107.177.223:50007/ofiii96/index.m3u8
-
-#EXTINF:-1 tvg-name="人氣動漫預告" tvg-logo="https://live.fanmingming.cn/tv/人氣動漫預告.png" group-title="歐飛頻道(可快進)",人氣動漫預告
-
-http://106.107.177.223:50007/ofiii97/index.m3u8
-
-#EXTINF:-1 tvg-name="銀髮聚樂部" tvg-logo="https://live.fanmingming.cn/tv/銀髮聚樂部.png" group-title="歐飛頻道(可快進)",銀髮聚樂部
-
-http://106.107.177.223:50007/ofiii99/index.m3u8
-
-#EXTINF:-1 tvg-name="錦繡安寧" tvg-logo="https://live.fanmingming.cn/tv/錦繡安寧.png" group-title="歐飛頻道(可快進)",錦繡安寧
-
-http://106.107.177.223:50007/ofiii100/index.m3u8
-
-#EXTINF:-1 tvg-name="琅琊榜" tvg-logo="https://live.fanmingming.cn/tv/琅琊榜.png" group-title="歐飛頻道(可快進)",琅琊榜
-
-http://106.107.177.223:50007/ofiii101/index.m3u8
-
-#EXTINF:-1 tvg-name="扶搖" tvg-logo="https://live.fanmingming.cn/tv/扶搖.png" group-title="歐飛頻道(可快進)",扶搖
-
-http://106.107.177.223:50007/ofiii102/index.m3u8
-
-#EXTINF:-1 tvg-name="三國" tvg-logo="https://live.fanmingming.cn/tv/三國.png" group-title="歐飛頻道(可快進)",三國
-
-http://106.107.177.223:50007/ofiii103/index.m3u8
-
-#EXTINF:-1 tvg-name="武媚娘傳奇" tvg-logo="https://live.fanmingming.cn/tv/武媚娘傳奇.png" group-title="歐飛頻道(可快進)",武媚娘傳奇
-
-http://106.107.177.223:50007/ofiii104/index.m3u8
-
-#EXTINF:-1 tvg-name="長樂曲" tvg-logo="https://live.fanmingming.cn/tv/長樂曲.png" group-title="歐飛頻道(可快進)",長樂曲
-
-http://106.107.177.223:50007/ofiii105/index.m3u8
-
-#EXTINF:-1 tvg-name="軍師聯盟" tvg-logo="https://live.fanmingming.cn/tv/軍師聯盟.png" group-title="歐飛頻道(可快進)",軍師聯盟
-
-http://106.107.177.223:50007/ofiii106/index.m3u8
-
-#EXTINF:-1 tvg-name="軍師聯盟2 虎嘯龍吟" tvg-logo="https://live.fanmingming.cn/tv/軍師聯盟2 虎嘯龍吟.png" group-title="歐飛頻道(可快進)",軍師聯盟2 虎嘯龍吟
-
-http://106.107.177.223:50007/ofiii107/index.m3u8
-
-#EXTINF:-1 tvg-name="東宮(完整版)" tvg-logo="https://live.fanmingming.cn/tv/東宮(完整版).png" group-title="歐飛頻道(可快進)",東宮(完整版)
-
-http://106.107.177.223:50007/ofiii108/index.m3u8
-
-#EXTINF:-1 tvg-name="錦衣之下" tvg-logo="https://live.fanmingming.cn/tv/錦衣之下.png" group-title="歐飛頻道(可快進)",錦衣之下
-
-http://106.107.177.223:50007/ofiii109/index.m3u8
-
-#EXTINF:-1 tvg-name="楚喬傳" tvg-logo="https://live.fanmingming.cn/tv/楚喬傳.png" group-title="歐飛頻道(可快進)",楚喬傳
-
-http://106.107.177.223:50007/ofiii110/index.m3u8
-
-#EXTINF:-1 tvg-name="倚天屠龍記 2019" tvg-logo="https://live.fanmingming.cn/tv/倚天屠龍記 2019.png" group-title="歐飛頻道(可快進)",倚天屠龍記 2019
-
-http://106.107.177.223:50007/ofiii111/index.m3u8
-
-#EXTINF:-1 tvg-name="披荊斬棘的大小姐" tvg-logo="https://live.fanmingming.cn/tv/披荊斬棘的大小姐.png" group-title="歐飛頻道(可快進)",披荊斬棘的大小姐
-
-http://106.107.177.223:50007/ofiii112/index.m3u8
-
-#EXTINF:-1 tvg-name="步步驚心" tvg-logo="https://live.fanmingming.cn/tv/步步驚心.png" group-title="歐飛頻道(可快進)",步步驚心
-
-http://106.107.177.223:50007/ofiii113/index.m3u8
-
-#EXTINF:-1 tvg-name="九重紫" tvg-logo="https://live.fanmingming.cn/tv/九重紫.png" group-title="歐飛頻道(可快進)",九重紫
-
-http://106.107.177.223:50007/ofiii114/index.m3u8
-
-#EXTINF:-1 tvg-name="私藏浪漫" tvg-logo="https://live.fanmingming.cn/tv/私藏浪漫.png" group-title="歐飛頻道(可快進)",私藏浪漫
-
-http://106.107.177.223:50007/ofiii115/index.m3u8
-
-#EXTINF:-1 tvg-name="去有風的地方" tvg-logo="https://live.fanmingming.cn/tv/去有風的地方.png" group-title="歐飛頻道(可快進)",去有風的地方
-
-http://106.107.177.223:50007/ofiii116/index.m3u8
-
-#EXTINF:-1 tvg-name="以愛為營" tvg-logo="https://live.fanmingming.cn/tv/以愛為營.png" group-title="歐飛頻道(可快進)",以愛為營
-
-http://106.107.177.223:50007/ofiii117/index.m3u8
-
-#EXTINF:-1 tvg-name="向風而行" tvg-logo="https://live.fanmingming.cn/tv/向風而行.png" group-title="歐飛頻道(可快進)",向風而行
-
-http://106.107.177.223:50007/ofiii118/index.m3u8
-
-#EXTINF:-1 tvg-name="以家人之名" tvg-logo="https://live.fanmingming.cn/tv/以家人之名.png" group-title="歐飛頻道(可快進)",以家人之名
-
-http://106.107.177.223:50007/ofiii119/index.m3u8
-
-#EXTINF:-1 tvg-name="獵狐" tvg-logo="https://live.fanmingming.cn/tv/獵狐.png" group-title="歐飛頻道(可快進)",獵狐
-
-http://106.107.177.223:50007/ofiii120/index.m3u8
-
-#EXTINF:-1 tvg-name="好運家" tvg-logo="https://live.fanmingming.cn/tv/好運家.png" group-title="歐飛頻道(可快進)",好運家
-
-http://106.107.177.223:50007/ofiii121/index.m3u8
-
-#EXTINF:-1 tvg-name="請叫我總監" tvg-logo="https://live.fanmingming.cn/tv/請叫我總監.png" group-title="歐飛頻道(可快進)",請叫我總監
-
-http://106.107.177.223:50007/ofiii122/index.m3u8
-
-#EXTINF:-1 tvg-name="司藤" tvg-logo="https://live.fanmingming.cn/tv/司藤.png" group-title="歐飛頻道(可快進)",司藤
-
-http://106.107.177.223:50007/ofiii123/index.m3u8
-
-#EXTINF:-1 tvg-name="他們的奇妙時光" tvg-logo="https://live.fanmingming.cn/tv/他們的奇妙時光.png" group-title="歐飛頻道(可快進)",他們的奇妙時光
-
-http://106.107.177.223:50007/ofiii124/index.m3u8
-
-#EXTINF:-1 tvg-name="豬哥壹級棒" tvg-logo="https://live.fanmingming.cn/tv/豬哥壹級棒.png" group-title="歐飛頻道(可快進)",豬哥壹級棒
-
-http://106.107.177.223:50007/ofiii126/index.m3u8
-
-#EXTINF:-1 tvg-name="醫師好辣" tvg-logo="https://live.fanmingming.cn/tv/醫師好辣.png" group-title="歐飛頻道(可快進)",醫師好辣
-
-http://106.107.177.223:50007/ofiii128/index.m3u8
-
-#EXTINF:-1 tvg-name="WTO姐妹會" tvg-logo="https://live.fanmingming.cn/tv/WTO姐妹會.png" group-title="歐飛頻道(可快進)",WTO姐妹會
-
-http://106.107.177.223:50007/ofiii129/index.m3u8
-
-#EXTINF:-1 tvg-name="綜藝玩很大" tvg-logo="https://live.fanmingming.cn/tv/綜藝玩很大.png" group-title="歐飛頻道(可快進)",綜藝玩很大
-
-http://106.107.177.223:50007/ofiii130/index.m3u8
-
-#EXTINF:-1 tvg-name="全民星攻略" tvg-logo="https://live.fanmingming.cn/tv/全民星攻略.png" group-title="歐飛頻道(可快進)",全民星攻略
-
-http://106.107.177.223:50007/ofiii131/index.m3u8
-
-#EXTINF:-1 tvg-name="健康2.0" tvg-logo="https://live.fanmingming.cn/tv/健康2.0.png" group-title="歐飛頻道(可快進)",健康2.0
-
-http://106.107.177.223:50007/ofiii132/index.m3u8
-
-#EXTINF:-1 tvg-name="台灣啟示錄" tvg-logo="https://live.fanmingming.cn/tv/台灣啟示錄.png" group-title="歐飛頻道(可快進)",台灣啟示錄
-
-http://106.107.177.223:50007/ofiii133/index.m3u8
-
-#EXTINF:-1 tvg-name="法眼黑與白" tvg-logo="https://live.fanmingming.cn/tv/法眼黑與白.png" group-title="歐飛頻道(可快進)",法眼黑與白
-
-http://106.107.177.223:50007/ofiii134/index.m3u8
-
-#EXTINF:-1 tvg-name="天才衝衝衝" tvg-logo="https://live.fanmingming.cn/tv/天才衝衝衝.png" group-title="歐飛頻道(可快進)",天才衝衝衝
-
-http://106.107.177.223:50007/ofiii135/index.m3u8
-
-#EXTINF:-1 tvg-name="一步一腳印 發現新台灣" tvg-logo="https://live.fanmingming.cn/tv/一步一腳印 發現新台灣.png" group-title="歐飛頻道(可快進)",一步一腳印 發現新台灣
-
-http://106.107.177.223:50007/ofiii136/index.m3u8
-
-#EXTINF:-1 tvg-name="女人我最大" tvg-logo="https://live.fanmingming.cn/tv/女人我最大.png" group-title="歐飛頻道(可快進)",女人我最大
-
-http://106.107.177.223:50007/ofiii137/index.m3u8
-
-#EXTINF:-1 tvg-name="看板人物" tvg-logo="https://live.fanmingming.cn/tv/看板人物.png" group-title="歐飛頻道(可快進)",看板人物
-
-http://106.107.177.223:50007/ofiii138/index.m3u8
-
-#EXTINF:-1 tvg-name="威廉沈歡樂送" tvg-logo="https://live.fanmingming.cn/tv/威廉沈歡樂送.png" group-title="歐飛頻道(可快進)",威廉沈歡樂送
-
-http://106.107.177.223:50007/ofiii139/index.m3u8
-
-#EXTINF:-1 tvg-name="一字千金" tvg-logo="https://live.fanmingming.cn/tv/一字千金.png" group-title="歐飛頻道(可快進)",一字千金
-
-http://106.107.177.223:50007/ofiii142/index.m3u8
-
-#EXTINF:-1 tvg-name="11點熱吵店" tvg-logo="https://live.fanmingming.cn/tv/11點熱吵店.png" group-title="歐飛頻道(可快進)",11點熱吵店
-
-http://106.107.177.223:50007/ofiii143/index.m3u8
-
-#EXTINF:-1 tvg-name="白雪公主非死不可" tvg-logo="https://live.fanmingming.cn/tv/白雪公主非死不可.png" group-title="歐飛頻道(可快進)",白雪公主非死不可
-
-http://106.107.177.223:50007/ofiii146/index.m3u8
-
-#EXTINF:-1 tvg-name="好搭檔" tvg-logo="https://live.fanmingming.cn/tv/好搭檔.png" group-title="歐飛頻道(可快進)",好搭檔
-
-http://106.107.177.223:50007/ofiii147/index.m3u8
-
-#EXTINF:-1 tvg-name="頭腦共助" tvg-logo="https://live.fanmingming.cn/tv/頭腦共助.png" group-title="歐飛頻道(可快進)",頭腦共助
-
-http://106.107.177.223:50007/ofiii148/index.m3u8
-
-#EXTINF:-1 tvg-name="凌晨兩點的灰姑娘" tvg-logo="https://live.fanmingming.cn/tv/凌晨兩點的灰姑娘.png" group-title="歐飛頻道(可快進)",凌晨兩點的灰姑娘
-
-http://106.107.177.223:50007/ofiii149/index.m3u8
-
-#EXTINF:-1 tvg-name="台灣靈異事件" tvg-logo="https://live.fanmingming.cn/tv/台灣靈異事件.png" group-title="歐飛頻道(可快進)",台灣靈異事件
-
-http://106.107.177.223:50007/ofiii150/index.m3u8
-
-#EXTINF:-1 tvg-name="包青天 1993版" tvg-logo="https://live.fanmingming.cn/tv/包青天 1993版.png" group-title="歐飛頻道(可快進)",包青天 1993版
-
-http://106.107.177.223:50007/ofiii151/index.m3u8
-
-#EXTINF:-1 tvg-name="我的婆婆怎麼那麼可愛" tvg-logo="https://live.fanmingming.cn/tv/我的婆婆怎麼那麼可愛.png" group-title="歐飛頻道(可快進)",我的婆婆怎麼那麼可愛
-
-http://106.107.177.223:50007/ofiii152/index.m3u8
-
-#EXTINF:-1 tvg-name="村裡來了個暴走女外科" tvg-logo="https://live.fanmingming.cn/tv/村裡來了個暴走女外科.png" group-title="歐飛頻道(可快進)",村裡來了個暴走女外科
-
-http://106.107.177.223:50007/ofiii153/index.m3u8
-
-#EXTINF:-1 tvg-name="一把青" tvg-logo="https://live.fanmingming.cn/tv/一把青.png" group-title="歐飛頻道(可快進)",一把青
-
-http://106.107.177.223:50007/ofiii154/index.m3u8
-
-#EXTINF:-1 tvg-name="茶金" tvg-logo="https://live.fanmingming.cn/tv/茶金.png" group-title="歐飛頻道(可快進)",茶金
-
-http://106.107.177.223:50007/ofiii155/index.m3u8
-
-#EXTINF:-1 tvg-name="苦力" tvg-logo="https://live.fanmingming.cn/tv/苦力.png" group-title="歐飛頻道(可快進)",苦力
-
-http://106.107.177.223:50007/ofiii156/index.m3u8
-
-#EXTINF:-1 tvg-name="俗女養成記" tvg-logo="https://live.fanmingming.cn/tv/俗女養成記.png" group-title="歐飛頻道(可快進)",俗女養成記
-
-http://106.107.177.223:50007/ofiii157/index.m3u8
-
-#EXTINF:-1 tvg-name="麻醉風暴" tvg-logo="https://live.fanmingming.cn/tv/麻醉風暴.png" group-title="歐飛頻道(可快進)",麻醉風暴
-
-http://106.107.177.223:50007/ofiii158/index.m3u8
-
-#EXTINF:-1 tvg-name="雖然等級只有1級但固有技能是最強的" tvg-logo="https://live.fanmingming.cn/tv/雖然等級只有1級但固有技能是最強的.png" group-title="歐飛頻道(可快進)",雖然等級只有1級但固有技能是最強的
-
-http://106.107.177.223:50007/ofiii159/index.m3u8
-
-#EXTINF:-1 tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://live.fanmingming.cn/tv/擁有超常技能的異世界流浪美食家.png" group-title="歐飛頻道(可快進)",擁有超常技能的異世界流浪美食家
-
-http://106.107.177.223:50007/ofiii160/index.m3u8
-
-#EXTINF:-1 tvg-name="WIND BREAKER—防風少年—" tvg-logo="https://live.fanmingming.cn/tv/WIND BREAKER—防風少年—.png" group-title="歐飛頻道(可快進)",WIND BREAKER—防風少年—
-
-http://106.107.177.223:50007/ofiii161/index.m3u8
-
-#EXTINF:-1 tvg-name="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-logo="https://live.fanmingming.cn/tv/在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～.png" group-title="歐飛頻道(可快進)",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
-
-http://106.107.177.223:50007/ofiii162/index.m3u8
-
-#EXTINF:-1 tvg-name="第一神拳" tvg-logo="https://live.fanmingming.cn/tv/第一神拳.png" group-title="歐飛頻道(可快進)",第一神拳
-
-http://106.107.177.223:50007/ofiii163/index.m3u8
-
-#EXTINF:-1 tvg-name="刀劍神域(中文版)" tvg-logo="https://live.fanmingming.cn/tv/刀劍神域(中文版).png" group-title="歐飛頻道(可快進)",刀劍神域(中文版)
-
-http://106.107.177.223:50007/ofiii164/index.m3u8
-
-#EXTINF:-1 tvg-name="蠟筆小新(中文版)" tvg-logo="https://live.fanmingming.cn/tv/蠟筆小新(中文版).png" group-title="歐飛頻道(可快進)",蠟筆小新(中文版)
-
-http://106.107.177.223:50007/ofiii165/index.m3u8
-
-#EXTINF:-1 tvg-name="我們這一家" tvg-logo="https://live.fanmingming.cn/tv/我們這一家.png" group-title="歐飛頻道(可快進)",我們這一家
-
-http://106.107.177.223:50007/ofiii166/index.m3u8
-
-#EXTINF:-1 tvg-name="獵人(中文版)" tvg-logo="https://live.fanmingming.cn/tv/獵人(中文版).png" group-title="歐飛頻道(可快進)",獵人(中文版)
-
-http://106.107.177.223:50007/ofiii167/index.m3u8
-
-#EXTINF:-1 tvg-name="中華一番(中文版)" tvg-logo="https://live.fanmingming.cn/tv/中華一番(中文版).png" group-title="歐飛頻道(可快進)",中華一番(中文版)
-
-http://106.107.177.223:50007/ofiii168/index.m3u8
-
-#EXTINF:-1 tvg-name="隊長小翼(中文版)" tvg-logo="https://live.fanmingming.cn/tv/隊長小翼(中文版).png" group-title="歐飛頻道(可快進)",隊長小翼(中文版)
-
-http://106.107.177.223:50007/ofiii169/index.m3u8
-
-#EXTINF:-1 tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://live.fanmingming.cn/tv/SPY X FAMILY 間諜家家酒.png" group-title="歐飛頻道(可快進)",SPY X FAMILY 間諜家家酒
-
-http://106.107.177.223:50007/ofiii170/index.m3u8
-
-#EXTINF:-1 tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://live.fanmingming.cn/tv/SPY X FAMILY 間諜家家酒(中文版).png" group-title="歐飛頻道(可快進)",SPY X FAMILY 間諜家家酒(中文版)
-
-http://106.107.177.223:50007/ofiii171/index.m3u8
-
-#EXTINF:-1 tvg-name="無職轉生，到了異世界就拿出真本事" tvg-logo="https://live.fanmingming.cn/tv/無職轉生，到了異世界就拿出真本事.png" group-title="歐飛頻道(可快進)",無職轉生，到了異世界就拿出真本事
-
-http://106.107.177.223:50007/ofiii172/index.m3u8
-
-#EXTINF:-1 tvg-name="關於我轉生變成史萊姆這檔事(國)" tvg-logo="https://live.fanmingming.cn/tv/關於我轉生變成史萊姆這檔事(國).png" group-title="歐飛頻道(可快進)",關於我轉生變成史萊姆這檔事(國)
-
-http://106.107.177.223:50007/ofiii173/index.m3u8
-
-#EXTINF:-1 tvg-name="夏目友人帳" tvg-logo="https://live.fanmingming.cn/tv/夏目友人帳.png" group-title="歐飛頻道(可快進)",夏目友人帳
-
-http://106.107.177.223:50007/ofiii174/index.m3u8
-
-#EXTINF:-1 tvg-name="家庭教師HITMAN REBORN!(中文版)" tvg-logo="https://live.fanmingming.cn/tv/家庭教師HITMAN REBORN!(中文版).png" group-title="歐飛頻道(可快進)",家庭教師HITMAN REBORN!(中文版)
-
-http://106.107.177.223:50007/ofiii175/index.m3u8
-
-#EXTINF:-1 tvg-name="烘焙王(中文版)" tvg-logo="https://live.fanmingming.cn/tv/烘焙王(中文版).png" group-title="歐飛頻道(可快進)",烘焙王(中文版)
-
-http://106.107.177.223:50007/ofiii176/index.m3u8
-
-#EXTINF:-1 tvg-name="鋼之鍊金術師" tvg-logo="https://live.fanmingming.cn/tv/鋼之鍊金術師.png" group-title="歐飛頻道(可快進)",鋼之鍊金術師
-
-http://106.107.177.223:50007/ofiii177/index.m3u8
-
-#EXTINF:-1 tvg-name="JOJO 的奇妙冒險" tvg-logo="https://live.fanmingming.cn/tv/JOJO 的奇妙冒險.png" group-title="歐飛頻道(可快進)",JOJO 的奇妙冒險
-
-http://106.107.177.223:50007/ofiii178/index.m3u8
-
-#EXTINF:-1 tvg-name="葬送的芙莉蓮" tvg-logo="https://live.fanmingming.cn/tv/葬送的芙莉蓮.png" group-title="歐飛頻道(可快進)",葬送的芙莉蓮
-
-http://106.107.177.223:50007/ofiii179/index.m3u8
-
-#EXTINF:-1 tvg-name="史上最強弟子兼一(中文版)" tvg-logo="https://live.fanmingming.cn/tv/史上最強弟子兼一(中文版).png" group-title="歐飛頻道(可快進)",史上最強弟子兼一(中文版)
-
-http://106.107.177.223:50007/ofiii180/index.m3u8
-
-#EXTINF:-1 tvg-name="爆漫王(中文版)" tvg-logo="https://live.fanmingming.cn/tv/爆漫王(中文版).png" group-title="歐飛頻道(可快進)",爆漫王(中文版)
-
-http://106.107.177.223:50007/ofiii181/index.m3u8
-
-#EXTINF:-1 tvg-name="忍者亂太郎(中文版)" tvg-logo="https://live.fanmingming.cn/tv/忍者亂太郎(中文版).png" group-title="歐飛頻道(可快進)",忍者亂太郎(中文版)
-
-http://106.107.177.223:50007/ofiii182/index.m3u8
-
-#EXTINF:-1 tvg-name="膽大黨" tvg-logo="https://live.fanmingming.cn/tv/膽大黨.png" group-title="歐飛頻道(可快進)",膽大黨
-
-http://106.107.177.223:50007/ofiii183/index.m3u8
-
-#EXTINF:-1 tvg-name="新忍者哈特利" tvg-logo="https://live.fanmingming.cn/tv/新忍者哈特利.png" group-title="歐飛頻道(可快進)",新忍者哈特利
-
-http://106.107.177.223:50007/ofiii184/index.m3u8
-
-#EXTINF:-1 tvg-name="生命的贏家" tvg-logo="https://live.fanmingming.cn/tv/生命的贏家.png" group-title="歐飛頻道(可快進)",生命的贏家
-
-http://106.107.177.223:50007/ofiii192/index.m3u8
-
-#EXTINF:-1 tvg-name="海派甜心" tvg-logo="https://live.fanmingming.cn/tv/海派甜心.png" group-title="歐飛頻道(可快進)",海派甜心
-
-http://106.107.177.223:50007/ofiii195/index.m3u8
-
-#EXTINF:-1 tvg-name="不良笑花" tvg-logo="https://live.fanmingming.cn/tv/不良笑花.png" group-title="歐飛頻道(可快進)",不良笑花
-
-http://106.107.177.223:50007/ofiii196/index.m3u8
-
-#EXTINF:-1 tvg-name="戰神" tvg-logo="https://live.fanmingming.cn/tv/戰神.png" group-title="歐飛頻道(可快進)",戰神
-
-http://106.107.177.223:50007/ofiii197/index.m3u8
-
-#EXTINF:-1 tvg-name="大新聞大爆卦" tvg-logo="https://live.fanmingming.cn/tv/大新聞大爆卦.png" group-title="歐飛頻道(可快進)",大新聞大爆卦
-
-http://106.107.177.223:50007/ofiii201/index.m3u8
-
-#EXTINF:-1 tvg-name="新聞大白話" tvg-logo="https://live.fanmingming.cn/tv/新聞大白話.png" group-title="歐飛頻道(可快進)",新聞大白話
-
-http://106.107.177.223:50007/ofiii202/index.m3u8
-
-#EXTINF:-1 tvg-name="文茜的世界周報" tvg-logo="https://live.fanmingming.cn/tv/文茜的世界周報.png" group-title="歐飛頻道(可快進)",文茜的世界周報
-
-http://106.107.177.223:50007/ofiii203/index.m3u8
-
-#EXTINF:-1 tvg-name="寰宇全視界" tvg-logo="https://live.fanmingming.cn/tv/寰宇全視界.png" group-title="歐飛頻道(可快進)",寰宇全視界
-
-http://106.107.177.223:50007/ofiii204/index.m3u8
-
-#EXTINF:-1 tvg-name="文茜的世界財經周報" tvg-logo="https://live.fanmingming.cn/tv/文茜的世界財經周報.png" group-title="歐飛頻道(可快進)",文茜的世界財經周報
-
-http://106.107.177.223:50007/ofiii205/index.m3u8
-
-#EXTINF:-1 tvg-name="環球大戰線" tvg-logo="https://live.fanmingming.cn/tv/環球大戰線.png" group-title="歐飛頻道(可快進)",環球大戰線
-
-http://106.107.177.223:50007/ofiii206/index.m3u8
-
-#EXTINF:-1 tvg-name="少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/少康戰情室.png" group-title="歐飛頻道(可快進)",少康戰情室
-
-http://106.107.177.223:50007/ofiii207/index.m3u8
-
-#EXTINF:-1 tvg-name="國民大會" tvg-logo="https://live.fanmingming.cn/tv/國民大會.png" group-title="歐飛頻道(可快進)",國民大會
-
-http://106.107.177.223:50007/ofiii208/index.m3u8
-
-#EXTINF:-1 tvg-name="電動車時代" tvg-logo="https://live.fanmingming.cn/tv/電動車時代.png" group-title="歐飛頻道(可快進)",電動車時代
-
-http://106.107.177.223:50007/ofiii215/index.m3u8
-
-#EXTINF:-1 tvg-name="SiCAR愛車酷" tvg-logo="https://live.fanmingming.cn/tv/SiCAR愛車酷.png" group-title="歐飛頻道(可快進)",SiCAR愛車酷
-
-http://106.107.177.223:50007/ofiii216/index.m3u8
-
-#EXTINF:-1 tvg-name="狂人日誌" tvg-logo="https://live.fanmingming.cn/tv/狂人日誌.png" group-title="歐飛頻道(可快進)",狂人日誌
-
-http://106.107.177.223:50007/ofiii217/index.m3u8
-
-#EXTINF:-1 tvg-name="脖子解說 Mr. Neck" tvg-logo="https://live.fanmingming.cn/tv/脖子解說 Mr. Neck.png" group-title="歐飛頻道(可快進)",脖子解說 Mr. Neck
-
-http://106.107.177.223:50007/ofiii218/index.m3u8
-
-#EXTINF:-1 tvg-name="食尚玩家-Hello腹餓代" tvg-logo="https://live.fanmingming.cn/tv/食尚玩家-Hello腹餓代.png" group-title="歐飛頻道(可快進)",食尚玩家-Hello腹餓代
-
-http://106.107.177.223:50007/ofiii225/index.m3u8
-
-#EXTINF:-1 tvg-name="食尚玩家-天菜就醬吃" tvg-logo="https://live.fanmingming.cn/tv/食尚玩家-天菜就醬吃.png" group-title="歐飛頻道(可快進)",食尚玩家-天菜就醬吃
-
-http://106.107.177.223:50007/ofiii226/index.m3u8
-
-#EXTINF:-1 tvg-name="食尚玩家-2天1夜go" tvg-logo="https://live.fanmingming.cn/tv/食尚玩家-2天1夜go.png" group-title="歐飛頻道(可快進)",食尚玩家-2天1夜go
-
-http://106.107.177.223:50007/ofiii227/index.m3u8
-
-#EXTINF:-1 tvg-name="食尚玩家-熱血48小時" tvg-logo="https://live.fanmingming.cn/tv/食尚玩家-熱血48小時.png" group-title="歐飛頻道(可快進)",食尚玩家-熱血48小時
-
-http://106.107.177.223:50007/ofiii228/index.m3u8
-
-#EXTINF:-1 tvg-name="食尚玩家-魚肉鄉民" tvg-logo="https://live.fanmingming.cn/tv/食尚玩家-魚肉鄉民.png" group-title="歐飛頻道(可快進)",食尚玩家-魚肉鄉民
-
-http://106.107.177.223:50007/ofiii229/index.m3u8
-
-#EXTINF:-1 tvg-name="食尚玩家-瘋狂總部" tvg-logo="https://live.fanmingming.cn/tv/食尚玩家-瘋狂總部.png" group-title="歐飛頻道(可快進)",食尚玩家-瘋狂總部
-
-http://106.107.177.223:50007/ofiii230/index.m3u8
-
-#EXTINF:-1 tvg-name="非凡大探索" tvg-logo="https://live.fanmingming.cn/tv/非凡大探索.png" group-title="歐飛頻道(可快進)",非凡大探索
-
-http://106.107.177.223:50007/ofiii234/index.m3u8
-
-#EXTINF:-1 tvg-name="台灣1001個故事" tvg-logo="https://live.fanmingming.cn/tv/台灣1001個故事.png" group-title="歐飛頻道(可快進)",台灣1001個故事
-
-http://106.107.177.223:50007/ofiii235/index.m3u8
-
-#EXTINF:-1 tvg-name="詹姆士出走料理" tvg-logo="https://live.fanmingming.cn/tv/詹姆士出走料理.png" group-title="歐飛頻道(可快進)",詹姆士出走料理
-
-http://106.107.177.223:50007/ofiii236/index.m3u8
-
-#EXTINF:-1 tvg-name="進擊的台灣" tvg-logo="https://live.fanmingming.cn/tv/進擊的台灣.png" group-title="歐飛頻道(可快進)",進擊的台灣
-
-http://106.107.177.223:50007/ofiii237/index.m3u8
-
-#EXTINF:-1 tvg-name="世界第一等" tvg-logo="https://live.fanmingming.cn/tv/世界第一等.png" group-title="歐飛頻道(可快進)",世界第一等
-
-http://106.107.177.223:50007/ofiii238/index.m3u8
-
-#EXTINF:-1 tvg-name="台灣第一等" tvg-logo="https://live.fanmingming.cn/tv/台灣第一等.png" group-title="歐飛頻道(可快進)",台灣第一等
-
-http://106.107.177.223:50007/ofiii239/index.m3u8
-
-#EXTINF:-1 tvg-name="溢遊未盡" tvg-logo="https://live.fanmingming.cn/tv/溢遊未盡.png" group-title="歐飛頻道(可快進)",溢遊未盡
-
-http://106.107.177.223:50007/ofiii240/index.m3u8
-
-#EXTINF:-1 tvg-name="台灣真善美" tvg-logo="https://live.fanmingming.cn/tv/台灣真善美.png" group-title="歐飛頻道(可快進)",台灣真善美
-
-http://106.107.177.223:50007/ofiii241/index.m3u8
-
-#EXTINF:-1 tvg-name="請問今晚住誰家" tvg-logo="https://live.fanmingming.cn/tv/請問今晚住誰家.png" group-title="歐飛頻道(可快進)",請問今晚住誰家
-
-http://106.107.177.223:50007/ofiii242/index.m3u8
-
-#EXTINF:-1 tvg-name="紓壓雷雨聲" tvg-logo="https://live.fanmingming.cn/tv/紓壓雷雨聲.png" group-title="歐飛頻道(可快進)",紓壓雷雨聲
-
-http://106.107.177.223:50007/ofiii250/index.m3u8
-
-#EXTINF:-1 tvg-name="療癒下雨聲" tvg-logo="https://live.fanmingming.cn/tv/療癒下雨聲.png" group-title="歐飛頻道(可快進)",療癒下雨聲
-
-http://106.107.177.223:50007/ofiii251/index.m3u8
-
-#EXTINF:-1 tvg-name="放鬆的爵士午後" tvg-logo="https://live.fanmingming.cn/tv/放鬆的爵士午後.png" group-title="歐飛頻道(可快進)",放鬆的爵士午後
-
-http://106.107.177.223:50007/ofiii252/index.m3u8
-
-#EXTINF:-1 tvg-name="野外燒柴火聲" tvg-logo="https://live.fanmingming.cn/tv/野外燒柴火聲.png" group-title="歐飛頻道(可快進)",野外燒柴火聲
-
-http://106.107.177.223:50007/ofiii253/index.m3u8
-
-#EXTINF:-1 tvg-name="夏日陽光海浪聲" tvg-logo="https://live.fanmingming.cn/tv/夏日陽光海浪聲.png" group-title="歐飛頻道(可快進)",夏日陽光海浪聲
-
-http://106.107.177.223:50007/ofiii254/index.m3u8
 
 #EXTINF:-1 group-title="香港HK(167)",TVB翡翠台
 
