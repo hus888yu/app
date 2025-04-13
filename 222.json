@@ -1,17 +1,18 @@
  {
   "urls": [
     {
+      "name": "🐸彥",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/1.json"
+    },    
+    {
+      "name": "🐸盒子之家",
+      "url": "http://666.iptv543.com:8080/1.json"
+    },  
+    {
       "name": "🐸彥3",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/3.json"
     },  
-    {
-      "name": "🐸盒子之家",
-      "url": "http://666.iptv543.com:8080/543.json"
-    },
-    {
-      "name": "🐼xa",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/xa.json" 
-    },
+
     {
       "name": "🐸饭太硬",
       "url": "http://www.饭太硬.com/tv/"
@@ -38,4 +39,4 @@
     {
       "name": "🐸白蝦",
       "url": "https://d.kstore.dev/download/12020/jk.bmp"}]}
-   
+  
