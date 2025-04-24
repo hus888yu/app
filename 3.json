@@ -276,12 +276,6 @@
       "ext": {}
     },
     {
-      "name": "LITV直播(python)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {}
-    },
-    {
       "name": "Yogurt有大人",
       "type": 1,
       "url": "http://666.iptv543.com:8080/YogurtTv.txt",
