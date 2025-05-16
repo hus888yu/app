@@ -71,14 +71,7 @@
       "timeout": 20,
       "playerType": 1
     },
-{
-      "name": "Live",
-      "type": 0,
-      "url": "http://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "playerType": 1
-    },
+
 {
       "name": "MyTV",
       "type": 0,
@@ -114,12 +107,7 @@
       "api": "http://framagit.org/knnnn/n/-/raw/main/j/yoozb.py",
       "ext": {}
     },
-{
-      "name": "360pai",
-      "type": 3,
-      "api": "http://framagit.org/knnnn/n/-/raw/main/j/360pai.py",
-      "ext": {}
-    },
+
 {
       "name": "松园",
       "type": 0,
