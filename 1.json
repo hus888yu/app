@@ -141,14 +141,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-{
-      "name": "电视家",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/电视家.txt",
-      "pass": false,
-      "boot": false,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },    
+
     {
       "name": "小云全球直播",
       "url": "https://tang.hz.cz/so/xiaoyun.m3u",
