@@ -151,6 +151,12 @@
       "playerType": 2
    },
     {
+      "name": "345",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
       "name": "午夜频道",
      "url": "https://raw.githubusercontent.com/hus888yu/app/main/午夜频道.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
