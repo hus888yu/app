@@ -142,7 +142,14 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
+  { 
+      "name": "松园",
+      "type": 0,
+      "url": "http://files.catbox.moe/ohoob2.txt",
+      "ua": "Lavf/58.12.100",
+      "timeout": 20,
+      "playerType": 2
+   },
     {
       "name": "午夜频道",
 
@@ -151,15 +158,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-   { 
-      "name": "松园",
-      "type": 0,
-      "url": "http://files.catbox.moe/ohoob2.txt",
-      "ua": "Lavf/58.12.100",
-      "timeout": 20,
-      "playerType": 2
-
-   },
+  
         {
       "name": "斯玛特全球直播",
       "type": 3,
