@@ -152,10 +152,13 @@
     },
 
    { 
-     "name": "LITV直播(python)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {}
+      "name": "松园",
+      "type": 0,
+      "url": "http://files.catbox.moe/ohoob2.txt",
+      "ua": "Lavf/58.12.100",
+      "timeout": 20,
+      "playerType": 2
+
    },
         {
       "name": "斯玛特全球直播",
