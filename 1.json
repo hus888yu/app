@@ -135,7 +135,7 @@
   "lives": [
     {
       "name": "543",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
+      "url": "http://tv543.cc/4gtv.m3u",
       "pass": false,
       "boot": false,
       "playerType": 2,
@@ -143,13 +143,24 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "秘密花园",
-
-     "url": "http://dimm.in/down.php/9a4f8de640b6c4c26eb5dcc6134644d3.jpg",
+      "name": "142",
+      "url": "http://tv543.cc/142.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-        {
+    {
+      "name": "169",
+      "url": "http://tv543.cc/169.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播有大人台",
+      "spider": "./mi/custom_spider.jar",
+      "api": "csp_MQiTV",
+      "ext": "https://59.125.210.231:4433"
+    },
+    {
       "name": "斯玛特全球直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
