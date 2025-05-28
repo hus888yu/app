@@ -162,12 +162,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-   {
-  "name": "快直播(python)",
-  "type": 3,
-  "api": "https://json.doube.eu.org/python/live_kzb.py",
-  "ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"
- },
+  
    {
       "name": "斯玛特全球直播",
       "type": 3,
