@@ -1836,10 +1836,9 @@
             "url": "http://files.catbox.moe/2r4ru2.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-                }
+                        }
             ]
         }
-    ],
   "parses": [
    {"name": "聚合", "type": 3,"url": "Demo" },
   {"name":"Json并发","type":2,"url":"Parallel"},
