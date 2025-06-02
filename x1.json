@@ -878,6 +878,26 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+ {
+    "name": "🌍欧洲",
+    "url": "http://iptv11.com/5F909214E4DF0.m3u",
+    "ua": "zhanglaoniubi"
+},
+{
+    "name": "🌍欧洲②",
+    "url": "http://satq.tv/iptv/5F909214E4DF0.m3u",
+    "ua": "zhanglaoniubi"
+},
+{
+    "name": "🌍欧洲③",
+    "url": "http://pl.itvago.com/5F909214E4DF0.m3u",
+    "ua": "zhanglaoniubi"
+},
+{
+    "name": "🌍欧洲④",
+    "url": "http://ua.iptv11.com/5F909214E4DF0.m3u",
+    "ua": "zhanglaoniubi"
+},   
     {
       "name": "XA",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
