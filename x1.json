@@ -959,40 +959,7 @@
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-     {
-      "name": "LITV直播(python)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {}
-    },
-    { 
-      "name": "松园",
-      "type": 0,
-      "url": "http://files.catbox.moe/ohoob2.txt",
-      "ua": "Lavf/58.12.100",
-      "timeout": 20,
-      "playerType": 2
-   },
-    {
-      "name": "345",
-     "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
-    {
-      "name": "午夜频道",
-     "url": "https://raw.githubusercontent.com/hus888yu/app/main/午夜频道.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-            "name": "18+日本",
-            "type": 0,
-            "url": "http://files.catbox.moe/2r4ru2.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },   
     {
       "name": "XA9",
       "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp9.txt",
