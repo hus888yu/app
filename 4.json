@@ -156,7 +156,7 @@
     },
    {
       "name": "直播有大人台",
-      "spider": "./mi/custom_spider.jar",
+      "spider": "./custom_spider.jar",
       "api": "csp_MQiTV",
       "ext": "https://59.125.210.231:4433"
     },
