@@ -154,13 +154,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-   {
-      "name": "直播有大人台",
-      "spider": "./custom_spider.jar",
-      "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433"
-    },
-   
     {
       "name": "斯玛特全球直播",
       "type": 3,
