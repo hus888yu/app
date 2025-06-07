@@ -132,26 +132,13 @@
       "changeable": 0
     }
   ],
-  "lives": [
+ "lives": [
     {
       "name": "543",
-      "url": "http://tv543.cc/4gtv.m3u",
+      "url":"https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
       "pass": false,
       "boot": false,
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    
-    {
-      "name": "142",
-      "url": "http://tv543.cc/142.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "169",
-      "url": "http://tv543.cc/169.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
