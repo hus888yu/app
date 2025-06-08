@@ -1,5 +1,475 @@
 #EXTM3U
 
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="台灣頻道" tvg-name="amc 電影台" tvg-logo="https://epg.112114.xyz/logo/amc 電影台.png" epg-url="https://epg.112114.xyz/pp.xml",amc 電影台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv017/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="amc 電影台" tvg-logo="https://epg.112114.xyz/logo/amc 電影台.png" epg-url="https://epg.112114.xyz/pp.xml",amc 電影台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv017/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Arirang TV" tvg-logo="https://epg.112114.xyz/logo/Arirang TV.png" epg-url="https://epg.112114.xyz/pp.xml",Arirang TV
+http://4gtv.livednow.dpdns.org/4gtv-4gtv079/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Arirang TV" tvg-logo="https://epg.112114.xyz/logo/Arirang TV.png" epg-url="https://epg.112114.xyz/pp.xml",Arirang TV
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="BLOOMBERG TV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERG TV.png" epg-url="https://epg.112114.xyz/pp.xml",BLOOMBERG TV
+http://4gtv.livednow.dpdns.org/4gtv-live059/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.112114.xyz/logo/CI 罪案偵查頻道.png" epg-url="https://epg.112114.xyz/pp.xml",CI 罪案偵查頻道
+http://4gtv.livednow.dpdns.org/4gtv-live027/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Cinema World" tvg-logo="https://epg.112114.xyz/logo/Cinema World.png" epg-url="https://epg.112114.xyz/pp.xml",Cinema World
+http://4gtv.livednow.dpdns.org/4gtv-live069/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="CLASSICA 古典樂" tvg-logo="https://epg.112114.xyz/logo/CLASSICA 古典樂.png" epg-url="https://epg.112114.xyz/pp.xml",CLASSICA 古典樂
+http://4gtv.livednow.dpdns.org/4gtv-4gtv059/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="CLASSICA 古典樂" tvg-logo="https://epg.112114.xyz/logo/CLASSICA 古典樂.png" epg-url="https://epg.112114.xyz/pp.xml",CLASSICA 古典樂
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="CNBC Asia 財經台" tvg-logo="https://epg.112114.xyz/logo/CNBC Asia 財經台.png" epg-url="https://epg.112114.xyz/pp.xml",CNBC Asia 財經台
+http://4gtv.livednow.dpdns.org/4gtv-live130/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="DreamWorks" tvg-logo="https://epg.112114.xyz/logo/DreamWorks.png" epg-url="https://epg.112114.xyz/pp.xml",DreamWorks
+http://4gtv.livednow.dpdns.org/4gtv-live017/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="DW德國之聲" tvg-logo="https://epg.112114.xyz/logo/DW德國之聲.png" epg-url="https://epg.112114.xyz/pp.xml",DW德國之聲
+http://4gtv.livednow.dpdns.org/4gtv-live071/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.112114.xyz/logo/ELTA生活旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",ELTA生活旅遊
+http://4gtv.livednow.dpdns.org/4gtv-live120/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ELTA娛樂" tvg-logo="https://epg.112114.xyz/logo/ELTA娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",ELTA娛樂
+http://4gtv.livednow.dpdns.org/4gtv-4gtv070/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ELTA娛樂" tvg-logo="https://epg.112114.xyz/logo/ELTA娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",ELTA娛樂
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv070/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ELTV生活英語台" tvg-logo="https://epg.112114.xyz/logo/ELTV生活英語台.png" epg-url="https://epg.112114.xyz/pp.xml",ELTV生活英語台
+http://4gtv.livednow.dpdns.org/li-litv-longturn20/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ELTV生活英語台" tvg-logo="https://epg.112114.xyz/logo/ELTV生活英語台.png" epg-url="https://epg.112114.xyz/pp.xml",ELTV生活英語台
+http://4gtv.livednow.dpdns.org/litv-longturn20/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ELTV生活英語台" tvg-logo="https://epg.112114.xyz/logo/ELTV生活英語台.png" epg-url="https://epg.112114.xyz/pp.xml",ELTV生活英語台
+http://4gtv.livednow.dpdns.org/of-litv-longturn20/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="FRANCE24 英文台" tvg-logo="https://epg.112114.xyz/logo/FRANCE24 英文台.png" epg-url="https://epg.112114.xyz/pp.xml",FRANCE24 英文台
+http://4gtv.livednow.dpdns.org/4gtv-live146/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="FUN 4K探索娛樂" tvg-logo="https://epg.112114.xyz/logo/FUN 4K探索娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",FUN 4K探索娛樂
+http://4gtv.livednow.dpdns.org/4gtv-live011/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="GINX Esports TV" tvg-logo="https://epg.112114.xyz/logo/GINX Esports TV.png" epg-url="https://epg.112114.xyz/pp.xml",GINX Esports TV
+http://4gtv.livednow.dpdns.org/4gtv-4gtv053/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="GINX Esports TV" tvg-logo="https://epg.112114.xyz/logo/GINX Esports TV.png" epg-url="https://epg.112114.xyz/pp.xml",GINX Esports TV
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv053/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Global Trekker" tvg-logo="https://epg.112114.xyz/logo/Global Trekker.png" epg-url="https://epg.112114.xyz/pp.xml",Global Trekker
+http://4gtv.livednow.dpdns.org/4gtv-live112/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" epg-url="https://epg.112114.xyz/pp.xml",HITS
+http://4gtv.livednow.dpdns.org/4gtv-live620/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="INULTRA" tvg-logo="https://epg.112114.xyz/logo/INULTRA.png" epg-url="https://epg.112114.xyz/pp.xml",INULTRA
+http://4gtv.livednow.dpdns.org/4gtv-live096/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Lifetime" tvg-logo="https://epg.112114.xyz/logo/Lifetime.png" epg-url="https://epg.112114.xyz/pp.xml",Lifetime
+http://4gtv.livednow.dpdns.org/4gtv-live029/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="LiveABC 互動英語台" tvg-logo="https://epg.112114.xyz/logo/LiveABC 互動英語台.png" epg-url="https://epg.112114.xyz/pp.xml",LiveABC 互動英語台
+http://4gtv.livednow.dpdns.org/4gtv-live030/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="LOVE NATURE" tvg-logo="https://epg.112114.xyz/logo/LOVE NATURE.png" epg-url="https://epg.112114.xyz/pp.xml",LOVE NATURE
+http://4gtv.livednow.dpdns.org/4gtv-live208/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="LUXE TV" tvg-logo="https://epg.112114.xyz/logo/LUXE TV.png" epg-url="https://epg.112114.xyz/pp.xml",LUXE TV
+http://4gtv.livednow.dpdns.org/4gtv-live121/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="MagellanTV頻道" tvg-logo="https://epg.112114.xyz/logo/MagellanTV頻道.png" epg-url="https://epg.112114.xyz/pp.xml",MagellanTV頻道
+http://4gtv.livednow.dpdns.org/4gtv-live123/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="MEZZO LIVE HD" tvg-logo="https://epg.112114.xyz/logo/MEZZO LIVE HD.png" epg-url="https://epg.112114.xyz/pp.xml",MEZZO LIVE HD
+http://4gtv.livednow.dpdns.org/4gtv-4gtv083/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="MEZZO LIVE HD" tvg-logo="https://epg.112114.xyz/logo/MEZZO LIVE HD.png" epg-url="https://epg.112114.xyz/pp.xml",MEZZO LIVE HD
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv083/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="MOMO親子" tvg-logo="https://epg.112114.xyz/logo/MOMO親子.png" epg-url="https://epg.112114.xyz/pp.xml",MOMO親子
+http://4gtv.livednow.dpdns.org/4gtv-live107/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="MTV Live" tvg-logo="https://epg.112114.xyz/logo/MTV Live.png" epg-url="https://epg.112114.xyz/pp.xml",MTV Live
+http://4gtv.livednow.dpdns.org/4gtv-live025/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Nick Jr." tvg-logo="https://epg.112114.xyz/logo/Nick Jr..png" epg-url="https://epg.112114.xyz/pp.xml",Nick Jr.
+http://4gtv.livednow.dpdns.org/4gtv-live032/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Nickelodeon" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon.png" epg-url="https://epg.112114.xyz/pp.xml",Nickelodeon
+http://4gtv.livednow.dpdns.org/4gtv-live105/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Pet Club TV" tvg-logo="https://epg.112114.xyz/logo/Pet Club TV.png" epg-url="https://epg.112114.xyz/pp.xml",Pet Club TV
+http://4gtv.livednow.dpdns.org/4gtv-live110/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ROCK Action" tvg-logo="https://epg.112114.xyz/logo/ROCK Action.png" epg-url="https://epg.112114.xyz/pp.xml",ROCK Action
+http://4gtv.livednow.dpdns.org/4gtv-live138/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="ROCK Entertainment" tvg-logo="https://epg.112114.xyz/logo/ROCK Entertainment.png" epg-url="https://epg.112114.xyz/pp.xml",ROCK Entertainment
+http://4gtv.livednow.dpdns.org/4gtv-live080/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="SBN 全球財經台" tvg-logo="https://epg.112114.xyz/logo/SBN 全球財經台.png" epg-url="https://epg.112114.xyz/pp.xml",SBN 全球財經台
+http://4gtv.livednow.dpdns.org/4gtv-live060/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Smart知識台" tvg-logo="https://epg.112114.xyz/logo/Smart知識台.png" epg-url="https://epg.112114.xyz/pp.xml",Smart知識台
+http://4gtv.livednow.dpdns.org/li-litv-longturn19/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Smart知識台" tvg-logo="https://epg.112114.xyz/logo/Smart知識台.png" epg-url="https://epg.112114.xyz/pp.xml",Smart知識台
+http://4gtv.livednow.dpdns.org/litv-longturn19/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TRACE Sport Stars" tvg-logo="https://epg.112114.xyz/logo/TRACE Sport Stars.png" epg-url="https://epg.112114.xyz/pp.xml",TRACE Sport Stars
+http://4gtv.livednow.dpdns.org/4gtv-4gtv077/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TRACE Sport Stars" tvg-logo="https://epg.112114.xyz/logo/TRACE Sport Stars.png" epg-url="https://epg.112114.xyz/pp.xml",TRACE Sport Stars
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv077/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Trace Urban" tvg-logo="https://epg.112114.xyz/logo/Trace Urban.png" epg-url="https://epg.112114.xyz/pp.xml",Trace Urban
+http://4gtv.livednow.dpdns.org/4gtv-4gtv082/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="Trace Urban" tvg-logo="https://epg.112114.xyz/logo/Trace Urban.png" epg-url="https://epg.112114.xyz/pp.xml",Trace Urban
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv082/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TV5MONDE Style" tvg-logo="https://epg.112114.xyz/logo/TV5MONDE Style.png" epg-url="https://epg.112114.xyz/pp.xml",TV5MONDE Style
+http://4gtv.livednow.dpdns.org/4gtv-live122/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS HD
+http://4gtv.livednow.dpdns.org/4gtv-4gtv073/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS HD
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS台劇台" tvg-logo="https://epg.112114.xyz/logo/TVBS台劇台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS台劇台
+http://4gtv.livednow.dpdns.org/4gtv-live088/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新聞台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS精采台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv067/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS精采台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS綜藝台" tvg-logo="https://epg.112114.xyz/logo/TVBS綜藝台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS綜藝台
+http://4gtv.livednow.dpdns.org/4gtv-live087/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS歡樂台" tvg-logo="https://epg.112114.xyz/logo/TVBS歡樂台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS歡樂台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv068/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="TVBS歡樂台" tvg-logo="https://epg.112114.xyz/logo/TVBS歡樂台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS歡樂台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="VOA 美國之音" tvg-logo="https://epg.112114.xyz/logo/VOA 美國之音.png" epg-url="https://epg.112114.xyz/pp.xml",VOA 美國之音
+http://4gtv.livednow.dpdns.org/li-litv-ftv03/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="VOA 美國之音" tvg-logo="https://epg.112114.xyz/logo/VOA 美國之音.png" epg-url="https://epg.112114.xyz/pp.xml",VOA 美國之音
+http://4gtv.livednow.dpdns.org/litv-ftv03/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+http://4gtv.livednow.dpdns.org/4gtv-live008/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="八大精彩" tvg-logo="https://epg.112114.xyz/logo/八大精彩.png" epg-url="https://epg.112114.xyz/pp.xml",八大精彩
+http://4gtv.livednow.dpdns.org/4gtv-4gtv034/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="八大精彩" tvg-logo="https://epg.112114.xyz/logo/八大精彩.png" epg-url="https://epg.112114.xyz/pp.xml",八大精彩
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv034/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="八大綜藝" tvg-logo="https://epg.112114.xyz/logo/八大綜藝.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜藝
+http://4gtv.livednow.dpdns.org/4gtv-4gtv039/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="八大綜藝" tvg-logo="https://epg.112114.xyz/logo/八大綜藝.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜藝
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv039/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立iNEWS.png" epg-url="https://epg.112114.xyz/pp.xml",三立iNEWS
+http://4gtv.livednow.dpdns.org/4gtv-live089/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立iNEWS.png" epg-url="https://epg.112114.xyz/pp.xml",三立iNEWS
+http://4gtv.livednow.dpdns.org/iNEWS/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="三立綜合合" tvg-logo="https://epg.112114.xyz/logo/三立綜合合.png" epg-url="https://epg.112114.xyz/pp.xml",三立綜合合
+http://4gtv.livednow.dpdns.org/4gtv-live207/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="大愛二台" tvg-logo="https://epg.112114.xyz/logo/大愛二台.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二台
+http://4gtv.livednow.dpdns.org/4gtv-live106/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="大愛電視" tvg-logo="https://epg.112114.xyz/logo/大愛電視.png" epg-url="https://epg.112114.xyz/pp.xml",大愛電視
+http://4gtv.livednow.dpdns.org/4gtv-live007/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" epg-url="https://epg.112114.xyz/pp.xml",中天亞洲台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞台
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://4gtv.livednow.dpdns.org/4gtv-4gtv040/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視菁采台" tvg-logo="https://epg.112114.xyz/logo/中視菁采台.png" epg-url="https://epg.112114.xyz/pp.xml",中視菁采台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv064/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視菁采台" tvg-logo="https://epg.112114.xyz/logo/中視菁采台.png" epg-url="https://epg.112114.xyz/pp.xml",中視菁采台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv064/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中視新聞台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv074/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中視新聞台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中視新聞台
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv074/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視經典台" tvg-logo="https://epg.112114.xyz/logo/中視經典台.png" epg-url="https://epg.112114.xyz/pp.xml",中視經典台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv080/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="中視經典台" tvg-logo="https://epg.112114.xyz/logo/中視經典台.png" epg-url="https://epg.112114.xyz/pp.xml",中視經典台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv080/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",公視戲劇
+http://4gtv.livednow.dpdns.org/4gtv-4gtv042/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",公視戲劇
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv042/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="半島國際新聞台" tvg-logo="https://epg.112114.xyz/logo/半島國際新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",半島國際新聞台
+http://4gtv.livednow.dpdns.org/li-litv-ftv10/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="半島國際新聞台" tvg-logo="https://epg.112114.xyz/logo/半島國際新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",半島國際新聞台
+http://4gtv.livednow.dpdns.org/litv-ftv10/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台視HD" tvg-logo="https://epg.112114.xyz/logo/台視HD.png" epg-url="https://epg.112114.xyz/pp.xml",台視HD
+http://4gtv.livednow.dpdns.org/4gtv-4gtv066/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台視HD" tvg-logo="https://epg.112114.xyz/logo/台視HD.png" epg-url="https://epg.112114.xyz/pp.xml",台視HD
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台視財經台" tvg-logo="https://epg.112114.xyz/logo/台視財經台.png" epg-url="https://epg.112114.xyz/pp.xml",台視財經台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",台視新聞台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv051/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",台視新聞台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台灣戲劇台" tvg-logo="https://epg.112114.xyz/logo/台灣戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",台灣戲劇台
+http://4gtv.livednow.dpdns.org/li-litv-longturn22/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台灣戲劇台" tvg-logo="https://epg.112114.xyz/logo/台灣戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",台灣戲劇台
+http://4gtv.livednow.dpdns.org/litv-longturn22/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視HD
+http://4gtv.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" epg-url="https://epg.112114.xyz/pp.xml",民視台灣台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" epg-url="https://epg.112114.xyz/pp.xml",民視台灣台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv001/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視旅遊" tvg-logo="https://epg.112114.xyz/logo/民視旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",民視旅遊
+http://4gtv.livednow.dpdns.org/li-litv-ftv07/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視旅遊" tvg-logo="https://epg.112114.xyz/logo/民視旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",民視旅遊
+http://4gtv.livednow.dpdns.org/litv-ftv07/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" epg-url="https://epg.112114.xyz/pp.xml",民視第一台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv003/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" epg-url="https://epg.112114.xyz/pp.xml",民視第一台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv003/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞
+http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞
+http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視綜藝" tvg-logo="https://epg.112114.xyz/logo/民視綜藝.png" epg-url="https://epg.112114.xyz/pp.xml",民視綜藝
+http://4gtv.livednow.dpdns.org/4gtv-4gtv004/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視綜藝" tvg-logo="https://epg.112114.xyz/logo/民視綜藝.png" epg-url="https://epg.112114.xyz/pp.xml",民視綜藝
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv004/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視影劇" tvg-logo="https://epg.112114.xyz/logo/民視影劇.png" epg-url="https://epg.112114.xyz/pp.xml",民視影劇
+http://4gtv.livednow.dpdns.org/li-litv-ftv09/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="民視影劇" tvg-logo="https://epg.112114.xyz/logo/民視影劇.png" epg-url="https://epg.112114.xyz/pp.xml",民視影劇
+http://4gtv.livednow.dpdns.org/litv-ftv09/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" epg-url="https://epg.112114.xyz/pp.xml",好消息
+http://4gtv.livednow.dpdns.org/li-litv-ftv16/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" epg-url="https://epg.112114.xyz/pp.xml",好消息
+http://4gtv.livednow.dpdns.org/litv-ftv16/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" epg-url="https://epg.112114.xyz/pp.xml",好消息
+http://4gtv.livednow.dpdns.org/of-litv-ftv16/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="好消息2台" tvg-logo="https://epg.112114.xyz/logo/好消息2台.png" epg-url="https://epg.112114.xyz/pp.xml",好消息2台
+http://4gtv.livednow.dpdns.org/li-litv-ftv17/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="好消息2台" tvg-logo="https://epg.112114.xyz/logo/好消息2台.png" epg-url="https://epg.112114.xyz/pp.xml",好消息2台
+http://4gtv.livednow.dpdns.org/litv-ftv17/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="好消息2台" tvg-logo="https://epg.112114.xyz/logo/好消息2台.png" epg-url="https://epg.112114.xyz/pp.xml",好消息2台
+http://4gtv.livednow.dpdns.org/of-litv-ftv17/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="車迷 TV" tvg-logo="https://epg.112114.xyz/logo/車迷 TV.png" epg-url="https://epg.112114.xyz/pp.xml",車迷 TV
+http://4gtv.livednow.dpdns.org/4gtv-live201/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://4gtv.livednow.dpdns.org/4gtv-4gtv076/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv076/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv076/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="幸福空間居家台" tvg-logo="https://epg.112114.xyz/logo/幸福空間居家台.png" epg-url="https://epg.112114.xyz/pp.xml",幸福空間居家台
+http://4gtv.livednow.dpdns.org/4gtv-live206/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" epg-url="https://epg.112114.xyz/pp.xml",東森財經新聞
+http://4gtv.livednow.dpdns.org/4gtv-4gtv153/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" epg-url="https://epg.112114.xyz/pp.xml",東森財經新聞
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞
+http://4gtv.livednow.dpdns.org/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物一台" tvg-logo="https://epg.112114.xyz/logo/東森購物一台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物一台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv102/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物一台" tvg-logo="https://epg.112114.xyz/logo/東森購物一台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物一台
+http://4gtv.livednow.dpdns.org/4gtv-live047/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物一台" tvg-logo="https://epg.112114.xyz/logo/東森購物一台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物一台
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv102/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物二台" tvg-logo="https://epg.112114.xyz/logo/東森購物二台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物二台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv103/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物二台" tvg-logo="https://epg.112114.xyz/logo/東森購物二台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物二台
+http://4gtv.livednow.dpdns.org/4gtv-live046/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物二台" tvg-logo="https://epg.112114.xyz/logo/東森購物二台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物二台
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv103/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物三台" tvg-logo="https://epg.112114.xyz/logo/東森購物三台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物三台
+http://4gtv.livednow.dpdns.org/4gtv-live048/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="東森購物四台" tvg-logo="https://epg.112114.xyz/logo/東森購物四台.png" epg-url="https://epg.112114.xyz/pp.xml",東森購物四台
+http://4gtv.livednow.dpdns.org/4gtv-live049/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="采昌影劇" tvg-logo="https://epg.112114.xyz/logo/采昌影劇.png" epg-url="https://epg.112114.xyz/pp.xml",采昌影劇
+http://4gtv.livednow.dpdns.org/4gtv-4gtv049/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="采昌影劇" tvg-logo="https://epg.112114.xyz/logo/采昌影劇.png" epg-url="https://epg.112114.xyz/pp.xml",采昌影劇
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv049/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="金光布袋戲" tvg-logo="https://epg.112114.xyz/logo/金光布袋戲.png" epg-url="https://epg.112114.xyz/pp.xml",金光布袋戲
+http://4gtv.livednow.dpdns.org/4gtv-live144/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="非凡商業" tvg-logo="https://epg.112114.xyz/logo/非凡商業.png" epg-url="https://epg.112114.xyz/pp.xml",非凡商業
+http://4gtv.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="非凡新聞" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" epg-url="https://epg.112114.xyz/pp.xml",非凡新聞
+http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="客家電視" tvg-logo="https://epg.112114.xyz/logo/客家電視.png" epg-url="https://epg.112114.xyz/pp.xml",客家電視
+http://4gtv.livednow.dpdns.org/4gtv-4gtv043/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="客家電視" tvg-logo="https://epg.112114.xyz/logo/客家電視.png" epg-url="https://epg.112114.xyz/pp.xml",客家電視
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv043/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="原住民族電視台" tvg-logo="https://epg.112114.xyz/logo/原住民族電視台.png" epg-url="https://epg.112114.xyz/pp.xml",原住民族電視台
+http://4gtv.livednow.dpdns.org/4gtv-live014/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="時尚運動X" tvg-logo="https://epg.112114.xyz/logo/時尚運動X.png" epg-url="https://epg.112114.xyz/pp.xml",時尚運動X
+http://4gtv.livednow.dpdns.org/4gtv-4gtv014/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="時尚運動X" tvg-logo="https://epg.112114.xyz/logo/時尚運動X.png" epg-url="https://epg.112114.xyz/pp.xml",時尚運動X
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv014/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="國會頻道1" tvg-logo="https://epg.112114.xyz/logo/國會頻道1.png" epg-url="https://epg.112114.xyz/pp.xml",國會頻道1
+http://4gtv.livednow.dpdns.org/4gtv-4gtv084/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="國會頻道1" tvg-logo="https://epg.112114.xyz/logo/國會頻道1.png" epg-url="https://epg.112114.xyz/pp.xml",國會頻道1
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv084/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="國會頻道1" tvg-logo="https://epg.112114.xyz/logo/國會頻道1.png" epg-url="https://epg.112114.xyz/pp.xml",國會頻道1
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv084/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="國會頻道2" tvg-logo="https://epg.112114.xyz/logo/國會頻道2.png" epg-url="https://epg.112114.xyz/pp.xml",國會頻道2
+http://4gtv.livednow.dpdns.org/4gtv-4gtv085/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="國會頻道2" tvg-logo="https://epg.112114.xyz/logo/國會頻道2.png" epg-url="https://epg.112114.xyz/pp.xml",國會頻道2
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv085/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="國會頻道2" tvg-logo="https://epg.112114.xyz/logo/國會頻道2.png" epg-url="https://epg.112114.xyz/pp.xml",國會頻道2
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv085/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="第1商業台" tvg-logo="https://epg.112114.xyz/logo/第1商業台.png" epg-url="https://epg.112114.xyz/pp.xml",第1商業台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv104/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="第1商業台" tvg-logo="https://epg.112114.xyz/logo/第1商業台.png" epg-url="https://epg.112114.xyz/pp.xml",第1商業台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv104/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯高球I" tvg-logo="https://epg.112114.xyz/logo/博斯高球I.png" epg-url="https://epg.112114.xyz/pp.xml",博斯高球I
+http://4gtv.livednow.dpdns.org/litv-longturn05/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯高球II" tvg-logo="https://epg.112114.xyz/logo/博斯高球II.png" epg-url="https://epg.112114.xyz/pp.xml",博斯高球II
+http://4gtv.livednow.dpdns.org/litv-longturn06/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯無限I" tvg-logo="https://epg.112114.xyz/logo/博斯無限I.png" epg-url="https://epg.112114.xyz/pp.xml",博斯無限I
+http://4gtv.livednow.dpdns.org/litv-longturn10/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯無限II" tvg-logo="https://epg.112114.xyz/logo/博斯無限II.png" epg-url="https://epg.112114.xyz/pp.xml",博斯無限II
+http://4gtv.livednow.dpdns.org/litv-longturn13/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯運動I" tvg-logo="https://epg.112114.xyz/logo/博斯運動I.png" epg-url="https://epg.112114.xyz/pp.xml",博斯運動I
+http://4gtv.livednow.dpdns.org/litv-longturn07/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯運動II" tvg-logo="https://epg.112114.xyz/logo/博斯運動II.png" epg-url="https://epg.112114.xyz/pp.xml",博斯運動II
+http://4gtv.livednow.dpdns.org/litv-longturn08/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" epg-url="https://epg.112114.xyz/pp.xml",博斯網球
+http://4gtv.livednow.dpdns.org/litv-longturn09/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="博斯魅力" tvg-logo="https://epg.112114.xyz/logo/博斯魅力.png" epg-url="https://epg.112114.xyz/pp.xml",博斯魅力
+http://4gtv.livednow.dpdns.org/litv-longturn04/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="智林體育" tvg-logo="https://epg.112114.xyz/logo/智林體育.png" epg-url="https://epg.112114.xyz/pp.xml",智林體育
+http://4gtv.livednow.dpdns.org/4gtv-4gtv101/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="智林體育" tvg-logo="https://epg.112114.xyz/logo/智林體育.png" epg-url="https://epg.112114.xyz/pp.xml",智林體育
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv101/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+http://4gtv.livednow.dpdns.org/4gtv-4gtv041/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/華視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",華視新聞台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv052/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/華視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",華視新聞台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/華視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",華視新聞台
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv052/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://epg.112114.xyz/logo/視納華仁紀實頻道.png" epg-url="https://epg.112114.xyz/pp.xml",視納華仁紀實頻道
+http://4gtv.livednow.dpdns.org/4gtv-4gtv013/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://epg.112114.xyz/logo/視納華仁紀實頻道.png" epg-url="https://epg.112114.xyz/pp.xml",視納華仁紀實頻道
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv013/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="新唐人亞太台" tvg-logo="https://epg.112114.xyz/logo/新唐人亞太台.png" epg-url="https://epg.112114.xyz/pp.xml",新唐人亞太台
+http://4gtv.livednow.dpdns.org/4gtv-live050/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="經典卡通台" tvg-logo="https://epg.112114.xyz/logo/經典卡通台.png" epg-url="https://epg.112114.xyz/pp.xml",經典卡通台
+http://4gtv.livednow.dpdns.org/4gtv-live022/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="經典電影台" tvg-logo="https://epg.112114.xyz/logo/經典電影台.png" epg-url="https://epg.112114.xyz/pp.xml",經典電影台
+http://4gtv.livednow.dpdns.org/4gtv-live021/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="達文西" tvg-logo="https://epg.112114.xyz/logo/達文西.png" epg-url="https://epg.112114.xyz/pp.xml",達文西
+http://4gtv.livednow.dpdns.org/4gtv-4gtv018/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="達文西" tvg-logo="https://epg.112114.xyz/logo/達文西.png" epg-url="https://epg.112114.xyz/pp.xml",達文西
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv018/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="電影原聲台 CMusic" tvg-logo="https://epg.112114.xyz/logo/電影原聲台 CMusic.png" epg-url="https://epg.112114.xyz/pp.xml",電影原聲台 CMusic
+http://4gtv.livednow.dpdns.org/4gtv-live031/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天日本" tvg-logo="https://epg.112114.xyz/logo/靖天日本.png" epg-url="https://epg.112114.xyz/pp.xml",靖天日本
+http://4gtv.livednow.dpdns.org/4gtv-4gtv047/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天日本" tvg-logo="https://epg.112114.xyz/logo/靖天日本.png" epg-url="https://epg.112114.xyz/pp.xml",靖天日本
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天卡通" tvg-logo="https://epg.112114.xyz/logo/靖天卡通.png" epg-url="https://epg.112114.xyz/pp.xml",靖天卡通
+http://4gtv.livednow.dpdns.org/4gtv-4gtv044/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天卡通" tvg-logo="https://epg.112114.xyz/logo/靖天卡通.png" epg-url="https://epg.112114.xyz/pp.xml",靖天卡通
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv044/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天育樂" tvg-logo="https://epg.112114.xyz/logo/靖天育樂.png" epg-url="https://epg.112114.xyz/pp.xml",靖天育樂
+http://4gtv.livednow.dpdns.org/4gtv-4gtv062/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天育樂" tvg-logo="https://epg.112114.xyz/logo/靖天育樂.png" epg-url="https://epg.112114.xyz/pp.xml",靖天育樂
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv062/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天映畫" tvg-logo="https://epg.112114.xyz/logo/靖天映畫.png" epg-url="https://epg.112114.xyz/pp.xml",靖天映畫
+http://4gtv.livednow.dpdns.org/4gtv-4gtv055/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天映畫" tvg-logo="https://epg.112114.xyz/logo/靖天映畫.png" epg-url="https://epg.112114.xyz/pp.xml",靖天映畫
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv055/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天國際" tvg-logo="https://epg.112114.xyz/logo/靖天國際.png" epg-url="https://epg.112114.xyz/pp.xml",靖天國際
+http://4gtv.livednow.dpdns.org/4gtv-4gtv063/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天國際" tvg-logo="https://epg.112114.xyz/logo/靖天國際.png" epg-url="https://epg.112114.xyz/pp.xml",靖天國際
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv063/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天資訊" tvg-logo="https://epg.112114.xyz/logo/靖天資訊.png" epg-url="https://epg.112114.xyz/pp.xml",靖天資訊
+http://4gtv.livednow.dpdns.org/4gtv-4gtv065/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天資訊" tvg-logo="https://epg.112114.xyz/logo/靖天資訊.png" epg-url="https://epg.112114.xyz/pp.xml",靖天資訊
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv065/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天電影" tvg-logo="https://epg.112114.xyz/logo/靖天電影.png" epg-url="https://epg.112114.xyz/pp.xml",靖天電影
+http://4gtv.livednow.dpdns.org/4gtv-4gtv061/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天電影" tvg-logo="https://epg.112114.xyz/logo/靖天電影.png" epg-url="https://epg.112114.xyz/pp.xml",靖天電影
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天綜合" tvg-logo="https://epg.112114.xyz/logo/靖天綜合.png" epg-url="https://epg.112114.xyz/pp.xml",靖天綜合
+http://4gtv.livednow.dpdns.org/4gtv-4gtv046/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天綜合" tvg-logo="https://epg.112114.xyz/logo/靖天綜合.png" epg-url="https://epg.112114.xyz/pp.xml",靖天綜合
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv046/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天戲劇" tvg-logo="https://epg.112114.xyz/logo/靖天戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",靖天戲劇
+http://4gtv.livednow.dpdns.org/4gtv-4gtv058/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天戲劇" tvg-logo="https://epg.112114.xyz/logo/靖天戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",靖天戲劇
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv058/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天歡樂" tvg-logo="https://epg.112114.xyz/logo/靖天歡樂.png" epg-url="https://epg.112114.xyz/pp.xml",靖天歡樂
+http://4gtv.livednow.dpdns.org/4gtv-4gtv054/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖天歡樂" tvg-logo="https://epg.112114.xyz/logo/靖天歡樂.png" epg-url="https://epg.112114.xyz/pp.xml",靖天歡樂
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv054/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖洋卡通" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通.png" epg-url="https://epg.112114.xyz/pp.xml",靖洋卡通
+http://4gtv.livednow.dpdns.org/4gtv-4gtv057/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖洋卡通" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通.png" epg-url="https://epg.112114.xyz/pp.xml",靖洋卡通
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv057/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖洋戲劇" tvg-logo="https://epg.112114.xyz/logo/靖洋戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",靖洋戲劇
+http://4gtv.livednow.dpdns.org/4gtv-4gtv045/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="靖洋戲劇" tvg-logo="https://epg.112114.xyz/logo/靖洋戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",靖洋戲劇
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv045/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="滾動力 Rollor" tvg-logo="https://epg.112114.xyz/logo/滾動力 Rollor.png" epg-url="https://epg.112114.xyz/pp.xml",滾動力 Rollor
+http://4gtv.livednow.dpdns.org/4gtv-live012/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="精選動漫台" tvg-logo="https://epg.112114.xyz/logo/精選動漫台.png" epg-url="https://epg.112114.xyz/pp.xml",精選動漫台
+http://4gtv.livednow.dpdns.org/4gtv-live024/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="影迷數位紀實台" tvg-logo="https://epg.112114.xyz/logo/影迷數位紀實台.png" epg-url="https://epg.112114.xyz/pp.xml",影迷數位紀實台
+http://4gtv.livednow.dpdns.org/li-litv-ftv15/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="影迷數位紀實台" tvg-logo="https://epg.112114.xyz/logo/影迷數位紀實台.png" epg-url="https://epg.112114.xyz/pp.xml",影迷數位紀實台
+http://4gtv.livednow.dpdns.org/litv-ftv15/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="影迷數位電影台" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影台.png" epg-url="https://epg.112114.xyz/pp.xml",影迷數位電影台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv011/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="影迷數位電影台" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影台.png" epg-url="https://epg.112114.xyz/pp.xml",影迷數位電影台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="歐洲光影" tvg-logo="https://epg.112114.xyz/logo/歐洲光影.png" epg-url="https://epg.112114.xyz/pp.xml",歐洲光影
+http://4gtv.livednow.dpdns.org/4gtv-live157/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="豬哥亮歌廳秀" tvg-logo="https://epg.112114.xyz/logo/豬哥亮歌廳秀.png" epg-url="https://epg.112114.xyz/pp.xml",豬哥亮歌廳秀
+http://4gtv.livednow.dpdns.org/4gtv-4gtv006/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="豬哥亮歌廳秀" tvg-logo="https://epg.112114.xyz/logo/豬哥亮歌廳秀.png" epg-url="https://epg.112114.xyz/pp.xml",豬哥亮歌廳秀
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv006/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇財經" tvg-logo="https://epg.112114.xyz/logo/寰宇財經.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇財經
+http://4gtv.livednow.dpdns.org/4gtv-4gtv158/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇財經" tvg-logo="https://epg.112114.xyz/logo/寰宇財經.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇財經
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇財經" tvg-logo="https://epg.112114.xyz/logo/寰宇財經.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇財經
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
+http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
+http://4gtv.livednow.dpdns.org/litv-longturn14/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
+http://4gtv.livednow.dpdns.org/of-litv-longturn14/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇新聞台灣台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台灣台.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞台灣台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv156/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇新聞台灣台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台灣台.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞台灣台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="寰宇新聞台灣台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台灣台.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞台灣台
+http://4gtv.livednow.dpdns.org/of-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="歷史頻道" tvg-logo="https://epg.112114.xyz/logo/歷史頻道.png" epg-url="https://epg.112114.xyz/pp.xml",歷史頻道
+http://4gtv.livednow.dpdns.org/4gtv-live026/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華日韓" tvg-logo="https://epg.112114.xyz/logo/龍華日韓.png" epg-url="https://epg.112114.xyz/pp.xml",龍華日韓
+http://4gtv.livednow.dpdns.org/li-litv-longturn11/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華日韓" tvg-logo="https://epg.112114.xyz/logo/龍華日韓.png" epg-url="https://epg.112114.xyz/pp.xml",龍華日韓
+http://4gtv.livednow.dpdns.org/litv-longturn11/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華卡通" tvg-logo="https://epg.112114.xyz/logo/龍華卡通.png" epg-url="https://epg.112114.xyz/pp.xml",龍華卡通
+http://4gtv.livednow.dpdns.org/li-litv-longturn01/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華卡通" tvg-logo="https://epg.112114.xyz/logo/龍華卡通.png" epg-url="https://epg.112114.xyz/pp.xml",龍華卡通
+http://4gtv.livednow.dpdns.org/litv-longturn01/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" epg-url="https://epg.112114.xyz/pp.xml",龍華洋片
+http://4gtv.livednow.dpdns.org/li-litv-longturn02/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華洋片" tvg-logo="https://epg.112114.xyz/logo/龍華洋片.png" epg-url="https://epg.112114.xyz/pp.xml",龍華洋片
+http://4gtv.livednow.dpdns.org/litv-longturn02/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" epg-url="https://epg.112114.xyz/pp.xml",龍華偶像
+http://4gtv.livednow.dpdns.org/li-litv-longturn12/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" epg-url="https://epg.112114.xyz/pp.xml",龍華偶像
+http://4gtv.livednow.dpdns.org/litv-longturn12/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典" tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" epg-url="https://epg.112114.xyz/pp.xml",龍華經典
+http://4gtv.livednow.dpdns.org/li-litv-longturn21/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典" tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" epg-url="https://epg.112114.xyz/pp.xml",龍華經典
+http://4gtv.livednow.dpdns.org/litv-longturn21/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影
+http://4gtv.livednow.dpdns.org/li-litv-longturn03/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影
+http://4gtv.livednow.dpdns.org/litv-longturn03/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華戲劇
+http://4gtv.livednow.dpdns.org/li-litv-longturn18/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華戲劇
+http://4gtv.livednow.dpdns.org/litv-longturn18/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="戲劇免費看1台" tvg-logo="https://epg.112114.xyz/logo/戲劇免費看1台.png" epg-url="https://epg.112114.xyz/pp.xml",戲劇免費看1台
+http://4gtv.livednow.dpdns.org/4gtv-live010/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="韓國娛樂台" tvg-logo="https://epg.112114.xyz/logo/韓國娛樂台.png" epg-url="https://epg.112114.xyz/pp.xml",韓國娛樂台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv016/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="韓國娛樂台" tvg-logo="https://epg.112114.xyz/logo/韓國娛樂台.png" epg-url="https://epg.112114.xyz/pp.xml",韓國娛樂台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv016/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="鏡電視新聞台" tvg-logo="https://epg.112114.xyz/logo/鏡電視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",鏡電視新聞台
+http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="鏡電視新聞台" tvg-logo="https://epg.112114.xyz/logo/鏡電視新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",鏡電視新聞台
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="霹靂布袋戲" tvg-logo="https://epg.112114.xyz/logo/霹靂布袋戲.png" epg-url="https://epg.112114.xyz/pp.xml",霹靂布袋戲
+http://4gtv.livednow.dpdns.org/4gtv-live145/index.m3u8
+
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
 #EXTINF:-1 group-title="其他頻道" tvg-logo="",年代新聞
