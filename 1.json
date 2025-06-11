@@ -1,7 +1,7 @@
 {
   "spider": "./mi/custom_spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "./ys/logo2.gif",
+  "logo": "./logo2.gif",
   "warningText": "❤盒子之家❤",
   "sites": [
     {
@@ -100,53 +100,53 @@
       "jar": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
     },
     {
-      "key": "沐辰荐片",
-      "name": "沐辰荐片",
+      "key": "荐片",
+      "name": "荐片",
       "type": 3,
-      "api": "https://json.doube.eu.org/python/py_jianpian.py",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0
+      "changeable": 1,
+      "api": "csp_Jianpian",
+      "playerType": 2,
+      "filterable": 1
     },
     {
-      "key": "huarenoktv",
-      "name": "华人直播️",
-      "type": 1,
-      "api": "https://huaren.live/api.php/tvbox",
-      "playUrl": "json:https://parse.okhuaren.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": "test"
-      }
-    },
-    {
-      "key": "嗷呜小苹果",
-      "name": "嗷呜小苹果",
+      "key": "独播库",
+      "name": "独播库",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/小苹果APP.py",
+      "api": "csp_WexdubokuGuard",
+      "jar": "https://raw.githubusercontent.com/cyalias/mytvs-github/387dcc33d090319ec8ef3b70f475a8a0fe0ae070/tvboxqq/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 1
+    },
+    {
+      "key": "嗷呜剧爸爸",
+      "name": "543",
+      "type": 3,
+      "api": "https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_jubaba.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
     }
   ],
- "lives": [
+  "lives": [
     {
       "name": "543",
-      "url":"https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
+      "url": "http://tv54321.ddns.net/4gtv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "斯玛特全球直播",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-      "ext": {}
+      "name": "142",
+      "url": "http://tv54321.ddns.net/142.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播有大人台",
+      "spider": "./mi/custom_spider.jar",
+      "api": "csp_MQiTV",
+      "ext": "https://59.125.210.231:4433"
     }
   ],
   "doh": [
