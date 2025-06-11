@@ -132,22 +132,16 @@
   "lives": [
     {
       "name": "543",
-      "url": "http://tv54321.ddns.net/4gtv.m3u",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "142",
-      "url": "http://tv54321.ddns.net/142.txt",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播有大人台",
-      "spider": "./mi/custom_spider.jar",
-      "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433"
-    }
+    }  
   ],
   "doh": [
     {
