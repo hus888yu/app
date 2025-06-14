@@ -930,87 +930,22 @@
   ],
   "lives": [
     {
-      "name": "综合",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt",
+      "name": "543",
+      "url":"https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
+      "pass": false,
+      "boot": false,
       "playerType": 2,
-      "timeout": 10
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+   {
+      "name": "142",
+      "url":"https://raw.githubusercontent.com/hus888yu/app/main/543.php",
+      "pass": false,
+      "boot": false,
       "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "国内Live",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt",
-      "playerType": 2,
-      "timeout": 10,
-      "catchup": {
-        "type": "append",
-        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
-    {
-      "name": "国内移动",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt",
-      "playerType": 2,
-      "timeout": 10,
-      "catchup": {
-        "type": "append",
-        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
-    {
-      "name": "电视Live",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 10
-    },
-    {
-      "name": "江苏移动",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "一起看",
-      "type": 3,
-      "api": "csp_HuyaGuard",
-      "url": "yqk",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "肥羊B站直播",
-      "type": 3,
-      "api": "csp_FeiyangGuard",
-      "url": "bililive.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "肥羊斗鱼一起看",
-      "type": 3,
-      "api": "csp_FeiyangGuard",
-      "url": "douyuyqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "肥羊YY轮播",
-      "type": 3,
-      "api": "csp_FeiyangGuard",
-      "url": "yylunbo.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "ijk": [
