@@ -95,7 +95,7 @@
       "timeout": 60
     
          }
-    }
+    
   ],
   "lives": [
     {
@@ -322,7 +322,7 @@
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/logo/{name}.png"
     },
-       },
+       
     {
       "group": "redirect",
       "channels": [
