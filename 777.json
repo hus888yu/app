@@ -1,3 +1,6 @@
+#勿抄袭
+{"spider":"https://gitee.com/sd-live/zb/raw/master/ja.jar","sites":[
+#切片  
 
 {"spider":"https://gitee.com/sd-live/zb/raw/master/ja.jar","sites":[ 
 {"key":"暴风资源","name":"暴风资源(🔥)","type":1,"api":"http://bf.xoxowin86cisyap.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","预告片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","重生民国","穿越年代","现代言情","反转爽文","女恋总裁","闪婚离婚","都市脑洞","古装仙侠","福利","足球","篮球","斯诺克"]},  
@@ -31,7 +34,7 @@
 {"key":"金鹰影视","name":"金鹰影视(🔥)","type":0,"api":"https://jyzyapi.com/provide/vod/from/jym3u8/at/xml","searchable":1,"quickSearch":1,"categories":["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","动画片","伦理片","记录片","欧美剧","香港剧","韩剧","日剧","马泰剧","内地剧","台湾剧","中国动漫","日本动漫","欧美动漫","综艺","短剧","电影","电视剧","体育赛事"]},
 {"key":"非凡影视","name":"非凡影视(🔥)","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8","searchable":1,"changeable":1,"categories":["科幻片","动作片","恐怖片","喜剧片","爱情片","剧情片","战争片","伦理片","记录片","动漫片","国产动漫","日韩动漫","海外动漫","国产剧","韩国剧","日本剧","香港剧","欧美剧","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺"]},
 {"key":"快看资源","name":"快看资源(🔥)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1}, 
-
+#福利
 {"key":"樂吧资源","name":"樂吧资源(🔞)","type":1,"api":"http://lbapiby.com/api.php/provide/vod","playerUrl":""},
 {"key":"番号资源","name":"番号资源(🔞)","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml","playerUrl":""},
 {"key":"大地资源","name":"大地资源(🔞)","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","playerUrl":""},
@@ -49,7 +52,9 @@
 {"key":"百万资源","name":"百万资源(🔞)","type":1,"api":"https://api.bwzym3u8.com/api.php/provide/vod","playerUrl":""},
 {"key":"老鸭资源","name":"老鸭资源(🔞)","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","playerUrl":""},
 {"key":"金坤资源","name":"金坤资源(🔞)","type":0,"api":"https://www.jkunzyapi.com/api.php/provide/vod/at/xml","playerUrl":""},
+#直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vc2QtbGl2ZS96Yi9yYXcvbWFzdGVyL215RFNfYQ=="]}]}],
+ #解析
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
 {"name":"并发","type":2,"url":"Parallel"},
@@ -58,7 +63,9 @@
 {"name":"夏雨","type":1,"url":"https://jx.77flv.cc/?url="},
 {"name":"秋霜","type":1,"url":"https://jx.xymp4.cc/?url="},
 {"name":"冬雪","type":1,"url":"https://jx.xmflv.com/?url="}],
-"flags":["youku","qq","iqiyi","imgo","m1905","letv","sohu","pptv","dbm3u8","mgtv","wasu","bilibili","renrenmi","xigua","ltnb","rx","CL4K","xfyun"],  
+"flags":["yo
+uku","qq","iqiyi","imgo","m1905","letv","sohu","pptv","dbm3u8","mgtv","wasu","bilibili","renrenmi","xigua","ltnb","rx","CL4K","xfyun"],  
+#解码  
 "ijk":[{"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
